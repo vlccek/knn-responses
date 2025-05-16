@@ -1,0 +1,114 @@
+
+[
+  {
+    "title": "ERSTE ABTHEILUNG.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ARCHITEKTUR",
+        "chapter_number": "A",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "WERKE DER SCULPTUR",
+        "chapter_number": "B",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "MALEREI UND VERVIELFÄLTIGENDE KÜNSTE",
+        "chapter_number": "C",
+        "page_number": "17",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "ZWEITE ABTHEILUNG.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "TEXTILE ARBEITEN",
+        "chapter_number": "A",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "HOLZARBEITEN",
+        "chapter_number": "B",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "KUNSTGEWERBLICHE GEGENSTÄNDE AUS THON UND GLAS",
+        "chapter_number": "C",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "METALLARBEITEN UND EMAIL",
+        "chapter_number": "D",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "BUCHEINBÄNDE UND LEDERARBEITEN",
+        "chapter_number": "E",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "GEGENSTÄNDE AUS ELFENBEIN, HORN, ALABASTER, STEIN, SCHILDPATT UND MOSAIK",
+        "chapter_number": "F",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "ARBEITEN VERSCHIEDENER ART.",
+        "chapter_number": "G",
+        "page_number": "74",
+        "children": [
+          {
+            "title": "Wehr und Waffen",
+            "chapter_number": "",
+            "page_number": "74",
+            "children": []
+          },
+          {
+            "title": "Uhren, Glocken, astronomische Instrumente",
+            "chapter_number": "",
+            "page_number": "79",
+            "children": []
+          },
+          {
+            "title": "Essgeräthe",
+            "chapter_number": "",
+            "page_number": "82",
+            "children": []
+          },
+          {
+            "title": "Fächer, Dosen, Pfeifen",
+            "chapter_number": "",
+            "page_number": "83",
+            "children": []
+          },
+          {
+            "title": "Klosterarbeiten",
+            "chapter_number": "",
+            "page_number": "86",
+            "children": []
+          },
+          {
+            "title": "Musikinstrumente und Verschiedenes",
+            "chapter_number": "",
+            "page_number": "87",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

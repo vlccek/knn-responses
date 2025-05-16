@@ -1,0 +1,121 @@
+
+[
+  {
+    "title": "Úvodem (Dr. Ant. Hajn)",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Program strany státoprávně pokrokové",
+    "chapter_number": "II",
+    "page_number": "16",
+    "children": [
+      {
+        "title": "Všeobecné zásady (Dr. Ant. Hajn)",
+        "chapter_number": "A",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Zvláštní část",
+        "chapter_number": "B",
+        "page_number": "20",
+        "children": [
+          {
+            "title": "Samostatnost národa (Týž)",
+            "chapter_number": "I",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "Politické svobody (Týž)",
+            "chapter_number": "II",
+            "page_number": "24",
+            "children": []
+          },
+          {
+            "title": "Věci vojenské (Týž)",
+            "chapter_number": "III",
+            "page_number": "25",
+            "children": []
+          },
+          {
+            "title": "Věci kulturní (Viktor Dyk)",
+            "chapter_number": "IV",
+            "page_number": "26",
+            "children": []
+          },
+          {
+            "title": "Záležitosti sociálně ekonomické (Dr. A. Sobotka)",
+            "chapter_number": "V",
+            "page_number": "30",
+            "children": [
+              {
+                "title": "Otázka živnostenská",
+                "chapter_number": "",
+                "page_number": "37",
+                "children": []
+              },
+              {
+                "title": "Dělnictvo",
+                "chapter_number": "",
+                "page_number": "41",
+                "children": []
+              },
+              {
+                "title": "Rolnická otázka (Em. Hrubý)",
+                "chapter_number": "",
+                "page_number": "42",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Úřednický program (Jan Havlena)",
+            "chapter_number": "VI",
+            "page_number": "47",
+            "children": [
+              {
+                "title": "Státní úřednictvo",
+                "chapter_number": "A",
+                "page_number": "47",
+                "children": []
+              },
+              {
+                "title": "Úřednictvo samosprávné",
+                "chapter_number": "B",
+                "page_number": "50",
+                "children": []
+              },
+              {
+                "title": "Úřednictvo soukromé",
+                "chapter_number": "C",
+                "page_number": "52",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Organisační řád strany státoprávně pokrokové",
+        "chapter_number": "",
+        "page_number": "54",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Doslov (Viktor Dyk)",
+    "chapter_number": "III",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "Index",
+    "chapter_number": "",
+    "page_number": "62",
+    "children": []
+  }
+]

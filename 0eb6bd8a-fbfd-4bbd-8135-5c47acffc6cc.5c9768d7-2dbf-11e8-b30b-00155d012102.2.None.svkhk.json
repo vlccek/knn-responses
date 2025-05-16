@@ -1,0 +1,105 @@
+
+[
+  {
+    "title": "Úvod.",
+    "chapter_number": "",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "O energii vůbec.",
+    "chapter_number": "I.",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "O energii elektrické",
+    "chapter_number": "II.",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Zdroje elektrické energie",
+    "chapter_number": "III.",
+    "page_number": "17",
+    "children": []
+  },
+  {
+    "title": "O elektrickém proudu",
+    "chapter_number": "IV.",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Stroje pro výrobu elektrické energie",
+    "chapter_number": "V.",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Výkon proudu stejnosměrného a střídavého",
+    "chapter_number": "VI.",
+    "page_number": "35",
+    "children": []
+  },
+  {
+    "title": "Elektromotory",
+    "chapter_number": "VII.",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Všeobecné o konstrukci třífázových elektromotorů",
+    "chapter_number": "VIII.",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Transformátory",
+    "chapter_number": "IX.",
+    "page_number": "59",
+    "children": []
+  },
+  {
+    "title": "Přístroje pro měření elektrické energie",
+    "chapter_number": "X.",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Elektrické přístroje spínací a pojistné",
+    "chapter_number": "XI.",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Elektrické vedení",
+    "chapter_number": "XII.",
+    "page_number": "82",
+    "children": []
+  },
+  {
+    "title": "O elektrickém světle",
+    "chapter_number": "XIII.",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "O elektrickém teple",
+    "chapter_number": "XIV.",
+    "page_number": "97",
+    "children": []
+  },
+  {
+    "title": "Elektrická strašidla",
+    "chapter_number": "XV.",
+    "page_number": "101",
+    "children": []
+  },
+  {
+    "title": "Opatření elektrické energie pro venkovské obce",
+    "chapter_number": "XVI.",
+    "page_number": "106",
+    "children": []
+  }
+]

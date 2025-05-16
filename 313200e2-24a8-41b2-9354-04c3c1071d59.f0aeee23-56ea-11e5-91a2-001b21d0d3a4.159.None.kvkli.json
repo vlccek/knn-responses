@@ -1,0 +1,153 @@
+
+[
+  {
+    "title": "Die philosofische Zeit:",
+    "chapter_number": "3",
+    "page_number": "120",
+    "children": [
+      {
+        "title": "Die Wissenschaft vor Kant",
+        "chapter_number": "a",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "Die Kant'sche Philososte",
+        "chapter_number": "b",
+        "page_number": "126",
+        "children": []
+      },
+      {
+        "title": "Herbarts rationaler Realismus",
+        "chapter_number": "c",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die menschliche Gesellschaft:",
+    "chapter_number": "VIII",
+    "page_number": "129",
+    "children": [
+      {
+        "title": "Begriff und Gliederung der Gesellschaft",
+        "chapter_number": "a",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Die sociale Rechtsordnung und Forderungen des Rechtes",
+        "chapter_number": "b",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Das Naturrecht im Besonderen",
+        "chapter_number": "c",
+        "page_number": "131",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Allgemeines Socialrecht",
+    "chapter_number": "1",
+    "page_number": "132",
+    "children": []
+  },
+  {
+    "title": "Die Stände und ihr besonderes Socialrecht",
+    "chapter_number": "2",
+    "page_number": "133",
+    "children": [
+      {
+        "title": "Im Allgemeinen",
+        "chapter_number": "a",
+        "page_number": "133",
+        "children": []
+      },
+      {
+        "title": "Im Besonderen",
+        "chapter_number": "b",
+        "page_number": "134",
+        "children": [
+          {
+            "title": "Der Adel",
+            "chapter_number": "aa",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Die Mittelstände:",
+            "chapter_number": "bb",
+            "page_number": "136",
+            "children": []
+          },
+          {
+            "title": "Der Arbeiterstand",
+            "chapter_number": "cc",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Die wesentlichen besonderen Gesellschaften:",
+    "chapter_number": "3",
+    "page_number": "138",
+    "children": [
+      {
+        "title": "Die Familie",
+        "chapter_number": "a",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Die Gemeinde",
+        "chapter_number": "b",
+        "page_number": "142",
+        "children": []
+      },
+      {
+        "title": "Der Staat",
+        "chapter_number": "c",
+        "page_number": "146",
+        "children": []
+      },
+      {
+        "title": "Die Kirche und ihr Verhältnis zum Staate",
+        "chapter_number": "d",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Lehre von der Freiheit.",
+    "chapter_number": "C",
+    "page_number": "147",
+    "children": [
+      {
+        "title": "Die Freiheit als Vermögen und Zustand",
+        "chapter_number": "a",
+        "page_number": "148",
+        "children": []
+      },
+      {
+        "title": "Einwendungen gegen die Freiheit",
+        "chapter_number": "b",
+        "page_number": "152",
+        "children": []
+      },
+      {
+        "title": "Das Ideal der Sittlichkeit",
+        "chapter_number": "c",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

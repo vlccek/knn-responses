@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "Prononciation et orthographe:",
+    "chapter_number": "",
+    "page_number": "75",
+    "children": [
+      {
+        "title": "Alphabet",
+        "chapter_number": "I.",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Voyelles",
+        "chapter_number": "II.",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Voyelles nasales",
+        "chapter_number": "III.",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Consonnes",
+        "chapter_number": "IV.",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Signes orthographiques",
+        "chapter_number": "V.",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Signes de ponctuation",
+        "chapter_number": "VI.",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Division des mots",
+        "chapter_number": "VII.",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Liaison des mots",
+        "chapter_number": "VIII.",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Accent tonique",
+        "chapter_number": "IX.",
+        "page_number": "80",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Conjugaison des verbes:",
+    "chapter_number": "",
+    "page_number": "81",
+    "children": [
+      {
+        "title": "Verbes auxiliaires",
+        "chapter_number": "",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Verbes réguliers",
+        "chapter_number": "",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Verbes réfléchis",
+        "chapter_number": "",
+        "page_number": "85",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vocabulaire des leçons.",
+    "chapter_number": "",
+    "page_number": "87",
+    "children": []
+  },
+  {
+    "title": "Vocabulaire alphabétique.",
+    "chapter_number": "",
+    "page_number": "106",
+    "children": []
+  }
+]

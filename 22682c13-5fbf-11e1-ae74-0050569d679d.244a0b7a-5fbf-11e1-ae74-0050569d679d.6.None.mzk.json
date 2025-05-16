@@ -1,0 +1,134 @@
+
+[
+  {
+    "title": "Zákon, daný dne 21. prosince 1867, z. ř. č. 141., jímžto se změňuje základní zákon o zastupitelstvu říšském, daný dne 26. února 1861. §§ 1.-24.",
+    "chapter_number": "1",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Zákon, daný dne 2. dubna 1873, z. ř. č. 41., jenž se týče volení údův poslanecké sněmovny rady říšské. Článek I. až III.",
+    "chapter_number": "2",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Řád volení do rady říšské. §§ 1.-58.",
+    "chapter_number": "",
+    "page_number": "13",
+    "children": [
+      {
+        "title": "O okresích volebních, sborech volicích a místech volebních. §§ 1.-8.",
+        "chapter_number": "I",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "O právě volebním a o volitelnosti. §§ 9.-20.",
+        "chapter_number": "II",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "O rozepisování voleb a o přípravách k nim. §§ 21.-31.",
+        "chapter_number": "III",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "O volení poslanců. §§ 32.-58.",
+        "chapter_number": "IV",
+        "page_number": "32",
+        "children": []
+      },
+       {
+        "title": "Přídavek k řádu volení do rady říšské.",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zřízení zemské a řád volení do sněmu markrabství Moravského.",
+    "chapter_number": "3",
+    "page_number": "47",
+    "children": [
+      {
+        "title": "Zřízení zemské.",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": [
+          {
+            "title": "O zastupitelstvu zemském vůbec. §§ 1.-15.",
+            "chapter_number": "1. kapitola",
+            "page_number": "47",
+            "children": []
+          },
+          {
+            "title": "Jakou moc a působnost má zastupitelstvo zemské. §§ 16.-32.",
+            "chapter_number": "2. kapitola",
+            "page_number": "51",
+            "children": [
+              {
+                "title": "Jakou moc a působnost má sněm zemský. §§ 16.-25.",
+                "chapter_number": "I",
+                "page_number": "51",
+                "children": []
+              },
+              {
+                "title": "Jakou moc a působnost má výbor zemský. §§ 26.-32.",
+                "chapter_number": "II",
+                "page_number": "55",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Jak se mají práce spravovati a vyřizovati. §§ 33.-43.",
+            "chapter_number": "3. kapitola",
+            "page_number": "56",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Řád volení do sněmu. §§ 1.-54.",
+    "chapter_number": "",
+    "page_number": "59",
+    "children": [
+      {
+        "title": "O okresích volicich a o místech, v kterých se voliti má. §§ 1.-9.",
+        "chapter_number": "I",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "O právu volicím a o volitelnosti. §§ 10.-18.",
+        "chapter_number": "II",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "O rozepisování volby a o přípravách k ní. §§ 19.-35.",
+        "chapter_number": "III",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "O volení poslanců do sněmu zemského. §§ 36.-53.",
+        "chapter_number": "IV",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Ustanovení závěrečné. § 54.",
+        "chapter_number": "V",
+        "page_number": "84",
+        "children": []
+      }
+    ]
+  }
+]

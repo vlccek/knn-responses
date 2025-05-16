@@ -1,0 +1,129 @@
+
+[
+  {
+    "title": "Aristides",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Cimon",
+    "chapter_number": "II",
+    "page_number": "2",
+    "children": []
+  },
+  {
+    "title": "Thrasybulus",
+    "chapter_number": "III",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Conon",
+    "chapter_number": "IV",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Iphicrates",
+    "chapter_number": "V",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Chabrias",
+    "chapter_number": "VI",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Timotheus",
+    "chapter_number": "VII",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Phocion",
+    "chapter_number": "VIII",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "Timoleon",
+    "chapter_number": "IX",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Epaminondas",
+    "chapter_number": "X",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Pelopidas",
+    "chapter_number": "XI",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Agesilaus",
+    "chapter_number": "XII",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Miltiades",
+    "chapter_number": "XIII",
+    "page_number": "35",
+    "children": []
+  },
+  {
+    "title": "Themistocles",
+    "chapter_number": "XIV",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Pausanias",
+    "chapter_number": "XV",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Alcibiades",
+    "chapter_number": "XVI",
+    "page_number": "59",
+    "children": []
+  },
+    {
+    "title": "Dion",
+    "chapter_number": "XVII",
+    "page_number": "59",
+    "children": []
+  },
+  {
+    "title": "Datames",
+    "chapter_number": "XVIII",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Eumenes",
+    "chapter_number": "XIX",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Hamilcar",
+    "chapter_number": "XX",
+    "page_number": "81",
+    "children": []
+  },
+  {
+    "title": "Hannibal",
+    "chapter_number": "XXI",
+    "page_number": "83",
+    "children": []
+  }
+]

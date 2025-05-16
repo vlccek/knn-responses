@@ -1,0 +1,234 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "V",
+    "children": []
+  },
+  {
+    "title": "Medicinisch-topographische Skizze von Reichenberg",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Physikalischer Niberblick des Reichenberger Thales.",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Lage und Gebirge",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Klima.",
+    "chapter_number": "",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Gewässer",
+    "chapter_number": "",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "Geognostischer Bau",
+    "chapter_number": "",
+    "page_number": null,
+    "children": []
+  },
+  {
+    "title": "Boden und Culturverhältnisse",
+    "chapter_number": "",
+    "page_number": null,
+    "children": []
+  },
+  {
+    "title": "Die Stadt Reichenberg.",
+    "chapter_number": "",
+    "page_number": "16",
+    "children": [
+      {
+        "title": "Boden.",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Häuser- und Einwohnerzahl",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Eintheilung, Plaze, Gassen, Beleuchtung, Pflaster, Kanäle Reinlichkeit",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Straßen. Eisenbahn",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Wasser",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Brennmaterial.  Feuerung",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Nahrungsmittel",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Bier und Branntwein",
+        "chapter_number": "",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Wohngebäude. Deffentliche Gebäude. Lagerstellen",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Gemeindeordnung",
+        "chapter_number": "",
+        "page_number": "48",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Einwohner.",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Bewegung der Bevölkerung",
+        "chapter_number": "",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Nahrungsquellen",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Religion",
+        "chapter_number": "",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Sprache",
+        "chapter_number": "",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Unterrichtsanstalten",
+        "chapter_number": "",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Charakter und Bildung",
+        "chapter_number": "",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Volksfeste und Vergnügungen",
+        "chapter_number": "",
+        "page_number": "82",
+        "children": []
+      },
+      {
+        "title": "Kleidung",
+        "chapter_number": "",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Vereine",
+        "chapter_number": "",
+        "page_number": "91",
+        "children": []
+      },
+      {
+        "title": "Humanitätsanstalten",
+        "chapter_number": "",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Physische Constitution",
+        "chapter_number": "",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Krankheitszustand und Mortalität der Einwohner",
+        "chapter_number": "",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Medicinalwesen",
+        "chapter_number": "",
+        "page_number": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Bericht über die vom 1. April 1851 bis 31. März 1852 im Stephanshospitale zu Reichenberg behandelten Kranken",
+    "chapter_number": "",
+    "page_number": "97",
+    "children": [
+      {
+        "title": "Witterungsverhältnisse des Jahres 1851-52",
+        "chapter_number": "",
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "Allgemeine Nibersicht",
+        "chapter_number": "",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Uibersicht der vom 1. April 1851 bis 31. März 1852 behandelten Krankheits-formen.",
+        "chapter_number": "",
+        "page_number": "109",
+        "children": []
+      },
+      {
+        "title": "Specielle Fälle",
+        "chapter_number": "",
+        "page_number": "111",
+        "children": []
+      }
+    ]
+  }
+]

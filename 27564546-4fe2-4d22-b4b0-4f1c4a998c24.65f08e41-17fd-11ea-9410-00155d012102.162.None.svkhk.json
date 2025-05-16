@@ -1,0 +1,69 @@
+
+[
+  {
+    "title": "Strom vědění",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Tohu vabohu",
+    "chapter_number": "II",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Slunce",
+    "chapter_number": "III",
+    "page_number": "35",
+    "children": []
+  },
+  {
+    "title": "Planety",
+    "chapter_number": "IV",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Země",
+    "chapter_number": "V",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Různé názory o světě",
+    "chapter_number": "VI",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "Venuše, Mars, Jupiter",
+    "chapter_number": "VII",
+    "page_number": "101",
+    "children": []
+  },
+  {
+    "title": "Měsíc",
+    "chapter_number": "VIII",
+    "page_number": "109",
+    "children": []
+  },
+  {
+    "title": "Komety, povětroně",
+    "chapter_number": "IX",
+    "page_number": "115",
+    "children": []
+  },
+  {
+    "title": "Smrt",
+    "chapter_number": "X",
+    "page_number": "123",
+    "children": []
+  },
+  {
+    "title": "Mravní naučení",
+    "chapter_number": "Xi",
+    "page_number": "147",
+    "children": []
+  }
+]

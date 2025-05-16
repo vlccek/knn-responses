@@ -1,0 +1,232 @@
+
+[
+  {
+    "title": "Vývoj cukrovky za přítomnosti a nepřítomnosti draslíku",
+    "chapter_number": "B",
+    "page_number": "70-84",
+    "children": [
+      {
+        "title": "Řada pokusů",
+        "chapter_number": "1",
+        "page_number": "70-81",
+        "children": []
+      },
+      {
+        "title": "Řada pokusů",
+        "chapter_number": "2",
+        "page_number": "81-84",
+        "children": [
+          {
+            "title": "Metodika pokusů",
+            "chapter_number": "a",
+            "page_number": "81-83",
+            "children": []
+          },
+          {
+            "title": "Výsledky pokusů",
+            "chapter_number": "b",
+            "page_number": "83-84",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ion draselný a biologie cukrovky",
+    "chapter_number": "III",
+    "page_number": "85-90",
+    "children": []
+  },
+  {
+    "title": "Význam ionu draselného při fotosynthese",
+    "chapter_number": "IV",
+    "page_number": "90-136",
+    "children": [
+      {
+        "title": "Část povšechná",
+        "chapter_number": "A",
+        "page_number": "90-101",
+        "children": []
+      },
+      {
+        "title": "Účinek ultrafialových paprsků na vegetaci",
+        "chapter_number": "B",
+        "page_number": "101-105",
+        "children": []
+      },
+      {
+        "title": "Synthesa uhlohydrátů působením ultrafialového světla",
+        "chapter_number": "C",
+        "page_number": "106-136",
+        "children": [
+          {
+            "title": "Část. experimentální",
+            "chapter_number": "a",
+            "page_number": "106-107",
+            "children": []
+          },
+          {
+            "title": "Pokusy",
+            "chapter_number": "b",
+            "page_number": "107-113",
+            "children": []
+          },
+          {
+            "title": "Další pokusy",
+            "chapter_number": "c",
+            "page_number": "113-120",
+            "children": [
+              {
+                "title": "Oxydace formaldehydu v alkalickém prostředí",
+                "chapter_number": "1",
+                "page_number": "113-116",
+                "children": []
+              },
+              {
+                "title": "Oxydace kyseliny mravenčí",
+                "chapter_number": "2",
+                "page_number": "116-117",
+                "children": []
+              },
+              {
+                "title": "Účinek paprsků ultrafialových na kyselý uhličitan draselný za přítomnosti sloučenin železa",
+                "chapter_number": "3",
+                "page_number": "117-119",
+                "children": []
+              },
+              {
+                "title": "Pokus se siřičitanem sodným",
+                "chapter_number": "4",
+                "page_number": "119",
+                "children": []
+              },
+              {
+                "title": "Učinek ultrafialových paprsků na kysličník uhličitý a peroxyd vodíku",
+                "chapter_number": "5",
+                "page_number": "119-120",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Chemická povaha fotochemicky vzniklého uhlohydrátu",
+            "chapter_number": "d",
+            "page_number": "120-124",
+            "children": []
+          },
+          {
+            "title": "Mechanismus fotochemické reakce",
+            "chapter_number": "e",
+            "page_number": "124-128",
+            "children": []
+          },
+          {
+            "title": "Fotochemická assimilace kyseliny uhličité v chlorofylové buňce",
+            "chapter_number": "f",
+            "page_number": "129-135",
+            "children": []
+          },
+          {
+            "title": "Souhrn",
+            "chapter_number": "g",
+            "page_number": "135-136",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Účastní se ion draselný synthesy bilkovin v organismu rostlinném?",
+    "chapter_number": "V",
+    "page_number": "136-169",
+    "children": [
+      {
+        "title": "Hypothesy o účinku draslíku a světla při tvorbě bílkovin",
+        "chapter_number": "A",
+        "page_number": "137-141",
+        "children": []
+      },
+      {
+        "title": "Synthesa bílkovin bez energie světelné u bakterií",
+        "chapter_number": "B",
+        "page_number": "141-161",
+        "children": []
+      },
+      {
+        "title": "Synthesa bílkovin u řepy cukrové",
+        "chapter_number": "C",
+        "page_number": "161-169",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pokusy se synthesou bílkovin za umělého vyživování mladých rostlin",
+    "chapter_number": "VI",
+    "page_number": "169-179",
+    "children": []
+  },
+  {
+    "title": "Úloha ionu draselného při mechanice fysiologického spalování",
+    "chapter_number": "VII",
+    "page_number": "179-186",
+    "children": []
+  },
+  {
+    "title": "Závislost resorbce ionu draselného na přítomnosti ionu sodného v organismu cukrovky",
+    "chapter_number": "VIII",
+    "page_number": "186-216",
+    "children": [
+      {
+        "title": "Antagonismus solí",
+        "chapter_number": "A",
+        "page_number": "186-193",
+        "children": []
+      },
+      {
+        "title": "Antagonistický účinek solí draselných a sodných na cukrovku",
+        "chapter_number": "B",
+        "page_number": "193-215",
+        "children": []
+      },
+      {
+        "title": "Souhrn",
+        "chapter_number": "C",
+        "page_number": "215-216",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Resorbce ionu draselného a sodného řepou cukrovou",
+    "chapter_number": "IX",
+    "page_number": "216-221",
+    "children": []
+  },
+  {
+    "title": "Radioaktivita draslíku",
+    "chapter_number": "X",
+    "page_number": "221-222",
+    "children": []
+  },
+  {
+    "title": "Seznam literatury",
+    "chapter_number": "",
+    "page_number": "223-233",
+    "children": []
+  },
+  {
+    "title": "Seznam autorů",
+    "chapter_number": "",
+    "page_number": "235-238",
+    "children": []
+  },
+  {
+    "title": "Mapa řepařských oblastí v republice Československé.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  }
+]

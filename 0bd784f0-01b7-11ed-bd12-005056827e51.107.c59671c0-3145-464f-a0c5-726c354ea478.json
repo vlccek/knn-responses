@@ -1,0 +1,91 @@
+
+[
+  {
+    "title": "Úvodné poznámky",
+    "chapter_number": "",
+    "page_number": "7*",
+    "children": []
+  },
+  {
+    "title": "Oddiel A. Pôda zemedelských závodov",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Tab. 1. Počet a pôda zemedelských závodov",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Tab. 2. Plodiny na ornej pôde zemedelských závodov:",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Časť 1. (Obilniny, strukoviny a miešaniny na dozretie, obchodné a priemyslové plodiny a časť okopanín)",
+            "chapter_number": "",
+            "page_number": "30",
+            "children": []
+          },
+          {
+            "title": "Časť 2. (Dokončenie okopanín, zeleniny, krmy, ostatné plodiny a úhor)",
+            "chapter_number": "",
+            "page_number": "58",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Tab. 3. Počet a pôda zemedelských závodov v pomerných číslach",
+        "chapter_number": "",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Tab. 4. Pôda nepatriaca k zemedelským závodom",
+        "chapter_number": "",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Poznámky k tabuľke 1. a 2. časť 1. oddielu A.",
+        "chapter_number": "",
+        "page_number": "101",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddiel B. Hospodárske zvieractvo zemedelských závodov",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Tab. 1. Hospodárske zvieractvo v zemedelských závodoch:",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Časť 1. (Kone, dobytok rožný a ovce)",
+            "chapter_number": "",
+            "page_number": "104",
+            "children": []
+          },
+          {
+            "title": "Časť 2. (Kozy, dobytok bravčový a hydina).",
+            "chapter_number": "",
+            "page_number": "132",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Tab. 2. Hospodárske zvieractvo v zemedelských závodoch v číslach pomerných",
+        "chapter_number": "",
+        "page_number": "146",
+        "children": []
+      }
+    ]
+  }
+]

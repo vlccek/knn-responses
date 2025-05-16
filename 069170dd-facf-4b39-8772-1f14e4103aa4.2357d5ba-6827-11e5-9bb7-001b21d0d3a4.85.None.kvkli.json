@@ -1,0 +1,224 @@
+
+[
+  {
+    "title": "Geschichte",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Ältere Geschichte",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Mittlere Zeit",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Neuere Geschichte",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Geografischer Umriſs",
+    "chapter_number": "",
+    "page_number": "11",
+    "children": [
+      {
+        "title": "Lage, Größe, Gränzen",
+        "chapter_number": "I.",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Gebirge",
+        "chapter_number": "II.",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Gewässer",
+        "chapter_number": "III.",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Ebenen",
+        "chapter_number": "IV.",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Klima",
+        "chapter_number": "V.",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Naturprodukte",
+        "chapter_number": "VI.",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Bevölkerung und geistige Kultur",
+        "chapter_number": "VII.",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Topografie des Landes",
+        "chapter_number": "VIII.",
+        "page_number": "37",
+        "children": [
+          {
+            "title": "Das nördliche und nordöstliche Böhmen",
+            "chapter_number": "1.",
+            "page_number": "37",
+            "children": [
+              {
+                "title": "Landschafts- und Kulturbild",
+                "chapter_number": "",
+                "page_number": "44",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Süd- und Südostböhmen",
+            "chapter_number": "2.",
+            "page_number": "46",
+            "children": [
+              {
+                "title": "Landschafts- und Kulturbild",
+                "chapter_number": "",
+                "page_number": "47",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "West- und Südwestböhmen.",
+            "chapter_number": "3.",
+            "page_number": "48",
+            "children": [
+              {
+                "title": "Landschafts- und Kulturbild",
+                "chapter_number": "",
+                "page_number": "50",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Böhmens Nordwesten",
+            "chapter_number": "4.",
+            "page_number": "51",
+            "children": [
+              {
+                "title": "Landschafts- und Kulturbild",
+                "chapter_number": "",
+                "page_number": "55",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Die Mitte und der Osten des Landes",
+            "chapter_number": "5.",
+            "page_number": "56",
+            "children": [
+              {
+                "title": "Landschafts- und Kulturbild",
+                "chapter_number": "",
+                "page_number": "62",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Übersichtliche Darstellung der Industrie des Landes",
+        "chapter_number": "IX.",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Handel und Verkehr",
+        "chapter_number": "X.",
+        "page_number": "68",
+        "children": [
+          {
+            "title": "Beförderungsmittel desselben:",
+            "chapter_number": "",
+            "page_number": "68",
+            "children": [
+              {
+                "title": "Landstraßen",
+                "chapter_number": "a)",
+                "page_number": "68",
+                "children": []
+              },
+              {
+                "title": "Wasserstraßen",
+                "chapter_number": "b)",
+                "page_number": "69",
+                "children": []
+              },
+              {
+                "title": "Eisenbahnen",
+                "chapter_number": "c)",
+                "page_number": "70",
+                "children": []
+              },
+              {
+                "title": "Post- und Telegrafenwesen",
+                "chapter_number": "d)",
+                "page_number": "72",
+                "children": []
+              },
+              {
+                "title": "Assekuranzen, Geldinstitute",
+                "chapter_number": "e)",
+                "page_number": "72",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Verfassung und Verwaltung.",
+        "chapter_number": "XI.",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Ortsverzeichnisse:",
+        "chapter_number": "XII.",
+        "page_number": "76",
+        "children": [
+          {
+            "title": "Die volkreichsten Orte des Landes",
+            "chapter_number": "A.",
+            "page_number": "76",
+            "children": []
+          },
+          {
+            "title": "Alfabetisches Verzeichnis der im topografischen Theile dieser\nVaterlandskunde vorkommenden Orte",
+            "chapter_number": "B.",
+            "page_number": "77",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

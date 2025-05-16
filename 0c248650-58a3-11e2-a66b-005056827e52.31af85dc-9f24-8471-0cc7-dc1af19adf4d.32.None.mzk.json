@@ -1,0 +1,145 @@
+
+[
+  {
+    "title": "Vorwort.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Einleitung.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Punkte und Punktzeichen.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Linien.",
+    "chapter_number": "I",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Form der Linien.",
+        "chapter_number": "a",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Messen der Linien.",
+        "chapter_number": "b",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Linien in Hinsicht auf ihre gegenseitige Lage.",
+        "chapter_number": "c",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Theilung der Linien.",
+        "chapter_number": "d",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Winkel.",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Entstehung und Bezeichnung der Winkel.",
+        "chapter_number": "a",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Grösse der Winkel.",
+        "chapter_number": "b",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Messen der Winkel.",
+        "chapter_number": "c",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Arten der Winkel.",
+        "chapter_number": "d",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Flächen.",
+    "chapter_number": "III",
+    "page_number": ""
+  },
+  {
+    "title": "Dreiecke.",
+    "chapter_number": "IV",
+    "page_number": ""
+  },
+  {
+    "title": "Entstehung und Bestandtheile.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Gebrauch der rechtwinkeligen Holzdreiecke beim Zeichnen.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Vierecke.",
+    "chapter_number": "V",
+    "page_number": ""
+  },
+  {
+    "title": "Von den Vielecken.",
+    "chapter_number": "VI",
+    "page_number": ""
+  },
+  {
+    "title": "Zeichenübungen.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Gleichheit, Aehnlichkeit und Gongruenz der Figuren.",
+    "chapter_number": "VII",
+    "page_number": ""
+  },
+  {
+    "title": "Flächeninhalt geradliniger Figuren.",
+    "chapter_number": "VIII",
+    "page_number": ""
+  },
+  {
+    "title": "Vom Kreise.",
+    "chapter_number": "IX",
+    "page_number": ""
+  },
+  {
+    "title": "Konzentrische Figuren.",
+    "chapter_number": "X",
+    "page_number": ""
+  },
+  {
+    "title": "Die Ellipse.",
+    "chapter_number": "XI",
+    "page_number": ""
+  },
+  {
+    "title": "Anwendung der Licht- und Schattenlinien beim Zeichnen.",
+    "chapter_number": "XII",
+    "page_number": ""
+  }
+]

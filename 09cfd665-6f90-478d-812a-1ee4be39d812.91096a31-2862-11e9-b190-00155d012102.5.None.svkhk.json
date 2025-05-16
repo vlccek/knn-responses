@@ -1,0 +1,77 @@
+
+[
+  {
+    "title": "Tiskové zákony doby ústavní",
+    "chapter_number": "§ 19",
+    "page_number": "78",
+    "children": []
+  },
+  {
+    "title": "Osnova nového zákona tiskového",
+    "chapter_number": "§ 20",
+    "page_number": "87",
+    "children": []
+  },
+  {
+    "title": "Judikatura soudu kassačního",
+    "chapter_number": "§ 21",
+    "page_number": "93",
+    "children": []
+  },
+  {
+    "title": "Pokračování. Přečiny článku VII. až IX. zákona ze dne 17. prosince 1862, čís. 8. ř. z. z r. 1863",
+    "chapter_number": "§ 22",
+    "page_number": "98",
+    "children": []
+  },
+  {
+    "title": "Právo německé.",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Zákonodárství říše německé",
+        "chapter_number": "§ 23",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Judikatura soudu říšského",
+        "chapter_number": "§ 24",
+        "page_number": "120",
+        "children": []
+      },
+      {
+        "title": "Pokračování. Přečiny §§ 15. až 17. německého zákona tiskového",
+        "chapter_number": "§ 25",
+        "page_number": "127",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Úvahy závěrečné.",
+    "chapter_number": "ODDÍL ČTVRTÝ.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Souhrn výsledků",
+        "chapter_number": "§ 26",
+        "page_number": "131",
+        "children": []
+      },
+      {
+        "title": "Methoda enumerační",
+        "chapter_number": "§ 27",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Doslov",
+        "chapter_number": "§ 28",
+        "page_number": "145",
+        "children": []
+      }
+    ]
+  }
+]

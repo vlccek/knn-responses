@@ -1,0 +1,80 @@
+
+[
+  {
+    "title": "Inhalt",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Die Rübe und ihre Kultur",
+    "chapter_number": "",
+    "page_number": "7"
+  },
+  {
+    "title": "Der Rübeneinkauf",
+    "chapter_number": "",
+    "page_number": "14"
+  },
+  {
+    "title": "Die Rübenübernahme",
+    "chapter_number": "",
+    "page_number": "31"
+  },
+  {
+    "title": "Die Rübenverrechnung",
+    "chapter_number": "",
+    "page_number": "43"
+  },
+  {
+    "title": "Die Bestimmung der Rübenqualität",
+    "chapter_number": "",
+    "page_number": "58"
+  },
+  {
+    "title": "Die Produkte der Fabrikation",
+    "chapter_number": "",
+    "page_number": "62"
+  },
+  {
+    "title": "Ausbeute, Begriff und Erläuterung",
+    "chapter_number": "",
+    "page_number": "68"
+  },
+  {
+    "title": "Tabellen (siehe rückwärts):",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "A Rübenvorschußbuch",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "B Rübenausweise",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "C Rübenbuch",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "D Schnitteausweise",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "E Schnittebuch, Formular 1",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "F Schnittebuch, Formular 2",
+        "chapter_number": "",
+        "page_number": ""
+      }
+    ]
+  }
+]

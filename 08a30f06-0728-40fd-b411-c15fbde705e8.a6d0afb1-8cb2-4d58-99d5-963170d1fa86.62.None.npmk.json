@@ -1,0 +1,201 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Podnebí a rostlinstvo",
+    "chapter_number": "II",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Podnebí a živočišstvo",
+    "chapter_number": "III",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Člověk a podnebí",
+    "chapter_number": "IV",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Vliv podnebí na lidské hospodářství",
+    "chapter_number": "V",
+    "page_number": "6",
+    "children": [
+      {
+        "title": "Světlo a sluneční záření",
+        "chapter_number": "1",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Větry",
+        "chapter_number": "2",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Vlhkost a dešť",
+        "chapter_number": "3",
+        "page_number": "8",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Člověk a příroda",
+    "chapter_number": "VI",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Lesy",
+    "chapter_number": "VII",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Zemědělství",
+    "chapter_number": "VIII",
+    "page_number": "12",
+    "children": [
+      {
+        "title": "Obiliny: pšenice, žito, oves, ječmen, kukuřice, rýže",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Obchod s obilím",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Okopaniny",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Ovoce",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Pochutiny",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Průmyslové rostliny",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Olejnaté rostliny",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Živočišstvo",
+    "chapter_number": "IX",
+    "page_number": "26",
+    "children": [
+      {
+        "title": "Oblasti dobytkářské",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Zásobování masem",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Zvěř kožišinná",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hornictví",
+    "chapter_number": "X",
+    "page_number": "30",
+    "children": [
+      {
+        "title": "Uhlí, železo, měď, zinek, cín, olovo, hliník, nikl, zlato, stříbro, platina, rtuť, radium, kaolin, nafta",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Průmysl",
+    "chapter_number": "XI",
+    "page_number": "35",
+    "children": [
+      {
+        "title": "Textilní, kovodělný, chemický, sklářský, kožařský",
+        "chapter_number": "",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Oblasti průmyslové",
+        "chapter_number": "",
+        "page_number": "38",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Doprava",
+    "chapter_number": "XII",
+    "page_number": "39",
+    "children": [
+      {
+        "title": "Suchozemská, říční, mořská, průplavy, pošta, telegraf, telefon, aviony",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Obchod",
+    "chapter_number": "XIII",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Zahraniční obchod",
+    "chapter_number": "XIV",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Jízdní řády",
+    "chapter_number": "XV",
+    "page_number": "55",
+    "children": []
+  }
+]

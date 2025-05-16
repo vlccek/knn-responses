@@ -1,0 +1,76 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Účel zákona",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Komise ohledací",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Přestupky a tresty",
+    "chapter_number": "",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Úřední řízení",
+    "chapter_number": "II",
+    "page_number": "13",
+    "children": [
+      {
+        "title": "Působnosť okresního výboru",
+        "chapter_number": "1",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Působnosť obecního úřadu",
+        "chapter_number": "2",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Působnosť ohledací komise",
+        "chapter_number": "3",
+        "page_number": "20",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zákon, daný dne 21. dubna 1887., platný pro království české, jenž se týče licentování býků plemenných",
+    "chapter_number": "III",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "IV",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Vzorce",
+    "chapter_number": "V",
+    "page_number": "36",
+    "children": []
+  }
+]

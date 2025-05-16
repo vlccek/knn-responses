@@ -1,0 +1,232 @@
+
+[
+  {
+    "title": "Ouvrages de T. G. Masaryk",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Ouvrages parus en tchèque et slovaque",
+        "chapter_number": "1",
+        "page_number": "3",
+        "children": [
+          {
+            "title": "Livres et opuscules",
+            "chapter_number": "a",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "Articles de revues et de journaux",
+            "chapter_number": "b",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Discours, déclarations, messages et entretiens",
+            "chapter_number": "c",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Recueils et anthologies",
+            "chapter_number": "d",
+            "page_number": "13",
+            "children": []
+          },
+          {
+            "title": "Revues rédigées par T. G. Masaryk",
+            "chapter_number": "e",
+            "page_number": "15",
+            "children": []
+          },
+          {
+            "title": "Varia",
+            "chapter_number": "f",
+            "page_number": "15",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Ouvrages parus dans d'autres langues",
+        "chapter_number": "2",
+        "page_number": "17",
+        "children": [
+          {
+            "title": "Livres, opuscules et articles",
+            "chapter_number": "a",
+            "page_number": "17",
+            "children": []
+          },
+          {
+            "title": "Varia",
+            "chapter_number": "b",
+            "page_number": "24",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ouvrages dédiés à T. G. Masaryk",
+    "chapter_number": "II",
+    "page_number": "27",
+    "children": [
+      {
+        "title": "Ouvrages parus dans les langues tchèque et slovaque",
+        "chapter_number": "1",
+        "page_number": "29",
+        "children": [
+          {
+            "title": "Biographies et expositions générales",
+            "chapter_number": "a",
+            "page_number": "29",
+            "children": []
+          },
+          {
+            "title": "Le savant et le philosophe",
+            "chapter_number": "b",
+            "page_number": "31",
+            "children": []
+          },
+          {
+            "title": "L'homme religieux",
+            "chapter_number": "c",
+            "page_number": "35",
+            "children": []
+          },
+          {
+            "title": "Le pédagogue",
+            "chapter_number": "d",
+            "page_number": "37",
+            "children": []
+          },
+          {
+            "title": "Le sociologue",
+            "chapter_number": "e",
+            "page_number": "37",
+            "children": []
+          },
+          {
+            "title": "L'homme politique",
+            "chapter_number": "f",
+            "page_number": "38",
+            "children": []
+          },
+          {
+            "title": "Le démocrate; son attitude vers le socialisme",
+            "chapter_number": "g",
+            "page_number": "40",
+            "children": []
+          },
+          {
+            "title": "Le président",
+            "chapter_number": "h",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "Le journaliste et l'écrivain; son attitude vers les arts et les belles lettres",
+            "chapter_number": "i",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Masaryk et la Tchécoslovaquie",
+            "chapter_number": "k",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Masaryk et les Slaves",
+            "chapter_number": "l",
+            "page_number": "44",
+            "children": []
+          },
+          {
+            "title": "Varia",
+            "chapter_number": "m",
+            "page_number": "46",
+            "children": []
+          },
+          {
+            "title": "Revues dédiées à l'oeuvre de Masaryk",
+            "chapter_number": "n",
+            "page_number": "49",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Ouvrages et articles parus dans d'autres langues",
+        "chapter_number": "2",
+        "page_number": "50",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Recueils dédiés à T. G. Masaryk",
+    "chapter_number": "III",
+    "page_number": "69",
+    "children": [
+      {
+        "title": "Parus en tchèque et slovaque",
+        "chapter_number": "a",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Parus dans d'autres langues",
+        "chapter_number": "b",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Varia",
+        "chapter_number": "c",
+        "page_number": "73",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ouvrages de contenue bibliographique",
+    "chapter_number": "IV",
+    "page_number": "75",
+    "children": [
+      {
+        "title": "Parus en tchèque en slovaque",
+        "chapter_number": "a",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Parus dans d'autres langues",
+        "chapter_number": "b",
+        "page_number": "78",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ouvrages dédiés aux divers sujets, où il s'agit de T. G. Masaryk, ses idées et ses opinions",
+    "chapter_number": "V",
+    "page_number": "79",
+    "children": []
+  },
+  {
+    "title": "Supplément",
+    "chapter_number": "",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "Index",
+    "chapter_number": "",
+    "page_number": "I",
+    "children": []
+  }
+]

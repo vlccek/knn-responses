@@ -1,0 +1,58 @@
+
+[
+  {
+    "title": "Das Thal des Elbseiffens",
+    "chapter_number": "XXI",
+    "page_number": "241",
+    "children": []
+  },
+  {
+    "title": "Das Thal der kleinen Iser",
+    "chapter_number": "XXII",
+    "page_number": "248",
+    "children": []
+  },
+  {
+    "title": "Das Thal der großen Iser",
+    "chapter_number": "XXIII",
+    "page_number": "256",
+    "children": []
+  },
+  {
+    "title": "Die Vorberge und die Thäler am Riesengebirge.",
+    "chapter_number": "Zweiter Abschnitt",
+    "page_number": "270",
+    "children": []
+  },
+  {
+    "title": "Das Isergebirge.",
+    "chapter_number": "Dritter Abschnitt",
+    "page_number": "319",
+    "children": [
+      {
+        "title": "Das Thal der Iser.",
+        "chapter_number": "I",
+        "page_number": "323",
+        "children": []
+      },
+      {
+        "title": "Das Thal der Wittich",
+        "chapter_number": "II",
+        "page_number": "329",
+        "children": []
+      },
+      {
+        "title": "Das Thal des Queißes",
+        "chapter_number": "III",
+        "page_number": "337",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Reise-Touren.",
+    "chapter_number": "Anhang",
+    "page_number": "360",
+    "children": []
+  }
+]

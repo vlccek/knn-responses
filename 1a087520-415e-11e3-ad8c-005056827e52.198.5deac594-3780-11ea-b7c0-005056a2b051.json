@@ -1,0 +1,114 @@
+
+[
+  {
+    "title": "Soupis prací Jana Gebauera",
+    "chapter_number": "",
+    "page_number": "VII-XIX",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "1-3",
+    "children": [
+      {
+        "title": "Památce Jungmannově (LF, 1, 1874, str. 1-2)",
+        "chapter_number": "",
+        "page_number": "1-3",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Studie o lidovém básnictví prostonárodním",
+    "chapter_number": "II",
+    "page_number": "5-89",
+    "children": [
+      {
+        "title": "O metaforických obrazech básnictví národního, zvláště slovanského (LF,1, 1874, str. 97—117,225-252)",
+        "chapter_number": "",
+        "page_number": "7-70",
+        "children": []
+      },
+      {
+        "title": "O začátcích, v jakých si libují národní písně, zvláště slovanské (LF, 2, 1875, str. 19-29)",
+        "chapter_number": "",
+        "page_number": "71-84",
+        "children": []
+      },
+      {
+        "title": "Moravská národní píseň o třech dcerách (LF, 2, 1875, str.304—308)",
+        "chapter_number": "",
+        "page_number": "85-89",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Studie z písemnictví staročeského",
+    "chapter_number": "III",
+    "page_number": "91-274",
+    "children": [
+      {
+        "title": "Úvahy o Nové Radě pana Smila Flašky z Pardubic a o Radě Zvířat skladatele neznámého s úvodem o báji zvířecké (Sborník vědecký musea království Českého. Odbor histor., filol. a filos. V. 1873)",
+        "chapter_number": "",
+        "page_number": "93-146",
+        "children": []
+      },
+      {
+        "title": "O verši a rýmu v Nové Radě pana Smila Flašky z Pardubic (LF, 3, 1876, str. 168-176)",
+        "chapter_number": "",
+        "page_number": "147-155",
+        "children": []
+      },
+      {
+        "title": "Ludvík Tkadleček (LF, 2, 1875, str. 114—120)",
+        "chapter_number": "",
+        "page_number": "156-163",
+        "children": []
+      },
+      {
+        "title": "Walter a Griselda (LF, 4, 1877, str. 60-62)",
+        "chapter_number": "",
+        "page_number": "164-165",
+        "children": []
+      },
+      {
+        "title": "Fysiologus, symbolická báje o zvířatech (LF, 4, 1877, str. 69–86)",
+        "chapter_number": "",
+        "page_number": "166-178",
+        "children": []
+      },
+      {
+        "title": "Legendový příběh sv. Doroty v literatuře české a staročeská píseň ku sv. Dorotě (LF, 4, 1877, str. 206-215)",
+        "chapter_number": "",
+        "page_number": "179-189",
+        "children": []
+      },
+      {
+        "title": ",, Jiříkovo vidění“ v souvislosti s jinými pověstmi mystiky křesťanské (LF, 6, 1879, str. 30-45)",
+        "chapter_number": "",
+        "page_number": "190-205",
+        "children": []
+      },
+      {
+        "title": "O původu,, Jiříkova vidění“ (LF, 6, 1879, str. 202-204)",
+        "chapter_number": "",
+        "page_number": "205-207",
+        "children": []
+      },
+      {
+        "title": "Dodatek ke zprávě o původu,, Jiříkova vidění“ (LF, 6, 1879, str.244)",
+        "chapter_number": "",
+        "page_number": "207",
+        "children": []
+      },
+      {
+        "title": "Tristram (LF, 6, 1879, str. 108-139)",
+        "chapter_number": "",
+        "page_number": "208-241",
+        "children": []
+      }
+    ]
+  }
+]

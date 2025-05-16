@@ -1,0 +1,212 @@
+
+[
+  {
+    "title": "Předmětové věty",
+    "chapter_number": "c",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Nepřímá řeč",
+    "chapter_number": "",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Přívlastkové věty",
+    "chapter_number": "d",
+    "page_number": "57",
+    "children": []
+  },
+  {
+    "title": "Příslovkové věty",
+    "chapter_number": "e",
+    "page_number": "59",
+    "children": [
+      {
+        "title": "Příslovkové věty místa",
+        "chapter_number": "",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Příslovkové věty času",
+        "chapter_number": "",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Příslovkové věty způsobu",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Příslovkové věty příčiny a účelu",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Skrácená věta.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Skracování vět jednoduchých",
+        "chapter_number": "A",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Skracování vět složených",
+        "chapter_number": "B",
+        "page_number": "70",
+        "children": [
+          {
+            "title": "Skrácená podmětová věta",
+            "chapter_number": "a",
+            "page_number": "71",
+            "children": []
+          },
+          {
+            "title": "Skrácená předmětová věta",
+            "chapter_number": "b",
+            "page_number": "73",
+            "children": []
+          },
+          {
+            "title": "Skrácená přídavná věta",
+            "chapter_number": "c",
+            "page_number": "75",
+            "children": []
+          },
+          {
+            "title": "Skrácená příslovková věta",
+            "chapter_number": "d",
+            "page_number": "78",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Věta mnohonásobná",
+        "chapter_number": "C",
+        "page_number": "82",
+        "children": []
+      },
+      {
+        "title": "Obvětí",
+        "chapter_number": "",
+        "page_number": "84",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přehled složených a mnohonásobných vět písmeny zobrazen",
+    "chapter_number": "",
+    "page_number": "90",
+    "children": []
+  },
+  {
+    "title": "Rod, čas a způsob časoslov.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Rod",
+        "chapter_number": "",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Čas",
+        "chapter_number": "",
+        "page_number": "95",
+        "children": [
+          {
+            "title": "Užívání jednotlivých časův",
+            "chapter_number": "",
+            "page_number": "98",
+            "children": []
+          },
+          {
+            "title": "Čas přítomný",
+            "chapter_number": "1",
+            "page_number": "98",
+            "children": []
+          },
+          {
+            "title": "Čas minule neskonalý",
+            "chapter_number": "2",
+            "page_number": "99",
+            "children": []
+          },
+          {
+            "title": "Čas minule skonalý",
+            "chapter_number": "3",
+            "page_number": "100",
+            "children": []
+          },
+          {
+            "title": "Čas dávnominulý (předminulý)",
+            "chapter_number": "4",
+            "page_number": "100",
+            "children": []
+          },
+          {
+            "title": "Čas budoucně neskonalý",
+            "chapter_number": "5",
+            "page_number": "101",
+            "children": []
+          },
+          {
+            "title": "Čas budoucně skonalý",
+            "chapter_number": "6",
+            "page_number": "101",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Způsob",
+        "chapter_number": "",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Neurčitý způsob",
+        "chapter_number": "",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "Dostižný způsob",
+        "chapter_number": "",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Příčestí",
+        "chapter_number": "",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Přechodník",
+        "chapter_number": "",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Dělidla v písmě",
+        "chapter_number": "",
+        "page_number": "108",
+        "children": []
+      }
+    ]
+  }
+]

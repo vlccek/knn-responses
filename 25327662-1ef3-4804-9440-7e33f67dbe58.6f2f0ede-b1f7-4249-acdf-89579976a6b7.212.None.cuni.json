@@ -1,0 +1,139 @@
+
+[
+  {
+    "title": "Vznik a podstata volebního soudnictví",
+    "chapter_number": "Kapitola I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Reformní snahy v bývalém Rakousku",
+    "chapter_number": "Kapitola II",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Vznik československého zákona o volebním soudě",
+    "chapter_number": "Kapitola III",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Organisace československého volebního soudu a přehled zákonodárství v některých státech",
+    "chapter_number": "Kapitola IV",
+    "page_number": "59",
+    "children": [
+      {
+        "title": "Organisace československého volebního soudu",
+        "chapter_number": "Oddíl I",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Přehled zákonodárství v některých státech",
+        "chapter_number": "Oddíl II",
+        "page_number": "72",
+        "children": [
+          {
+            "title": "Rakousko",
+            "chapter_number": "1",
+            "page_number": "72",
+            "children": []
+          },
+          {
+            "title": "Německo",
+            "chapter_number": "2",
+            "page_number": "76",
+            "children": []
+          },
+          {
+            "title": "Italie",
+            "chapter_number": "3",
+            "page_number": "83",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Působnost československého volebního soudu",
+    "chapter_number": "Kapitola V",
+    "page_number": "89",
+    "children": [
+      {
+        "title": "Rozhodování o stížnostech do výsledků reklamačního řízení",
+        "chapter_number": "1",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Zkoumání a ověřování voleb",
+        "chapter_number": "2",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Rozhodování o stížnostech do voleb",
+        "chapter_number": "3",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Rozhodování o ztrátě mandátu podle § 13 v. s.",
+        "chapter_number": "4",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Rozhodování o inkompatibilitě (neslučitelnosti)",
+        "chapter_number": "5",
+        "page_number": "161",
+        "children": []
+      },
+      {
+        "title": "Návrhy na rozhodnutí ústavního soudu",
+        "chapter_number": "6",
+        "page_number": "163",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Řízení před volebním soudem",
+    "chapter_number": "Kapitola VI",
+    "page_number": "165",
+    "children": [
+      {
+        "title": "Povšechná charakteristika",
+        "chapter_number": "1",
+        "page_number": "165",
+        "children": []
+      },
+      {
+        "title": "Subjekty řízení před volebním soudem",
+        "chapter_number": "2",
+        "page_number": "173",
+        "children": []
+      },
+      {
+        "title": "Procesní úkony subjektů řízení",
+        "chapter_number": "3",
+        "page_number": "181",
+        "children": []
+      },
+      {
+        "title": "Procesní úkony soudu",
+        "chapter_number": "4",
+        "page_number": "191",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Příspěvek ke kritice",
+    "chapter_number": "Kapitola VII",
+    "page_number": "199",
+    "children": []
+  }
+]

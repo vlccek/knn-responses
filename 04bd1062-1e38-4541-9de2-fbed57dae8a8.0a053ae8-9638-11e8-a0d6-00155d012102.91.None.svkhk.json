@@ -1,0 +1,58 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Životopis",
+    "chapter_number": "II",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Šafaříkovy snahy spisovatelské",
+    "chapter_number": "III",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Spisy Šafaříkovy",
+    "chapter_number": "IV",
+    "page_number": "30",
+    "children": [
+      {
+        "title": "Spisy starožitnické",
+        "chapter_number": "a",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Spisy o písemnictví slovanském",
+        "chapter_number": "b",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Spisy jazykozpytné",
+        "chapter_number": "c",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Spisy básnické",
+        "chapter_number": "d",
+        "page_number": "83",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zásluhy Šafaříkovy",
+    "chapter_number": "V",
+    "page_number": "88",
+    "children": []
+  }
+]

@@ -1,0 +1,89 @@
+
+[
+  {
+    "title": "Historicko-diplomatický úvod",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Přehled theoretických řešení právního postavení Bosny a Hercegoviny dle čl. 25. Berlínské smlouvy z 13. července 1878 a Cařihradské konvence z 21. dubna 1879",
+    "chapter_number": "II",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Právní stav vytvořený v Bosně a Hercegovině v době od r. 1878 až do r. 1908 státoprávní a mezinárodněprávní praxí Rakouska-Uherska na základě čl. 25. Berlínské smlouvy a konvence Cařihradské z r. 1879",
+    "chapter_number": "III",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Právnický výklad poměru Rakouska-Uherska k Bosně a Hercegovině od r. 1878 po stránce práva mezinárodního.",
+    "chapter_number": "IV",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Suverenita, právní poměr státu k území, povaha a úkony smluv mezinárodních.",
+        "chapter_number": "1",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Čl. 25. Berlínské smlouvy z 13. července 1878",
+        "chapter_number": "2",
+        "page_number": "116",
+        "children": []
+      },
+      {
+        "title": "Cařihradská konvence z 21. dubna 1879",
+        "chapter_number": "3",
+        "page_number": "142",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rakousko-uherské státní akty z 5. října 1908",
+    "chapter_number": "V",
+    "page_number": "163",
+    "children": []
+  },
+  {
+    "title": "Přílohy:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Čl. 25. Berlínské smlouvy z 13. července 1878",
+        "chapter_number": "I",
+        "page_number": "190",
+        "children": []
+      },
+      {
+        "title": "Cařihradská konvence mezi Rakouskem-Uherskem a Tureckem z 21. dubna 1879",
+        "chapter_number": "II",
+        "page_number": "190",
+        "children": []
+      },
+      {
+        "title": "Výklad (memorandum) hr. Andrassy-a a lorda Salisbury-a k návrhu čl. 25. na Berlínském kongressu",
+        "chapter_number": "III",
+        "page_number": "195",
+        "children": []
+      },
+      {
+        "title": "Tajný Berlínský protokol rakousko-uhersko-turecký k čl. 25. Berlínské smlouvy",
+        "chapter_number": "IV",
+        "page_number": "199",
+        "children": []
+      },
+      {
+        "title": "Státní akty rakousko-uherské z 5. října 1908",
+        "chapter_number": "V",
+        "page_number": "200",
+        "children": []
+      }
+    ]
+  }
+]

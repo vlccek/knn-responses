@@ -1,0 +1,99 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Tuhnutí a tvrdnutí cementu se stanoviska zákona o zachování hmoty a energie. Adhaese, kohaese a chemická affinita",
+    "chapter_number": "II",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Tuhnutí a tvrdnutí betonu se stanoviska zákona stálých i množných poměrů slučovacích a chemie kolloidální",
+    "chapter_number": "III",
+    "page_number": "24",
+    "children": []
+  },
+  {
+    "title": "O zrnitosti surové směsi ze štěrku a písku pro výrobu betonu",
+    "chapter_number": "IV",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "O poměrných množstvích cementu potřebných k dokonalé vazbě",
+    "chapter_number": "V",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Vliv stáří na pevnost malty a betonu s theoreticko-experimentálním zjištěním dotyčné zákonitosti",
+    "chapter_number": "VI",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Vliv vázaného vodního obsahu vyjádřeného vodním součinitelem na pevnost malty a betonu s theoreticko-experimentálním zjištěním dotyčné zákonitosti",
+    "chapter_number": "VII",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "O struktuře cementového těsta při procesu tuhnutí a tvrdnutí, jakož i po něm",
+    "chapter_number": "VIII",
+    "page_number": "70",
+    "children": []
+  },
+  {
+    "title": "O tření vnitřním pevných látek vůbec a vázaného cementu zvláště",
+    "chapter_number": "IX",
+    "page_number": "76",
+    "children": []
+  },
+  {
+    "title": "O zákonité proměnlivosti modulů pružnosti v tahu i tlaku, jakož i normálních napětí betonu s relativním prodloužením či zkrácením při ohybu nosičů z betonu prostého i železového",
+    "chapter_number": "X",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "Theorie ohybu nosičů z betonu prostého i armovaného se zřetelem ke zvláštní zákonitosti jeho napětí normálních i tangenciálních",
+    "chapter_number": "XI",
+    "page_number": "94",
+    "children": []
+  },
+  {
+    "title": "Kvantová theorie tuhnutí a tvrdnutí cementové malty a betonu",
+    "chapter_number": "XII",
+    "page_number": "101",
+    "children": []
+  },
+  {
+    "title": "Látková únava a chřadnutí betonu stářím a namáháním silami zevnitřními",
+    "chapter_number": "XIII",
+    "page_number": "106",
+    "children": []
+  },
+  {
+    "title": "O molekulové váze aktivního cementu (-alitu?) a projevech vnitřní energie pevného betonu",
+    "chapter_number": "XIV",
+    "page_number": "112",
+    "children": []
+  },
+  {
+    "title": "Mechanická theorie tuhnutí a tvrdnutí cementové malty a betonu. Résumé",
+    "chapter_number": null,
+    "page_number": "116",
+    "children": []
+  },
+  {
+    "title": "Théorie mécanique de prise et de durcissement du mortier de ciment et du béton",
+    "chapter_number": null,
+    "page_number": "123",
+    "children": []
+  }
+]

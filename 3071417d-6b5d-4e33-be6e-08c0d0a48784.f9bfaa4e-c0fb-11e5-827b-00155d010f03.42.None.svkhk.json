@@ -1,0 +1,126 @@
+
+[
+  {
+    "title": "Vorwort.",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "I. Geschichte der Wasserversorgung.",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": [
+      {
+        "title": "Wasserleitungen und Brunnen",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Aupa und Mühlgraben",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Badewasser",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "II. Bedeutung des Seifenbaches fürdie Wasserversorgung.",
+    "chapter_number": "II",
+    "page_number": "23",
+    "children": [
+      {
+        "title": "Wasserlauf",
+        "chapter_number": "1",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Bodenverhältnisse",
+        "chapter_number": "2",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Wassermenge",
+        "chapter_number": "3",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Gefälle und Höhenangaben",
+        "chapter_number": "4",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Wassergüte",
+        "chapter_number": "5",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Wasserrechte",
+        "chapter_number": "6",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Technische Bemerkungen und Kostenvoranschlag.",
+        "chapter_number": "7",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Schlusswort",
+        "chapter_number": "8",
+        "page_number": "32",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "III. Gegenwärtiger Stand der Wasserversorgung.",
+    "chapter_number": "III",
+    "page_number": "33",
+    "children": [
+      {
+        "title": "Wasserleitungen",
+        "chapter_number": "A",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Brunnen",
+        "chapter_number": "B",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Vertheilung der Brunnen und Brunnenständer",
+        "chapter_number": "C",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Für die Trinkwasserversorgung von Trautenau in Betracht kommende Quellen",
+        "chapter_number": "D",
+        "page_number": "38",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Schlussfolgerungen.",
+    "chapter_number": "",
+    "page_number": "38",
+    "children": []
+  }
+]

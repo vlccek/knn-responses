@@ -1,0 +1,82 @@
+
+[
+  {
+    "title": "Die Jugend des Prinzen (1834-1860)",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Das erste Jahr in Nachod (1861-1862)",
+    "chapter_number": "II",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Vermählung (1862), Familienleben (1862-1866)",
+    "chapter_number": "III",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "Prinz Wilhelm während des Krieges 1866",
+    "chapter_number": "IV",
+    "page_number": "58",
+    "children": []
+  },
+  {
+    "title": "Die Herrschaft Nachod während und nach dem Kriege 1866",
+    "chapter_number": "V",
+    "page_number": "71",
+    "children": []
+  },
+  {
+    "title": "Die Wirksamkeit des Prinzen auf der Herrschaft:",
+    "chapter_number": "VI",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Landwirtschaft - Meliorationen - Wiesenbau",
+        "chapter_number": "a",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Forstwirtschaft - Wegebau - Dampfsäge - Teichwirtschaft - Jagd",
+        "chapter_number": "b",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Industrielle Anlagen",
+        "chapter_number": "c",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Archiv und Bibliothek",
+        "chapter_number": "d",
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "Öffentliches Wirken - Strassenbau - Wassergenossenschaft - Talsperren",
+        "chapter_number": "e",
+        "page_number": "104",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Prinz Wilhelm in seinen militärischen Verhältnissen",
+    "chapter_number": "VII",
+    "page_number": "115",
+    "children": []
+  },
+  {
+    "title": "Familienleben - Tod",
+    "chapter_number": "VIII",
+    "page_number": "126",
+    "children": []
+  }
+]

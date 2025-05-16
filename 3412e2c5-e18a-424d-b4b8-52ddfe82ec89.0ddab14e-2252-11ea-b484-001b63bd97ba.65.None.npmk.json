@@ -1,0 +1,240 @@
+
+[
+  {
+    "title": "Cvičení mluvnická a mluvní",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Věta holá.",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Podmět jest nevyjádřen",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Podstatná jména",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Vlastní jména. Rod podst. jmen",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Číslo podst. jmen. Skloňování podst. jmen",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Zájmena osobní",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Přísudek. Slovesa. Způsob neurčitý.",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Časy sloves ve způsobě oznamovacím",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Způsob podmiňovací. Způsob rozkazovací",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Přísudek je vyjádřen podst. jménem",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Přídavná jména určitá trojího zakončení",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Věta rozvitá.",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Přívlastek je vyjádřen příd. jménem",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Skloňování příd. jmen urč. trojího zakončení",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Zájmena přívlastňovací",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Zájmena ukazovací",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Číslovky základní a řadové",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Předmět ve 4. pádě - ve 2. pádě",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Předmět v 3. pádě",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Příslovečné určení místa - času",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Příslovečné určení způsobu",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Předložky",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Věta oznamovací, tázací, rozkazovací",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Cvičení pravopisná.",
+    "chapter_number": "II",
+    "page_number": "30",
+    "children": [
+      {
+        "title": "Krátké a dlouhé samohlásky",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Tvrdé souhlásky",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Měkké souhlásky",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Slabiky di, ti, ni",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Slabiky dě, tě, ně - bě, pě, vě, mě",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Obojetné souhlásky",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Tvrdé y po obojetných souhláskách ve slabikách vnitřních",
+        "chapter_number": "",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Souhlásky b, d, đ, h, v, z, ž na konci slabik",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Dělení slov",
+        "chapter_number": "",
+        "page_number": "42",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Cvičení slohová.",
+    "chapter_number": "III",
+    "page_number": "43",
+    "children": [
+      {
+        "title": "Popisy",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Dopisy",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Vypravování",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  }
+]

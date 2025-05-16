@@ -1,0 +1,133 @@
+
+[
+  {
+    "title": "Předsloví spisovatelovo",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Část prvá.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Kniha prvá: Osudy jedné rodinky.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Fedor Pavlovič Karamazov",
+            "chapter_number": "I",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Prvého syna odbyl",
+            "chapter_number": "II",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "Druhé manželství a druhé děti",
+            "chapter_number": "III",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Třetí syn Alë a",
+            "chapter_number": "IV",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Starci",
+            "chapter_number": "V",
+            "page_number": "31",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kniha druhá: Nemístná schůzka.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Přijeli do kláštera",
+        "chapter_number": "I",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Starý blázen",
+        "chapter_number": "II",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Věřící ženy",
+        "chapter_number": "III",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Dáma malé víry",
+        "chapter_number": "IV",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Budiž, budiž!",
+        "chapter_number": "V",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Proč je na světě takový člověk!",
+        "chapter_number": "VI",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Seminarista karierista",
+        "chapter_number": "VII",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Skandál.",
+        "chapter_number": "VIII",
+        "page_number": "110",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kniha třetí: Smyslní náruživci.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "V čeledníku.",
+        "chapter_number": "I",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Lizaveta Smrdutá",
+        "chapter_number": "II",
+        "page_number": "128",
+        "children": []
+      },
+      {
+        "title": "Zpověď vřelého srdce. Ve verších",
+        "chapter_number": "III",
+        "page_number": "133",
+        "children": []
+      }
+    ]
+  }
+]

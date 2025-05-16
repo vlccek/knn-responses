@@ -1,0 +1,163 @@
+
+[
+  {
+    "title": "Učení věcné",
+    "chapter_number": "Kapitola I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Přírodopis",
+    "chapter_number": "Kapitola II",
+    "page_number": "14",
+    "children": [
+      {
+        "title": "O člověku",
+        "chapter_number": "A",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "O živočišstvu",
+        "chapter_number": "B",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "O rostlinstvu",
+        "chapter_number": "C",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "O nerostectvu",
+        "chapter_number": "D",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Technologie a polní hospodářství",
+        "chapter_number": "E",
+        "page_number": "83",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přírodozpyt",
+    "chapter_number": "Kapitola III",
+    "page_number": "72",
+    "children": [
+      {
+        "title": "Pohyb a rovnováha těl pevných",
+        "chapter_number": "A",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Pohyb a rovnováha kapalin",
+        "chapter_number": "B",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Pohyb a rovnováha vzdušin",
+        "chapter_number": "C",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "O teple",
+        "chapter_number": "D",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "O magnetičnosti",
+        "chapter_number": "E",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "O električnosti",
+        "chapter_number": "F",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "O zvuku",
+        "chapter_number": "G",
+        "page_number": "116",
+        "children": []
+      },
+      {
+        "title": "O světle",
+        "chapter_number": "H",
+        "page_number": "116",
+        "children": []
+      },
+      {
+        "title": "Chemie",
+        "chapter_number": "CH",
+        "page_number": "126",
+        "children": []
+      },
+      {
+        "title": "Cena přístrojů a potřeb",
+        "chapter_number": "I",
+        "page_number": "136",
+        "children": [
+          {
+            "title": "přístroje",
+            "chapter_number": "a",
+            "page_number": "136",
+            "children": []
+          },
+          {
+            "title": "potřeby",
+            "chapter_number": "b",
+            "page_number": "143",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Čtení",
+    "chapter_number": "Kapitola IV",
+    "page_number": "145",
+    "children": []
+  },
+  {
+    "title": "Mluvnice, pravopis a sloh",
+    "chapter_number": "Kapitola V",
+    "page_number": "154",
+    "children": [
+      {
+        "title": "O mluvnici a pravopisu",
+        "chapter_number": "A",
+        "page_number": "154",
+        "children": []
+      },
+      {
+        "title": "O slohu",
+        "chapter_number": "B",
+        "page_number": "159",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatky",
+    "chapter_number": "",
+    "page_number": "161",
+    "children": []
+  },
+  {
+    "title": "Místo předmluvy",
+    "chapter_number": "",
+    "page_number": "165",
+    "children": []
+  }
+]

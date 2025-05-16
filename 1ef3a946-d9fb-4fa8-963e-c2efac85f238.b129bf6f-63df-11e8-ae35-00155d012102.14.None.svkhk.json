@@ -1,0 +1,136 @@
+
+[
+  {
+    "title": "O kázni školní zvláště.",
+    "chapter_number": "B",
+    "page_number": ""
+  },
+  {
+    "title": "O školní kázni ve škole.",
+    "chapter_number": "I",
+    "page_number": ""
+  },
+  {
+    "title": "Přehled a rozdělení",
+    "chapter_number": "§ 110",
+    "page_number": "178"
+  },
+  {
+    "title": "O osobnosti učitelově",
+    "chapter_number": "§ 111. 1",
+    "page_number": "179"
+  },
+  {
+    "title": "O bdělosti učitelově",
+    "chapter_number": "§ 112. 2",
+    "page_number": "181"
+  },
+  {
+    "title": "Pořádkumilovnost učitelova",
+    "chapter_number": "§ 113. 3",
+    "page_number": "182",
+    "children": [
+      {
+        "title": "O pořádku v učebnách",
+        "chapter_number": "a",
+        "page_number": "182",
+        "children": []
+      },
+      {
+        "title": "O pořádku před vyučováním",
+        "chapter_number": "b",
+        "page_number": "183",
+        "children": []
+      },
+      {
+        "title": "O pořádku na počátku vyučování",
+        "chapter_number": "c",
+        "page_number": "184",
+        "children": []
+      },
+      {
+        "title": "O pořádku za vyučování",
+        "chapter_number": "d",
+        "page_number": "185",
+        "children": []
+      },
+      {
+        "title": "O pořádku za přestávek",
+        "chapter_number": "e",
+        "page_number": "190",
+        "children": []
+      },
+      {
+        "title": "O pořádku na konci vyučování",
+        "chapter_number": "f",
+        "page_number": "191",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O spravedlnosti učitelově",
+    "chapter_number": "§ 114. 4",
+    "page_number": "192"
+  },
+  {
+    "title": "Důslednost učitelova",
+    "chapter_number": "§ 115. 5",
+    "page_number": "192"
+  },
+  {
+    "title": "O známkách dobré kázně školní",
+    "chapter_number": "§ 116. 6",
+    "page_number": "193"
+  },
+  {
+    "title": "O školní kázni mimo školu.",
+    "chapter_number": "II",
+    "page_number": ""
+  },
+  {
+    "title": "Potřeba a podstata kázně mimo školu",
+    "chapter_number": "§ 117",
+    "page_number": "194"
+  },
+  {
+    "title": "Prostředky kázně mimo školu",
+    "chapter_number": "§ 118",
+    "page_number": "196"
+  },
+  {
+    "title": "Zákony vzhledem ku kázni mimo školu",
+    "chapter_number": "§ 119",
+    "page_number": "197"
+  },
+  {
+    "title": "Část závěrečná.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Příklady.",
+    "chapter_number": "A",
+    "page_number": ""
+  },
+  {
+    "title": "Katechésé",
+    "chapter_number": "§ 120. I",
+    "page_number": "199"
+  },
+  {
+    "title": "Katechése",
+    "chapter_number": "§ 121. II",
+    "page_number": "203"
+  },
+  {
+    "title": "Katechése",
+    "chapter_number": "§ 122. III",
+    "page_number": "205"
+  },
+  {
+    "title": "Doslov",
+    "chapter_number": "B",
+    "page_number": "207"
+  }
+]

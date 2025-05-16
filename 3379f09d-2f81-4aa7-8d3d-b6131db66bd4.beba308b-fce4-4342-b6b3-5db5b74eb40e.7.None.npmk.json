@@ -1,0 +1,113 @@
+
+[
+  {
+    "title": "Knihy pro nejmenší čtenáře",
+    "chapter_number": "A",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Básně",
+    "chapter_number": "B",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Pohádky, pověsti, legendy a bajky",
+    "chapter_number": "C",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Povídky",
+    "chapter_number": "D",
+    "page_number": "11",
+    "children": [
+      {
+        "title": "historické",
+        "chapter_number": "1",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "ze života (sociální)",
+        "chapter_number": "2",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "o zvířatech a z přírody vůbec",
+        "chapter_number": "3",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "fantastické",
+        "chapter_number": "4",
+        "page_number": "17",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Poučná četba",
+    "chapter_number": "E",
+    "page_number": "18",
+    "children": [
+      {
+        "title": "Životopisy (vzpomínky)",
+        "chapter_number": "1",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "cestopisy (zeměpis)",
+        "chapter_number": "2",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "dějepisy (vlastivěda a národopis)",
+        "chapter_number": "3",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "přírodovědné knihy",
+        "chapter_number": "4",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "různého obsahu",
+        "chapter_number": "5",
+        "page_number": "22",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Výbory ze spisovatelů, čítanky, almanachy",
+    "chapter_number": "F",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Časopisy",
+    "chapter_number": "G",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Umělecky-malířsky vypravené knihy",
+    "chapter_number": "H",
+    "page_number": "24",
+    "children": []
+  },
+  {
+    "title": "Knižnice pro mládež",
+    "chapter_number": "CH",
+    "page_number": "26",
+    "children": []
+  }
+]

@@ -1,0 +1,69 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Podstata filosofie",
+    "chapter_number": "1",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Logika",
+    "chapter_number": "2",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Logika a matematika",
+    "chapter_number": "3",
+    "page_number": "20",
+    "children": []
+  },
+  {
+    "title": "Symbolická logika",
+    "chapter_number": "4",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Definice",
+    "chapter_number": "5",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Idea, hypotesa, fikce a teorie",
+    "chapter_number": "6",
+    "page_number": "38",
+    "children": []
+  },
+  {
+    "title": "Měření a pokus",
+    "chapter_number": "7",
+    "page_number": "42",
+    "children": []
+  },
+  {
+    "title": "Axiomatika",
+    "chapter_number": "8",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Indukce a analogie",
+    "chapter_number": "9",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Statistika a matematická pravděpodobnost",
+    "chapter_number": "10",
+    "page_number": "50",
+    "children": []
+  }
+]

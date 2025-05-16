@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "Mitteilungen",
+    "chapter_number": "1",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Programm",
+    "chapter_number": "2",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Komotau",
+    "chapter_number": "3",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Leitsäge zu den Vorträgen:",
+    "chapter_number": "4",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Prof. Dr. Jentsch: Forstverwaltung und Wirtschaftskrise",
+        "chapter_number": "a",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Prof. Dr. Tschermak: Zur Lärchenfrage",
+        "chapter_number": "b",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Prof. Dr. Rudolph: Die forstliche Bedeutung der Pollenanalyse",
+        "chapter_number": "c",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Forstrat Ing. Gebauer: Wahrnehmungen bei den letzten Schnee- und Windbrüchen im schlesischen Altvatergebirge",
+        "chapter_number": "d",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Forstmeister Sachsze: Beobachtungen über den Lärchenwickler im Erzgebirge",
+        "chapter_number": "e",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Oberinsp. Ing. Dittrich: Unsere Bruchmoore und ihre Aufforstung",
+        "chapter_number": "f",
+        "page_number": "18",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Führer für die Exkursion in die Reviere Neudorf und Reizenhain",
+    "chapter_number": "4",
+    "page_number": "19",
+    "children": []
+  }
+]

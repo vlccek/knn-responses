@@ -1,0 +1,92 @@
+
+[
+  {
+    "title": "DIVISIO OPUSCULI.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "PARS I.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "De Monarchia Affyriorum.",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Caput I. de Monarchis Assyriae usque ad Sardanapalum.",
+                "chapter_number": "",
+                "page_number": ""
+              },
+              {
+                "title": "Caput II. De Monarchis Assyriae a Sarda-napalo usque ad Monarchiae illius finem.",
+                "chapter_number": "",
+                "page_number": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "PARS II.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "De Monarchia Perfarum.",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Caput I. De primis quinque Monarchis Persiae.",
+                "chapter_number": "",
+                "page_number": ""
+              },
+              {
+                "title": "Caput II. De quinque posterioribus Persiae Monarchis.",
+                "chapter_number": "",
+                "page_number": ""
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "PARS III.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "De Monarchia Graecorum.",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "De Statu Graeciae ante Monarchiam.",
+                "chapter_number": "",
+                "page_number": ""
+              },
+              {
+                "title": "Caput I. De primis veteris Graeciae temporibus.",
+                "chapter_number": "",
+                "page_number": ""
+              },
+              {
+                "title": "Caput II. De tempore medio antiquae Graeciae.",
+                "chapter_number": "",
+                "page_number": ""
+              },
+              {
+                "title": "Caput III. De tempore postremo Graeciae veteris ante erectam Monarchiam.",
+                "chapter_number": "",
+                "page_number": ""
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

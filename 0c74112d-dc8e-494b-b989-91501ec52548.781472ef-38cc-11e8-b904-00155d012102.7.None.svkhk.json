@@ -1,0 +1,124 @@
+
+[
+  {
+    "title": "Eine hehre Totenfeier.",
+    "chapter_number": "17",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Den treuen Sachsen.",
+    "chapter_number": "18",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Auf dem Kapellenberge bei Trautenau.",
+    "chapter_number": "19",
+    "page_number": "24",
+    "children": [
+      {
+        "title": "Ansicht der historischen Kapelle",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "An General Fragnern.",
+    "chapter_number": "20",
+    "page_number": "25",
+    "children": [
+      {
+        "title": "Teilansicht des Soldatenfriedhofes bei Nachod",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Leuchtend geendet.",
+    "chapter_number": "21",
+    "page_number": "27",
+    "children": [
+      {
+        "title": "Soldatenfriedhof bei Skalitz.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Unsere Reiter.",
+    "chapter_number": "22",
+    "page_number": "29",
+    "children": [
+      {
+        "title": "Denkmal an der Straße »Trautenau-Parschnitz« mit der Inschrift: »Dem erstgefallenen Helden der Windisch-Graetz-Dragoner«.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Unsere Kanoniere.",
+    "chapter_number": "23",
+    "page_number": "31",
+    "children": [
+      {
+        "title": "Das »Von der Groeben«-Denkmal der »Batterie der Toten« zwischen Chlum und Lipa.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Unsere Infanterie und unsere Jäger.",
+    "chapter_number": "24",
+    "page_number": "33",
+    "children": [
+      {
+        "title": "Ansicht der Chlumer Kirche und Umgebung nach der Schlacht von Königgrätz",
+        "chapter_number": "a",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Madonnenbild auf der rechten Innenseite der Kirche, gewidmet von Weiland Ihrer Majestät",
+        "chapter_number": "b",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Ansicht des Innern der Chlumer Kirche",
+        "chapter_number": "c",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Denkmal auf der linken Innenseite der Kirche, gewidmet von Sr. Majestät den Gefallenen der österreichischen und sächsischen Armee",
+        "chapter_number": "d",
+        "page_number": "37",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Das Kaiserlied.",
+    "chapter_number": "25",
+    "page_number": "39",
+    "children": [
+      {
+        "title": "Bildniß Sr. Majestät des Kaisers",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

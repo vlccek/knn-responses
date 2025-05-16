@@ -1,0 +1,231 @@
+
+[
+  {
+    "title": "Königreich Hannover",
+    "chapter_number": "5",
+    "page_number": "286",
+    "children": []
+  },
+  {
+    "title": "Königreich Württemberg",
+    "chapter_number": "6",
+    "page_number": "288",
+    "children": []
+  },
+  {
+    "title": "Großherzogthum Baden",
+    "chapter_number": "7",
+    "page_number": "289",
+    "children": []
+  },
+  {
+    "title": "Großherzogthum Hessen",
+    "chapter_number": "8",
+    "page_number": "291",
+    "children": []
+  },
+  {
+    "title": "Kurfürstenthum Hessen",
+    "chapter_number": "9",
+    "page_number": "292",
+    "children": []
+  },
+  {
+    "title": "Großherzogthum Mecklenburg-Schwerin",
+    "chapter_number": "10",
+    "page_number": "293",
+    "children": []
+  },
+  {
+    "title": "Großherzogthum Mecklenburg-Strelitz",
+    "chapter_number": "11",
+    "page_number": "293",
+    "children": []
+  },
+  {
+    "title": "Großherzogthum Oldenburg",
+    "chapter_number": "12",
+    "page_number": "294",
+    "children": []
+  },
+  {
+    "title": "Großherzogthum Sachsen-Weimar-Eisenach",
+    "chapter_number": "13",
+    "page_number": "294",
+    "children": []
+  },
+  {
+    "title": "Großherzogthum Luxemburg",
+    "chapter_number": "14",
+    "page_number": "295",
+    "children": []
+  },
+  {
+    "title": "Herzogthum Nassau",
+    "chapter_number": "15",
+    "page_number": "295",
+    "children": []
+  },
+  {
+    "title": "Herzogthum Braunschweig",
+    "chapter_number": "16",
+    "page_number": "296",
+    "children": []
+  },
+  {
+    "title": "Die sächsischen Herzogthümer",
+    "chapter_number": "17. 18. 19",
+    "page_number": "296",
+    "children": []
+  },
+  {
+    "title": "Die anhaltischen Herzogthümer",
+    "chapter_number": "20. 21",
+    "page_number": "297",
+    "children": []
+  },
+  {
+    "title": "Die Fürstenthümer Schwarzburg",
+    "chapter_number": "22. 23",
+    "page_number": "298",
+    "children": []
+  },
+  {
+    "title": "Die Fürstenthümer Lippe- (Detmold und Schaumburg)",
+    "chapter_number": "24. 25",
+    "page_number": "298",
+    "children": []
+  },
+  {
+    "title": "Die reußischen Fürstenthümer",
+    "chapter_number": "26. 27",
+    "page_number": "298",
+    "children": []
+  },
+  {
+    "title": "Fürstenthum Waldeck-Pyrmont",
+    "chapter_number": "28",
+    "page_number": "299",
+    "children": []
+  },
+  {
+    "title": "Fürstenthum Liechtenstein",
+    "chapter_number": "29",
+    "page_number": "299",
+    "children": []
+  },
+  {
+    "title": "Landgrafschaft Hessen-Homburg",
+    "chapter_number": "30",
+    "page_number": "299",
+    "children": []
+  },
+  {
+    "title": "Die freien Städte",
+    "chapter_number": "31. 32. 33. 34",
+    "page_number": "299",
+    "children": []
+  },
+  {
+    "title": "Die Herzogthümer Holstein-Lauenburg und Limburg",
+    "chapter_number": "35. 36",
+    "page_number": "300",
+    "children": []
+  },
+  {
+    "title": "Königreich Preußen",
+    "chapter_number": "III",
+    "page_number": "300",
+    "children": []
+  },
+  {
+    "title": "Vereinigtes Königreich Großbritannien und Irland",
+    "chapter_number": "IV",
+    "page_number": "307",
+    "children": []
+  },
+  {
+    "title": "Kaiserthum Frankreich",
+    "chapter_number": "V",
+    "page_number": "315",
+    "children": []
+  },
+  {
+    "title": "Kaiserthum Rußland",
+    "chapter_number": "VI",
+    "page_number": "322",
+    "children": []
+  },
+  {
+    "title": "Italien",
+    "chapter_number": "VII",
+    "page_number": "330",
+    "children": []
+  },
+  {
+    "title": "Königreich Spanien",
+    "chapter_number": "VIII",
+    "page_number": "339",
+    "children": []
+  },
+  {
+    "title": "Königreich Portugal",
+    "chapter_number": "IX",
+    "page_number": "344",
+    "children": []
+  },
+  {
+    "title": "Königreiche Schweden und Norwegen",
+    "chapter_number": "X",
+    "page_number": "346",
+    "children": []
+  },
+  {
+    "title": "Königreich Dänemark",
+    "chapter_number": "XI",
+    "page_number": "350",
+    "children": []
+  },
+  {
+    "title": "Königreich der Niederlande",
+    "chapter_number": "XII",
+    "page_number": "353",
+    "children": []
+  },
+  {
+    "title": "Königreich Belgien",
+    "chapter_number": "XIII",
+    "page_number": "356",
+    "children": []
+  },
+  {
+    "title": "Die Schweiz",
+    "chapter_number": "XIV",
+    "page_number": "358",
+    "children": []
+  },
+  {
+    "title": "Republik der ionischen Inseln",
+    "chapter_number": "XV",
+    "page_number": "362",
+    "children": []
+  },
+  {
+    "title": "Königreich Griechenland",
+    "chapter_number": "XVI",
+    "page_number": "363",
+    "children": []
+  },
+  {
+    "title": "Osmanisches Kaiserreich",
+    "chapter_number": "XVII",
+    "page_number": "366",
+    "children": []
+  },
+  {
+    "title": "Fürstenthum Montenegro",
+    "chapter_number": "XVIII",
+    "page_number": "371",
+    "children": []
+  }
+]

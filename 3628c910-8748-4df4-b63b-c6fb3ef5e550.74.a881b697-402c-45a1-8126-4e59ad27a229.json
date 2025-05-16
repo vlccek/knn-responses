@@ -1,0 +1,156 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Kláštery a knihy:",
+    "chapter_number": "I",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Vedení klášterních knihoven",
+        "chapter_number": "1",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Psaní knih",
+        "chapter_number": "2",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Myšlenkové proudění podle knih",
+        "chapter_number": "3",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Jednotlivci a kniha",
+        "chapter_number": "4",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Klášterní písemnosti",
+        "chapter_number": "5",
+        "page_number": "17",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Literární činnost řeholníků:",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Biblikum",
+        "chapter_number": "1",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Dogmatika",
+        "chapter_number": "2",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Morálka",
+        "chapter_number": "3",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Asketika a mystika",
+        "chapter_number": "4",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Apologetika",
+        "chapter_number": "5",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Pastorálka",
+        "chapter_number": "6",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Církevní právo",
+        "chapter_number": "7",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Kázání",
+        "chapter_number": "8",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Sbírky modliteb",
+        "chapter_number": "9",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Spisy politické",
+        "chapter_number": "10",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Profánní vědy",
+        "chapter_number": "11",
+        "page_number": "33",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Způsob klášterního hospodářství",
+    "chapter_number": "III",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Kláštery a poddaný lid",
+    "chapter_number": "IV",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Řehole a charita:",
+    "chapter_number": "V",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Pohostinství",
+        "chapter_number": "1",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Péče o chudé",
+        "chapter_number": "2",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Ošetřování nemocných",
+        "chapter_number": "3",
+        "page_number": "66",
+        "children": []
+      }
+    ]
+  }
+]

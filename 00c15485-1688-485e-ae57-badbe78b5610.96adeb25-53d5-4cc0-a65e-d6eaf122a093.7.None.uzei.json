@@ -1,0 +1,135 @@
+
+[
+  {
+    "title": "Loterie.",
+    "chapter_number": "",
+    "page_number": "62",
+    "children": [
+      {
+        "title": "Malá loterie číslová",
+        "chapter_number": "I",
+        "page_number": "62",
+        "children": [
+          {
+            "title": "Ze statistiky číslové loterie",
+            "chapter_number": "",
+            "page_number": "65",
+            "children": []
+          },
+          {
+            "title": "Zrušování malé loterie",
+            "chapter_number": "",
+            "page_number": "68",
+            "children": []
+          },
+          {
+            "title": "Loterie třídní",
+            "chapter_number": "",
+            "page_number": "68",
+            "children": []
+          },
+          {
+            "title": "Věcné loterie",
+            "chapter_number": "",
+            "page_number": "70",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Loterie spořitelní",
+        "chapter_number": "II",
+        "page_number": "73",
+        "children": [
+          {
+            "title": "Projekty Kherlův",
+            "chapter_number": "",
+            "page_number": "73",
+            "children": []
+          },
+          {
+            "title": "Reitlerův",
+            "chapter_number": "",
+            "page_number": "74",
+            "children": []
+          },
+          {
+            "title": "Christofův",
+            "chapter_number": "",
+            "page_number": "76",
+            "children": []
+          },
+          {
+            "title": "Loterie úsporová",
+            "chapter_number": "",
+            "page_number": "78",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Sprostředkování práce.",
+    "chapter_number": "",
+    "page_number": "81",
+    "children": [
+      {
+        "title": "Upravení sprostředkování práce",
+        "chapter_number": "I",
+        "page_number": "81",
+        "children": [
+          {
+            "title": "Význam veřejného sprostředkování práce",
+            "chapter_number": "",
+            "page_number": "82",
+            "children": []
+          },
+          {
+            "title": "Sprostředkování práce v Bavořích",
+            "chapter_number": "",
+            "page_number": "82",
+            "children": []
+          },
+          {
+            "title": "v Prusku, Virtembersku, Švýcarsku",
+            "chapter_number": "",
+            "page_number": "84",
+            "children": []
+          },
+          {
+            "title": "Pokusy o upravení sprostředkování práce v Čechách pomocí stravoven",
+            "chapter_number": "",
+            "page_number": "85",
+            "children": []
+          },
+          {
+            "title": "Reformní návrhy zemského výboru",
+            "chapter_number": "",
+            "page_number": "88",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Hlavní účele sprostředkování práce",
+        "chapter_number": "II",
+        "page_number": "94",
+        "children": [
+          {
+            "title": "Spor o kompetenci při zákonném upravení sprostředkování práce",
+            "chapter_number": "",
+            "page_number": "95",
+            "children": []
+          },
+          {
+            "title": "Osnova zemského zákona",
+            "chapter_number": "",
+            "page_number": "97",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

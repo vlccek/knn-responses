@@ -1,0 +1,4 @@
+n the OCR output and the image, it seems this page is a title page and does not contain any chapter structure information. Therefore, the appropriate JSON output is an empty array.
+
+```json
+[]

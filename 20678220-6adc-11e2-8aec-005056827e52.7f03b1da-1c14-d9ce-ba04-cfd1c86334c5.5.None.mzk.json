@@ -1,0 +1,57 @@
+
+[
+  {
+    "title": "Schöne Literatur und Belletristik (deutsch und ausländisch)",
+    "chapter_number": "L",
+    "page_number": "1-37",
+    "children": []
+  },
+  {
+    "title": "Geschichte, Kunst, Literaturgeschichte, Cultur- u. Kunstgeschichte, Biografie",
+    "chapter_number": "H",
+    "page_number": "37-50",
+    "children": []
+  },
+  {
+    "title": "Naturwissenschaften, Medicin, Geografie, Völkerkunde, Reisen, Atlanten, Mathematik",
+    "chapter_number": "N",
+    "page_number": "50-62",
+    "children": []
+  },
+  {
+    "title": "Rechtswissenschaft, Politik, Volkswirtschaft und Statistik",
+    "chapter_number": "R",
+    "page_number": "62-67",
+    "children": []
+  },
+  {
+    "title": "Philosofie, Religion, Pädagogik, Sprachen, Wörterbücher",
+    "chapter_number": "P",
+    "page_number": "67-72",
+    "children": []
+  },
+  {
+    "title": "Technisch-gewerbliche Werke, Verkehr und Industrie, Handel, Land- und Forstwirtschaft",
+    "chapter_number": "T",
+    "page_number": "72-78",
+    "children": []
+  },
+  {
+    "title": "Zeitschriften (mit Ausnahme der wissenschaftlichen Sachblätter, die unter der betreffenden Wissenschaft eingereiht sind), Kalender, Lerica",
+    "chapter_number": "Z",
+    "page_number": "78-81",
+    "children": []
+  },
+  {
+    "title": "Vermischtes",
+    "chapter_number": "V",
+    "page_number": "82-91",
+    "children": []
+  },
+  {
+    "title": "Josefinische Bucherei (aus dieser Sammlung werden Bücher bloß zum Gebrauche im Lesesaal ausgefolgt)",
+    "chapter_number": "J",
+    "page_number": "91-98",
+    "children": []
+  }
+]

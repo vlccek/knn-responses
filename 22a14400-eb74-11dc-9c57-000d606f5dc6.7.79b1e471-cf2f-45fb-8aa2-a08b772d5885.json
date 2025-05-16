@@ -1,0 +1,57 @@
+
+[
+  {
+    "title": "Knihy a brošury",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Překlady knih z jazyka francouzského, při nichž autoři neudáni.",
+    "chapter_number": "II",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Překlady uveřejněné v časopisech.",
+    "chapter_number": "III",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Drobnější články atd. (překlady obsažené v dílech samostatně vydaných a belletristických sbírkách",
+    "chapter_number": "IV",
+    "page_number": "114",
+    "children": []
+  },
+  {
+    "title": "Drobnější překlady, při nichž autoři neudáni, uveřejněné v časopisech a dílech (označené obyčejně: „z francouzského\").",
+    "chapter_number": "V",
+    "page_number": "122",
+    "children": []
+  },
+  {
+    "title": "Rukopisy",
+    "chapter_number": "VI",
+    "page_number": "131",
+    "children": []
+  },
+  {
+    "title": "Seznam některých děl francouzských o Čechách pojednávajících.",
+    "chapter_number": "VII",
+    "page_number": "157",
+    "children": []
+  },
+  {
+    "title": "Doplňky oddělení I. a III.",
+    "chapter_number": "VIII",
+    "page_number": "162",
+    "children": []
+  },
+  {
+    "title": "Seznam překladatelů děl, uvedených v části I. a II. a v doplňku",
+    "chapter_number": "IX",
+    "page_number": "164",
+    "children": []
+  }
+]

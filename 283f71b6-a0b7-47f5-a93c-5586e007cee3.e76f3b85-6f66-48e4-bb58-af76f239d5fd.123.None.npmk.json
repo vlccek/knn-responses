@@ -1,0 +1,64 @@
+
+[
+  {
+    "title": "Vévodství Korutanské",
+    "chapter_number": "9",
+    "page_number": "101",
+    "children": []
+  },
+  {
+    "title": "Krajinské",
+    "chapter_number": "10",
+    "page_number": "101",
+    "children": []
+  },
+  {
+    "title": "Přímoří",
+    "chapter_number": "11",
+    "page_number": "102",
+    "children": []
+  },
+  {
+    "title": "Království Dalmatské",
+    "chapter_number": "12",
+    "page_number": "104",
+    "children": []
+  },
+  {
+    "title": "Haličské",
+    "chapter_number": "13",
+    "page_number": "106",
+    "children": []
+  },
+  {
+    "title": "Vévodství Bukovinské",
+    "chapter_number": "14",
+    "page_number": "107",
+    "children": []
+  },
+  {
+    "title": "Koruna uherská",
+    "chapter_number": "II",
+    "page_number": "108",
+    "children": [
+      {
+        "title": "Království Uherské (se Sedmihradskem a Rjekou)",
+        "chapter_number": "1",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Království Charvátsko-Slavonské",
+        "chapter_number": "2",
+        "page_number": "116",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Bosna s Hercegovinou",
+    "chapter_number": "III",
+    "page_number": "116",
+    "children": []
+  }
+]

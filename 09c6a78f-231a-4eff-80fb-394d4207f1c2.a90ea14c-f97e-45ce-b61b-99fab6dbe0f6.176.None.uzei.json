@@ -1,0 +1,58 @@
+
+[
+  {
+    "title": "O soukromé spotřebě",
+    "chapter_number": "§. 34",
+    "page_number": "119",
+    "children": []
+  },
+  {
+    "title": "O veřejné aneb pospolité spotřebě",
+    "chapter_number": "§. 35",
+    "page_number": "123",
+    "children": []
+  },
+  {
+    "title": "O berni a dani",
+    "chapter_number": "§. 36",
+    "page_number": "128",
+    "children": []
+  },
+  {
+    "title": "O veřejných dluzích",
+    "chapter_number": "§. 37",
+    "page_number": "138",
+    "children": []
+  },
+  {
+    "title": "O pospolitém bankerotu",
+    "chapter_number": "§. 38",
+    "page_number": "147",
+    "children": []
+  },
+  {
+    "title": "O veřejném či pospolitém hospodářství",
+    "chapter_number": "§. 39",
+    "page_number": "148",
+    "children": []
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O množení obyvatelstva",
+        "chapter_number": "",
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "Slovo o národnohospodářských spisech vůbec a českých zvláště",
+        "chapter_number": "",
+        "page_number": "154",
+        "children": []
+      }
+    ]
+  }
+]

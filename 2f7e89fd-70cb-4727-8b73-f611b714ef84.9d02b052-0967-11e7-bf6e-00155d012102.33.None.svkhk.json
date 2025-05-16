@@ -1,0 +1,95 @@
+
+[
+  {
+    "title": "Prooemium",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "De prima Congregatione generali",
+    "chapter_number": "",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "De prima Sessione publica",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "De Congregationibus particularibus",
+    "chapter_number": "",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "De secunda Congregatione generali et altera Sessione publica",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "De tertia Congregatione generali et ultima Sessione publica",
+    "chapter_number": "",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Preces in Congregationibus faciendae",
+    "chapter_number": "",
+    "page_number": "12",
+    "children": [
+      {
+        "title": "ante actionem",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "post actionem",
+    "chapter_number": "",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Preces in Sessionibus publicis faciendae",
+    "chapter_number": "",
+    "page_number": "14",
+    "children": [
+      {
+        "title": "in prima Sessione",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "in altera Sessione",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "in tertia Sessione",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Suffragia in fine Synodi",
+    "chapter_number": "",
+    "page_number": "28",
+    "children": []
+  },
+  {
+    "title": "Forma Professionis fidei",
+    "chapter_number": "",
+    "page_number": "30",
+    "children": []
+  }
+]

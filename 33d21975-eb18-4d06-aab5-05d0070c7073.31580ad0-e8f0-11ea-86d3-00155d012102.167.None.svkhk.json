@@ -1,0 +1,108 @@
+
+[
+  {
+    "title": "Počty a nauka o tvarech měřických",
+    "chapter_number": "Kapitola I",
+    "page_number": "5",
+    "children": [
+      {
+        "title": "Počty",
+        "chapter_number": "A",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Nauka o tvarech měřických",
+        "chapter_number": "B",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "O měrách, váhách, penězích a p.",
+        "chapter_number": "C",
+        "page_number": "40",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zeměpis",
+    "chapter_number": "Kapitola II",
+    "page_number": "45",
+    "children": [
+      {
+        "title": "O zeměpise přírodním a politickém",
+        "chapter_number": "A",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "O zeměpise matematickém a astronomickém",
+        "chapter_number": "B",
+        "page_number": "95",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dějepis",
+    "chapter_number": "Kapitola III",
+    "page_number": "112",
+    "children": [
+      {
+        "title": "O dějepise vlastním",
+        "chapter_number": "A",
+        "page_number": "112",
+        "children": []
+      },
+      {
+        "title": "O ústavě",
+        "chapter_number": "B",
+        "page_number": "124",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kreslení",
+    "chapter_number": "Kapitola IV",
+    "page_number": "128",
+    "children": []
+  },
+  {
+    "title": "Psaní",
+    "chapter_number": "Kapitola V",
+    "page_number": "135",
+    "children": []
+  },
+  {
+    "title": "Zpěv",
+    "chapter_number": "Kapitola VI",
+    "page_number": "141",
+    "children": []
+  },
+  {
+    "title": "Tělocvik",
+    "chapter_number": "Kapitola VII",
+    "page_number": "145",
+    "children": []
+  },
+  {
+    "title": "Dodatky a opravy",
+    "chapter_number": "",
+    "page_number": "148",
+    "children": []
+  },
+  {
+    "title": "Adresář",
+    "chapter_number": "",
+    "page_number": "152",
+    "children": []
+  },
+  {
+    "title": "Ukazovatel (ku všem třem dílům)",
+    "chapter_number": "",
+    "page_number": "156",
+    "children": []
+  }
+]

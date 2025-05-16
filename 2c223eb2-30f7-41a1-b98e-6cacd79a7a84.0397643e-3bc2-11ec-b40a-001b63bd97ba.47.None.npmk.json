@@ -1,0 +1,193 @@
+
+[
+  {
+    "title": "Časoslovo",
+    "chapter_number": "V",
+    "page_number": "24",
+    "children": [
+      {
+        "title": "O čase",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Osoba a číslo",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Způsob",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Význam",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Časování časoslov",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Příslovky",
+    "chapter_number": "VI",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Předložky",
+    "chapter_number": "VII",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Spojky",
+    "chapter_number": "VIII",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Citoslovce",
+    "chapter_number": "IX",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Oddíl III",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": [
+      {
+        "title": "O větách",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Čím se podmět vyjádřuje",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Čím se výrok vyjádřuje",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Věta jednoduchá",
+        "chapter_number": "A",
+        "page_number": "36",
+        "children": [
+          {
+            "title": "Vedlejší členy věty :",
+            "chapter_number": "",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Přívlastek",
+            "chapter_number": "I",
+            "page_number": "37",
+            "children": []
+          },
+          {
+            "title": "Předmět",
+            "chapter_number": "II",
+            "page_number": "38",
+            "children": []
+          },
+          {
+            "title": "Příslovkové určení výroku",
+            "chapter_number": "III",
+            "page_number": "39",
+            "children": []
+          },
+          {
+            "title": "Slovosled",
+            "chapter_number": "",
+            "page_number": "40",
+            "children": []
+          },
+          {
+            "title": "Rozbor jednoduché věty",
+            "chapter_number": "",
+            "page_number": "40",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Věta složená",
+        "chapter_number": "B",
+        "page_number": "41",
+        "children": [
+          {
+            "title": "Souřadně složená věta",
+            "chapter_number": "",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Podřadně složená věta",
+            "chapter_number": "",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Podmětná věta",
+            "chapter_number": "",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Předmětná věta",
+            "chapter_number": "",
+            "page_number": "44",
+            "children": []
+          },
+          {
+            "title": "Přívlastková věta",
+            "chapter_number": "",
+            "page_number": "44",
+            "children": []
+          },
+          {
+            "title": "Příslovkové věty",
+            "chapter_number": "",
+            "page_number": "45",
+            "children": []
+          },
+          {
+            "title": "Věta zkrácená",
+            "chapter_number": "",
+            "page_number": "46",
+            "children": []
+          },
+          {
+            "title": "Přímá a nepřímá řeč",
+            "chapter_number": "",
+            "page_number": "46",
+            "children": []
+          },
+          {
+            "title": "Obvětí (perioda)",
+            "chapter_number": "",
+            "page_number": "46",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

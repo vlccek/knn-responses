@@ -1,0 +1,167 @@
+
+[
+  {
+    "title": "Appretura",
+    "chapter_number": "D",
+    "page_number": "181",
+    "children": [
+      {
+        "title": "Pojem o rozdělení prostředků appretačních",
+        "chapter_number": "",
+        "page_number": "181",
+        "children": []
+      },
+      {
+        "title": "Appretace výrobků vlněných",
+        "chapter_number": "1",
+        "page_number": "183",
+        "children": []
+      },
+      {
+        "title": "Appretace hedvábí",
+        "chapter_number": "2",
+        "page_number": "183",
+        "children": []
+      },
+      {
+        "title": "Appretace bavlny a Inu",
+        "chapter_number": "3",
+        "page_number": "184",
+        "children": []
+      },
+      {
+        "title": "Appretace tkaniv míchaných",
+        "chapter_number": "4",
+        "page_number": "184",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Průmysl cellulosový",
+    "chapter_number": "E",
+    "page_number": "185",
+    "children": [
+      {
+        "title": "Všeobecný úvod",
+        "chapter_number": "",
+        "page_number": "185",
+        "children": []
+      },
+      {
+        "title": "Výroba cellulosy a papíru",
+        "chapter_number": "1",
+        "page_number": "187",
+        "children": [
+          {
+            "title": "Příprava suroviny",
+            "chapter_number": "a",
+            "page_number": "187",
+            "children": [
+              {
+                "title": "Výroba dřevoviny",
+                "chapter_number": "α",
+                "page_number": "187",
+                "children": []
+              },
+              {
+                "title": "Výroba cellulosy",
+                "chapter_number": "β",
+                "page_number": "188",
+                "children": []
+              },
+              {
+                "title": "Výroba hadroviny",
+                "chapter_number": "y",
+                "page_number": "195",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Výroba papíru",
+            "chapter_number": "b",
+            "page_number": "200",
+            "children": [
+              {
+                "title": "Způsob strojní",
+                "chapter_number": "α",
+                "page_number": "200",
+                "children": []
+              },
+              {
+                "title": "Způsob ruční",
+                "chapter_number": "β",
+                "page_number": "210",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Chemický průmysl cellulosy",
+        "chapter_number": "2",
+        "page_number": "211",
+        "children": [
+          {
+            "title": "Výroba rostlinného pergamenu",
+            "chapter_number": "a",
+            "page_number": "211",
+            "children": []
+          },
+          {
+            "title": "Průmysl celluloidový",
+            "chapter_number": "b",
+            "page_number": "213",
+            "children": [
+              {
+                "title": "Výroba nitrocellulosy",
+                "chapter_number": "α",
+                "page_number": "214",
+                "children": []
+              },
+              {
+                "title": "Příprava hmoty celluloidové",
+                "chapter_number": "β",
+                "page_number": "226",
+                "children": []
+              },
+              {
+                "title": "Zpracování hmoty celluloidové",
+                "chapter_number": "y",
+                "page_number": "233",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Průmysl umělého hedvábí",
+            "chapter_number": "c",
+            "page_number": "234",
+            "children": [
+              {
+                "title": "Hedvábí Chardonetovo",
+                "chapter_number": "α",
+                "page_number": "235",
+                "children": []
+              },
+              {
+                "title": "Lesklá příze",
+                "chapter_number": "β",
+                "page_number": "242",
+                "children": []
+              },
+              {
+                "title": "Hedvábí viskosové",
+                "chapter_number": "y",
+                "page_number": "243",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

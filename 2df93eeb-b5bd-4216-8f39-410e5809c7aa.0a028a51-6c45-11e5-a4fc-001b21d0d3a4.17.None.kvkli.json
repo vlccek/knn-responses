@@ -1,0 +1,160 @@
+
+[
+  {
+    "title": "Feinspinnmaschine mit Seitenbetrieb",
+    "chapter_number": "",
+    "page_number": "261",
+    "children": []
+  },
+  {
+    "title": "Feinspinnmaschine mit Mittelbetrieb",
+    "chapter_number": "",
+    "page_number": "266",
+    "children": []
+  },
+  {
+    "title": "Aufstellung des Spinnplanes für Streichwolle",
+    "chapter_number": "Fünftes Capitel",
+    "page_number": "270",
+    "children": [
+      {
+        "title": "Weife und Nummer",
+        "chapter_number": "",
+        "page_number": "271",
+        "children": []
+      },
+      {
+        "title": "Spinnplan",
+        "chapter_number": "",
+        "page_number": "275",
+        "children": []
+      },
+      {
+        "title": "Vorrichtung",
+        "chapter_number": "",
+        "page_number": "275",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Literarische Nachweisungen",
+    "chapter_number": "Anhang",
+    "page_number": "277",
+    "children": []
+  },
+  {
+    "title": "Bewegungsgesetze und Bewegungsmechanismen für die Aufwindung des Vorgarnes",
+    "chapter_number": "Vierte Abtheilung",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bewegung der Spulen durch einen Konus",
+        "chapter_number": "Erstes Capitel",
+        "page_number": "279",
+        "children": [
+          {
+            "title": "Fundamentalformeln",
+            "chapter_number": "",
+            "page_number": "282",
+            "children": []
+          },
+          {
+            "title": "Voreilende Spindel",
+            "chapter_number": "",
+            "page_number": "282",
+            "children": []
+          },
+          {
+            "title": "Voreilende Spule",
+            "chapter_number": "",
+            "page_number": "286",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Das Differenzialgetriebe",
+        "chapter_number": "Zweites Capitel",
+        "page_number": "289",
+        "children": [
+          {
+            "title": "Allgemeiner Fall",
+            "chapter_number": "",
+            "page_number": "289",
+            "children": []
+          },
+          {
+            "title": "Specielle Fälle",
+            "chapter_number": "",
+            "page_number": "293",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Bewegung der Spulen durch Verbindung des Differenzial-getriebes mit einem Konus",
+        "chapter_number": "Drittes Capitel",
+        "page_number": "295",
+        "children": [
+          {
+            "title": "Bewegung durch Kegelraddifferenzialgetriebe",
+            "chapter_number": "",
+            "page_number": "295",
+            "children": []
+          },
+          {
+            "title": "Bewegung durch Stirnraddifferenzialgetriebe",
+            "chapter_number": "",
+            "page_number": "299",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Bewegung der Spulen durch Verbindung des Differenzial-getriebes mit einem Konoidenpaar",
+        "chapter_number": "Viertes Capitel",
+        "page_number": "303",
+        "children": [
+          {
+            "title": "Berechnung des Mechanismus",
+            "chapter_number": "",
+            "page_number": "303",
+            "children": []
+          },
+          {
+            "title": "Construction der Konoide",
+            "chapter_number": "",
+            "page_number": "305",
+            "children": []
+          },
+          {
+            "title": "Regulirung der Maschine",
+            "chapter_number": "",
+            "page_number": "310",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Bewegung des Wagens",
+        "chapter_number": "Fünftes Capitel",
+        "page_number": "313",
+        "children": [
+          {
+            "title": "Fundamentalformel",
+            "chapter_number": "",
+            "page_number": "313",
+            "children": []
+          },
+          {
+            "title": "Berechnung des Mechanismus",
+            "chapter_number": "",
+            "page_number": "314",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

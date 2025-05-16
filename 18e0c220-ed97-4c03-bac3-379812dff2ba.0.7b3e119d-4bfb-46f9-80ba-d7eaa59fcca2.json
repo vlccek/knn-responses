@@ -1,0 +1,4 @@
+the JSON output based on the document analysis.  Since the provided image is a title page and not a table of contents, I'm returning an empty list.
+
+```json
+[]

@@ -1,0 +1,64 @@
+
+[
+  {
+    "title": "Smysl českých dějin",
+    "chapter_number": "",
+    "page_number": "3-22",
+    "children": []
+  },
+  {
+    "title": "O nový názor na české dějiny",
+    "chapter_number": "",
+    "page_number": "23-61",
+    "children": [
+      {
+        "title": "Husitství hnutím čistě středověkým?",
+        "chapter_number": "1",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Tábor a demokracie",
+        "chapter_number": "2",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Lipany",
+        "chapter_number": "3",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Historie a sociologie",
+        "chapter_number": "4",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Metodologická zaostalost českého dějepisectví",
+        "chapter_number": "5",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Revoluce a reakce, revolučnost a státnost",
+        "chapter_number": "6",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Palacký či Pekař?",
+        "chapter_number": "7",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Max Weber a Slavíkova nová noetika",
+        "chapter_number": "8",
+        "page_number": "61",
+        "children": []
+      }
+    ]
+  }
+]

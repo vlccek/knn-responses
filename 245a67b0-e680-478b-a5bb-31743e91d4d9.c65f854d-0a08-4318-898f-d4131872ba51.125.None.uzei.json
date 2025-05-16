@@ -1,0 +1,295 @@
+
+[
+  {
+    "title": "Politika",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Sociální otázka",
+    "chapter_number": "III",
+    "page_number": "14",
+    "children": []
+  },
+  {
+    "title": "Prostředky sociální politiky",
+    "chapter_number": "IV",
+    "page_number": "17",
+    "children": []
+  },
+  {
+    "title": "Ideály humanity",
+    "chapter_number": "V",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Sociální politika",
+    "chapter_number": "II",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Sociální politika a mravnost",
+    "chapter_number": "VI",
+    "page_number": "24",
+    "children": []
+  },
+  {
+    "title": "Vzájemný poměr společenských tříd",
+    "chapter_number": "VII",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Útěk z venkova",
+    "chapter_number": "VIII",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Venkov a sociální politika",
+    "chapter_number": "IX",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Nutnost sociální politiky v agrárním hnutí",
+    "chapter_number": "X",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Zdravotnictví v sociální politice",
+    "chapter_number": "XI",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "Ochrana zemědělské práce",
+    "chapter_number": "XII",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Sociální pojištění",
+    "chapter_number": "XIII",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Orgány sociální politiky v naší republice",
+    "chapter_number": "XIV",
+    "page_number": "67",
+    "children": [
+      {
+        "title": "Úřady a ústavy:",
+        "chapter_number": "A",
+        "page_number": "67",
+        "children": [
+          {
+            "title": "V obci",
+            "chapter_number": "1",
+            "page_number": "69",
+            "children": []
+          },
+          {
+            "title": "V okresu",
+            "chapter_number": "2",
+            "page_number": "69",
+            "children": []
+          },
+          {
+            "title": "V zemi",
+            "chapter_number": "3",
+            "page_number": "71",
+            "children": []
+          },
+          {
+            "title": "V celém státě",
+            "chapter_number": "4",
+            "page_number": "73",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Humani mí spolky",
+        "chapter_number": "B",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Korporace zájmové (odborové organisace zemědělské, družstva a pojišťovny)",
+        "chapter_number": "C",
+        "page_number": "80",
+        "children": [
+          {
+            "title": "Odborové organisace",
+            "chapter_number": "1",
+            "page_number": "80",
+            "children": []
+          },
+          {
+            "title": "Družstevnictví",
+            "chapter_number": "2",
+            "page_number": "83",
+            "children": []
+          },
+          {
+            "title": "Pojišťování",
+            "chapter_number": "3",
+            "page_number": "88",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Život venkovského lidu",
+    "chapter_number": "XV",
+    "page_number": "89",
+    "children": []
+  },
+  {
+    "title": "Úkol sociálně politického referenta jednoty republikánského dorostu československéno venkova (Pracovní pokyny.)",
+    "chapter_number": "XVI",
+    "page_number": "95",
+    "children": []
+  },
+  {
+    "title": "Sociální politika v programu republikánského dorostu československélio venkova:",
+    "chapter_number": "XVII",
+    "page_number": "105",
+    "children": [
+      {
+        "title": "Sociální politika",
+        "chapter_number": "1",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Pochopení pro sociální otázky",
+        "chapter_number": "2",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Sociální postavení venkovana",
+        "chapter_number": "3",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Práce",
+        "chapter_number": "4",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Nezaměstnanost",
+        "chapter_number": "5",
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Stávka",
+        "chapter_number": "6",
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Zemědělské dělnictvo",
+        "chapter_number": "7",
+        "page_number": "109",
+        "children": []
+      },
+      {
+        "title": "Pojištění",
+        "chapter_number": "8",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Družstevnictví",
+        "chapter_number": "9",
+        "page_number": "111",
+        "children": []
+      },
+      {
+        "title": "Pozemková reforma",
+        "chapter_number": "10",
+        "page_number": "111",
+        "children": []
+      },
+      {
+        "title": "Péče o mládež",
+        "chapter_number": "11",
+        "page_number": "112",
+        "children": []
+      },
+      {
+        "title": "Studentstvo",
+        "chapter_number": "12",
+        "page_number": "112",
+        "children": []
+      },
+      {
+        "title": "Chudinství",
+        "chapter_number": "13",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Zdravotnictví",
+        "chapter_number": "14",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Hnutí abstinentní",
+        "chapter_number": "15",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Práva starousedlých",
+        "chapter_number": "16",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Živnostníci a řemeslníci",
+        "chapter_number": "17",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Veřejní zaměstnanci",
+        "chapter_number": "18",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Sociální politika státu",
+        "chapter_number": "19",
+        "page_number": "115",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Literatura",
+    "chapter_number": "XVIII",
+    "page_number": "116",
+    "children": []
+  },
+  {
+    "title": "Ukazatel",
+    "chapter_number": null,
+    "page_number": "119",
+    "children": []
+  }
+]

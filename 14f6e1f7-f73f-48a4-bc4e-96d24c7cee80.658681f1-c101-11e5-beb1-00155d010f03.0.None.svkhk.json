@@ -1,0 +1,28 @@
+
+[
+  {
+    "title": "Bakteriologischer Befund",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Stadtquelle",
+        "chapter_number": "Nr. 1",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Rinnel- und Kriebliz-Wasser",
+        "chapter_number": "2",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Bohrloch auf der Pazwiese",
+        "chapter_number": "3",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

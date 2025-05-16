@@ -1,0 +1,421 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Obecné konstanty fysikální. Značky fysikálních jednotek. Užívané zkratky",
+    "chapter_number": "",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Obsah",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "15-55",
+    "children": [
+      {
+        "title": "Obsah a rozdělení fysiky",
+        "chapter_number": "1",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Měření fysikální",
+        "chapter_number": "2",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Chyby měření",
+        "chapter_number": "3",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Soustava měr",
+        "chapter_number": "4",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Jednotky délkové",
+        "chapter_number": "5",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Měření délek",
+        "chapter_number": "6",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Měření ploch",
+        "chapter_number": "7",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Měření objemu",
+        "chapter_number": "8",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Měření úhlů",
+        "chapter_number": "9",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Měření časová",
+        "chapter_number": "10",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Hmota",
+        "chapter_number": "11",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Váhy a vážení",
+        "chapter_number": "12",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Správnost vah",
+        "chapter_number": "13",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Citlivost vah",
+        "chapter_number": "14",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Přesnost vážení",
+        "chapter_number": "15",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Hustota",
+        "chapter_number": "16",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Měření hustoty",
+        "chapter_number": "17",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Areometry",
+        "chapter_number": "18",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Vývoj názorů o hmotě",
+        "chapter_number": "19",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Skaláry a vektory",
+        "chapter_number": "20",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Součiny vektorů",
+        "chapter_number": "21",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Skalární pole",
+        "chapter_number": "22",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Vektorové pole",
+        "chapter_number": "23",
+        "page_number": "52",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Mechanika",
+    "chapter_number": "",
+    "page_number": "56-180",
+    "children": [
+      {
+        "title": "Pohyb absolutní a relativní",
+        "chapter_number": "24",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Geomechanika",
+        "chapter_number": "I",
+        "page_number": "56-109",
+        "children": [
+          {
+            "title": "Pohyb hmotného bodu",
+            "chapter_number": "25",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Skládání pohybů",
+            "chapter_number": "26",
+            "page_number": "59",
+            "children": []
+          },
+          {
+            "title": "Pohyb křivočarý",
+            "chapter_number": "27",
+            "page_number": "59",
+            "children": []
+          },
+          {
+            "title": "Dynamika hmotného bodu",
+            "chapter_number": "28",
+            "page_number": "62",
+            "children": []
+          },
+          {
+            "title": "Skládání sil",
+            "chapter_number": "29",
+            "page_number": "65",
+            "children": []
+          },
+          {
+            "title": "Šikmý vrh",
+            "chapter_number": "30",
+            "page_number": "66",
+            "children": []
+          },
+          {
+            "title": "Pohyb harmonický",
+            "chapter_number": "31",
+            "page_number": "69",
+            "children": []
+          },
+          {
+            "title": "Tlumené kmity",
+            "chapter_number": "32",
+            "page_number": "70",
+            "children": []
+          },
+          {
+            "title": "Pohyb planet",
+            "chapter_number": "33",
+            "page_number": "72",
+            "children": []
+          },
+          {
+            "title": "Gravitační zákon",
+            "chapter_number": "34",
+            "page_number": "75",
+            "children": []
+          },
+          {
+            "title": "Impuls",
+            "chapter_number": "35",
+            "page_number": "76",
+            "children": []
+          },
+          {
+            "title": "Práce",
+            "chapter_number": "36",
+            "page_number": "77",
+            "children": []
+          },
+          {
+            "title": "Princip energie",
+            "chapter_number": "37",
+            "page_number": "79",
+            "children": []
+          },
+          {
+            "title": "Výkon",
+            "chapter_number": "38",
+            "page_number": "82",
+            "children": []
+          },
+          {
+            "title": "Mechanika tuhého tělesa",
+            "chapter_number": "39",
+            "page_number": "83",
+            "children": []
+          },
+          {
+            "title": "Statický moment síly",
+            "chapter_number": "40",
+            "page_number": "84",
+            "children": []
+          },
+          {
+            "title": "Síly v tuhém tělese",
+            "chapter_number": "41",
+            "page_number": "85",
+            "children": []
+          },
+          {
+            "title": "Těžiště (střed hmotný)",
+            "chapter_number": "42",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Momenty setrvačnosti",
+            "chapter_number": "43",
+            "page_number": "90",
+            "children": []
+          },
+          {
+            "title": "Otáčení kolem pevné osy",
+            "chapter_number": "44",
+            "page_number": "94",
+            "children": []
+          },
+          {
+            "title": "Kyvadlo",
+            "chapter_number": "45",
+            "page_number": "95",
+            "children": []
+          },
+          {
+            "title": "Kyvadlo reversní",
+            "chapter_number": "46",
+            "page_number": "98",
+            "children": []
+          },
+          {
+            "title": "Síla dostředivá a odstředívá",
+            "chapter_number": "47",
+            "page_number": "99",
+            "children": []
+          },
+          {
+            "title": "Vliv rotace zemské na tíhové zrychlení",
+            "chapter_number": "48",
+            "page_number": "102",
+            "children": []
+          },
+          {
+            "title": "Volná osa",
+            "chapter_number": "49",
+            "page_number": "104",
+            "children": []
+          },
+          {
+            "title": "Pohyby précesní",
+            "chapter_number": "50",
+            "page_number": "105",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Nauka o pružnosti a pevnosti",
+        "chapter_number": "II",
+        "page_number": "109-135",
+        "children": [
+          {
+            "title": "Pružnost",
+            "chapter_number": "51",
+            "page_number": "109",
+            "children": []
+          },
+          {
+            "title": "Pružnost v tahu",
+            "chapter_number": "52",
+            "page_number": "110",
+            "children": []
+          },
+          {
+            "title": "Ohyb tyče",
+            "chapter_number": "53",
+            "page_number": "114",
+            "children": []
+          },
+          {
+            "title": "Pružnost ve smyku",
+            "chapter_number": "54",
+            "page_number": "117",
+            "children": []
+          },
+          {
+            "title": "Pružnost v kroucení",
+            "chapter_number": "55",
+            "page_number": "120",
+            "children": []
+          },
+          {
+            "title": "Průběh velkých deformací",
+            "chapter_number": "56",
+            "page_number": "123",
+            "children": []
+          },
+          {
+            "title": "Pevnost vzpěrná",
+            "chapter_number": "57",
+            "page_number": "125",
+            "children": []
+          },
+          {
+            "title": "Pevnost v ohybu",
+            "chapter_number": "58",
+            "page_number": "126",
+            "children": []
+          },
+          {
+            "title": "Pevnost v kroucení",
+            "chapter_number": "59",
+            "page_number": "127",
+            "children": []
+          },
+          {
+            "title": "Tvrdost",
+            "chapter_number": "60",
+            "page_number": "127",
+            "children": []
+          },
+          {
+            "title": "Ráz",
+            "chapter_number": "61",
+            "page_number": "128",
+            "children": []
+          },
+          {
+            "title": "Tření",
+            "chapter_number": "62",
+            "page_number": "131",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

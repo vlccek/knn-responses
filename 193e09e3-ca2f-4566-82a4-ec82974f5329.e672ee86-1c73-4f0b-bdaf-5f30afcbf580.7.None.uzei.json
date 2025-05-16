@@ -1,0 +1,267 @@
+
+[
+  {
+    "title": "Предисловие",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Разведение домашних животных.",
+    "chapter_number": "Часть І.",
+    "page_number": "6",
+    "children": [
+      {
+        "title": "Значение животноводства",
+        "chapter_number": "І.",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Изменение органов (вариации)",
+        "chapter_number": "ІІ.",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Наследственность",
+        "chapter_number": "III.",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Породы",
+        "chapter_number": "IV.",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Способы разведения.",
+        "chapter_number": "V.",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Оценка животных",
+        "chapter_number": "VI.",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Выбор племенных животных",
+        "chapter_number": "VII.",
+        "page_number": "74",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Кормление домашних животных.",
+    "chapter_number": "Часть ІІ.",
+    "page_number": "81",
+    "children": [
+      {
+        "title": "Состав кормов и организма животных",
+        "chapter_number": "VIII.",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Процессы пищеварения",
+        "chapter_number": "ІХ.",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Переваримость кормов",
+        "chapter_number": "Х.",
+        "page_number": "117",
+        "children": []
+      },
+      {
+        "title": "Виды превращения энергии кормов в теле животных",
+        "chapter_number": "ХІ.",
+        "page_number": "122",
+        "children": []
+      },
+      {
+        "title": "Корма",
+        "chapter_number": "ХІІ.",
+        "page_number": "129",
+        "children": []
+      },
+      {
+        "title": "Составление кормовых норм",
+        "chapter_number": "ХІІІ.",
+        "page_number": "146",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Крупный рогатый скот.",
+    "chapter_number": "Часть ІІІ.",
+    "page_number": "179",
+    "children": [
+      {
+        "title": "Значение крупного скотоводства и его разведение",
+        "chapter_number": "XIV.",
+        "page_number": "193",
+        "children": []
+      },
+      {
+        "title": "Экстеръер",
+        "chapter_number": "XV.",
+        "page_number": "214",
+        "children": []
+      },
+      {
+        "title": "Породы крупного рогатого скота",
+        "chapter_number": "XVI.",
+        "page_number": "221",
+        "children": []
+      },
+      {
+        "title": "Кормление и разведение крупного рогатого скота",
+        "chapter_number": "XVII.",
+        "page_number": "244",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Коневодство.",
+    "chapter_number": "Часть IV.",
+    "page_number": "251",
+    "children": [
+      {
+        "title": "Экстеръер лошади",
+        "chapter_number": "XVIII.",
+        "page_number": "282",
+        "children": []
+      },
+      {
+        "title": "Разведение лошадей",
+        "chapter_number": "ХІХ.",
+        "page_number": "286",
+        "children": []
+      },
+      {
+        "title": "Породы лошадей",
+        "chapter_number": "ХХ.",
+        "page_number": "290",
+        "children": []
+      },
+      {
+        "title": "Кормление лошадей.",
+        "chapter_number": "ХХІ.",
+        "page_number": "302",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Свиноводство.",
+    "chapter_number": "Часть V.",
+    "page_number": "306",
+    "children": [
+      {
+        "title": "Разведение свиней",
+        "chapter_number": "ХХІІ.",
+        "page_number": "309",
+        "children": []
+      },
+      {
+        "title": "Породы свиней",
+        "chapter_number": "ХХІІІ.",
+        "page_number": "312",
+        "children": []
+      },
+      {
+        "title": "Кормление свиней",
+        "chapter_number": "XXIV.",
+        "page_number": "314",
+        "children": []
+      },
+      {
+        "title": "Содержание свиней",
+        "chapter_number": "XXV.",
+        "page_number": "315",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Овцеводство.",
+    "chapter_number": "Часть VI.",
+    "page_number": "316",
+    "children": [
+      {
+        "title": "Цели овцеводства.",
+        "chapter_number": "XXVI.",
+        "page_number": "317",
+        "children": []
+      },
+      {
+        "title": "Породы овец",
+        "chapter_number": "ХХVІІ.",
+        "page_number": "322",
+        "children": []
+      },
+      {
+        "title": "Кормление овец",
+        "chapter_number": "XXVIII.",
+        "page_number": "286",
+        "children": []
+      },
+      {
+        "title": "Разведение овец",
+        "chapter_number": "ХХІХ.",
+        "page_number": "290",
+        "children": []
+      },
+       {
+        "title": "Процентное содержание перевар. пит. веществ",
+        "chapter_number": "Приложение І.",
+        "page_number": "302",
+        "children": []
+      },
+      {
+        "title": "Кормовые нормы по Кельнеру",
+        "chapter_number": "ІІ.",
+        "page_number": "306",
+        "children": []
+      },
+      {
+        "title": "Группы животных",
+        "chapter_number": "ІІІ.",
+        "page_number": "309",
+        "children": []
+      },
+      {
+        "title": "Шведско-Датские кормовые единицы",
+        "chapter_number": "IV.",
+        "page_number": "312",
+        "children": []
+      },
+      {
+        "title": "Устройство конюшен, хлевов",
+        "chapter_number": "V.",
+        "page_number": "314",
+        "children": []
+      },
+      {
+        "title": "Таблицы Клювер-Штрауха",
+        "chapter_number": "VI.",
+        "page_number": "315",
+        "children": []
+      }
+    ]
+  },
+    {
+    "title": "Алфавитный указатель",
+    "chapter_number": "",
+    "page_number": "316",
+    "children": []
+  }
+]

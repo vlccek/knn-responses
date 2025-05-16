@@ -1,0 +1,355 @@
+
+[
+  {
+    "title": "ZVÍŘATA A ROSTLINY.",
+    "chapter_number": "C",
+    "page_number": "207",
+    "children": [
+      {
+        "title": "Škůdci rostlin.",
+        "chapter_number": "1",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Obrana rostlin.",
+        "chapter_number": "2",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Rozšiřování rostlin zvířaty.",
+        "chapter_number": "3",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Soužití.",
+        "chapter_number": "4",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Mravenci a rostliny (obrana proti újedníkům medů, nektar mravencům, mravenci pěstitelé hub, mravenci zahradníci, rostliny mravencomilné).",
+        "chapter_number": "5",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Hálky.",
+        "chapter_number": "6",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Rostliny cizopasící na zvířatech.",
+        "chapter_number": "7",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Rostliny hmyzomorné.",
+        "chapter_number": "8",
+        "page_number": "89-92",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "BIOLOGIE KVĚTU.",
+    "chapter_number": "D",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Sebeopylení",
+        "chapter_number": "A",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "opylení větrem",
+        "chapter_number": "B",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "vodou",
+        "chapter_number": "C",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "zvířaty",
+        "chapter_number": "D",
+        "page_number": "92-97",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "ZEMĚPISNÉ ROZŠÍŘENÍ ROSTLIN A ZVÍŘAT.",
+    "chapter_number": "III",
+    "page_number": null,
+    "children": [
+      {
+        "title": "ZEMĚPISNÉ ROZŠÍŘENÍ ROSTLIN.",
+        "chapter_number": "A",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Útvary rostlinné a rostlinná společenstva: Ráz květeny.",
+            "chapter_number": "1",
+            "page_number": null,
+            "children": [
+              {
+                "title": "Lesní útvary: prales (liany), les subtropický, listnatý a jehličnatý les mírného pásma. Porost. Křoviny: maquis, skrab.",
+                "chapter_number": "A",
+                "page_number": "121",
+                "children": []
+              },
+              {
+                "title": "Travnaté útvary: Pole, louky, pastviny, step, prerie, pusta, pampy, llanos, savany, cam-pos.",
+                "chapter_number": "B",
+                "page_number": "122",
+                "children": []
+              },
+              {
+                "title": "Pustinné útvary. Přehled (tabulka) – příklady vztahů mezi podnebím a rázem květeny.",
+                "chapter_number": "C",
+                "page_number": "123",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Zeměpisné oblasti rostlinné:",
+            "chapter_number": "2",
+            "page_number": "126",
+            "children": [
+              {
+                "title": "Oblast severní.",
+                "chapter_number": "1",
+                "page_number": null,
+                "children": []
+              },
+              {
+                "title": "O. jižní starého světa.",
+                "chapter_number": "2",
+                "page_number": null,
+                "children": []
+              },
+              {
+                "title": "O. střední a jižní Ameriky.",
+                "chapter_number": "3",
+                "page_number": null,
+                "children": []
+              },
+              {
+                "title": "O. australská.",
+                "chapter_number": "4",
+                "page_number": null,
+                "children": []
+              },
+              {
+                "title": "Antarktická.",
+                "chapter_number": "5",
+                "page_number": null,
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "ZEMĚPISNÉ ROZŠÍŘENÍ ZVÍŘAT.",
+        "chapter_number": "B",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Podmínky zeměpisného rozšiřování. Zvířena velehor, mořská zvířena.",
+            "chapter_number": "1",
+            "page_number": "129",
+            "children": []
+          },
+          {
+            "title": "Přehled zeměpisného rozdělení zvířat. (Tabulka.)",
+            "chapter_number": "2",
+            "page_number": "130",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "VÝVOJ TVORSTVA.",
+    "chapter_number": "IV",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Vývoj země",
+        "chapter_number": "A",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "vývoj rostlinstva: proměnlivost, způsoby změny, mutace, přehled geol. vývoje rostl.",
+        "chapter_number": "B",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Vývoj živočišstva. Přehled.",
+        "chapter_number": "C",
+        "page_number": "132-713",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "SNAHA O ZACHOVÁNÍ PŘÍRODY.",
+    "chapter_number": "V",
+    "page_number": null,
+    "children": []
+  },
+  {
+    "title": "PŘÍDAVKY.",
+    "chapter_number": "VI",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Soustavný přehled rostlin",
+        "chapter_number": "1",
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Soustavný přehled zvířat",
+        "chapter_number": "2",
+        "page_number": "149",
+        "children": []
+      },
+      {
+        "title": "Rozvoj biologie a česká biologická literatura.",
+        "chapter_number": "3",
+        "page_number": "155",
+        "children": []
+      },
+      {
+        "title": "Ukázky z problemů všeobecné biologie",
+        "chapter_number": "4",
+        "page_number": "161",
+        "children": [
+          {
+            "title": "Účelnost v přírodě (Strassen).",
+            "chapter_number": "1",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Znaky ústrojné hmoty (W. Ostwald).",
+            "chapter_number": "2",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Ústrojná látka jako kolloidní stav (W. Ostwald).",
+            "chapter_number": "3",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "O původu života.",
+            "chapter_number": "4",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Průběh života.",
+            "chapter_number": "5",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Dědičnost (podle Johanssena). Křížení (J. Peklo).",
+            "chapter_number": "6",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Theorie vývojová (Johanssen).",
+            "chapter_number": "7",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Rozvoj květeny české.",
+            "chapter_number": "8",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Rozvoj zvířeny české.",
+            "chapter_number": "9",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Proč jsou rostliny zelené (Nathanson).",
+            "chapter_number": "10",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Variace (Molisch).",
+            "chapter_number": "11",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Xenie.",
+            "chapter_number": "12",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Drobnosti praktické i theoretické (Molisch, Nussbaum, Weber, Karsten).",
+            "chapter_number": "13",
+            "page_number": "161",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Slovníček a ukazatel.",
+        "chapter_number": "5",
+        "page_number": "190",
+        "children": []
+      },
+      {
+        "title": "Doslov.",
+        "chapter_number": "7",
+        "page_number": "204",
+        "children": []
+      },
+      {
+        "title": "Obsah.",
+        "chapter_number": "6",
+        "page_number": "205",
+        "children": []
+      },
+      {
+        "title": "Opravy a doplňky.",
+        "chapter_number": "8",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Obrázky a výklad obrázkův připojen vzadu.",
+        "chapter_number": "9",
+        "page_number": "208",
+        "children": []
+      }
+    ]
+  }
+]

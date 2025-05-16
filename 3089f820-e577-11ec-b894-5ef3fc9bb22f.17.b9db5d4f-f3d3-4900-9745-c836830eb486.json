@@ -1,0 +1,45 @@
+
+[
+  {
+    "title": "Zkušební řád",
+    "chapter_number": "1",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Vysvětlivky k řádu",
+    "chapter_number": "2",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Vzor rozepsání zkoušky",
+    "chapter_number": "3",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "přihlášky ke zkoušce",
+    "chapter_number": "4",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "zápisu o zkoušce",
+    "chapter_number": "5",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "vysvědčení",
+    "chapter_number": "6",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "osvědčení",
+    "chapter_number": "7",
+    "page_number": "16",
+    "children": []
+  }
+]

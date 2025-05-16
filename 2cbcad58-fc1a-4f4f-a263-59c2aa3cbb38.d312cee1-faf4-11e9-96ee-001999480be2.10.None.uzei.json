@@ -1,0 +1,160 @@
+
+[
+  {
+    "title": "Byty dle polohy a obnosu nájemného. Byty ve vlastním domě, služební a bezplatné vůbec.",
+    "chapter_number": "A",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Byty dle rozsahu a obnosu činže. Byty ve vlastním domě, služební a bezplatné vůbec dle rozsahu",
+    "chapter_number": "B",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Zalidněnost bytů dle jich rozsahu. Byty neobydlené dle rozsahu",
+    "chapter_number": "C",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "Složení obyvatelstva dle poměru k majiteli bytu",
+    "chapter_number": "D",
+    "page_number": "82",
+    "children": []
+  },
+  {
+    "title": "Počet a složení stran v bytech",
+    "chapter_number": "E",
+    "page_number": "99",
+    "children": []
+  },
+  {
+    "title": "Doba držení bytu nynějším jeho majitelem",
+    "chapter_number": "F",
+    "page_number": "103",
+    "children": []
+  },
+  {
+    "title": "Počet a druhy částí bytu.",
+    "chapter_number": "G",
+    "page_number": "117",
+    "children": []
+  },
+  {
+    "title": "Pojištění proti ohni, lhůta placení činže, jakož i některá zařízení v bytech (zavedení vodovodu, plynu, elektřiny do bytu, umístění záchodu)",
+    "chapter_number": "H",
+    "page_number": "124",
+    "children": []
+  },
+  {
+    "title": "Závody dle polohy a obnosu nájemného. Závody ve vlastním domě, služební a bezplatné vůbec",
+    "chapter_number": "J",
+    "page_number": "127",
+    "children": []
+  },
+  {
+    "title": "Závody dle rozsahu a obnosu nájemného. Závody ve vlastním domě, služební a bezplatné vůbec dle rozsahu",
+    "chapter_number": "K",
+    "page_number": "151",
+    "children": []
+  },
+  {
+    "title": "Doba držení závodu nynějším jeho majitelem",
+    "chapter_number": "L",
+    "page_number": "173",
+    "children": []
+  },
+  {
+    "title": "Počet závodů a místností, z nichž se skládají.",
+    "chapter_number": "M",
+    "page_number": "187",
+    "children": []
+  },
+  {
+    "title": "Pojištění proti ohni, lhůta placení činže, jakož i některá zařízení v závodech (vodovod, plyn, elektřina, umístění záchodu)",
+    "chapter_number": "N",
+    "page_number": "188",
+    "children": []
+  },
+  {
+    "title": "Závody dle účelu provozování",
+    "chapter_number": "O",
+    "page_number": "191",
+    "children": []
+  },
+  {
+    "title": "Počet a druhy domů",
+    "chapter_number": "P",
+    "page_number": "202",
+    "children": []
+  },
+  {
+    "title": "Domy dle výnosu nájemného",
+    "chapter_number": "Q",
+    "page_number": "205",
+    "children": []
+  },
+  {
+    "title": "Domy dle druhů a počtu bytů, závodů, místností vůbec a dle počtu obyvatel",
+    "chapter_number": "R",
+    "page_number": "208",
+    "children": []
+  },
+  {
+    "title": "Vlastnictví domů",
+    "chapter_number": "S",
+    "page_number": "222",
+    "children": []
+  },
+  {
+    "title": "Domy dle stáří",
+    "chapter_number": "T",
+    "page_number": "225",
+    "children": []
+  },
+  {
+    "title": "Způsob, jak se dostal dům v držení nynějšího majitele",
+    "chapter_number": "U",
+    "page_number": "227",
+    "children": []
+  },
+  {
+    "title": "Rozličná zařízení v domech.",
+    "chapter_number": "V",
+    "page_number": "229",
+    "children": [
+      {
+        "title": "Poschodí, křídla domovní, schodiště",
+        "chapter_number": "I",
+        "page_number": "229",
+        "children": []
+      },
+      {
+        "title": "Krytba střech domovních, studny, vodovod, osvětlení",
+        "chapter_number": "II",
+        "page_number": "232",
+        "children": []
+      },
+      {
+        "title": "Ústřední topení, vytahovadlo, prádelna, sklepy, stáje a zahrady",
+        "chapter_number": "III",
+        "page_number": "235",
+        "children": []
+      },
+      {
+        "title": "Byty a závody v podzemí neb podkroví, žumpy, stoky a záchody",
+        "chapter_number": "IV",
+        "page_number": "238",
+        "children": []
+      },
+      {
+        "title": "Počet a umístění domovníků. Přijímání podnájemníků a noclehářů. Pojištění domů proti ohni.",
+        "chapter_number": "V",
+        "page_number": "241",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,82 @@
+
+[
+  {
+    "title": "Osobnost Marka Póla a spis jeho „Milion\"",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Kdy a kterak dostal se „Milion\" do zemi českých",
+    "chapter_number": "II",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Český překlad „Miliona\"",
+    "chapter_number": "III",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Poměr mezi básní „Jaroslav\" a spisem „Milion\"",
+    "chapter_number": "IV",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Skladba básně „Jaroslav\"",
+    "chapter_number": "V",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Rozbor básně „Jaroslav\"",
+    "chapter_number": "VI",
+    "page_number": "13",
+    "children": [
+      {
+        "title": "Úvod",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Zpěv Hostýnský",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Závěrek",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Osobnost „Jaroslava\"",
+    "chapter_number": "VII",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Rod pánův ze Sternberka a báseň „Jaroslav\"",
+    "chapter_number": "VIII",
+    "page_number": "35",
+    "children": []
+  },
+  {
+    "title": "Báseň „Jaroslav\" (text)",
+    "chapter_number": "IX",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Chlum Hostýnský a osudy jeho",
+    "chapter_number": "X",
+    "page_number": "50",
+    "children": []
+  }
+]

@@ -1,0 +1,155 @@
+
+[
+  {
+    "title": "Úvod.",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Část I.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Organisace odborné knihovny.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Hlava 1. Zřízení a správa.",
+            "chapter_number": "",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Hlava 2. Obsah knihovny",
+            "chapter_number": "",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Hlava 3. Doplňování odborných knihoven",
+            "chapter_number": "",
+            "page_number": "8",
+            "children": []
+          },
+          {
+            "title": "Hlava 4. Výběr knih",
+            "chapter_number": "",
+            "page_number": "9",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Část II.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Evidence a katalogisace.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Hlava 1. Účel a rozdělení katalogů",
+            "chapter_number": "",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "Hlava 2. Záznam došlých knih",
+            "chapter_number": "",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "Hlava 3. Inventář (Katalog přírůstkový)",
+            "chapter_number": "",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "Hlava 4. Katalog revisní (Revise)",
+            "chapter_number": "",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Hlava 5. Abecední katalog jmenný",
+            "chapter_number": "",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Hlava 6. Katalog věcný",
+            "chapter_number": "",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "Hlava 7. Katalog příruční",
+            "chapter_number": "",
+            "page_number": "15",
+            "children": []
+          },
+          {
+            "title": "Hlava 8. Periodika",
+            "chapter_number": "",
+            "page_number": "16",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Část III.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Stavění a uchovávání knih.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Hlava 1. Signatura a postavení knihy",
+            "chapter_number": "",
+            "page_number": "17",
+            "children": []
+          },
+          {
+            "title": "Hlava 2. Vazba",
+            "chapter_number": "",
+            "page_number": "19",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Část IV.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Využití knihovny.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Hlava 1. Půjčování",
+            "chapter_number": "",
+            "page_number": "20",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

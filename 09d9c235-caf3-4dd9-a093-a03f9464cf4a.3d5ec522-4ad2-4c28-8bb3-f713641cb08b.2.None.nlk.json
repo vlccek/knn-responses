@@ -1,0 +1,165 @@
+
+[
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "ČSSR",
+    "chapter_number": "I.",
+    "page_number": "" ,
+    "children": [
+      {
+        "title": "Právní sbírky",
+        "chapter_number": "",
+        "page_number": "441",
+        "children": []
+      },
+      {
+        "title": "Časopisy",
+        "chapter_number": "",
+        "page_number": "477",
+        "children": []
+      },
+      {
+        "title": "Knihy",
+        "chapter_number": "",
+        "page_number": "507",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zahraničí",
+    "chapter_number": "II.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Belgie",
+        "chapter_number": "",
+        "page_number": "509",
+        "children": []
+      },
+      {
+        "title": "Francie",
+        "chapter_number": "",
+        "page_number": "510",
+        "children": []
+      },
+      {
+        "title": "Itálie",
+        "chapter_number": "",
+        "page_number": "515",
+        "children": []
+      },
+      {
+        "title": "Maďarsko",
+        "chapter_number": "",
+        "page_number": "518",
+        "children": []
+      },
+      {
+        "title": "Německá demokratická republika",
+        "chapter_number": "",
+        "page_number": "528",
+        "children": []
+      },
+      {
+        "title": "Německá spolková republika",
+        "chapter_number": "",
+        "page_number": "541",
+        "children": []
+      },
+      {
+        "title": "Peru",
+        "chapter_number": "",
+        "page_number": "560",
+        "children": []
+      },
+      {
+        "title": "Polsko",
+        "chapter_number": "",
+        "page_number": "562",
+        "children": []
+      },
+      {
+        "title": "SSSR",
+        "chapter_number": "",
+        "page_number": "566",
+        "children": []
+      },
+      {
+        "title": "Švédsko",
+        "chapter_number": "",
+        "page_number": "569",
+        "children": []
+      },
+      {
+        "title": "Švýcarsko",
+        "chapter_number": "",
+        "page_number": "571",
+        "children": []
+      },
+      {
+        "title": "Tunis",
+        "chapter_number": "",
+        "page_number": "573",
+        "children": []
+      },
+      {
+        "title": "USA",
+        "chapter_number": "",
+        "page_number": "574",
+        "children": []
+      },
+      {
+        "title": "Velká Británie",
+        "chapter_number": "",
+        "page_number": "584",
+        "children": []
+      },
+      {
+        "title": "Různé státy",
+        "chapter_number": "",
+        "page_number": "593",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "států",
+        "chapter_number": "",
+        "page_number": "594",
+        "children": []
+      },
+      {
+        "title": "jmenný",
+        "chapter_number": "",
+        "page_number": "596",
+        "children": []
+      },
+      {
+        "title": "věcný",
+        "chapter_number": "",
+        "page_number": "600",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Informační služby",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Státního ústavu pro zdravotnickou dokumentační a knihovnickou službu",
+    "chapter_number": "",
+    "page_number": "612"
+  }
+]

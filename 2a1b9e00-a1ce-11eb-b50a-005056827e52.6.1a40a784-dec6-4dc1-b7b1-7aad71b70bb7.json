@@ -1,0 +1,92 @@
+
+[
+  {
+    "title": "Úvodní poznámky",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "OBSAH:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Oddíl A. Půda zemědělských závodů",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Tab. 1. Počet a půda zemědělských závodů",
+            "chapter_number": "",
+            "page_number": "2",
+            "children": []
+          },
+          {
+            "title": "Tab. 2. Plodiny na orné půdě zemědělských závodů:",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Část 1. (Obilniny, luštěniny a směsky na vyzrání, obchodní a průmyslové plodiny a část okopanin).",
+                "chapter_number": "",
+                "page_number": "24",
+                "children": []
+              },
+              {
+                "title": "Část 2. (Dokončení okopanin, zeleniny, pícniny, ostatní plodiny a úhor)",
+                "chapter_number": "",
+                "page_number": "46",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Tab. 3. Počet a půda zemědělských závodů v poměrných číslech.",
+            "chapter_number": "",
+            "page_number": "68",
+            "children": []
+          },
+          {
+            "title": "Tab. 4. Půda nepatřící k zemědělským závodům",
+            "chapter_number": "",
+            "page_number": "79",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Oddíl B. Hospodářské zvířectvo zemědělských závodů",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Tab. 1. Hospodářské zvířectvo v zemědělských závodech:",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Část 1. (Koně, skot a ovce)",
+                "chapter_number": "",
+                "page_number": "82",
+                "children": []
+              },
+              {
+                "title": "Část 2. (Kozy, brav vepřový a drůbež)",
+                "chapter_number": "",
+                "page_number": "104",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Tab. 2. Hospodářské zvířectvo v zemědělských závodech v poměrných číslech",
+            "chapter_number": "",
+            "page_number": "115",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

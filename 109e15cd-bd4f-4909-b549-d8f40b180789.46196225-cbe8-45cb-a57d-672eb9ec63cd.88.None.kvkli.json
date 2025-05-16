@@ -1,0 +1,52 @@
+
+[
+  {
+    "title": "Die nichtlandwirtschaftlichen Arbeitsstätten",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Die Arbeitsstätten, ihre Größengliederung und gebietliche Verteilung",
+        "chapter_number": "1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Das in den Arbeitsstätten tätige Personal",
+        "chapter_number": "2",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Die Kraftmaschinen- und Kraftfahrzeugverwendung",
+        "chapter_number": "3",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Die Unternehmungen und ihre Rechtsformen",
+        "chapter_number": "4",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Das Handwerk (Handwerkssonderzählung)",
+        "chapter_number": "5",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Hausgewerbe und Heimarbeit",
+        "chapter_number": "6",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Der Einzelhandel (Einzelhandelssonderzählung)",
+        "chapter_number": "7",
+        "page_number": "80",
+        "children": []
+      }
+    ]
+  }
+]

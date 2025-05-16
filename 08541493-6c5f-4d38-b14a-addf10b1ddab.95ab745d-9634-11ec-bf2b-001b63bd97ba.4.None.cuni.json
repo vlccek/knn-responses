@@ -1,0 +1,4 @@
+he provided image and OCR, it's clear that this is a title page, not a table of contents. Therefore, there's no chapter structure to extract. As per the instructions, the function should return an empty JSON array if no chapters are identified.
+
+```json
+[]

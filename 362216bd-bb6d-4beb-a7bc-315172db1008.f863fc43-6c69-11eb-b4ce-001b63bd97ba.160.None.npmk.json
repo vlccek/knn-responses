@@ -1,0 +1,33 @@
+
+[
+  {
+    "title": "Mendíčkové – žebráčkové",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Toulaví žáci",
+    "chapter_number": "II",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Sirotek",
+    "chapter_number": "III",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Pan učitel",
+    "chapter_number": "IV",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Dědečkovy vzpomínky",
+    "chapter_number": "V",
+    "page_number": "95",
+    "children": []
+  }
+]

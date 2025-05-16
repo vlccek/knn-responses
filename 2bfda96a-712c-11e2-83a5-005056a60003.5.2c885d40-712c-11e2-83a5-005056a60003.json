@@ -1,0 +1,149 @@
+
+[
+  {
+    "title": "Part 1: Keynote lectures",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Mechanical properties of rheonomic materials",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Elastic stress waves in solids, limits of analytical and Finite Element approaches",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Part 2: Mechanics of Solids",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Computational supports - their credibility and responsibility for them",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Solution of certain problems in geotechnics using static PFC",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Stress redistribution in pipe weldmens during creep",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Lateral inertia forces effect on the buckling of a buffer ring",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Parametric modeling of a combined loaded laminate composite in riveted aircraft fuselage junctions",
+        "chapter_number": "",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Influence of spiral weld on local stress state of wall of HP pipeline",
+        "chapter_number": "",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Study of the effect of internal pressure on local buckling of a pipe",
+        "chapter_number": "",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Computationally experimental evaluation of strain-hardness reference curves",
+        "chapter_number": "",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Static analysis of the high speed three axis unit",
+        "chapter_number": "",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Prescription of frictional resistance U, V ring cups in standstill and movement",
+        "chapter_number": "",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Application of the logarithmic description in simulation of the localisation",
+        "chapter_number": "",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Implementation of a simple algorithm for the continuous determination of the local stiffness matrix during computation",
+        "chapter_number": "",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Influence of approximation functions, integration and Poisson's ratio on properties of some 2D finite elements",
+        "chapter_number": "",
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "Domain decomposition methods in structural mechanics",
+        "chapter_number": "",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Thick plate analysis by the new contact searching algorithm",
+        "chapter_number": "",
+        "page_number": "111",
+        "children": []
+      },
+      {
+        "title": "Geomechanical aspects of the project design of high tailing in coal mine „Suvodol\" - Bitola",
+        "chapter_number": "",
+        "page_number": "115",
+        "children": []
+      },
+      {
+        "title": "Displacements and slip surfaces of granular mass behind a retaining wall - experiment E2",
+        "chapter_number": "",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "ST2D - software for determination of total strains on a surface",
+        "chapter_number": "",
+        "page_number": "129",
+        "children": []
+      },
+      {
+        "title": "Some remarks about accuracy of the experimental detection of the residual stress by the hole drilling method",
+        "chapter_number": "",
+        "page_number": "133",
+        "children": []
+      },
+      {
+        "title": "Assessment of rock drilling efficiency",
+        "chapter_number": "",
+        "page_number": "139",
+        "children": []
+      }
+    ]
+  }
+]

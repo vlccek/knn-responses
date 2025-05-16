@@ -1,0 +1,88 @@
+
+[
+  {
+    "title": "Řepa a její pěstění",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Nákup řepy",
+    "chapter_number": "",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Přejímání řepy",
+    "chapter_number": "",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Zúčtování řepy",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Určení hodnoty řepy",
+    "chapter_number": "",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Výrobky ze zpracované řepy",
+    "chapter_number": "",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Výroba, její význam a výklad",
+    "chapter_number": "",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Vzorce",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Kniha záloh řepních",
+        "chapter_number": "A",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Řepní výkazy",
+        "chapter_number": "B",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Kniha řepní",
+        "chapter_number": "C",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Výkazy řízkové",
+        "chapter_number": "D",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Kniha řízková 1",
+        "chapter_number": "E",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Kniha řízková 2",
+        "chapter_number": "F",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

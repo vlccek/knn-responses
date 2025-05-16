@@ -1,0 +1,40 @@
+
+[
+  {
+    "title": "Z kláštera a vězení",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Dvě cesty",
+    "chapter_number": "",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Kam spějeme:",
+    "chapter_number": "",
+    "page_number": "295",
+    "children": [
+      {
+        "title": "Úvod",
+        "chapter_number": "",
+        "page_number": "297",
+        "children": []
+      },
+      {
+        "title": "Díl I. Rychlá cesta do zkázy",
+        "chapter_number": "Díl I",
+        "page_number": "297",
+        "children": []
+      },
+      {
+        "title": "Díl II. Návrat k Bohu",
+        "chapter_number": "Díl II",
+        "page_number": "421",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,328 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Část analytická",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Zahraniční obchod republiky Československé podle jednotlivých položek statistického seznamu zboží a podle zemí původu a určení:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Zboží osadnické",
+        "chapter_number": "I",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Koření",
+        "chapter_number": "II",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Jižní ovoce",
+        "chapter_number": "III",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Cukr",
+        "chapter_number": "IV",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Tabák",
+        "chapter_number": "V",
+        "page_number": "115",
+        "children": []
+      },
+      {
+        "title": "Obili, slad, luštěniny, mouka a mlýnské výrobky, rýže",
+        "chapter_number": "VI",
+        "page_number": "115",
+        "children": []
+      },
+      {
+        "title": "Ovoce, zelenina, rostliny a části rostlin",
+        "chapter_number": "VII",
+        "page_number": "116",
+        "children": []
+      },
+      {
+        "title": "Dobytek jatečný a tažný",
+        "chapter_number": "VIII",
+        "page_number": "120",
+        "children": []
+      },
+      {
+        "title": "Zvířata jiná",
+        "chapter_number": "IX",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Plodiny živočišné",
+        "chapter_number": "X",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Tuky",
+        "chapter_number": "XI",
+        "page_number": "123",
+        "children": []
+      },
+      {
+        "title": "Oleje mastné",
+        "chapter_number": "XII",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "Nápoje",
+        "chapter_number": "XIII",
+        "page_number": "125",
+        "children": []
+      },
+      {
+        "title": "Věci jedlé",
+        "chapter_number": "XIV",
+        "page_number": "126",
+        "children": []
+      },
+      {
+        "title": "Dříví, uhlí a rašelina",
+        "chapter_number": "XV",
+        "page_number": "128",
+        "children": []
+      },
+      {
+        "title": "Hmoty soustružnické a řezbářské",
+        "chapter_number": "XVI",
+        "page_number": "129",
+        "children": []
+      },
+      {
+        "title": "Minerály (nerosty)",
+        "chapter_number": "XVII",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Látky lékárnické a voňavkářské",
+        "chapter_number": "XVIII",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "Barviva a třísla",
+        "chapter_number": "XIX",
+        "page_number": "133",
+        "children": []
+      },
+      {
+        "title": "Gumy (klovatiny) a pryskyřice",
+        "chapter_number": "XX",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Oleje nerostné, dehet hnědouhelný a břidličný",
+        "chapter_number": "XXI",
+        "page_number": "135",
+        "children": []
+      },
+      {
+        "title": "Bavlna, bavlněná příze a bavlněné zboží",
+        "chapter_number": "XXII",
+        "page_number": "135",
+        "children": []
+      },
+      {
+        "title": "Len, konopí, juta, a jiná přediva rostlinná výslovně nejmenovaná, příze a zboží z nich",
+        "chapter_number": "XXIII",
+        "page_number": "142",
+        "children": []
+      },
+      {
+        "title": "Vlna, vlněná příze a vlněné zboží",
+        "chapter_number": "XXIV",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Hedvábí a hedvábné zboží",
+        "chapter_number": "XXV",
+        "page_number": "150",
+        "children": []
+      },
+      {
+        "title": "Zboží konfekční",
+        "chapter_number": "XXVI",
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "Zboží kartáčnické a řešetářské",
+        "chapter_number": "XXVII",
+        "page_number": "157",
+        "children": []
+      },
+      {
+        "title": "Zboží ze slámy, třtiny (rákosu), lýka, loubků (štěpek) a z podobných věcí v jiných sazeb tř. nejmenovaných",
+        "chapter_number": "XXVIII",
+        "page_number": "158",
+        "children": []
+      },
+      {
+        "title": "Papír a papírové zboží",
+        "chapter_number": "XXIX",
+        "page_number": "159",
+        "children": []
+      },
+      {
+        "title": "Kaučuk a perčovina a zboží z nich",
+        "chapter_number": "XXX",
+        "page_number": "163",
+        "children": []
+      },
+      {
+        "title": "Voskované plátno a zboží z něho",
+        "chapter_number": "XXXI",
+        "page_number": "164",
+        "children": []
+      },
+      {
+        "title": "Kůže vydělaná (usně) a kožené zboží",
+        "chapter_number": "XXXII",
+        "page_number": "165",
+        "children": []
+      },
+      {
+        "title": "Zboží kožešnické",
+        "chapter_number": "XXXIII",
+        "page_number": "167",
+        "children": []
+      },
+      {
+        "title": "Zboží dřevěné, zboží z látek soustružnických a řezbářských",
+        "chapter_number": "XXXIV",
+        "page_number": "167",
+        "children": []
+      },
+      {
+        "title": "Sklo a skleněné zboží",
+        "chapter_number": "XXXV",
+        "page_number": "173",
+        "children": []
+      },
+      {
+        "title": "Zboží kamenné",
+        "chapter_number": "XXXVI",
+        "page_number": "177",
+        "children": []
+      },
+      {
+        "title": "Zboží hliněné",
+        "chapter_number": "XXXVII",
+        "page_number": "180",
+        "children": []
+      },
+      {
+        "title": "Železo a železné zboží",
+        "chapter_number": "XXXVIII",
+        "page_number": "184",
+        "children": []
+      },
+      {
+        "title": "Obecné kovy a zboží z nich",
+        "chapter_number": "XXXIX",
+        "page_number": "198",
+        "children": []
+      },
+      {
+        "title": "Stroje, přístroje a jich součástky ze dřeva, železa nebo z obecných kovů",
+        "chapter_number": "LX",
+        "page_number": "203",
+        "children": []
+      },
+      {
+        "title": "Elektrické stroje a přístroje a věci k elektrotechnické potřebě",
+        "chapter_number": "XLI",
+        "page_number": "209",
+        "children": []
+      },
+      {
+        "title": "Vozidla",
+        "chapter_number": "XLII",
+        "page_number": "211",
+        "children": []
+      },
+      {
+        "title": "Drahé kovy draho a polodrahokamy a zboží z nich; mince",
+        "chapter_number": "XLIII",
+        "page_number": "212",
+        "children": []
+      },
+      {
+        "title": "Istrumenty a hodiny",
+        "chapter_number": "XLIV",
+        "page_number": "214",
+        "children": []
+      },
+      {
+        "title": "Kuchyňská sůl",
+        "chapter_number": "XLV",
+        "page_number": "217",
+        "children": []
+      },
+      {
+        "title": "Chemické (lučeb.) látky pomocné a chemické výrobky",
+        "chapter_number": "XLVI",
+        "page_number": "217",
+        "children": []
+      },
+      {
+        "title": "Pokosty, zboží barvířské, lékařské a voňavkářské",
+        "chapter_number": "XLVII",
+        "page_number": "225",
+        "children": []
+      },
+      {
+        "title": "Svíčky, mýdlo a voskové zboží",
+        "chapter_number": "XLVIII",
+        "page_number": "227",
+        "children": []
+      },
+      {
+        "title": "Zápalné zboží",
+        "chapter_number": "XLIX",
+        "page_number": "227",
+        "children": []
+      },
+      {
+        "title": "Díla literární a umělecká",
+        "chapter_number": "L",
+        "page_number": "228",
+        "children": []
+      },
+      {
+        "title": "Odpadky",
+        "chapter_number": "LI",
+        "page_number": "228",
+        "children": []
+      }
+    ]
+  }
+]

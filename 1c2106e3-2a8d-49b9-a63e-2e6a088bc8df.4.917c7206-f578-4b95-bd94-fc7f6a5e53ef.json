@@ -1,0 +1,4 @@
+n the image and OCR provided, it is not possible to extract a hierarchical chapter structure. The image only contains the title page of the book. There are no chapters, sections, or page numbers present. Therefore, the output should be an empty JSON array.
+
+```json
+[]

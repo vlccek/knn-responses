@@ -1,0 +1,102 @@
+
+[
+  {
+    "title": "Ausbildung der Schüler im Gliede",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Stellung",
+        "chapter_number": "§ 1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Wendungen des Kopfes",
+        "chapter_number": "§ 2",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Wendungen des Körpers",
+        "chapter_number": "§ 3",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Bewegung vor-, seit- und rückwärts",
+        "chapter_number": "§ 4",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Richtung",
+        "chapter_number": "§ 5",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Stabübungen",
+        "chapter_number": "§ 6",
+        "page_number": "7",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ausbildung der Schüler im Zuge",
+    "chapter_number": "II",
+    "page_number": "11",
+    "children": [
+      {
+        "title": "Aufstellung und Eintheilung des Zuges",
+        "chapter_number": "§ 7",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Aufstellungs- und Bewegungs-Behelfe",
+        "chapter_number": "§ 8",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Frontalbewegungen",
+        "chapter_number": "§ 9",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Formierung der Reihen und Doppelreihen",
+        "chapter_number": "§10",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Bewegung und Veränderung der Reihen und Doppel-reihen",
+        "chapter_number": "§11",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Entwicklung aus Reihen und Doppelreihen",
+        "chapter_number": "§12",
+        "page_number": "20",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Anhang",
+    "chapter_number": "III",
+    "page_number": "23",
+    "children": [
+      {
+        "title": "Turnerische Ausflüge und Märsche",
+        "chapter_number": "§13",
+        "page_number": "23",
+        "children": []
+      }
+    ]
+  }
+]

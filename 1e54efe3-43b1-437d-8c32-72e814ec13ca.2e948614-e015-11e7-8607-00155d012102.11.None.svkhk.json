@@ -1,0 +1,128 @@
+
+[
+  {
+    "title": "Abweichungen der Grösse",
+    "chapter_number": "2",
+    "page_number": "585",
+    "children": []
+  },
+  {
+    "title": "Krankheiten der Textur",
+    "chapter_number": "3",
+    "page_number": "586",
+    "children": [
+      {
+        "title": "Hyperämie, Apoplexie",
+        "chapter_number": "a",
+        "page_number": "587",
+        "children": []
+      },
+      {
+        "title": "Entzündung",
+        "chapter_number": "b",
+        "page_number": "587",
+        "children": []
+      },
+      {
+        "title": "Afterbildungen",
+        "chapter_number": "c",
+        "page_number": "591",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Abnormitäten der Brustdrüsen",
+    "chapter_number": "",
+    "page_number": "601",
+    "children": [
+      {
+        "title": "Bildungsmangel und Excess",
+        "chapter_number": "1",
+        "page_number": "601",
+        "children": []
+      },
+      {
+        "title": "Anomalien der Grösse",
+        "chapter_number": "2",
+        "page_number": "602",
+        "children": []
+      },
+      {
+        "title": "Krankheiten der Textur",
+        "chapter_number": "3",
+        "page_number": "602",
+        "children": [
+          {
+            "title": "Entzündungen",
+            "chapter_number": "a",
+            "page_number": "603",
+            "children": []
+          },
+          {
+            "title": "Cirrhosis der Brustdrüse",
+            "chapter_number": "b",
+            "page_number": "603",
+            "children": []
+          },
+          {
+            "title": "Afterbildungen",
+            "chapter_number": "c",
+            "page_number": "606",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abnormitäten des Eies",
+    "chapter_number": "",
+    "page_number": "606",
+    "children": [
+      {
+        "title": "Extrauterinäre Schwangerschaft",
+        "chapter_number": "1",
+        "page_number": "606",
+        "children": []
+      },
+      {
+        "title": "Degeneration des Eies",
+        "chapter_number": "2",
+        "page_number": "610",
+        "children": []
+      },
+      {
+        "title": "Abnormitäten der einzelnen Theile des Eies insbesondere",
+        "chapter_number": "3",
+        "page_number": "611",
+        "children": [
+          {
+            "title": "Abnormitäten der Eihäute und der Amniosflüssigkeit",
+            "chapter_number": "a",
+            "page_number": "611",
+            "children": []
+          },
+          {
+            "title": "Abnormitäten der Placenta",
+            "chapter_number": "b",
+            "page_number": "611",
+            "children": []
+          },
+          {
+            "title": "Abnormitäten des Nabelstranges",
+            "chapter_number": "c",
+            "page_number": "616",
+            "children": []
+          },
+          {
+            "title": "Abnormitäten des Fötus",
+            "chapter_number": "d",
+            "page_number": "617",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

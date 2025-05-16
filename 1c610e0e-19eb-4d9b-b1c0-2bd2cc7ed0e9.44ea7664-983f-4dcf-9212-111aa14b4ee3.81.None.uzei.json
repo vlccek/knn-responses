@@ -1,0 +1,52 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "1",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Podmínky podnební",
+    "chapter_number": "2",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "O řepných půdách",
+    "chapter_number": "3",
+    "page_number": "12",
+    "children": [
+      {
+        "title": "Mechanické složení řepných půd",
+        "chapter_number": "a",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Fysikální povaha řepných půd",
+        "chapter_number": "b",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Fysikální stav v profilu řepných půd",
+        "chapter_number": "c",
+        "page_number": "35",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Příprava půdy k řepě",
+    "chapter_number": "4",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "Chemický obsah a hnojení řepných půd",
+    "chapter_number": "5",
+    "page_number": "63",
+    "children": []
+  }
+]

@@ -1,0 +1,183 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Prahory",
+    "chapter_number": "I",
+    "page_number": "22",
+    "children": [
+      {
+        "title": "Prahory sudetské",
+        "chapter_number": "A",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Prahory vysočiny Českomoravské",
+        "chapter_number": "B",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Syenit moravský",
+        "chapter_number": "C",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Porůzné ostrůvky prahorní ve východní polovici Moravy",
+        "chapter_number": "D",
+        "page_number": "39",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Útvar devonský",
+    "chapter_number": "II",
+    "page_number": "40",
+    "children": [
+      {
+        "title": "Devon v Sudetech",
+        "chapter_number": "",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Devon vysočiny Drahanské",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Ostrůvky devonské na východě",
+        "chapter_number": "",
+        "page_number": "48",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Útvar kamenouhelný",
+    "chapter_number": "III",
+    "page_number": "49",
+    "children": [
+      {
+        "title": "Neproduktivní karbon",
+        "chapter_number": "a",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Karbon uhlonosný",
+        "chapter_number": "b",
+        "page_number": "54",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Útvar permský",
+    "chapter_number": "IV",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "Útvar jurský",
+    "chapter_number": "V",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Útvar křídový",
+    "chapter_number": "VI",
+    "page_number": "67",
+    "children": [
+      {
+        "title": "Útvar křídový západní Moravy",
+        "chapter_number": "1",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Útvar křídový na severovýchodní Moravě",
+        "chapter_number": "2",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Křídové vrstvy na Moravě jihovýchodní",
+        "chapter_number": "3",
+        "page_number": "81",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Starší třetihory čili eocén",
+    "chapter_number": "VII",
+    "page_number": "82",
+    "children": [
+      {
+        "title": "Eocén jižně od pásma Radhošťského",
+        "chapter_number": "1",
+        "page_number": "84",
+        "children": []
+      },
+      {
+        "title": "Eocén severně od pásma Radhošťského",
+        "chapter_number": "2",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Eocén Hříběcích hor",
+        "chapter_number": "3",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Eocén Ždánského lesa",
+        "chapter_number": "4",
+        "page_number": "88",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Neogén čili čtvrtihory mladší",
+    "chapter_number": "VIII",
+    "page_number": "91",
+    "children": [
+      {
+        "title": "Hnědé uhlí v neogénu",
+        "chapter_number": "",
+        "page_number": "101",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Diluvium či útvar naplavenin starších",
+    "chapter_number": "IX",
+    "page_number": "106",
+    "children": []
+  },
+  {
+    "title": "Alluvium či třetihory mladší",
+    "chapter_number": "X",
+    "page_number": "112",
+    "children": []
+  },
+  {
+    "title": "Dodatek o minerálních pramenech moravských",
+    "chapter_number": "XI",
+    "page_number": "113",
+    "children": []
+  }
+]

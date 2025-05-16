@@ -1,0 +1,75 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Výbor a rozvrh předmětů školských",
+    "chapter_number": "II",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Osnova učebná",
+    "chapter_number": "III",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Postup dle zásady: „Příklad vždycky předcházej, pravidlo vždy nasleduj, napodobování nikdy se neopomíjej“",
+    "chapter_number": "IV",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Týž postup při učení prácem čili uměním",
+    "chapter_number": "V",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "jazykům",
+    "chapter_number": "VI",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "mravům",
+    "chapter_number": "VII",
+    "page_number": "38",
+    "children": []
+  },
+  {
+    "title": "vědám",
+    "chapter_number": "VIII",
+    "page_number": "44",
+    "children": []
+  },
+  {
+    "title": "Postup od snadnějšího k nesnadnějšímu",
+    "chapter_number": "IX",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Postup od obecného ku zvláštnímu při učení jazykům, mravům, uměním a vědám",
+    "chapter_number": "X",
+    "page_number": "59",
+    "children": []
+  },
+  {
+    "title": "Methoda názorná",
+    "chapter_number": "XI",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Závěrek",
+    "chapter_number": "XII",
+    "page_number": "73",
+    "children": []
+  }
+]

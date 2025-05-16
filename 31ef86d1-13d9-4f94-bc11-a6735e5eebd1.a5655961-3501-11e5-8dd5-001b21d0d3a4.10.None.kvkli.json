@@ -1,0 +1,135 @@
+
+[
+  {
+    "title": "Kindergärten",
+    "chapter_number": "B",
+    "page_number": "165",
+    "children": [
+      {
+        "title": "Gebäude",
+        "chapter_number": "1",
+        "page_number": "165",
+        "children": []
+      },
+      {
+        "title": "Kindergärtnerinnen",
+        "chapter_number": "2",
+        "page_number": "165",
+        "children": []
+      },
+      {
+        "title": "Kinder",
+        "chapter_number": "3",
+        "page_number": "165",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zusammenfassung der Kinderbewahranstalten und Kindergärten",
+    "chapter_number": "C",
+    "page_number": "168",
+    "children": [
+      {
+        "title": "Gebäude",
+        "chapter_number": "1",
+        "page_number": "168",
+        "children": []
+      },
+      {
+        "title": "Kindergärtnerinnen",
+        "chapter_number": "2",
+        "page_number": "169",
+        "children": []
+      },
+      {
+        "title": "Kinder",
+        "chapter_number": "3",
+        "page_number": "169",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zusammenfassung der Schulen, Kinderbewahranstalten und Kindergärten",
+    "chapter_number": "",
+    "page_number": "171",
+    "children": [
+      {
+        "title": "Schul- und Erziehungsanstalten",
+        "chapter_number": "1",
+        "page_number": "171",
+        "children": []
+      },
+      {
+        "title": "Lehrpersonen",
+        "chapter_number": "2",
+        "page_number": "171",
+        "children": []
+      },
+      {
+        "title": "Kinder",
+        "chapter_number": "3",
+        "page_number": "171",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Schulstiftungen, Schulbezirks-Voranschläge",
+    "chapter_number": "VI",
+    "page_number": "172",
+    "children": [
+      {
+        "title": "Schulstiftungen zum Weihnachtsfeste",
+        "chapter_number": "A",
+        "page_number": "172",
+        "children": [
+          {
+            "title": "Geschichtliche Nachrichten über sie",
+            "chapter_number": "",
+            "page_number": "172",
+            "children": []
+          },
+          {
+            "title": "Tabelle dieser Stiftungen",
+            "chapter_number": "",
+            "page_number": "193",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Schulstiftungen für Katecheten, Lehrer, kranke Schüler",
+        "chapter_number": "B",
+        "page_number": "193",
+        "children": [
+          {
+            "title": "Geschichtliche Nachrichten über sie",
+            "chapter_number": "",
+            "page_number": "193",
+            "children": []
+          },
+          {
+            "title": "Tabelle dieser Stiftungen",
+            "chapter_number": "",
+            "page_number": "200",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Schulbezirks-Voranschläge",
+        "chapter_number": "C",
+        "page_number": "201",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Schulchronik",
+    "chapter_number": "VII",
+    "page_number": "208",
+    "children": []
+  }
+]

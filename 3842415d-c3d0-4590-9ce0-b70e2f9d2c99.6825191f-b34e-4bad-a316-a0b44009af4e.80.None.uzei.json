@@ -1,0 +1,151 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Ausstellungs - Objekte",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Rohstoffe",
+        "chapter_number": "I. Gruppe",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Produkte des Bergbaues und der Metallurgie, sowie Materiale und Verfahrungsweisen zu deren Gewinnung",
+            "chapter_number": "1",
+            "page_number": "5",
+            "children": []
+          },
+          {
+            "title": "Produkte der Land- und Forstwirthschaft",
+            "chapter_number": "2",
+            "page_number": "8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Industrie - Erzeugnisse",
+        "chapter_number": "II. Gruppe",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Maschinen, Werkzeuge, landwirthschaftliche Geräthe und Transportmittel",
+            "chapter_number": "1",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Glas-, Stein-, Thon- und Cementarbeiten",
+            "chapter_number": "2",
+            "page_number": "19",
+            "children": []
+          },
+          {
+            "title": "Metalle und Metallwaaren",
+            "chapter_number": "3",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Wissenschaftliche, chirurgische, gewerbliche und musikalische Instrumente und andere mechanische Apparate",
+            "chapter_number": "4",
+            "page_number": "26",
+            "children": []
+          },
+          {
+            "title": "Chemische Produkte",
+            "chapter_number": "5",
+            "page_number": "28",
+            "children": []
+          },
+          {
+            "title": "Nahrungsmittel",
+            "chapter_number": "6",
+            "page_number": "33",
+            "children": []
+          },
+          {
+            "title": "Webe und Wirkwaaren",
+            "chapter_number": "7",
+            "page_number": "37",
+            "children": []
+          },
+          {
+            "title": "Bekleidungsgegenstände und Frauenarbeiten",
+            "chapter_number": "8",
+            "page_number": "39",
+            "children": []
+          },
+          {
+            "title": "Holzwaaren aller Art und Möbel",
+            "chapter_number": "9",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Besonders praktische Gegenstände für den Haushalt",
+            "chapter_number": "10",
+            "page_number": "45",
+            "children": []
+          },
+          {
+            "title": "Papiere, Buchbinders, Portefeuille- und Cartonage-Arbeiten",
+            "chapter_number": "11",
+            "page_number": "46",
+            "children": []
+          },
+          {
+            "title": "Leder- und Rauchwaaren",
+            "chapter_number": "12",
+            "page_number": "48",
+            "children": []
+          },
+          {
+            "title": "Gegenstände für Kunst, Unterricht und literarische Thätigkeit",
+            "chapter_number": "13",
+            "page_number": "49",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Nußthiere",
+        "chapter_number": "III. Gruppe",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Collektiv-Ausstellungen",
+            "chapter_number": "",
+            "page_number": "55",
+            "children": []
+          },
+          {
+            "title": "Nachtrag",
+            "chapter_number": "",
+            "page_number": "59",
+            "children": []
+          },
+          {
+            "title": "Gegenstände des k. k. österr. Museums für Kunst und Industrie",
+            "chapter_number": "",
+            "page_number": "62",
+            "children": []
+          },
+          {
+            "title": "Alphabetisches Verzeichniß der Aussteller",
+            "chapter_number": "",
+            "page_number": "65",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,97 @@
+
+[
+  {
+    "title": "Mathematische Geographie",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Physische Geographie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Horizontale Ausdehnung",
+        "chapter_number": "1",
+        "page_number": "15",
+        "children": [
+          {
+            "title": "Continente und Landseen",
+            "chapter_number": "a",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Meere und Inseln",
+            "chapter_number": "b",
+            "page_number": "16",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Verticale Erhebung",
+        "chapter_number": "2",
+        "page_number": "22",
+        "children": [
+          {
+            "title": "Flüsse",
+            "chapter_number": "a",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Berge",
+            "chapter_number": "b",
+            "page_number": "28",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Politische Geographie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Europa",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Asien",
+        "chapter_number": "",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Afrika",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Amerika",
+        "chapter_number": "",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Australien",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Anhang für einen intensiveren Unterricht",
+    "chapter_number": "",
+    "page_number": "76",
+    "children": []
+  }
+]

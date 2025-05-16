@@ -1,0 +1,431 @@
+
+[
+  {
+    "title": "Die Krankheiten der Katzen",
+    "chapter_number": "",
+    "page_number": "413",
+    "children": [
+      {
+        "title": "Der Antrax oder Milzbrand",
+        "chapter_number": "1",
+        "page_number": "413",
+        "children": []
+      },
+      {
+        "title": "Die Wuth",
+        "chapter_number": "2",
+        "page_number": "413",
+        "children": []
+      },
+      {
+        "title": "Darmwürmer",
+        "chapter_number": "3",
+        "page_number": "413",
+        "children": []
+      },
+      {
+        "title": "Die Krätze oder Räude",
+        "chapter_number": "4",
+        "page_number": "413",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Krankheiten der Kaninchen",
+    "chapter_number": "",
+    "page_number": "414",
+    "children": [
+      {
+        "title": "Die Räude",
+        "chapter_number": "",
+        "page_number": "414",
+        "children": []
+      },
+      {
+        "title": "Der Durchfall",
+        "chapter_number": "",
+        "page_number": "414",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Krankheiten der Hühner",
+    "chapter_number": "",
+    "page_number": "414",
+    "children": [
+      {
+        "title": "Der Pips",
+        "chapter_number": "1",
+        "page_number": "414",
+        "children": []
+      },
+      {
+        "title": "Die Hühnerpest",
+        "chapter_number": "2",
+        "page_number": "415",
+        "children": []
+      },
+      {
+        "title": "Das Podagra, der Rothlauf",
+        "chapter_number": "3",
+        "page_number": "416",
+        "children": []
+      },
+      {
+        "title": "Die Darre, Darrsucht",
+        "chapter_number": "4",
+        "page_number": "416",
+        "children": []
+      },
+      {
+        "title": "Der Durchfall",
+        "chapter_number": "5",
+        "page_number": "416",
+        "children": []
+      },
+      {
+        "title": "Die Verstopfung",
+        "chapter_number": "6",
+        "page_number": "417",
+        "children": []
+      },
+      {
+        "title": "Pocken, Blattern",
+        "chapter_number": "7",
+        "page_number": "417",
+        "children": []
+      },
+      {
+        "title": "Krätze",
+        "chapter_number": "8",
+        "page_number": "417",
+        "children": []
+      },
+      {
+        "title": "Triefende Augen",
+        "chapter_number": "9",
+        "page_number": "418",
+        "children": []
+      },
+      {
+        "title": "Windeier, Fließeier",
+        "chapter_number": "10",
+        "page_number": "418",
+        "children": []
+      },
+      {
+        "title": "Kopfgeschwulst",
+        "chapter_number": "11",
+        "page_number": "418",
+        "children": []
+      },
+      {
+        "title": "Kropfgeschwulst, Ueberfressen der Hühner",
+        "chapter_number": "12",
+        "page_number": "418",
+        "children": []
+      },
+      {
+        "title": "Läuse",
+        "chapter_number": "13",
+        "page_number": "419",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Krankheiten der Gänse und Enten",
+    "chapter_number": "",
+    "page_number": "419",
+    "children": [
+      {
+        "title": "Der Durchfall",
+        "chapter_number": "1",
+        "page_number": "419",
+        "children": []
+      },
+      {
+        "title": "Eingeweidewürmer",
+        "chapter_number": "2",
+        "page_number": "419",
+        "children": []
+      },
+      {
+        "title": "Kopfgeschwulst",
+        "chapter_number": "3",
+        "page_number": "419",
+        "children": []
+      },
+      {
+        "title": "Schnarren oder Zips",
+        "chapter_number": "4",
+        "page_number": "420",
+        "children": []
+      },
+      {
+        "title": "Die Läuse",
+        "chapter_number": "5",
+        "page_number": "420",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Krankheiten der Tauben",
+    "chapter_number": "",
+    "page_number": "421",
+    "children": [
+      {
+        "title": "Die Pocken, Blattern",
+        "chapter_number": "1",
+        "page_number": "421",
+        "children": []
+      },
+      {
+        "title": "Darre, Darrsucht",
+        "chapter_number": "2",
+        "page_number": "421",
+        "children": []
+      },
+      {
+        "title": "Durchfall",
+        "chapter_number": "3",
+        "page_number": "421",
+        "children": []
+      },
+      {
+        "title": "Epilepsie, Fallsucht",
+        "chapter_number": "4",
+        "page_number": "421",
+        "children": []
+      },
+      {
+        "title": "Krätze",
+        "chapter_number": "5",
+        "page_number": "421",
+        "children": []
+      },
+      {
+        "title": "Kropskrankheit",
+        "chapter_number": "6",
+        "page_number": "421",
+        "children": []
+      },
+      {
+        "title": "Schwermuth",
+        "chapter_number": "7",
+        "page_number": "422",
+        "children": []
+      },
+      {
+        "title": "Läuse und Flöhe",
+        "chapter_number": "8",
+        "page_number": "422",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Krankheiten der Stubenvögel",
+    "chapter_number": "",
+    "page_number": "422",
+    "children": [
+      {
+        "title": "Der Pips",
+        "chapter_number": "1",
+        "page_number": "422",
+        "children": []
+      },
+      {
+        "title": "Die Darrsucht",
+        "chapter_number": "2",
+        "page_number": "422",
+        "children": []
+      },
+      {
+        "title": "Der Schnupfen",
+        "chapter_number": "3",
+        "page_number": "423",
+        "children": []
+      },
+      {
+        "title": "Die Verstopfung der Fettdrüse oder Darre",
+        "chapter_number": "4",
+        "page_number": "423",
+        "children": []
+      },
+      {
+        "title": "Die Verstopfung",
+        "chapter_number": "5",
+        "page_number": "423",
+        "children": []
+      },
+      {
+        "title": "Gegen schweren Athem",
+        "chapter_number": "6",
+        "page_number": "423",
+        "children": []
+      },
+      {
+        "title": "Der Durchfall",
+        "chapter_number": "7",
+        "page_number": "423",
+        "children": []
+      },
+      {
+        "title": "Der Bruch",
+        "chapter_number": "8",
+        "page_number": "424",
+        "children": []
+      },
+      {
+        "title": "Die Mauser- oder Federnkrankheit",
+        "chapter_number": "9",
+        "page_number": "424",
+        "children": []
+      },
+      {
+        "title": "Die Epilepsie oder Fallsucht",
+        "chapter_number": "10",
+        "page_number": "424",
+        "children": []
+      },
+      {
+        "title": "Die Windsucht",
+        "chapter_number": "11",
+        "page_number": "425",
+        "children": []
+      },
+      {
+        "title": "Die Schweißsucht",
+        "chapter_number": "12",
+        "page_number": "425",
+        "children": []
+      },
+      {
+        "title": "Die Drehsucht oder das Drehen",
+        "chapter_number": "13",
+        "page_number": "425",
+        "children": []
+      },
+      {
+        "title": "Der Schlagfluß",
+        "chapter_number": "14",
+        "page_number": "425",
+        "children": []
+      },
+      {
+        "title": "Augenkrankheiten",
+        "chapter_number": "15",
+        "page_number": "425",
+        "children": []
+      },
+      {
+        "title": "Freiheitsweh",
+        "chapter_number": "16",
+        "page_number": "426",
+        "children": []
+      },
+      {
+        "title": "Fußkrankheiten",
+        "chapter_number": "17",
+        "page_number": "426",
+        "children": []
+      },
+      {
+        "title": "Kratzgeschwür am Kopfe",
+        "chapter_number": "18",
+        "page_number": "426",
+        "children": []
+      },
+      {
+        "title": "Die Milben- oder Läusesucht",
+        "chapter_number": "19",
+        "page_number": "426",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ueber einige thierärztliche Operationen",
+    "chapter_number": "",
+    "page_number": "427",
+    "children": [
+      {
+        "title": "Das Aderlassen",
+        "chapter_number": "1",
+        "page_number": "427",
+        "children": []
+      },
+      {
+        "title": "Das Legen eines Fontanells",
+        "chapter_number": "2",
+        "page_number": "431",
+        "children": []
+      },
+      {
+        "title": "Vom Zichen des Haarseiles",
+        "chapter_number": "3",
+        "page_number": "432",
+        "children": []
+      },
+      {
+        "title": "Das Brennen",
+        "chapter_number": "4",
+        "page_number": "433",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kurze Belehrung über den Hufbeschlag des Pferdes",
+    "chapter_number": "",
+    "page_number": "435",
+    "children": []
+  },
+  {
+    "title": "Vom Eingeben der Arzneien",
+    "chapter_number": "",
+    "page_number": "440",
+    "children": []
+  },
+  {
+    "title": "Kleiner Arzneischatz der Thierheilkunde",
+    "chapter_number": "",
+    "page_number": "445",
+    "children": [
+      {
+        "title": "Arzneien aus dem Thierreiche",
+        "chapter_number": "a",
+        "page_number": "445",
+        "children": []
+      },
+      {
+        "title": "aus dem Pflanzenreiche",
+        "chapter_number": "b",
+        "page_number": "445",
+        "children": []
+      },
+      {
+        "title": "aus dem Mineralreiche - Hausapotheke",
+        "chapter_number": "c",
+        "page_number": "449",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Bemerkungen über die Gewichtsbestimmungen",
+    "chapter_number": "",
+    "page_number": "450",
+    "children": []
+  },
+  {
+    "title": "Von den Zwangsmitteln",
+    "chapter_number": "",
+    "page_number": "453",
+    "children": []
+  }
+]

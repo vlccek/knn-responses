@@ -1,0 +1,187 @@
+
+[
+  {
+    "title": "Lehren aus der mathematischen Geagraphie",
+    "chapter_number": "1. Abtheilung",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Vorbegriffe",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Meinungen der Alten über den Erdkörper",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Kugelgestalt der Erde",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Erklärungen der wichtigsten Puncte, Linien und Kreise auf der Erd- und Himmelskugel",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Die Sonne und ihre scheinbare Bewegung",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Der Mond",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Die Planeten mit ihren Trabanten",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Die Kometen",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Die Firsterne",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Größe der Erde und ihrer Bahn",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Verhältniß der Erdbahn zur Ebene des Aequators und zur Ekliptik",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Tags = und Jahreszeiten",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Geographische Breite und Länge",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Erster Meridian",
+        "chapter_number": "",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Zonen",
+        "chapter_number": "",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Gegenfüßler, Segenwohner, Nebenwohner",
+        "chapter_number": "",
+        "page_number": "37",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Physische Geographie",
+    "chapter_number": "2. Abtheilung",
+    "page_number": "37",
+    "children": [
+      {
+        "title": "Das Festland",
+        "chapter_number": "",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Das Meer",
+        "chapter_number": "",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Die Gewässer des Festlandes",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Die Atmosphäre",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Einfluß des Festlandes, der Gewässer und Atmosphäre auf die Temperatur",
+        "chapter_number": "",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Veränderungen der Erde",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Das Menschengeschlecht",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Politische Geographie",
+    "chapter_number": "3. Abtheilung",
+    "page_number": "54",
+    "children": [
+      {
+        "title": "Europa",
+        "chapter_number": "1. Hauptstück",
+        "page_number": "54",
+        "children": [
+          {
+            "title": "Lage, Gränzen, Meere, Inseln, Größe",
+            "chapter_number": "1. Kapitel",
+            "page_number": "54",
+            "children": []
+          },
+          {
+            "title": "Orographie",
+            "chapter_number": "2. Kapitel",
+            "page_number": "58",
+            "children": []
+          },
+          {
+            "title": "Das hesperische System",
+            "chapter_number": "1.",
+            "page_number": "61",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

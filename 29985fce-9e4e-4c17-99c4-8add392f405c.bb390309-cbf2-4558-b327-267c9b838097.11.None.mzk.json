@@ -1,0 +1,60 @@
+
+[
+  {
+    "title": "Erste Hauptabtheilung.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Lob Gottes.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Allgemeines.",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Wein Gott in der Höh",
+                "chapter_number": "1.",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Ja, Vater, wir erheben",
+                "chapter_number": "2.",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "O Jesu Christ, des Höchsten Sohn!",
+                "chapter_number": "3.",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "O heilger Geist, da",
+                "chapter_number": "4.",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Mel. Nun danket alle Gott.",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Anbetungswürdger Gott",
+                "chapter_number": "2.",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

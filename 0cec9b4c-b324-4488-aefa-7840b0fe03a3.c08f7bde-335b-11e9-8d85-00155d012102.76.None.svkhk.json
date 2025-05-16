@@ -1,0 +1,85 @@
+
+[
+  {
+    "title": "Svazek I.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Po dráze dvou Oceanů I.",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Po dráze dvou Oceanů II.",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Skizzy americké",
+        "chapter_number": "",
+        "page_number": "73",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Svaz. II.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Z pustiny IX.",
+        "chapter_number": "",
+        "page_number": "66",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Svaz. III.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Z pustiny X.",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Z pustiny XI.",
+        "chapter_number": "",
+        "page_number": "56",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Svaz. IV.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Komedie z omylu",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Sachem",
+        "chapter_number": "",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Orso",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  }
+]

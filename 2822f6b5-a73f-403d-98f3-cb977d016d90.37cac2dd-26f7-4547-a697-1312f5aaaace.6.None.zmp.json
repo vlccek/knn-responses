@@ -1,0 +1,33 @@
+
+[
+  {
+    "title": "Einleitung",
+    "chapter_number": "",
+    "page_number": "1-2",
+    "children": []
+  },
+  {
+    "title": "Beschreibung des Codex",
+    "chapter_number": "A",
+    "page_number": "3-6",
+    "children": []
+  },
+  {
+    "title": "Geschichte des Machsor",
+    "chapter_number": "B",
+    "page_number": "7-13",
+    "children": []
+  },
+  {
+    "title": "Ritus des Machsor",
+    "chapter_number": "C",
+    "page_number": "14-47",
+    "children": []
+  },
+  {
+    "title": "Commentar des Machsor",
+    "chapter_number": "D",
+    "page_number": "47-76",
+    "children": []
+  }
+]

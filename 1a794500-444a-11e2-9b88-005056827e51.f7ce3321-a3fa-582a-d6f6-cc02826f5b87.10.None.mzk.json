@@ -1,0 +1,139 @@
+
+[
+  {
+    "title": "Literatur",
+    "chapter_number": "",
+    "page_number": "6",
+    "children": [
+      {
+        "title": "Charakter von Mähren zur Zeit der Tertiär- und Diluvialperiode",
+        "chapter_number": "I",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Der Löss und seine Bildungsweise",
+        "chapter_number": "II",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Mineralische Einschlüsse im Löss",
+        "chapter_number": "III",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Organische Einschlüsse im Löss",
+        "chapter_number": "IV",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Diluviale Säugethierfauna im Löss",
+        "chapter_number": "V",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Artefacte aus dem Löss und Höhlenlehm",
+        "chapter_number": "VI",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Culturstätten im Löss mit Spuren menschlicher Anwesenheit",
+        "chapter_number": "VII",
+        "page_number": "23",
+        "children": [
+          {
+            "title": "Culturstation von Joslowitz",
+            "chapter_number": "A",
+            "page_number": "23",
+            "children": []
+          },
+          {
+            "title": "Lösstation von Pausram",
+            "chapter_number": "B",
+            "page_number": "24",
+            "children": []
+          },
+          {
+            "title": "Lösstationen von Brünn",
+            "chapter_number": "C",
+            "page_number": "25",
+            "children": []
+          },
+          {
+            "title": "Lösstation von Przedmost bei Prerau",
+            "chapter_number": "D",
+            "page_number": "28",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Diluviale Thierreste in den mährischen Höhlen",
+        "chapter_number": "VIII",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Tabellarische Übersicht der diluvialen Säugethierfauna",
+        "chapter_number": "IX",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Menschliche Skeletreste im Diluvium von Mähren",
+        "chapter_number": "X",
+        "page_number": "36",
+        "children": [
+          {
+            "title": "Außerhalb der Umgebung von Brünn",
+            "chapter_number": "1",
+            "page_number": "37",
+            "children": []
+          },
+          {
+            "title": "Aus der Umgebung von Brünn",
+            "chapter_number": "2",
+            "page_number": "38",
+            "children": [
+              {
+                "title": "Aus dem Löss von Schlappanitz",
+                "chapter_number": "a",
+                "page_number": "38",
+                "children": []
+              },
+              {
+                "title": "Aus den Lössgruben des Rothen Berges",
+                "chapter_number": "b",
+                "page_number": "39",
+                "children": []
+              },
+              {
+                "title": "Lössfund aus dem Weichbilde von Brünn",
+                "chapter_number": "c",
+                "page_number": "41",
+                "children": []
+              },
+              {
+                "title": "Menschenskelet aus dem Löss von Hussowitz",
+                "chapter_number": "d",
+                "page_number": "49",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Erklärung der Abbildungen",
+        "chapter_number": "XI",
+        "page_number": "50",
+        "children": []
+      }
+    ]
+  }
+]

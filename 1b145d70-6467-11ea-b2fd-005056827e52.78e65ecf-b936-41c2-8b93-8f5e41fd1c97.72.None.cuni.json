@@ -1,0 +1,193 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "§ 1",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Území",
+    "chapter_number": "§ 2",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Národnosti na Slovensku",
+    "chapter_number": "§ 3",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Období státu patrimonijního.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Počátky státního života na Slovensku.",
+        "chapter_number": "§ 4",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Přehled staršího státního zřízení uherského",
+        "chapter_number": "§ 5",
+        "page_number": "13",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Období státu stavovského.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Dualismus státní moci",
+        "chapter_number": "§ 6",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Nástupnictví na trůn",
+        "chapter_number": "§ 7",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Stavové",
+        "chapter_number": "§ 8",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Sněmy",
+        "chapter_number": "§ 9",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Ústřední správa, soudnictví, finance, vojenství",
+        "chapter_number": "§ 10",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Správa venkovská",
+        "chapter_number": "§ 11",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Monarchie rakousko-česko-uherská (1526-1848).",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Boj stavů s Habsburky o moc ve státě",
+        "chapter_number": "§ 12",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Trůnní právo",
+        "chapter_number": "§ 13",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Stavové",
+        "chapter_number": "§ 14",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Sněmy",
+        "chapter_number": "§ 15",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Vznik centrálních úřadů habsburských",
+        "chapter_number": "§ 16",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Politická správa, finance, vojenství a soudnictví v Uhrách",
+        "chapter_number": "§ 17",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Správa komitátní a městská",
+        "chapter_number": "§ 18",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Poměry náboženské a národnostní",
+        "chapter_number": "§ 19",
+        "page_number": "45",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Stát konstituční.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Počátky moderní ústavy v Uhrách.",
+        "chapter_number": "§ 20",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Obnovení ústavnosti. Snahy Slováků o autonomní postavení",
+        "chapter_number": "§ 21",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Rakousko-uherské vyrovnání",
+        "chapter_number": "§ 22",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Národnostní (jazykový) zákon z r. 1868",
+        "chapter_number": "§ 23",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Základy moderní ústavy uherské",
+        "chapter_number": "§ 24",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Rozklad uherského státu a vznik státního území Slovenska",
+        "chapter_number": "§ 25",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Přehled právních pramenů",
+        "chapter_number": "§ 26",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Literatura",
+        "chapter_number": "§ 27",
+        "page_number": "67",
+        "children": []
+      }
+    ]
+  }
+]
