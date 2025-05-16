@@ -1,0 +1,296 @@
+
+[
+  {
+    "title": "Das Beregh-Ngocser Comitat",
+    "chapter_number": "7",
+    "page_number": "237",
+    "children": []
+  },
+  {
+    "title": "Das Marmaroser Comitat",
+    "chapter_number": "8",
+    "page_number": "238",
+    "children": []
+  },
+  {
+    "title": "Das Verwaltungsgebiet Großwardein",
+    "chapter_number": "V",
+    "page_number": "238",
+    "children": [
+      {
+        "title": "Das Süd-Biharer Comitat",
+        "chapter_number": "1",
+        "page_number": "239",
+        "children": []
+      },
+      {
+        "title": "Das Nord-Biharer Comitat",
+        "chapter_number": "2",
+        "page_number": "239",
+        "children": []
+      },
+      {
+        "title": "Das Szabolcser Comitat",
+        "chapter_number": "3",
+        "page_number": "240",
+        "children": []
+      },
+      {
+        "title": "Das Szathmarer Comitat",
+        "chapter_number": "4",
+        "page_number": "241",
+        "children": []
+      },
+      {
+        "title": "Das Arader Comitat",
+        "chapter_number": "15",
+        "page_number": "242",
+        "children": []
+      },
+      {
+        "title": "Das Bekes-Csanader Comitat",
+        "chapter_number": "6",
+        "page_number": "243",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Wojwodschaft Serbien mit dem Temeser Banat",
+    "chapter_number": "15",
+    "page_number": "244",
+    "children": [
+      {
+        "title": "Der Kreis Temesvar",
+        "chapter_number": "1",
+        "page_number": "246",
+        "children": []
+      },
+      {
+        "title": "Der Kreis Lugos",
+        "chapter_number": "2",
+        "page_number": "247",
+        "children": []
+      },
+      {
+        "title": "Der Kreis Groß-Becskerek",
+        "chapter_number": "3",
+        "page_number": "248",
+        "children": []
+      },
+      {
+        "title": "Der Kreis Zombor",
+        "chapter_number": "4",
+        "page_number": "249",
+        "children": []
+      },
+      {
+        "title": "Der Kreis Neusatz",
+        "chapter_number": "5",
+        "page_number": "250",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Croatien und Slavonien",
+    "chapter_number": "16",
+    "page_number": "252",
+    "children": [
+      {
+        "title": "Das Königreich Croatien",
+        "chapter_number": "A",
+        "page_number": "255",
+        "children": []
+      },
+      {
+        "title": "Das Königreich Slavonien",
+        "chapter_number": "B",
+        "page_number": "261",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Das Großfürstenthum Siebenbürgen",
+    "chapter_number": "17",
+    "page_number": "263",
+    "children": [
+      {
+        "title": "Das Land der Sachsen",
+        "chapter_number": "A",
+        "page_number": "274",
+        "children": [
+          {
+            "title": "Der Kreis Hermannstadt",
+            "chapter_number": "1",
+            "page_number": "274",
+            "children": []
+          },
+          {
+            "title": "Der Kreis Kronstadt",
+            "chapter_number": "2",
+            "page_number": "276",
+            "children": []
+          },
+          {
+            "title": "Der Kreis Bistritz",
+            "chapter_number": "3",
+            "page_number": "279",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Das Land der Ungarn",
+        "chapter_number": "B",
+        "page_number": "280",
+        "children": [
+          {
+            "title": "Der Kreis Klausenburg",
+            "chapter_number": "4",
+            "page_number": "280",
+            "children": []
+          },
+          {
+            "title": "Der Kreis Dees",
+            "chapter_number": "5",
+            "page_number": "281",
+            "children": []
+          },
+          {
+            "title": "Der Kreis Karlsburg",
+            "chapter_number": "6",
+            "page_number": "282",
+            "children": []
+          },
+          {
+            "title": "Der Kreis Szilagy-Somlyo",
+            "chapter_number": "7",
+            "page_number": "283",
+            "children": []
+          },
+          {
+            "title": "Der Kreis Broos",
+            "chapter_number": "8",
+            "page_number": "284",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Das Land der Szekler",
+        "chapter_number": "C",
+        "page_number": "286",
+        "children": [
+          {
+            "title": "Der Kreis Maros-Vasarhely",
+            "chapter_number": "9",
+            "page_number": "286",
+            "children": []
+          },
+          {
+            "title": "Der Kreis Udvarhely",
+            "chapter_number": "10",
+            "page_number": "286",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Die Militärgrenze",
+    "chapter_number": "18",
+    "page_number": "287",
+    "children": [
+      {
+        "title": "Das Croatisch = Slavonische Landes = Militärcommando",
+        "chapter_number": "A",
+        "page_number": "293",
+        "children": [
+          {
+            "title": "Die croatische Militärgrenze",
+            "chapter_number": null,
+            "page_number": "293",
+            "children": []
+          },
+          {
+            "title": "Die slavonische Militärgrenze",
+            "chapter_number": null,
+            "page_number": "295",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Das serbisch = banatische Landes - Militärcommando",
+        "chapter_number": "B",
+        "page_number": "296",
+        "children": [
+          {
+            "title": "Die serbische Militärgrenze",
+            "chapter_number": null,
+            "page_number": "296",
+            "children": []
+          },
+          {
+            "title": "Die banatische Militärgrenze",
+            "chapter_number": null,
+            "page_number": "297",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Das Königreich Dalmatien",
+    "chapter_number": "19",
+    "page_number": "298",
+    "children": [
+      {
+        "title": "Der Kreis Zara",
+        "chapter_number": "1",
+        "page_number": "301",
+        "children": []
+      },
+      {
+        "title": "Der Kreis Spalato",
+        "chapter_number": "II",
+        "page_number": "302",
+        "children": []
+      },
+      {
+        "title": "Der Kreis Cattaro",
+        "chapter_number": "III",
+        "page_number": "303",
+        "children": []
+      },
+      {
+        "title": "Der Kreis Ragusa",
+        "chapter_number": "IV",
+        "page_number": "304",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Das Lombardisch - Venetianische Königreich",
+    "chapter_number": null,
+    "page_number": "305",
+    "children": []
+  },
+  {
+    "title": "Das Kronland Lombardei",
+    "chapter_number": "20",
+    "page_number": "309",
+    "children": []
+  },
+  {
+    "title": "Das Kronland Venedig",
+    "chapter_number": "21",
+    "page_number": "327",
+    "children": []
+  }
+]

@@ -1,0 +1,116 @@
+
+[
+  {
+    "title": "Articulus II. Ecclesia orientalis schismatica.",
+    "chapter_number": "Articulus II",
+    "page_number": "652",
+    "children": [
+      {
+        "title": "Ecclesia Russiae. Persecutiones Catholicorum ritus utriusque.",
+        "chapter_number": "§ 252",
+        "page_number": "652",
+        "children": []
+      },
+      {
+        "title": "Patriarchatus CPolitanus et Ecclesiae ejus jurisdictioni subtractae.",
+        "chapter_number": "§ 253",
+        "page_number": "656",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Articulus III. Controversiae theologicae et sectae in Ecclesia catholica. Scientia sacra.",
+    "chapter_number": "Articulus III",
+    "page_number": "659",
+    "children": [
+      {
+        "title": "La Mennais. Chatel. Saint-Simonistae.",
+        "chapter_number": "§ 254",
+        "page_number": "659",
+        "children": []
+      },
+      {
+        "title": "Controversiae theologicae de relatione fidei ad scientiam.",
+        "chapter_number": "§ 255",
+        "page_number": "661",
+        "children": [
+          {
+            "title": "Hermes. - Bautain. Traditionalistae.",
+            "chapter_number": "a)",
+            "page_number": "661",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Günther. Frohschammer. Ontologistae.",
+        "chapter_number": "§ 256. b)",
+        "page_number": "664",
+        "children": []
+      },
+      {
+        "title": "Rongeani seu Germanico-Catholici.",
+        "chapter_number": "§ 257",
+        "page_number": "666",
+        "children": []
+      },
+      {
+        "title": "Antiinfallibilistae seu Vetero-Catholici.",
+        "chapter_number": "§ 258",
+        "page_number": "668",
+        "children": []
+      },
+      {
+        "title": "Scientia theologica.",
+        "chapter_number": "§ 259",
+        "page_number": "671",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Propagatio religionis christianae (Ecclesia catholica).",
+    "chapter_number": "Caput III.",
+    "page_number": "674",
+    "children": [
+      {
+        "title": "In Asia.",
+        "chapter_number": "§ 260",
+        "page_number": "674",
+        "children": []
+      },
+      {
+        "title": "In Africa et Australia.",
+        "chapter_number": "§ 261",
+        "page_number": "679",
+        "children": []
+      },
+      {
+        "title": "In America.",
+        "chapter_number": "§ 262",
+        "page_number": "681",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vita religiosa (Ecclesia sancta).",
+    "chapter_number": "Caput IV.",
+    "page_number": "686",
+    "children": [
+      {
+        "title": "Cultus divinus. Congregationes religiosae.",
+        "chapter_number": "§ 263",
+        "page_number": "686",
+        "children": []
+      },
+      {
+        "title": "Artes christianae.",
+        "chapter_number": "§ 264",
+        "page_number": "690",
+        "children": []
+      }
+    ]
+  }
+]

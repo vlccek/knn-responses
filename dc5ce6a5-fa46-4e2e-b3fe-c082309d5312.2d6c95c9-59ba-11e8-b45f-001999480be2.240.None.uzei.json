@@ -1,0 +1,230 @@
+
+[
+  {
+    "title": "Živnostenské pomocnictvo",
+    "chapter_number": "VII",
+    "page_number": "116",
+    "children": [
+      {
+        "title": "Koho nazýváme živnostenským pomocníkem",
+        "chapter_number": "33",
+        "page_number": "116",
+        "children": []
+      },
+      {
+        "title": "Podmínky přijetí živnostenských pomocníků",
+        "chapter_number": "34",
+        "page_number": "118",
+        "children": []
+      },
+      {
+        "title": "Vedení přehledu o nich",
+        "chapter_number": "35",
+        "page_number": "122",
+        "children": []
+      },
+      {
+        "title": "Poměr pracovní",
+        "chapter_number": "36",
+        "page_number": "123",
+        "children": [
+          {
+            "title": "Jak se poměr ten zakládá",
+            "chapter_number": "A",
+            "page_number": "123",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Všeobecné povinnosti zaměstnavatelovy",
+        "chapter_number": "37. B",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "Všeobecné povinnosti pomocnictva",
+        "chapter_number": "38. C",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "O době pracovní",
+        "chapter_number": "39. D",
+        "page_number": "135",
+        "children": []
+      },
+      {
+        "title": "Doba pracovní ve dnech všedních",
+        "chapter_number": "40. a",
+        "page_number": "135",
+        "children": []
+      },
+      {
+        "title": "Klid nedělní a sváteční",
+        "chapter_number": "41. b",
+        "page_number": "139",
+        "children": []
+      },
+      {
+        "title": "Předpisy zvláštní I. Pro celé Předlitavsko",
+        "chapter_number": "42",
+        "page_number": "142",
+        "children": []
+      },
+      {
+        "title": "II. Pro král. České",
+        "chapter_number": "43",
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "O mzdě",
+        "chapter_number": "44. E",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Péče o vzdělání odborné",
+        "chapter_number": "45. F",
+        "page_number": "150",
+        "children": []
+      },
+      {
+        "title": "Zrušení poměru pracovního",
+        "chapter_number": "46. G",
+        "page_number": "150",
+        "children": []
+      },
+      {
+        "title": "Vysvědčení",
+        "chapter_number": "47. H",
+        "page_number": "154",
+        "children": []
+      },
+      {
+        "title": "Poměr učební",
+        "chapter_number": "48. I",
+        "page_number": "155",
+        "children": []
+      },
+      {
+        "title": "Spory z poměru pracovního, učebního a námezdního",
+        "chapter_number": "49. K",
+        "page_number": "163",
+        "children": []
+      },
+      {
+        "title": "Stávky a výluky",
+        "chapter_number": "50. L",
+        "page_number": "167",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přestupky a tresty",
+    "chapter_number": "VIII. 51",
+    "page_number": "170",
+    "children": []
+  },
+  {
+    "title": "Samosprávné orgány živnostenské",
+    "chapter_number": "IX",
+    "page_number": "172",
+    "children": [
+      {
+        "title": "Živnostenská společenstva",
+        "chapter_number": "52. A",
+        "page_number": "172",
+        "children": []
+      },
+      {
+        "title": "Jednoty společenstev",
+        "chapter_number": "53. B",
+        "page_number": "181",
+        "children": []
+      },
+      {
+        "title": "Obchodní a živnostenské komory",
+        "chapter_number": "54. C",
+        "page_number": "183",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Státní úřady a orgány živnostenské",
+    "chapter_number": "X",
+    "page_number": "186",
+    "children": [
+      {
+        "title": "Živnostenské úřady rozhodovací",
+        "chapter_number": "55. A",
+        "page_number": "186",
+        "children": []
+      },
+      {
+        "title": "Instruktoři společenstev",
+        "chapter_number": "56. B",
+        "page_number": "190",
+        "children": []
+      },
+      {
+        "title": "Živnostenští inspektoři",
+        "chapter_number": "57. C",
+        "page_number": "191",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pojišťování osob při živnostech činných",
+    "chapter_number": "XI. 58",
+    "page_number": "192",
+    "children": [
+      {
+        "title": "Nemocenské pojišťování dělnictva",
+        "chapter_number": "59. I",
+        "page_number": "193",
+        "children": []
+      },
+      {
+        "title": "Nemocenské pojišťování zaměstnavatelů",
+        "chapter_number": "60. II",
+        "page_number": "198",
+        "children": []
+      },
+      {
+        "title": "Úrazové pojišťování dělnictva",
+        "chapter_number": "61. III",
+        "page_number": "198",
+        "children": []
+      },
+      {
+        "title": "Povinné pensijní pojišťování soukr, úředníků",
+        "chapter_number": "62. IV",
+        "page_number": "203",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Míry a váhy. Cejchovnictví",
+    "chapter_number": "XII. 63",
+    "page_number": "209",
+    "children": []
+  },
+  {
+    "title": "Sazby kolkové a poplatkové ve věcech živnostenských",
+    "chapter_number": "Dodatek",
+    "page_number": "211",
+    "children": []
+  },
+  {
+    "title": "Věcný rejstřík",
+    "chapter_number": null,
+    "page_number": "226",
+    "children": []
+  }
+]

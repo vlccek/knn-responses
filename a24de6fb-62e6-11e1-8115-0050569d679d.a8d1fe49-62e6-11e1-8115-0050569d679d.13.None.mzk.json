@@ -1,0 +1,84 @@
+
+[
+  {
+    "title": "Abschnitt.",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Einzeln-Defilirung.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Die Eskadron",
+        "chapter_number": "§. 56",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Die Division und das Regiment",
+        "chapter_number": "§. 57",
+        "page_number": "102",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Abschnitt.",
+    "chapter_number": "IV",
+    "page_number": "",
+    "children": [
+      {
+        "title": "General-Decharge.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Die Eskadron",
+        "chapter_number": "§. 58",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Das Regiment",
+        "chapter_number": "§. 59",
+        "page_number": "103",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Abschnitt.",
+    "chapter_number": "V",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bestimmungen für den Standartführer.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Allgemeine Bestimmungen",
+        "chapter_number": "§. 60",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Aufstellung des Standartführers beim leichten Regimente",
+        "chapter_number": "",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "schweren",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

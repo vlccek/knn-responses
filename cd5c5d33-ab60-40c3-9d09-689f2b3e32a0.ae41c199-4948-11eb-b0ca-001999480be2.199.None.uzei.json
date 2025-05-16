@@ -1,0 +1,320 @@
+
+[
+  {
+    "title": "Základní pojmy.",
+    "chapter_number": "1",
+    "page_number": "79",
+    "children": [
+      {
+        "title": "Základní útvary společenského života:",
+        "chapter_number": "I",
+        "page_number": "79",
+        "children": [
+          {
+            "title": "Rodina.",
+            "chapter_number": "",
+            "page_number": "80",
+            "children": []
+          },
+          {
+            "title": "Obec.",
+            "chapter_number": "",
+            "page_number": "80",
+            "children": []
+          },
+          {
+            "title": "Společnost",
+            "chapter_number": "",
+            "page_number": "81",
+            "children": []
+          },
+          {
+            "title": "Stát.",
+            "chapter_number": "",
+            "page_number": "82",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O státní moci",
+        "chapter_number": "II",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "O státních formách vůbec a republice zvláště",
+        "chapter_number": "III",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Stěžejné principy občanského života v republice:",
+        "chapter_number": "IV",
+        "page_number": "87",
+        "children": [
+          {
+            "title": "Princip demokratismu",
+            "chapter_number": "",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Princip občanské svobody.",
+            "chapter_number": "",
+            "page_number": "88",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vznik a ochrana naší republiky.",
+    "chapter_number": "2",
+    "page_number": "90",
+    "children": [
+      {
+        "title": "Význam státního převratu ze dne 28. října 1918.",
+        "chapter_number": "I",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Územní a státoprávní konsolidace",
+        "chapter_number": "II",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Ústavní základy naší republiky",
+        "chapter_number": "III",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Zvláštní postavení Podkarpatské Rusi",
+        "chapter_number": "IV",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Ochrana naší republiky",
+        "chapter_number": "V",
+        "page_number": "97",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Státní občanství..",
+    "chapter_number": "3",
+    "page_number": "99",
+    "children": [
+      {
+        "title": "Nabytí a pozbytí státního občanství.",
+        "chapter_number": "I",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Práva, svobody a povinnosti občanské",
+        "chapter_number": "II",
+        "page_number": "101",
+        "children": []
+      },
+      {
+        "title": "Menšinová ochrana.",
+        "chapter_number": "III",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Výjimečný stav",
+        "chapter_number": "IV",
+        "page_number": "111",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Formy a kontrola státní moci.",
+    "chapter_number": "4",
+    "page_number": "113",
+    "children": [
+      {
+        "title": "Zákonodárná moc:",
+        "chapter_number": "I",
+        "page_number": "113",
+        "children": [
+          {
+            "title": "Národní shromáždění.",
+            "chapter_number": "",
+            "page_number": "118",
+            "children": []
+          },
+          {
+            "title": "Stálý výbor podle § 54. ústavní listiny",
+            "chapter_number": "",
+            "page_number": "118",
+            "children": []
+          },
+          {
+            "title": "Volební řád do národ. shromáždění.",
+            "chapter_number": "",
+            "page_number": "119",
+            "children": []
+          },
+          {
+            "title": "Kontrola zákonodárné moci.",
+            "chapter_number": "",
+            "page_number": "125",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Moc vládní a výkonná:",
+        "chapter_number": "II",
+        "page_number": "126",
+        "children": [
+          {
+            "title": "O presidentu republiky",
+            "chapter_number": "",
+            "page_number": "126",
+            "children": []
+          },
+          {
+            "title": "O vládě",
+            "chapter_number": "",
+            "page_number": "128",
+            "children": []
+          },
+          {
+            "title": "Organisace státních úřadů",
+            "chapter_number": "",
+            "page_number": "130",
+            "children": []
+          },
+          {
+            "title": "Kontrola moci vládní a výkonné.",
+            "chapter_number": "",
+            "page_number": "134",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Soudcovská moc:",
+        "chapter_number": "III",
+        "page_number": "136",
+        "children": [
+          {
+            "title": "Organisace soudů a kontrola jejich činnosti.",
+            "chapter_number": "",
+            "page_number": "137",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Veřejná péče státní o blaho občanstva",
+    "chapter_number": "5",
+    "page_number": "138",
+    "children": [
+      {
+        "title": "Kulturní a školská péče státní",
+        "chapter_number": "I",
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Hospodářská péče státní",
+        "chapter_number": "II",
+        "page_number": "143",
+        "children": [
+          {
+            "title": "Pro zvelebení zemědělstvi",
+            "chapter_number": "",
+            "page_number": "147",
+            "children": []
+          },
+          {
+            "title": "Pro zvelebení průmyslu, obchodu a živností",
+            "chapter_number": "",
+            "page_number": "150",
+            "children": []
+          },
+          {
+            "title": "Pro zvelebení státních financí, peněžnictví a pojišťovnictví.",
+            "chapter_number": "",
+            "page_number": "153",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zdravotní péče státní",
+        "chapter_number": "III",
+        "page_number": "155",
+        "children": []
+      },
+      {
+        "title": "Sociální péče",
+        "chapter_number": "IV",
+        "page_number": "158",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Postižné nároky proti státu.",
+    "chapter_number": "6",
+    "page_number": "162",
+    "children": []
+  },
+  {
+    "title": "Poučení a výstraha z dějin",
+    "chapter_number": "7",
+    "page_number": "162",
+    "children": []
+  },
+  {
+    "title": "Založení Společnosti národů",
+    "chapter_number": "1",
+    "page_number": "169",
+    "children": []
+  },
+  {
+    "title": "Odvetná opatření za zavinění světové války",
+    "chapter_number": "2",
+    "page_number": "173",
+    "children": []
+  },
+  {
+    "title": "Mezinárodní organisace práce",
+    "chapter_number": "3",
+    "page_number": "176",
+    "children": []
+  },
+  {
+    "title": "Naše mírová smlouva z 10. září 1919",
+    "chapter_number": "4",
+    "page_number": "180",
+    "children": []
+  },
+  {
+    "title": "Mírové smlouvy s Německem, Rakouskem a s Maďarskem",
+    "chapter_number": "5",
+    "page_number": "182",
+    "children": []
+  },
+  {
+    "title": "Věcný ukazovatel",
+    "chapter_number": "",
+    "page_number": "184",
+    "children": []
+  }
+]

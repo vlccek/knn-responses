@@ -1,0 +1,153 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "VII.-IX.",
+    "children": []
+  },
+  {
+    "title": "DÍL PRVÝ",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Doba nejstarší. Od příchodu Čechů do Čech až po vymření Přemyslovců.",
+        "chapter_number": "I",
+        "page_number": "1-27",
+        "children": [
+          {
+            "title": "Období pohanské.",
+            "chapter_number": "1",
+            "page_number": "1",
+            "children": []
+          },
+          {
+            "title": "Boj cizích písemnictví o nás u nás.",
+            "chapter_number": "2",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Vláda latiny.",
+            "chapter_number": "3",
+            "page_number": "14",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Doba stará. Od vymření Přemyslovců až do nastoupení Habsburků.",
+        "chapter_number": "II",
+        "page_number": "28-288",
+        "children": [
+          {
+            "title": "Předchůdcové zlatého období.",
+            "chapter_number": "1",
+            "page_number": "28",
+            "children": []
+          },
+          {
+            "title": "Zlaté období za Karla IV.",
+            "chapter_number": "2",
+            "page_number": "72",
+            "children": []
+          },
+          {
+            "title": "Počátky písemnictví národního.",
+            "chapter_number": "3",
+            "page_number": "125",
+            "children": []
+          },
+          {
+            "title": "Květ písemnictví národního.",
+            "chapter_number": "4",
+            "page_number": "212",
+            "children": []
+          },
+          {
+            "title": "Rozklad staré doby prvky novými.",
+            "chapter_number": "5",
+            "page_number": "256",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "DÍL DRUHÝ",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Doba nová. Od nastoupení Habsburků do vypuzení češtiny ze škol i úřadův.",
+        "chapter_number": "I",
+        "page_number": "289--579",
+        "children": [
+          {
+            "title": "Vzkvétání písemnictví českého v novověku",
+            "chapter_number": "1",
+            "page_number": "289",
+            "children": []
+          },
+          {
+            "title": "Zlatý věk Rudolfův.",
+            "chapter_number": "2",
+            "page_number": "340",
+            "children": []
+          },
+          {
+            "title": "Úpadek jazyka i písemnictví.",
+            "chapter_number": "3",
+            "page_number": "402",
+            "children": []
+          },
+          {
+            "title": "Vláda němčiny.",
+            "chapter_number": "4",
+            "page_number": "471",
+            "children": []
+          },
+          {
+            "title": "Vzkříšení jazyka i písemnictví.",
+            "chapter_number": "5",
+            "page_number": "481",
+            "children": []
+          },
+          {
+            "title": "Období předbřeznové",
+            "chapter_number": "6",
+            "page_number": "514",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Doba nejnovější. Od počátku ústavního života moderního až po naše dni.",
+        "chapter_number": "II",
+        "page_number": "580-740",
+        "children": [
+          {
+            "title": "První květ.",
+            "chapter_number": "1",
+            "page_number": "580",
+            "children": []
+          },
+          {
+            "title": "Naše dni.",
+            "chapter_number": "2",
+            "page_number": "693",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ukazatel",
+    "chapter_number": "",
+    "page_number": "741-767",
+    "children": []
+  }
+]

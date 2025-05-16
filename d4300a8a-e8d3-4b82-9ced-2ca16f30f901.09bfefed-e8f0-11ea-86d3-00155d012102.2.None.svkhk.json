@@ -1,0 +1,113 @@
+
+[
+  {
+    "title": "Obsah",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "§. I-IV",
+    "page_number": "3-12"
+  },
+  {
+    "title": "Trigonometria ploská",
+    "chapter_number": "Kniha první",
+    "page_number": "13-24",
+    "children": [
+      {
+        "title": "Vztahy úkonů goniometrických",
+        "chapter_number": "Část I",
+        "page_number": "13-24",
+        "children": []
+      },
+      {
+        "title": "O vypočítávání desk úhloměrných",
+        "chapter_number": "Část II",
+        "page_number": "24-28",
+        "children": []
+      },
+      {
+        "title": "O úhloměrném řešení obrazců přímočarých",
+        "chapter_number": "Část III",
+        "page_number": "28-31",
+        "children": [
+          {
+            "title": "Řešení trojúhelníků pravoúhlých",
+            "chapter_number": "A",
+            "page_number": "28-31",
+            "children": []
+          },
+          {
+            "title": "Řešení trojúhelníků kosoúhlých",
+            "chapter_number": "B",
+            "page_number": "31-38",
+            "children": []
+          },
+          {
+            "title": "Řešení čtyřúhelníků",
+            "chapter_number": "C",
+            "page_number": "38-40",
+            "children": []
+          },
+          {
+            "title": "Řešení mnohoúhelníků pravidelných",
+            "chapter_number": "D",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "Úlohy z měřictví výkonného",
+            "chapter_number": "E",
+            "page_number": "42-46",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Trigonometria sférická",
+    "chapter_number": "Kniha druhá",
+    "page_number": "47-52",
+    "children": [
+      {
+        "title": "Základní vzorce k řešení trojúhelníků sférických",
+        "chapter_number": "Část I",
+        "page_number": "47-52",
+        "children": []
+      },
+      {
+        "title": "Řešení trojúhelníků sférických",
+        "chapter_number": "Část II",
+        "page_number": "53-57",
+        "children": [
+          {
+            "title": "pravoúhlých",
+            "chapter_number": "A",
+            "page_number": "53-57",
+            "children": []
+          },
+          {
+            "title": "kosoúhlých",
+            "chapter_number": "B",
+            "page_number": "57-61",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Úlohy z měřictví výkonného",
+        "chapter_number": "",
+        "page_number": "62-64",
+        "children": []
+      },
+      {
+        "title": "Úlohy z polyedrometrie",
+        "chapter_number": "",
+        "page_number": "64-66",
+        "children": []
+      }
+    ]
+  }
+]

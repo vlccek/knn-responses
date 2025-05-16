@@ -1,0 +1,145 @@
+
+[
+  {
+    "title": "Die Volkszählung.",
+    "chapter_number": "I",
+    "page_number": "1-14",
+    "children": [
+      {
+        "title": "Ergebnisse älterer und neuerer Zählungen",
+        "chapter_number": "",
+        "page_number": "1-14",
+        "children": []
+      },
+      {
+        "title": "Mittlerer Zuwachs",
+        "chapter_number": "",
+        "page_number": "14-16",
+        "children": []
+      },
+      {
+        "title": "Emigration",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Volksdichtigkeit",
+        "chapter_number": "",
+        "page_number": "17-23",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Volksbeschreibung.",
+    "chapter_number": "II",
+    "page_number": "24-28",
+    "children": [
+      {
+        "title": "Allgemeines",
+        "chapter_number": "",
+        "page_number": "24-28",
+        "children": []
+      },
+      {
+        "title": "Sexual-Verhältniss",
+        "chapter_number": "A",
+        "page_number": "29-36",
+        "children": []
+      },
+      {
+        "title": "Alter.",
+        "chapter_number": "B",
+        "page_number": "36-41",
+        "children": []
+      },
+      {
+        "title": "Nationalität",
+        "chapter_number": "C",
+        "page_number": "41-49",
+        "children": []
+      },
+      {
+        "title": "Religionsverschiedenheit.",
+        "chapter_number": "D",
+        "page_number": "50-55",
+        "children": []
+      },
+      {
+        "title": "Civilstand",
+        "chapter_number": "E",
+        "page_number": "55-63",
+        "children": []
+      },
+      {
+        "title": "Beschäftigung und Erwerb",
+        "chapter_number": "F",
+        "page_number": "63-97",
+        "children": []
+      },
+      {
+        "title": "Aufenthalt",
+        "chapter_number": "G",
+        "page_number": "97-109",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ergänzende Daten aus anderen Zweigen der Statistik.",
+    "chapter_number": "III",
+    "page_number": "110",
+    "children": [
+      {
+        "title": "Allgemeines",
+        "chapter_number": "",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Recrutirungs-Statistik",
+        "chapter_number": "a",
+        "page_number": "111-114",
+        "children": []
+      },
+      {
+        "title": "Statistik des Schulbesuchs",
+        "chapter_number": "b",
+        "page_number": "115-124",
+        "children": []
+      },
+      {
+        "title": "Statistik der wegen Verbrechen Verurtheilten",
+        "chapter_number": "c",
+        "page_number": "124-133",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Wohnungs-Verhältnisse.",
+    "chapter_number": "IV",
+    "page_number": "134-136",
+    "children": [
+      {
+        "title": "Wohnparteien",
+        "chapter_number": "",
+        "page_number": "134-136",
+        "children": []
+      },
+      {
+        "title": "Wohngebäude",
+        "chapter_number": "",
+        "page_number": "136-139",
+        "children": []
+      },
+      {
+        "title": "Wohnorte",
+        "chapter_number": "",
+        "page_number": "139-152",
+        "children": []
+      }
+    ]
+  }
+]

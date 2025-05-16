@@ -1,0 +1,484 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Účetnictví vůbec a jeho účel",
+    "chapter_number": "A",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Všeobecné zásady účetnické",
+    "chapter_number": "B",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Knihy účetní a jích zřízení",
+    "chapter_number": "C",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Druhy hospodářského účetnictví",
+    "chapter_number": "D",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Účetnictví stálé.",
+    "chapter_number": "A",
+    "page_number": "11",
+    "children": [
+      {
+        "title": "Kniha základní",
+        "chapter_number": "1",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Kniha popisná neb popisník",
+        "chapter_number": "2",
+        "page_number": "13",
+        "children": [
+          {
+            "title": "Odhad jmění",
+            "chapter_number": "",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Pozemky",
+            "chapter_number": "",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Budovy",
+            "chapter_number": "",
+            "page_number": "16",
+            "children": []
+          },
+          {
+            "title": "Dobytek",
+            "chapter_number": "",
+            "page_number": "17",
+            "children": []
+          },
+          {
+            "title": "Nářadí a stroje",
+            "chapter_number": "",
+            "page_number": "18",
+            "children": []
+          },
+          {
+            "title": "Zásoby. Zásoby naturální",
+            "chapter_number": "",
+            "page_number": "19",
+            "children": []
+          },
+          {
+            "title": "Zásoby materialií",
+            "chapter_number": "",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "Práva a břemena",
+            "chapter_number": "",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "Požadavky za jinými",
+            "chapter_number": "",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "Hotové peníze",
+            "chapter_number": "",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "Cenné papíry",
+            "chapter_number": "",
+            "page_number": "20",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Kniha dějinná.",
+        "chapter_number": "3",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Kniha rozčetní",
+        "chapter_number": "4",
+        "page_number": "22",
+        "children": [
+          {
+            "title": "Rozečty (Kalkulace)",
+            "chapter_number": "a",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Předpočty (projekty, prelimináře)",
+            "chapter_number": "b",
+            "page_number": "31",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Účetnictví běžné",
+    "chapter_number": "B",
+    "page_number": "33",
+    "children": [
+      {
+        "title": "Jednoduché účetnictví denníkové",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Účetnictví kameralistické",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": [
+          {
+            "title": "tabulkové",
+            "chapter_number": "",
+            "page_number": "35",
+            "children": []
+          },
+          {
+            "title": "kupecké",
+            "chapter_number": "",
+            "page_number": "35",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rozdělení hlavní knihy:",
+    "chapter_number": "",
+    "page_number": "37",
+    "children": [
+      {
+        "title": "Všeobecné",
+        "chapter_number": "A",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Všeobecný účet důchodenský",
+        "chapter_number": "B",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Společná správa statku",
+        "chapter_number": "C",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Hospodářství ve vlastní správě",
+        "chapter_number": "D",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Hospodářství pronajmuté",
+        "chapter_number": "E",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Závody průmyslové",
+        "chapter_number": "F",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Rozvaha příjmů a vydání",
+        "chapter_number": "G",
+        "page_number": "41",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zařízení a vedení knih účetních",
+    "chapter_number": "",
+    "page_number": "41",
+    "children": [
+      {
+        "title": "Účty důchodenské (peněžné). Denník",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Kniha hlavní důchodenská",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Skontro",
+        "chapter_number": "",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Saldokonto",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Zápisník parcelních nájemců",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Konferenční kniha, arch.",
+    "chapter_number": "",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Účty naturální, inventární a stavební",
+    "chapter_number": "",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Zápisníky čili rejstříky",
+    "chapter_number": "",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Kniha hlavní (naturální).",
+    "chapter_number": "",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Skontro naturální.",
+    "chapter_number": "",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Účty inventární",
+    "chapter_number": "",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Zápisník či denník inventární",
+    "chapter_number": "",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Hlavní kniha inventární.",
+    "chapter_number": "",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "Účty budov a pozemků (immobilií)",
+    "chapter_number": "",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Vyšetření výnosu",
+    "chapter_number": "",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Účetnictví dvojité (složité).",
+    "chapter_number": "",
+    "page_number": "57",
+    "children": []
+  },
+  {
+    "title": "Knihy účetní, jích zařízení a vedení",
+    "chapter_number": "",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Knihy hlavní čili podstatné, řádné",
+    "chapter_number": "",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Kniha pokladní.",
+    "chapter_number": "",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Memorial čili Denník",
+    "chapter_number": "",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Sborník",
+    "chapter_number": "",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Hlavní kniha",
+    "chapter_number": "",
+    "page_number": "64",
+    "children": []
+  },
+  {
+    "title": "Saldokonto, čili běžný účet obchodních přátel",
+    "chapter_number": "",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Kniha parcelních nájemců",
+    "chapter_number": "",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Kniha služného.",
+    "chapter_number": "",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Knihy mimořádné (vedlejší, pomocné)",
+    "chapter_number": "",
+    "page_number": "70",
+    "children": []
+  },
+  {
+    "title": "Zásobníky",
+    "chapter_number": "",
+    "page_number": "70",
+    "children": []
+  },
+  {
+    "title": "Zápisníky",
+    "chapter_number": "",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Tabulky",
+    "chapter_number": "",
+    "page_number": "76",
+    "children": []
+  },
+  {
+    "title": "Závěra knihovní a vyšetření ztrát a zisku, poměr zúrokování jednotlivých kapitálů hospodářských",
+    "chapter_number": "",
+    "page_number": "77",
+    "children": []
+  },
+  {
+    "title": "Rozdíl účetnictví jednoduchého a dvojitého",
+    "chapter_number": "",
+    "page_number": "80",
+    "children": []
+  },
+  {
+    "title": "Shoda obou účetníckých způsobů,",
+    "chapter_number": "",
+    "page_number": "81",
+    "children": []
+  },
+  {
+    "title": "Revise či zkouška účtů",
+    "chapter_number": "",
+    "page_number": "82",
+    "children": []
+  },
+  {
+    "title": "Účtování v průmyslových závodech",
+    "chapter_number": "",
+    "page_number": "85",
+    "children": []
+  },
+  {
+    "title": "Účtování v závodech akciových",
+    "chapter_number": "",
+    "page_number": "86",
+    "children": []
+  },
+  {
+    "title": "Účetnictví ústředního ředitelství velkostatků",
+    "chapter_number": "",
+    "page_number": "89",
+    "children": []
+  },
+  {
+    "title": "Vzorce knih a tabulek v hospodář-ském účetnictví užívaných.",
+    "chapter_number": "",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "Knihy účetnictví stálého",
+    "chapter_number": "",
+    "page_number": "94",
+    "children": []
+  },
+  {
+    "title": "Knihy účetnictví peněžného.",
+    "chapter_number": "",
+    "page_number": "97",
+    "children": []
+  },
+  {
+    "title": "Knihy účetnictví naturalního a zásobníky",
+    "chapter_number": "",
+    "page_number": "101",
+    "children": []
+  },
+  {
+    "title": "Zápisníky",
+    "chapter_number": "",
+    "page_number": "106",
+    "children": []
+  },
+  {
+    "title": "Vikazy a seznamy",
+    "chapter_number": "",
+    "page_number": "112",
+    "children": []
+  }
+]

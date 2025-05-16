@@ -1,0 +1,95 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Zásady rationelního pěstování ječmene",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Půda",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Postup osevní",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Příprava půdy",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Setba",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Ošetřování v době vzrůstu a jiné práce",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Sklizeň",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Mlácení",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Čistění a třídění zrna",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hnojení sladovnického ječmene",
+    "chapter_number": "II",
+    "page_number": "26",
+    "children": [
+      {
+        "title": "Hnojení dusíkaté",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Hnojení fosforečno-draselnaté",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Hnojení vápenaté",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Jak se hnojení vyplácí?",
+        "chapter_number": "",
+        "page_number": "42",
+        "children": []
+      }
+    ]
+  }
+]

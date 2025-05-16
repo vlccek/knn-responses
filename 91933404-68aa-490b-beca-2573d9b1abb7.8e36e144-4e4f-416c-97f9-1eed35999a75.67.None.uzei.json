@@ -1,0 +1,114 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Der Viehhandel vor dem Krieg und zu Beginn desselben",
+    "chapter_number": "1",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Die staatliche Bewirtschaftung des Viehes",
+    "chapter_number": "2",
+    "page_number": "14",
+    "children": []
+  },
+  {
+    "title": "Lockerung der staatlichen Bewirtschaftung und Freiheit im Viehverkehr",
+    "chapter_number": "3",
+    "page_number": "20",
+    "children": []
+  },
+  {
+    "title": "Gemeinsame Viehverwertung",
+    "chapter_number": "4",
+    "page_number": "27",
+    "children": [
+      {
+        "title": "Förderung der Viehzucht",
+        "chapter_number": "A",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Ausschaltung des Zwischenhandels",
+        "chapter_number": "B",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Preisbildung",
+        "chapter_number": "C",
+        "page_number": "40",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Viehzucht- und Viehverwertungsgenossenschaften",
+    "chapter_number": "5",
+    "page_number": "44",
+    "children": [
+      {
+        "title": "Die Vorarbeiten und der Aufbau der Genossenschaft",
+        "chapter_number": "A",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Die Betriebsführung",
+        "chapter_number": "B",
+        "page_number": "50",
+        "children": [
+          {
+            "title": "Die Viehvermittlung",
+            "chapter_number": "a",
+            "page_number": "51",
+            "children": []
+          },
+          {
+            "title": "Der Ein- und Verkauf von Zucht, Nut- und Schlachtvieh",
+            "chapter_number": "b",
+            "page_number": "51",
+            "children": []
+          },
+          {
+            "title": "Die Preisbestimmung",
+            "chapter_number": "c",
+            "page_number": "55",
+            "children": []
+          },
+          {
+            "title": "Der Geldverkehr und die Kanzleiführung",
+            "chapter_number": "d",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Der Stallbetrieb",
+            "chapter_number": "e",
+            "page_number": "57",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Zusammenfassung der Genossenschaften",
+    "chapter_number": "6",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "Schlußbemerkung",
+    "chapter_number": "",
+    "page_number": "62",
+    "children": []
+  }
+]

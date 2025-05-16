@@ -1,0 +1,84 @@
+
+[
+  {
+    "title": "Die Vegetation",
+    "chapter_number": "IV",
+    "page_number": "73",
+    "children": [
+      {
+        "title": "Die Ernährung der Pflanzen",
+        "chapter_number": "A",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Die Kulturpflanzen",
+        "chapter_number": "B",
+        "page_number": "79",
+        "children": [
+          {
+            "title": "Landwirthschaftliche",
+            "chapter_number": "1",
+            "page_number": "79",
+            "children": []
+          },
+          {
+            "title": "Forstwirthschaftliche Gewächse",
+            "chapter_number": "2",
+            "page_number": "88",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Die Flora im Allgemeinen",
+        "chapter_number": "C",
+        "page_number": "96",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Aus dem Thierreiche",
+    "chapter_number": "V",
+    "page_number": "99",
+    "children": [
+      {
+        "title": "Säugethiere",
+        "chapter_number": "1",
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "Vögel",
+        "chapter_number": "2",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Amphibien",
+        "chapter_number": "3",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Insekten",
+        "chapter_number": "4",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Spinnenthiere",
+        "chapter_number": "5",
+        "page_number": "117",
+        "children": []
+      },
+      {
+        "title": "Würmer",
+        "chapter_number": "6",
+        "page_number": "117",
+        "children": []
+      }
+    ]
+  }
+]

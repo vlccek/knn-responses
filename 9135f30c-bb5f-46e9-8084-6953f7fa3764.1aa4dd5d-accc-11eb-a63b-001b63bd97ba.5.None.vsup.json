@@ -1,0 +1,33 @@
+
+[
+  {
+    "title": "einleitung",
+    "chapter_number": "",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "erziehungsfragen",
+    "chapter_number": "I.",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "das material",
+    "chapter_number": "II.",
+    "page_number": "20",
+    "children": []
+  },
+  {
+    "title": "das volumen (plastik)",
+    "chapter_number": "III.",
+    "page_number": "92",
+    "children": []
+  },
+  {
+    "title": "der raum (architektur)",
+    "chapter_number": "IV.",
+    "page_number": "193",
+    "children": []
+  }
+]

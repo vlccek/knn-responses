@@ -1,0 +1,52 @@
+
+[
+  {
+    "title": "Vyšetření přírůstku na hmotě kmenů poražených dle pro- střední síly.",
+    "chapter_number": "b",
+    "page_number": "139",
+    "children": []
+  },
+  {
+    "title": "Vyšetření přirůstku hmotového výtvarnicemi",
+    "chapter_number": "c",
+    "page_number": "140",
+    "children": []
+  },
+  {
+    "title": "Určení přírůstku hmotového v procentech",
+    "chapter_number": "d",
+    "page_number": "141",
+    "children": []
+  },
+  {
+    "title": "Určování přírůstku hmotového z průměrného ročního přirůstku",
+    "chapter_number": "e",
+    "page_number": "146",
+    "children": []
+  },
+  {
+    "title": "Určování přírůstku celých porostů",
+    "chapter_number": "B",
+    "page_number": "146",
+    "children": [
+      {
+        "title": "Vyšetření přirůstku celých porostů dle tabulek těžných",
+        "chapter_number": "1",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Vyšetření přírůstku porostního z průměrného ročního přírůstku.",
+        "chapter_number": "2",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Určování přirůstku celých porostů dle procenta přírůstkového",
+        "chapter_number": "3",
+        "page_number": "148",
+        "children": []
+      }
+    ]
+  }
+]

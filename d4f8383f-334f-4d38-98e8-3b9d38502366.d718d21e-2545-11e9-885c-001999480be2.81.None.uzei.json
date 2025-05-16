@@ -1,0 +1,52 @@
+
+[
+  {
+    "title": "rozdělení lihovarů",
+    "chapter_number": "aa",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "způsob zdaňování výrobku",
+    "chapter_number": "bb",
+    "page_number": "51",
+    "children": [
+      {
+        "title": "na základě dohodnutí či úmluvy finanční správy s podnikatelem lihovaru",
+        "chapter_number": "1",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "dle denní výkonnosti destilačního přístroje",
+        "chapter_number": "2",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "dle skutečně vyrobeného množství alkoholu",
+        "chapter_number": "3",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Různá oznámení na c. k. oddělení finanční stráže, nebo na představenstvo obce",
+    "chapter_number": "cc",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Pálení slívovice ve velkém a zdanění její na základě udání kontrolního měřidla",
+    "chapter_number": "c",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "",
+    "page_number": "71",
+    "children": []
+  }
+]

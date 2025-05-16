@@ -1,0 +1,115 @@
+
+[
+  {
+    "title": "Cvičení opakovací.",
+    "chapter_number": "Oddíl první.",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Počty s celými a desetinnými čísly",
+        "chapter_number": "I.",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Počítání obyčejnými zlomky",
+        "chapter_number": "II.",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Počty sousudkové",
+        "chapter_number": "III.",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Jednoduché počty procentové a úrokové",
+        "chapter_number": "IV.",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Smíšené úkoly",
+        "chapter_number": "V.",
+        "page_number": "38",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Počty rozličnému povolání životnímu.",
+    "chapter_number": "Oddíl druhý.",
+    "page_number": "45",
+    "children": [
+      {
+        "title": "Počty v domácím hospodářství",
+        "chapter_number": "I.",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Počty v hospodářství polním",
+        "chapter_number": "II.",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Počty živnostenské",
+        "chapter_number": "III.",
+        "page_number": "69",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vypočítávání veličin prostorných.",
+    "chapter_number": "Oddíl třetí.",
+    "page_number": "80",
+    "children": [
+      {
+        "title": "Vypočítávání ploch",
+        "chapter_number": "I.",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Úkoly k opakování",
+        "chapter_number": "",
+        "page_number": "91",
+        "children": []
+      },
+      {
+        "title": "Vypočítávání těles",
+        "chapter_number": "II.",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Úkoly k opakování",
+        "chapter_number": "",
+        "page_number": "107",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přehled nejdůležitějších vah, měr a penízů.",
+    "chapter_number": "Přídavek.",
+    "page_number": "110",
+    "children": [
+      {
+        "title": "Metrická soustava míry a váhy",
+        "chapter_number": "I.",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Míry, váhy a peníze v mocnářství Rakousko-uherském",
+        "chapter_number": "II.",
+        "page_number": "112",
+        "children": []
+      }
+    ]
+  }
+]

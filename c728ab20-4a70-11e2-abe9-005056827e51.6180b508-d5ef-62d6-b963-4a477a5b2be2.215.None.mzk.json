@@ -1,0 +1,248 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Všeobecné požadavky rostlin",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Prsť a různé přísady zemin",
+        "chapter_number": "1",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Mrva a hnojení",
+        "chapter_number": "2",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Voda a ovzduší",
+        "chapter_number": "3",
+        "page_number": "16",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Nejdůležitější pomůcky ku pěstování rostlin",
+    "chapter_number": "II",
+    "page_number": "17",
+    "children": [
+      {
+        "title": "Květníky a jiné nádoby",
+        "chapter_number": "1",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Náčiní ku pěstování květin potřebné",
+        "chapter_number": "2",
+        "page_number": "20",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Místnosti a stanoviska pro pěstování rostlin určená",
+    "chapter_number": "III",
+    "page_number": "22",
+    "children": [
+      {
+        "title": "Obyčejná světnice bez zvláštního zařízení",
+        "chapter_number": "1",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Police před oknem",
+        "chapter_number": "2",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Dvojité zasklenné okno",
+        "chapter_number": "3",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Okenní sklenníček",
+        "chapter_number": "4",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Květinové stolky a podstavce",
+        "chapter_number": "5",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Krytý stolek či salonní sklenníček",
+        "chapter_number": "6",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Místnosti ku přezimování rostlin",
+        "chapter_number": "7",
+        "page_number": "31",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Péče a ošetřování rostlin",
+    "chapter_number": "IV",
+    "page_number": "33",
+    "children": [
+      {
+        "title": "Přesazování a kypření",
+        "chapter_number": "1",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Zalévání",
+        "chapter_number": "2",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Teplo a větrání",
+        "chapter_number": "3",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Ořezávání, přivazování a čistění",
+        "chapter_number": "4",
+        "page_number": "43",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Choroby rostlin a škodlivá zvířata",
+    "chapter_number": "V",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Rozmnožování rostlin",
+    "chapter_number": "VI",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Užití rostlin visutých, opletavých a vodních",
+    "chapter_number": "VII",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Podrobné pěstování",
+    "chapter_number": "VIII",
+    "page_number": "68",
+    "children": [
+      {
+        "title": "Rychlení rostlin cibulovitých",
+        "chapter_number": "1",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "O palmách",
+        "chapter_number": "2",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "O kapradinách",
+        "chapter_number": "3",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Tučnolisté rostliny ve světnici",
+        "chapter_number": "4",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Rostliny vřesovištní",
+        "chapter_number": "5",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Rostliny pro teplou světnici",
+        "chapter_number": "6",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Tvrdé či studené rostliny",
+        "chapter_number": "7",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Trvanlivé květiny za okno",
+        "chapter_number": "8",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Rostliny jednoleté",
+        "chapter_number": "9",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Zvláštnosti rostlin cibulovitých a vytrvalých",
+        "chapter_number": "10",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Růže ve světnici",
+        "chapter_number": "11",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Rychlení křovin ve světnici",
+        "chapter_number": "12",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Několik slov o vstavačovitých rostlinách",
+        "chapter_number": "13",
+        "page_number": "95",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rejstřík jmen květinových",
+    "chapter_number": "",
+    "page_number": "100",
+    "children": []
+  }
+]

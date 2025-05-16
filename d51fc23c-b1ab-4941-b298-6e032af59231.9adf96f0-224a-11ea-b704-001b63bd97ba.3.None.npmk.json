@@ -1,0 +1,87 @@
+
+[
+  {
+    "title": "La Chèvre de M. Seguin, par Alphonse Daudet",
+    "chapter_number": "1",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Les Humanités, par Anatole France",
+    "chapter_number": "2",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Le Jongleur de Notre-Dame, par Anatole France",
+    "chapter_number": "3",
+    "page_number": "14",
+    "children": []
+  },
+  {
+    "title": "La Tempête, par Tony Révillon",
+    "chapter_number": "4",
+    "page_number": "20",
+    "children": []
+  },
+  {
+    "title": "Chagrin d'un vieux Forçat, par Pierre Loti",
+    "chapter_number": "5",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Chien d'Aveugle, par Paul Arène",
+    "chapter_number": "6",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "La Boîte aux Lettres, par René Bazin",
+    "chapter_number": "7",
+    "page_number": "35",
+    "children": []
+  },
+  {
+    "title": "La Truite, par André Theuriet",
+    "chapter_number": "8",
+    "page_number": "42",
+    "children": []
+  },
+  {
+    "title": "La Parure, par Guy Maupassant",
+    "chapter_number": "9",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "La Mère Sauvage, par Guy Maupassant",
+    "chapter_number": "10",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Le Coucher du Soleil, par François Coppée",
+    "chapter_number": "11",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Le Vieux de la Vieille, par François Coppée",
+    "chapter_number": "12",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Annotations",
+    "chapter_number": "",
+    "page_number": "85",
+    "children": []
+  },
+  {
+    "title": "Vocabulaire",
+    "chapter_number": "",
+    "page_number": "102",
+    "children": []
+  }
+]

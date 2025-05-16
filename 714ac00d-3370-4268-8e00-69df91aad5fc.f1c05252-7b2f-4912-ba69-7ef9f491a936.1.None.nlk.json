@@ -1,0 +1,59 @@
+
+[
+  {
+    "title": "OBSAH",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Předmluva",
+        "chapter_number": "",
+        "page_number": "II",
+        "children": []
+      },
+      {
+        "title": "Seznam časopisů excerpovaných v č. 3/1987",
+        "chapter_number": "",
+        "page_number": "III",
+        "children": []
+      },
+      {
+        "title": "Deskriptorový rejstřík",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Autorský rejstřík",
+        "chapter_number": "",
+        "page_number": "212 263",
+        "children": []
+      },
+      {
+        "title": "Zprávy z cest do zahraničí",
+        "chapter_number": "",
+        "page_number": "298 374",
+        "children": [
+          {
+            "title": "červenec 1986",
+            "chapter_number": "",
+            "page_number": "299 371",
+            "children": []
+          },
+          {
+            "title": "srpen 1936",
+            "chapter_number": "",
+            "page_number": "322 391",
+            "children": []
+          },
+          {
+            "title": "září 1986",
+            "chapter_number": "",
+            "page_number": "352",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

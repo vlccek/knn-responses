@@ -1,0 +1,278 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Rozvoj vinařství v království Českém",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Réva vinná",
+    "chapter_number": "II",
+    "page_number": "11",
+    "children": [
+      {
+        "title": "Popis ústrojů keře vinného",
+        "chapter_number": "1",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Réva vinná v soustavě",
+        "chapter_number": "2",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Životní činnosť révy vinné",
+        "chapter_number": "3",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Podmínky výnosného pěstování keře vinného",
+        "chapter_number": "4",
+        "page_number": "24",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Druhy révy vinné v Čechách pěstované",
+    "chapter_number": "III",
+    "page_number": "26",
+    "children": [
+      {
+        "title": "Ku výrobě červeného vína y Čechách osvědčené druhy",
+        "chapter_number": "A",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Ku výrobě vín bílých v Čechách osvědčené druhy",
+        "chapter_number": "B",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Ku pěstování tabulových hroznů v Čechách osvědčené druhy",
+        "chapter_number": "C",
+        "page_number": "30",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Jednotlivé práce viničné",
+    "chapter_number": "IV",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Způsoby pěstování keře vinného",
+    "chapter_number": "V",
+    "page_number": "47",
+    "children": [
+      {
+        "title": "Staročeský způsob pěstování keře vinného na vinicích",
+        "chapter_number": "1",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Beřkovický",
+        "chapter_number": "2",
+        "page_number": "52",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Způsob výhodného pěstování keře vinného při zdích pro Cechy",
+    "chapter_number": "VI",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Škůdcové révy vinné",
+    "chapter_number": "VII",
+    "page_number": "62",
+    "children": [
+      {
+        "title": "Z říše živočišstva",
+        "chapter_number": "A",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Z říše rostlinstva",
+        "chapter_number": "B",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Živelní",
+        "chapter_number": "C",
+        "page_number": "88",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O úrodě keře vinného",
+    "chapter_number": "VIII",
+    "page_number": "89",
+    "children": [
+      {
+        "title": "Vinobraní",
+        "chapter_number": "1",
+        "page_number": "91",
+        "children": []
+      },
+      {
+        "title": "Kvasírna",
+        "chapter_number": "2",
+        "page_number": "92",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O připravování vín",
+    "chapter_number": "IX",
+    "page_number": "93",
+    "children": [
+      {
+        "title": "O připravování bílých vín",
+        "chapter_number": "A",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "O připravování červených vín",
+        "chapter_number": "B",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "O kvašení mošta",
+        "chapter_number": "C",
+        "page_number": "98",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O nemocech vín",
+    "chapter_number": "Х",
+    "page_number": "104",
+    "children": [
+      {
+        "title": "Křísovitosť. 2. Octění. 3. Žluknutí. 4. Vláčkovatost. 5. Zvrhnutí. 6. Hořknutí. 7. Čmoudnutí",
+        "chapter_number": "1",
+        "page_number": "105-106",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zrání vína",
+    "chapter_number": "XI",
+    "page_number": "107",
+    "children": [
+      {
+        "title": "Sklepy",
+        "chapter_number": "A",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Úprava vín",
+        "chapter_number": "B",
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Úprava láhví",
+        "chapter_number": "C",
+        "page_number": "110",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Roztřídění vín",
+    "chapter_number": "XII",
+    "page_number": "112",
+    "children": [
+      {
+        "title": "Dle barvy. 2. Dle kyseliny uhličité. 3. Dle kořen-nosti a vůně. 4. Dle těla čili extraktu. 5. Dle kyseliny. 6. Dle líhu",
+        "chapter_number": "1",
+        "page_number": "112-113",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pití a ochutnávání vín",
+    "chapter_number": "XIII",
+    "page_number": "114",
+    "children": []
+  },
+  {
+    "title": "Česká vína",
+    "chapter_number": "XIV",
+    "page_number": "115",
+    "children": [
+      {
+        "title": "Co náleží odběrateli vína činiti?",
+        "chapter_number": "",
+        "page_number": "117",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Světová vína",
+    "chapter_number": "XV",
+    "page_number": "119",
+    "children": []
+  },
+  {
+    "title": "O úpravě hroznů nezralých",
+    "chapter_number": "XVI",
+    "page_number": "123",
+    "children": [
+      {
+        "title": "O výrobě opravených vín",
+        "chapter_number": "A",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "O výrobě vinného líhu",
+        "chapter_number": "B",
+        "page_number": "126",
+        "children": []
+      },
+      {
+        "title": "O výrobě octa vinného",
+        "chapter_number": "C",
+        "page_number": "127",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O vínech ovocných a o medovině",
+    "chapter_number": "XVII",
+    "page_number": "130",
+    "children": []
+  }
+]

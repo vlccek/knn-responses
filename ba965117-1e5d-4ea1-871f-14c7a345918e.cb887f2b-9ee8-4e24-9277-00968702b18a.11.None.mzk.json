@@ -1,0 +1,100 @@
+
+[
+  {
+    "title": "Die zweite Figur",
+    "chapter_number": "§. 22",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "Die dritte Figur",
+    "chapter_number": "§. 23",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Übersichtliche Betrachtung der kategorischen Schlußfiguren",
+    "chapter_number": "§. 24",
+    "page_number": "58",
+    "children": []
+  },
+  {
+    "title": "Conjunctive Schlüsse",
+    "chapter_number": "§. 25",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "Der hypothetische Schluß",
+    "chapter_number": "§. 26",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "Disjunctive Schlussformen",
+    "chapter_number": "§. 27",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Unvollständige Schlüsse",
+    "chapter_number": "§. 28",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Fehl- und Trugschlüsse",
+    "chapter_number": "§. 29",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "Zusammengesetzte Schlüsse oder Schlußketten",
+    "chapter_number": "§. 30",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Kettenschluß oder Sorites",
+    "chapter_number": "§. 31",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Von den wissenschaftlichen Denkformen.",
+    "chapter_number": "Vierter Abschnitt:",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Bedingungen der wissenschaftlichen Erkenntniß",
+        "chapter_number": "§. 32",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Von dem Beweise",
+        "chapter_number": "§. 33",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "Die verschiedenen Formen der Beweise",
+        "chapter_number": "§. 34",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Erfordernisse und Fehler der Beweise",
+        "chapter_number": "35",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Methode",
+        "chapter_number": "36",
+        "page_number": "78",
+        "children": []
+      }
+    ]
+  }
+]

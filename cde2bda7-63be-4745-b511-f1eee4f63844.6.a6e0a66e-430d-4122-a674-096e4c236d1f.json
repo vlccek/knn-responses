@@ -1,0 +1,195 @@
+
+[
+  {
+    "title": "Die Entzifferung.",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Die Vorgeschichte der Entzifferung",
+        "chapter_number": "1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Young und Champollion",
+        "chapter_number": "2",
+        "page_number": "7",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Das Wesen der Hieroglyphenschrift.",
+    "chapter_number": "II",
+    "page_number": "13",
+    "children": [
+      {
+        "title": "Ihre Entstehung",
+        "chapter_number": "1",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Übersicht der Schrift und Proben der Schreibung",
+        "chapter_number": "2",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Die häufigsten Hieroglyphen",
+        "chapter_number": "3",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Schrift im täglichen Leben.",
+    "chapter_number": "III",
+    "page_number": "35",
+    "children": [
+      {
+        "title": "Die hieratische Schrift",
+        "chapter_number": "1",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Papier und Schreibgerät",
+        "chapter_number": "2",
+        "page_number": "38",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Entwicklung und Entartung der Hieroglyphen.",
+    "chapter_number": "IV",
+    "page_number": "42",
+    "children": [
+      {
+        "title": "Die Hieroglyphen als Ornament",
+        "chapter_number": "1",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Entartung einzelner Zeichen",
+        "chapter_number": "2",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Spielende Schrift der spätesten Zeit",
+        "chapter_number": "3",
+        "page_number": "45",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Sprache in den Hieroglypheninschriften.",
+    "chapter_number": "V",
+    "page_number": "47",
+    "children": [
+      {
+        "title": "Schwierigkeit ihrer Erkenntnis",
+        "chapter_number": "1",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Grammatisches",
+        "chapter_number": "2",
+        "page_number": "53",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Proben hieroglyphischer Texte.",
+    "chapter_number": "VI",
+    "page_number": "64",
+    "children": [
+      {
+        "title": "Aus den Pyramidentexten",
+        "chapter_number": "1",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Aus Kapitel 125 des Totenbuches",
+        "chapter_number": "2",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Grabstein",
+        "chapter_number": "3",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Götterreden",
+        "chapter_number": "4",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Aus der Geschichte vom Schiffbrüchigen",
+        "chapter_number": "5",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Aus dem Märchen vom König Cheops",
+        "chapter_number": "6",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Aus einem medizinischen Papyrus",
+        "chapter_number": "7",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Expedition nach den Weihrauchländern",
+        "chapter_number": "8",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Inschrift Thutmosis' III.",
+        "chapter_number": "9",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Volkslied",
+        "chapter_number": "10",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Aus dem Märchen vom Königssohn",
+        "chapter_number": "11",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Aus der Inschrift von Rosette",
+        "chapter_number": "12",
+        "page_number": "82",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Inschriften und die Literatur",
+    "chapter_number": "VII",
+    "page_number": "83",
+    "children": []
+  }
+]

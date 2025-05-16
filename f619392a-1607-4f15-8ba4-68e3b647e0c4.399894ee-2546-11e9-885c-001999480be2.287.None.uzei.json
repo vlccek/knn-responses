@@ -1,0 +1,77 @@
+
+[
+  {
+    "title": "Centralisace či decentralisace starobního a invalidního pojišťování",
+    "chapter_number": "",
+    "page_number": "156",
+    "children": []
+  },
+  {
+    "title": "Pojišťování úrazové",
+    "chapter_number": "",
+    "page_number": "163",
+    "children": []
+  },
+  {
+    "title": "Organisace sociálního pojišťování",
+    "chapter_number": "",
+    "page_number": "171",
+    "children": [
+      {
+        "title": "Nositelé pojištění (pojišťovny)",
+        "chapter_number": "I",
+        "page_number": "171",
+        "children": []
+      },
+      {
+        "title": "Úřady při sociálním pojišťování spolupůsobící",
+        "chapter_number": "II",
+        "page_number": "171",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "",
+    "page_number": "192",
+    "children": []
+  },
+  {
+    "title": "Přehled literatury",
+    "chapter_number": "",
+    "page_number": "197",
+    "children": []
+  },
+  {
+    "title": "Statistický přehled",
+    "chapter_number": "",
+    "page_number": "203",
+    "children": [
+      {
+        "title": "Závody zemědělské se zřetelem na personál v nich zaměstnaný",
+        "chapter_number": "I",
+        "page_number": "208",
+        "children": []
+      },
+      {
+        "title": "Personál zemědělských závodů",
+        "chapter_number": "II",
+        "page_number": "225",
+        "children": []
+      },
+      {
+        "title": "Srovnání se závody a personálem živnostenským",
+        "chapter_number": "III",
+        "page_number": "256",
+        "children": []
+      },
+      {
+        "title": "Počet zemědělských pojištěnců podle osnovy zákona o sociálním pojišťování",
+        "chapter_number": "IV",
+        "page_number": "267",
+        "children": []
+      }
+    ]
+  }
+]

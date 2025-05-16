@@ -1,0 +1,215 @@
+
+[
+  {
+    "title": "Der Wechselprotest",
+    "chapter_number": "41",
+    "page_number": "42",
+    "children": []
+  },
+  {
+    "title": "Protest mangels Annahme",
+    "chapter_number": "42",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Protest mangels Zahlung",
+    "chapter_number": "43",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Protest mangels Zahlung bei Domicilwechseln",
+    "chapter_number": "44",
+    "page_number": "44",
+    "children": []
+  },
+  {
+    "title": "Protest wegen verweigerter Datierung bei Sichtwechseln",
+    "chapter_number": "45",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Perquisitionsprotest",
+    "chapter_number": "46",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Ausfertigung des Protestes",
+    "chapter_number": "47",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Notification",
+    "chapter_number": "48",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Retour-Rechnung",
+    "chapter_number": "49",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Regress auf Zahlung",
+    "chapter_number": "50",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Rückwechsel",
+    "chapter_number": "51",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "Ehrenzahlung fremder Personen",
+    "chapter_number": "52",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Verjährung",
+    "chapter_number": "53",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Versäumnis wechselrechtlicher Handlungen",
+    "chapter_number": "54",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Amortisierung",
+    "chapter_number": "55",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "Regress auf Sicherstellung",
+    "chapter_number": "56",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Nothadressen",
+    "chapter_number": "57",
+    "page_number": "58",
+    "children": []
+  },
+  {
+    "title": "Ehrenannahme",
+    "chapter_number": "58",
+    "page_number": "59",
+    "children": []
+  },
+  {
+    "title": "Ehrenzahlung der Nothadressaten und Ehrenacceptanten",
+    "chapter_number": "59",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "Die Wechselbürgschaft",
+    "chapter_number": "60",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Vervielfältigung der Wechsel",
+    "chapter_number": "61",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Wechsel-Duplicate",
+    "chapter_number": "62",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Wechsel-Copien",
+    "chapter_number": "63",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "Von den eigenen Wechseln.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bestandtheile und Behandlungsweise der eigenen Wechsel",
+        "chapter_number": "64",
+        "page_number": "68",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ausländische Gesetzgebung",
+    "chapter_number": "65",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Wechselklage und Wechselprocess",
+    "chapter_number": "66",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Beweisführung",
+    "chapter_number": "67",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Höhe der Stempelgebühr, Nachstempelung, Stempelfreiheit",
+    "chapter_number": "68",
+    "page_number": "74",
+    "children": []
+  },
+  {
+    "title": "Gesetzes-Text der allgemeinen Wechselordnung vom 1. Mai 1850 für das Kaiserthum Oesterreich.",
+    "chapter_number": "",
+    "page_number": "78",
+    "children": []
+  },
+  {
+    "title": "Specielle Methodik dieses Unterrichtes",
+    "chapter_number": "",
+    "page_number": "98",
+    "children": []
+  },
+  {
+    "title": "Anhang.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Erklärung der Musterwechsel",
+        "chapter_number": "I",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Correspondenz",
+        "chapter_number": "II",
+        "page_number": "112",
+        "children": []
+      },
+      {
+        "title": "Musterwechsel",
+        "chapter_number": "III",
+        "page_number": "133",
+        "children": []
+      }
+    ]
+  }
+]

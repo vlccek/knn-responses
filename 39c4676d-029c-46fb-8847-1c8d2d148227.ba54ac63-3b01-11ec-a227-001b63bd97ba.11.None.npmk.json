@@ -1,0 +1,350 @@
+
+[
+  {
+    "title": "Skupiny rostlin",
+    "chapter_number": "B",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Volnokorunné",
+        "chapter_number": "I",
+        "page_number": "85",
+        "children": [
+          {
+            "title": "Pryskyřníkovité (Jaterník)",
+            "chapter_number": "1",
+            "page_number": "85",
+            "children": []
+          },
+          {
+            "title": "Makovité (Vlaštovičník)",
+            "chapter_number": "2",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Křížaté (Kapusta)",
+            "chapter_number": "3",
+            "page_number": "89",
+            "children": [
+              {
+                "title": "(Pastuší tobolka)",
+                "chapter_number": "",
+                "page_number": "93",
+                "children": []
+              },
+              {
+                "title": "(Křen)",
+                "chapter_number": "",
+                "page_number": "93",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Růžokvěté",
+            "chapter_number": "4",
+            "page_number": "95",
+            "children": [
+              {
+                "title": "Mandloňovité (Švestka)",
+                "chapter_number": "a",
+                "page_number": "95",
+                "children": []
+              },
+              {
+                "title": "Jabloňovité (Jabloň)",
+                "chapter_number": "b",
+                "page_number": "97",
+                "children": []
+              },
+              {
+                "title": "Růžovité (Jahodník)",
+                "chapter_number": "c",
+                "page_number": "101",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Motýlokvěté (Fazol)",
+            "chapter_number": "5",
+            "page_number": "102",
+            "children": []
+          },
+          {
+            "title": "Okoličnaté (Bolehlav)",
+            "chapter_number": "6",
+            "page_number": "105",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Srostlokorunné",
+        "chapter_number": "II",
+        "page_number": "108",
+        "children": [
+          {
+            "title": "Drsnolisté (Kostival)",
+            "chapter_number": "1",
+            "page_number": "108",
+            "children": []
+          },
+          {
+            "title": "Pyskaté (Šalvěj luční)",
+            "chapter_number": "2",
+            "page_number": "109",
+            "children": []
+          },
+          {
+            "title": "Tykvovité (Okurka)",
+            "chapter_number": "3",
+            "page_number": "111",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Složnokvěté",
+        "chapter_number": "4",
+        "page_number": "112",
+        "children": [
+          {
+            "title": "Paprskokvěté (Heřmánek)",
+            "chapter_number": "a",
+            "page_number": "112",
+            "children": []
+          },
+          {
+            "title": "Trubkokvěté (Bodlák)",
+            "chapter_number": "b",
+            "page_number": "113",
+            "children": []
+          },
+          {
+            "title": "Jazykokvěté (Čekanka)",
+            "chapter_number": "c",
+            "page_number": "114",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Bezkorunné",
+        "chapter_number": "III",
+        "page_number": "115",
+        "children": [
+          {
+            "title": "Jehnědokvěté (Topol)",
+            "chapter_number": "1",
+            "page_number": "115",
+            "children": [
+              {
+                "title": "(Ořešák)",
+                "chapter_number": "",
+                "page_number": "116",
+                "children": []
+              },
+              {
+                "title": "(Dub)",
+                "chapter_number": "",
+                "page_number": "117",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Rostliny jednoděložné",
+        "chapter_number": "IV",
+        "page_number": "120",
+        "children": [
+          {
+            "title": "Liliovité (Lilie zlatohlavá)",
+            "chapter_number": "1",
+            "page_number": "120",
+            "children": []
+          },
+          {
+            "title": "Trávy (Jílek mámivý)",
+            "chapter_number": "2",
+            "page_number": "122",
+            "children": [
+              {
+                "title": "(Kukuřice)",
+                "chapter_number": "",
+                "page_number": "123",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pastviny a louky",
+        "chapter_number": "",
+        "page_number": "125",
+        "children": []
+      },
+      {
+        "title": "Jehličnaté (Borovice)",
+        "chapter_number": "V",
+        "page_number": "127",
+        "children": []
+      },
+      {
+        "title": "Les",
+        "chapter_number": "",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Bezkvěté (Uhelka)",
+        "chapter_number": "VI",
+        "page_number": "131",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Skupiny nerostů",
+    "chapter_number": "C",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Nerosty jednoduché",
+        "chapter_number": "I",
+        "page_number": "133",
+        "children": [
+          {
+            "title": "Prvky",
+            "chapter_number": "1",
+            "page_number": "133",
+            "children": [
+              {
+                "title": "Kovy (Zlato)",
+                "chapter_number": "a",
+                "page_number": "133",
+                "children": [
+                  {
+                    "title": "(Stříbro)",
+                    "chapter_number": "",
+                    "page_number": "135",
+                    "children": []
+                  },
+                  {
+                    "title": "(Měď)",
+                    "chapter_number": "",
+                    "page_number": "136",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Prvky nekovové (Diamant)",
+                "chapter_number": "b",
+                "page_number": "137",
+                "children": [
+                  {
+                    "title": "(Tuha)",
+                    "chapter_number": "",
+                    "page_number": "138",
+                    "children": []
+                  },
+                  {
+                    "title": "(Síra)",
+                    "chapter_number": "",
+                    "page_number": "139",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Kysličníky (Cínovec)",
+            "chapter_number": "2",
+            "page_number": "140",
+            "children": []
+          },
+          {
+            "title": "Sirníky (Kyz železný)",
+            "chapter_number": "3",
+            "page_number": "142",
+            "children": [
+              {
+                "title": "(Leštěnec olověný)",
+                "chapter_number": "",
+                "page_number": "142",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Uhličitany (Malachit a azurit)",
+            "chapter_number": "4",
+            "page_number": "143",
+            "children": []
+          },
+          {
+            "title": "Sírany (Sádrovec)",
+            "chapter_number": "5",
+            "page_number": "144",
+            "children": []
+          },
+          {
+            "title": "Fosforečnany (Apatit)",
+            "chapter_number": "6",
+            "page_number": "145",
+            "children": []
+          },
+          {
+            "title": "Křemičitany (Granát)",
+            "chapter_number": "7",
+            "page_number": "146",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Horniny (Čedič)",
+        "chapter_number": "II",
+        "page_number": "147",
+        "children": [
+          {
+            "title": "(Porfyr)",
+            "chapter_number": "",
+            "page_number": "148",
+            "children": []
+          },
+          {
+            "title": "(Láva)",
+            "chapter_number": "",
+            "page_number": "149",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "První pomoc při náhlém ochuravění a při úrazech",
+    "chapter_number": "",
+    "page_number": "149",
+    "children": []
+  },
+  {
+    "title": "Domácí a školní lékárna",
+    "chapter_number": "",
+    "page_number": "155",
+    "children": []
+  },
+  {
+    "title": "Domácí zahrada",
+    "chapter_number": "",
+    "page_number": "157",
+    "children": []
+  }
+]

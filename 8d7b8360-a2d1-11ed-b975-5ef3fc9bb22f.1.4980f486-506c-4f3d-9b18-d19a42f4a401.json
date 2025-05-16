@@ -1,0 +1,96 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Socialismus:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Budoucnost lidstva",
+        "chapter_number": "1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Je socialismus možný?",
+        "chapter_number": "2",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Socialismus a kultura",
+        "chapter_number": "3",
+        "page_number": "14",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Sociální demokracie a střední stavy:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Sociálně demokratický program",
+        "chapter_number": "1",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Kdo chce ničení středních vrstev?",
+        "chapter_number": "2",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Sociální demokracie a venkov",
+        "chapter_number": "3",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Sociální demokracie a národnost:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Mezinárodnost panujících tříd",
+        "chapter_number": "1",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Mezinárodnost dělnictva",
+        "chapter_number": "2",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Národnostní činnost vlastenců",
+        "chapter_number": "3",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Národní činnost sociální demokracie",
+        "chapter_number": "4",
+        "page_number": "50",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Sociální demokracie a náboženství",
+    "chapter_number": "",
+    "page_number": "56",
+    "children": []
+  }
+]

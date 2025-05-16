@@ -1,0 +1,134 @@
+
+[
+  {
+    "title": "Uebersicht.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Das Staatsgebiet und dessen Eintheilung.",
+        "chapter_number": "I.",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Staatsbürgerliche Grundrechte.",
+        "chapter_number": "II.",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Die Regierungsgewalten überhaupt:",
+        "chapter_number": "III.",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Die Reichs-Centralgewalt:",
+            "chapter_number": "1.",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Der Kaiser,",
+                "chapter_number": "A.",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "die Reichsminister,",
+                "chapter_number": "B.",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "der Reichstag;",
+                "chapter_number": "C.",
+                "page_number": "",
+                "children": [
+                  {
+                    "title": "Die Volkskammer,",
+                    "chapter_number": "a)",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "die Länderkammer.",
+                    "chapter_number": "b)",
+                    "page_number": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Die Landes-Regierungsgewalt:",
+            "chapter_number": "2.",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Die Landesverwaltung,",
+                "chapter_number": "A.",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "die Landtage,",
+                "chapter_number": "B.",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "die Kreistage und Gemeinden.",
+                "chapter_number": "C.",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Die richterliche Gewalt.",
+        "chapter_number": "IV.",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Die Staatsbeamten.",
+        "chapter_number": "V.",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Die Finanzen.",
+        "chapter_number": "VI.",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Die bewaffnete Macht.",
+        "chapter_number": "VII.",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Allgemeine Bestimmungen.",
+        "chapter_number": "VIII.",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Die Revision der Constitution.",
+        "chapter_number": "IX.",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Vorübergehende Bestimmungen.",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      }
+    ]
+  }
+]

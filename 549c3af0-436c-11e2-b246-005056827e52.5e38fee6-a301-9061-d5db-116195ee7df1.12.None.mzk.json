@@ -1,0 +1,181 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Erster Abschnitt. Die neuen Instrumente.",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "Einleitung",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Beschreibung des neuen Tacheometers",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Beschreibung der neuen Latte",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Handhabung des neuen Tacheometers",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Prüfung und Berichtigung des Instrumentes",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zweiter Abschnitt. Von den Feldarbeiten.",
+    "chapter_number": "",
+    "page_number": "22",
+    "children": [
+      {
+        "title": "Eintheilung und Durchführung der Feldarbeiten bei Trassierungen:",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Allgemeines",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Das Festpunkt-Nivellement",
+        "chapter_number": "",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Aufnahme zerstreuter Höhenpunkte mittelst des gewöhnlichen Nivellier- Instrumentes",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Aufnahme mittelst des Schnellmeß-Instrumentes",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Das Aufschreibebuch.",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Die Feld-Handrisse",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Aufnehmen von Querprofilen",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dritter Abschnitt. Von den Hausarbeiten.",
+    "chapter_number": "",
+    "page_number": "33",
+    "children": [
+      {
+        "title": "Anfertigung der Pläne:",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Vorbereitungen",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Anordnung und Auftragen des Standlinienzuges",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Auftragen des Lageplanes und der Höhenpunkte",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Einzeichnen der Schichtenlinien",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Auftragen der Querprofile",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Anhang.",
+    "chapter_number": "",
+    "page_number": "46",
+    "children": [
+      {
+        "title": "I. Formeln und Tabellen für die neue Kreistheilung.",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Länge der Kreisbögen",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Vom Bogenabstecken mittelst des Winkelinstrumentes",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Verwandlung der Centesimaltheilung in Sexagesimaltheilung",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "II. Erforderliche Geräthe und Arbeitkräfte bei Feldarbeiten",
+        "chapter_number": "",
+        "page_number": "49",
+        "children": []
+      }
+    ]
+  }
+]

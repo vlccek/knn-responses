@@ -1,0 +1,51 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Hrozen",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Kvasírna",
+    "chapter_number": "II",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Analyse vína",
+    "chapter_number": "III",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "Sklep",
+    "chapter_number": "IV",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Stáčení vína do lahví",
+    "chapter_number": "V",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Nemoce vína",
+    "chapter_number": "VI",
+    "page_number": "78",
+    "children": []
+  },
+  {
+    "title": "Doslov",
+    "chapter_number": "",
+    "page_number": "83",
+    "children": []
+  }
+]

@@ -1,0 +1,113 @@
+
+[
+  {
+    "title": "Zemský chov koní vůbec",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Volba plemenného dobytka",
+    "chapter_number": "I",
+    "page_number": "4",
+    "children": [
+      {
+        "title": "hřebci",
+        "chapter_number": "a",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "klisny",
+        "chapter_number": "b",
+        "page_number": "5",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O připouštění",
+    "chapter_number": "II",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "O nakládání s březími klisnami",
+    "chapter_number": "III",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "O ohřebení",
+    "chapter_number": "VI",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "O vychování hříběte",
+    "chapter_number": "V",
+    "page_number": "11",
+    "children": [
+      {
+        "title": "ssavé hříbě",
+        "chapter_number": "a",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "odstavené hříbě do prvního roku",
+        "chapter_number": "b",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "dvou- a tříleté hříbě",
+        "chapter_number": "c",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "hříbě v čtvrtém roce",
+        "chapter_number": "d",
+        "page_number": "19",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ozhřívka (žlázovitost) při hříběti",
+    "chapter_number": "VI",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "O kování koně",
+    "chapter_number": "VII",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Závěrka",
+    "chapter_number": "VIII",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Dodatek 1. stáje koňské čili konírny",
+    "chapter_number": "IX",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "2. hříběcí ohrady čili rejdiště",
+    "chapter_number": "X",
+    "page_number": "28",
+    "children": []
+  },
+  {
+    "title": "3. odvod koní pro vojsko",
+    "chapter_number": "XI",
+    "page_number": "30",
+    "children": []
+  }
+]

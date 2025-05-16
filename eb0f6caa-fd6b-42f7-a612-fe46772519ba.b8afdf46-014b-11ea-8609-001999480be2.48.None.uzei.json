@@ -1,0 +1,318 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Část povšechná",
+    "chapter_number": "I.",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Užitečnost koz",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Ustájení, krmení a ošetřování koz",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Pohlavní vyspělost, páření a březost",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Kozlení, porod",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Nepravidelné porody",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Výchova kozlat",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Známky dobré dojivosti koz",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Známky dobrého chovného kozla",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Plemena koz",
+    "chapter_number": "II.",
+    "page_number": "15",
+    "children": [
+      {
+        "title": "Koza plemene domácího",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Koza sánská",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "schwarzenburská či guggisberská",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "appenzellská",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "toggenburská",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "walliská",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "angorská",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "kašmírská",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zdravověda",
+    "chapter_number": "III.",
+    "page_number": "19",
+    "children": [
+      {
+        "title": "Zánět sliznice tlamy",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Přecpání",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Nestravnost, nechutenství",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Nadýmání, bubnačka",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Průjem, zánět žaludku a střev",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zácpa",
+    "chapter_number": "",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Zaklíněné předměty v zažívacích ústrojích",
+    "chapter_number": "",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Žloutenka",
+    "chapter_number": "",
+    "page_number": "24",
+    "children": []
+  },
+  {
+    "title": "Motolice",
+    "chapter_number": "",
+    "page_number": "24",
+    "children": []
+  },
+  {
+    "title": "Měchožil",
+    "chapter_number": "",
+    "page_number": "24",
+    "children": []
+  },
+  {
+    "title": "Vodnatelnost břišní",
+    "chapter_number": "",
+    "page_number": "25",
+    "children": []
+  },
+  {
+    "title": "Zánět ledvin",
+    "chapter_number": "",
+    "page_number": "25",
+    "children": []
+  },
+  {
+    "title": "plic",
+    "chapter_number": "",
+    "page_number": "25",
+    "children": []
+  },
+  {
+    "title": "Kýchavka",
+    "chapter_number": "",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Měknutí a lámavost kostí",
+    "chapter_number": "",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Výklop, výhřez pochvy a dělohy",
+    "chapter_number": "",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Zánět dělohy",
+    "chapter_number": "",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "vemene",
+    "chapter_number": "",
+    "page_number": "28",
+    "children": []
+  },
+  {
+    "title": "Vady mléka",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Ztráta mléka",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Vodnaté mléko",
+    "chapter_number": "",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Předčasně se srážející mléko",
+    "chapter_number": "",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Slizké, tažné mléko",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Hořké mléko",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Modré mléko",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Červené mléko",
+    "chapter_number": "",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Zlomeniny rohů",
+    "chapter_number": "",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Cizopásníci u koz",
+    "chapter_number": "",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Prašivina",
+    "chapter_number": "",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Tuberkulosa",
+    "chapter_number": "",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Slintavka a kulhavka",
+    "chapter_number": "",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Sněť slezinná",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": []
+  }
+]

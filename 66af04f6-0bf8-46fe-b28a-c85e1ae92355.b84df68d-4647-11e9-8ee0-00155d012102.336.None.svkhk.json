@@ -1,0 +1,46 @@
+
+[
+  {
+    "title": "Obsah",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Předmluva.",
+        "chapter_number": "1",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Návod k určování.",
+        "chapter_number": "2",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Klíč k určování rostlin jevnosnubných.",
+        "chapter_number": "3",
+        "page_number": "1-187",
+        "children": []
+      },
+      {
+        "title": "Klíč k určování rostlin tajnosnubných.",
+        "chapter_number": "4",
+        "page_number": "187-191",
+        "children": []
+      },
+      {
+        "title": "Obrázky rostlin",
+        "chapter_number": "5",
+        "page_number": "193-320",
+        "children": []
+      },
+      {
+        "title": "Seznam jmen českých a latinských",
+        "chapter_number": "6",
+        "page_number": "321-328",
+        "children": []
+      }
+    ]
+  }
+]

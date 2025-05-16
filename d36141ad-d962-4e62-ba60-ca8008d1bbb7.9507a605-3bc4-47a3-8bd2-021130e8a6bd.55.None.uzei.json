@@ -1,0 +1,94 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Vývoj řeči",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Řeč a řečnictví",
+    "chapter_number": "",
+    "page_number": "10",
+    "children": [
+      {
+        "title": "Rozdělení řeči",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Vlastní pojednání",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Závěr",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dva řečníci",
+    "chapter_number": "",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Druhy řečí",
+    "chapter_number": "",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Řeči parlamentní",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Řeči duchovní",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Soudní řeči",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Proslovy",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Osoba řečníkova",
+    "chapter_number": "",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "Doslov",
+    "chapter_number": "",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Praktické poznámky",
+    "chapter_number": "",
+    "page_number": "49",
+    "children": []
+  }
+]

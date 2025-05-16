@@ -1,0 +1,348 @@
+
+[
+  {
+    "title": "Sklo a hlína.",
+    "chapter_number": "IX",
+    "page_number": "130",
+    "children": [
+      {
+        "title": "Sklo",
+        "chapter_number": "1",
+        "page_number": "130",
+        "children": [
+          {
+            "title": "Sklo rozpustné",
+            "chapter_number": "a",
+            "page_number": "131",
+            "children": []
+          },
+          {
+            "title": "obecné",
+            "chapter_number": "b",
+            "page_number": "131",
+            "children": []
+          },
+          {
+            "title": "olovnaté",
+            "chapter_number": "c",
+            "page_number": "132",
+            "children": []
+          },
+          {
+            "title": "barevné a krášlené",
+            "chapter_number": "d",
+            "page_number": "132",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Hlína",
+        "chapter_number": "2",
+        "page_number": "134",
+        "children": [
+          {
+            "title": "Porcelán",
+            "chapter_number": "a",
+            "page_number": "135",
+            "children": []
+          },
+          {
+            "title": "Kamenina",
+            "chapter_number": "b",
+            "page_number": "135",
+            "children": []
+          },
+          {
+            "title": "Fajans",
+            "chapter_number": "c",
+            "page_number": "136",
+            "children": []
+          },
+          {
+            "title": "Siderolith a terralith",
+            "chapter_number": "d",
+            "page_number": "136",
+            "children": []
+          },
+          {
+            "title": "Zboží hrnčířské",
+            "chapter_number": "e",
+            "page_number": "137",
+            "children": []
+          },
+          {
+            "title": "cihlářské",
+            "chapter_number": "f",
+            "page_number": "137",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hořlaviny.",
+    "chapter_number": "X",
+    "page_number": "138",
+    "children": [
+      {
+        "title": "Síra",
+        "chapter_number": "1",
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Fosfor",
+        "chapter_number": "2",
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Uhlí černé",
+        "chapter_number": "3",
+        "page_number": "139",
+        "children": []
+      },
+      {
+        "title": "hnědé",
+        "chapter_number": "4",
+        "page_number": "140",
+        "children": []
+      },
+      {
+        "title": "Rašelina",
+        "chapter_number": "5",
+        "page_number": "140",
+        "children": []
+      },
+      {
+        "title": "Dehet",
+        "chapter_number": "6",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Petrolej",
+        "chapter_number": "7",
+        "page_number": "142",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kovy a jejich slitiny.",
+    "chapter_number": "XI",
+    "page_number": "145",
+    "children": [
+      {
+        "title": "Zlato",
+        "chapter_number": "1",
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "Stříbro",
+        "chapter_number": "2",
+        "page_number": "147",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Lučebniny.",
+    "chapter_number": "XII",
+    "page_number": "157",
+    "children": [
+      {
+        "title": "Kyseliny",
+        "chapter_number": "1",
+        "page_number": "157",
+        "children": [
+          {
+            "title": "Kyselina sírová",
+            "chapter_number": "a",
+            "page_number": "158",
+            "children": []
+          },
+          {
+            "title": "dusičná",
+            "chapter_number": "b",
+            "page_number": "158",
+            "children": []
+          },
+          {
+            "title": "solná",
+            "chapter_number": "c",
+            "page_number": "159",
+            "children": []
+          },
+          {
+            "title": "Kyseliny ústrojné",
+            "chapter_number": "d",
+            "page_number": "159",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zíraviny",
+        "chapter_number": "2",
+        "page_number": "160",
+        "children": [
+          {
+            "title": "Zíravé draslo",
+            "chapter_number": "a",
+            "page_number": "160",
+            "children": []
+          },
+          {
+            "title": "Žíravý nátron",
+            "chapter_number": "b",
+            "page_number": "160",
+            "children": []
+          },
+          {
+            "title": "Čpavek",
+            "chapter_number": "c",
+            "page_number": "160",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Soli",
+        "chapter_number": "3",
+        "page_number": "160",
+        "children": [
+          {
+            "title": "Sůl kuchyňská",
+            "chapter_number": "a",
+            "page_number": "161",
+            "children": []
+          },
+          {
+            "title": "Salmiak",
+            "chapter_number": "b",
+            "page_number": "162",
+            "children": []
+          },
+          {
+            "title": "Sodá",
+            "chapter_number": "c",
+            "page_number": "162",
+            "children": []
+          },
+          {
+            "title": "Draslo",
+            "chapter_number": "d",
+            "page_number": "163",
+            "children": []
+          },
+          {
+            "title": "Sůl Glauberova",
+            "chapter_number": "e",
+            "page_number": "163",
+            "children": []
+          },
+          {
+            "title": "hořká",
+            "chapter_number": "f",
+            "page_number": "163",
+            "children": []
+          },
+          {
+            "title": "Kamenec",
+            "chapter_number": "g",
+            "page_number": "163",
+            "children": []
+          },
+          {
+            "title": "Skalice zelená",
+            "chapter_number": "h",
+            "page_number": "164",
+            "children": []
+          },
+          {
+            "title": "modrá",
+            "chapter_number": "ch",
+            "page_number": "164",
+            "children": []
+          },
+          {
+            "title": "bílá",
+            "chapter_number": "i",
+            "page_number": "164",
+            "children": []
+          },
+          {
+            "title": "Ledek chilský",
+            "chapter_number": "j",
+            "page_number": "164",
+            "children": []
+          },
+          {
+            "title": "obecný",
+            "chapter_number": "k",
+            "page_number": "165",
+            "children": []
+          },
+          {
+            "title": "Borax",
+            "chapter_number": "l",
+            "page_number": "166",
+            "children": []
+          },
+          {
+            "title": "Dvojchroman draselnatý",
+            "chapter_number": "m",
+            "page_number": "166",
+            "children": []
+          },
+          {
+            "title": "Vápno chlorové",
+            "chapter_number": "n",
+            "page_number": "166",
+            "children": []
+          },
+          {
+            "title": "Vinný kámen",
+            "chapter_number": "o",
+            "page_number": "166",
+            "children": []
+          },
+          {
+            "title": "Sůl šťavelová",
+            "chapter_number": "p",
+            "page_number": "166",
+            "children": []
+          },
+          {
+            "title": "Cukr olověný",
+            "chapter_number": "q",
+            "page_number": "166",
+            "children": []
+          },
+          {
+            "title": "Sůl krevní",
+            "chapter_number": "r",
+            "page_number": "167",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Závěrek",
+        "chapter_number": null,
+        "page_number": "167",
+        "children": []
+      },
+      {
+        "title": "Ukládání a opatrování zboží",
+        "chapter_number": null,
+        "page_number": "167",
+        "children": []
+      }
+    ]
+  }
+]

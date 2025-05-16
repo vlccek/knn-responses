@@ -1,0 +1,293 @@
+
+[
+  {
+    "title": "Všeobecný přehled",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Poloha a přírodní poměry",
+        "chapter_number": "1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Osazování krajiny",
+        "chapter_number": "2",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Hospodářství a průmysl",
+        "chapter_number": "3",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Poddanské poměry",
+        "chapter_number": "4",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Spojovací prostředky",
+        "chapter_number": "5",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Duchovní správa, fary",
+        "chapter_number": "6",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Školství",
+        "chapter_number": "7",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Obecní záležitosti",
+        "chapter_number": "8",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Krátké popsání útrap válečných, které zažilo město",
+        "chapter_number": "9",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Statistický přehled",
+        "chapter_number": "10",
+        "page_number": "70",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Jednotlivé obce",
+    "chapter_number": "II",
+    "page_number": "74",
+    "children": [
+      {
+        "title": "Strážnice",
+        "chapter_number": "",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Bobalov viz Zvolenov",
+        "chapter_number": "",
+        "page_number": "312",
+        "children": []
+      },
+      {
+        "title": "Javornik",
+        "chapter_number": "",
+        "page_number": "312",
+        "children": []
+      },
+      {
+        "title": "Jiříkovec viz Kněždub",
+        "chapter_number": "",
+        "page_number": "320",
+        "children": []
+      },
+      {
+        "title": "Hroznová Lhota viz Lhota Hroznová",
+        "chapter_number": "",
+        "page_number": "320",
+        "children": []
+      },
+      {
+        "title": "Hrubá Vrbka viz Vrbka Velká",
+        "chapter_number": "",
+        "page_number": "330",
+        "children": []
+      },
+      {
+        "title": "Kněždub",
+        "chapter_number": "",
+        "page_number": "330",
+        "children": []
+      },
+      {
+        "title": "Kozojídky",
+        "chapter_number": "",
+        "page_number": "334",
+        "children": []
+      },
+      {
+        "title": "Kuželov",
+        "chapter_number": "",
+        "page_number": "337",
+        "children": []
+      },
+      {
+        "title": "Lhota Hroznová",
+        "chapter_number": "",
+        "page_number": "345",
+        "children": []
+      },
+      {
+        "title": "Lhota Nová",
+        "chapter_number": "",
+        "page_number": "358",
+        "children": []
+      },
+      {
+        "title": "Lhota Tvarožná",
+        "chapter_number": "",
+        "page_number": "364",
+        "children": []
+      },
+      {
+        "title": "Lhotky viz Lhota Nová",
+        "chapter_number": "",
+        "page_number": "364",
+        "children": []
+      },
+      {
+        "title": "Lideřovice",
+        "chapter_number": "",
+        "page_number": "369",
+        "children": []
+      },
+      {
+        "title": "Lipov",
+        "chapter_number": "",
+        "page_number": "374",
+        "children": []
+      },
+      {
+        "title": "Malá Vrbka viz Vrbka Malá",
+        "chapter_number": "",
+        "page_number": "374",
+        "children": []
+      },
+      {
+        "title": "Nová Lhota viz Lhota Nová",
+        "chapter_number": "",
+        "page_number": "374",
+        "children": []
+      },
+      {
+        "title": "Petrov",
+        "chapter_number": "",
+        "page_number": "391",
+        "children": []
+      },
+      {
+        "title": "Radějov",
+        "chapter_number": "",
+        "page_number": "404",
+        "children": []
+      },
+      {
+        "title": "Rohatec",
+        "chapter_number": "",
+        "page_number": "411",
+        "children": []
+      },
+      {
+        "title": "Spinek viz Znorovy",
+        "chapter_number": "",
+        "page_number": "411",
+        "children": []
+      },
+      {
+        "title": "Sudoměřice",
+        "chapter_number": "",
+        "page_number": "421",
+        "children": []
+      },
+      {
+        "title": "Tasov",
+        "chapter_number": "",
+        "page_number": "428",
+        "children": []
+      },
+      {
+        "title": "Tvarožná Lhota viz Lhota Tvarožná",
+        "chapter_number": "",
+        "page_number": "428",
+        "children": []
+      },
+      {
+        "title": "Velká",
+        "chapter_number": "",
+        "page_number": "434",
+        "children": []
+      },
+      {
+        "title": "Velká Vrbka viz Vrbka Velká",
+        "chapter_number": "",
+        "page_number": "434",
+        "children": []
+      },
+      {
+        "title": "Vojšice viz Vrbka Malá",
+        "chapter_number": "",
+        "page_number": "450",
+        "children": []
+      },
+      {
+        "title": "Vrbka Malá",
+        "chapter_number": "",
+        "page_number": "450",
+        "children": []
+      },
+      {
+        "title": "Vrbka Velká",
+        "chapter_number": "",
+        "page_number": "455",
+        "children": []
+      },
+      {
+        "title": "Znorovy",
+        "chapter_number": "",
+        "page_number": "462",
+        "children": []
+      },
+      {
+        "title": "Zvolenov",
+        "chapter_number": "",
+        "page_number": "479",
+        "children": []
+      },
+      {
+        "title": "Žeraviny",
+        "chapter_number": "",
+        "page_number": "481",
+        "children": []
+      },
+      {
+        "title": "Židovská obec Strážnice",
+        "chapter_number": "",
+        "page_number": "485",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek k nálezům předhistorickým",
+    "chapter_number": "III",
+    "page_number": "485",
+    "children": []
+  },
+  {
+    "title": "Některé tiskové chyby a omyly",
+    "chapter_number": "IV",
+    "page_number": "487",
+    "children": []
+  },
+  {
+    "title": "Seznam obrazův",
+    "chapter_number": "",
+    "page_number": "488",
+    "children": []
+  }
+]

@@ -1,0 +1,40 @@
+
+[
+  {
+    "title": "Die Lehre von der Betriebs-\nleitung",
+    "chapter_number": "III",
+    "page_number": "582",
+    "children": [
+      {
+        "title": "Allgemeines",
+        "chapter_number": "§ 264",
+        "page_number": "582",
+        "children": []
+      },
+      {
+        "title": "Der Betriebsleiter als Eigentümer",
+        "chapter_number": "§ 265",
+        "page_number": "583",
+        "children": []
+      },
+      {
+        "title": "Der Betriebsleiter als Pächter",
+        "chapter_number": "§ 266",
+        "page_number": "584",
+        "children": []
+      },
+      {
+        "title": "Der Betriebsleiter als Verwalter (Administrator)",
+        "chapter_number": "§ 267",
+        "page_number": "586",
+        "children": []
+      },
+      {
+        "title": "Die landwirtschaftliche Buchführung",
+        "chapter_number": "§ 268",
+        "page_number": "587",
+        "children": []
+      }
+    ]
+  }
+]

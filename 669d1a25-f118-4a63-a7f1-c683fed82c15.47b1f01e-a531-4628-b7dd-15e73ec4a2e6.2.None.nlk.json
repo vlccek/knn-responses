@@ -1,0 +1,198 @@
+
+[
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "ČSSR",
+    "chapter_number": "I",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Právní sbírky",
+        "chapter_number": "",
+        "page_number": "305",
+        "children": []
+      },
+      {
+        "title": "Časopisy",
+        "chapter_number": "",
+        "page_number": "340",
+        "children": []
+      },
+      {
+        "title": "Knihy",
+        "chapter_number": "",
+        "page_number": "355",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zahraničí",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Alžír",
+        "chapter_number": "",
+        "page_number": "357",
+        "children": []
+      },
+      {
+        "title": "Argentina",
+        "chapter_number": "",
+        "page_number": "360",
+        "children": []
+      },
+      {
+        "title": "Bulharsko",
+        "chapter_number": "",
+        "page_number": "362",
+        "children": []
+      },
+      {
+        "title": "Finsko",
+        "chapter_number": "",
+        "page_number": "365",
+        "children": []
+      },
+      {
+        "title": "Francie",
+        "chapter_number": "",
+        "page_number": "369",
+        "children": []
+      },
+      {
+        "title": "Hongkong",
+        "chapter_number": "",
+        "page_number": "388",
+        "children": []
+      },
+      {
+        "title": "Itálie",
+        "chapter_number": "",
+        "page_number": "389",
+        "children": []
+      },
+      {
+        "title": "Kanada",
+        "chapter_number": "",
+        "page_number": "391",
+        "children": []
+      },
+      {
+        "title": "Lucembursko",
+        "chapter_number": "",
+        "page_number": "394",
+        "children": []
+      },
+      {
+        "title": "Madarsko",
+        "chapter_number": "",
+        "page_number": "398",
+        "children": []
+      },
+      {
+        "title": "NDR",
+        "chapter_number": "",
+        "page_number": "401",
+        "children": []
+      },
+      {
+        "title": "NSR",
+        "chapter_number": "",
+        "page_number": "408",
+        "children": []
+      },
+      {
+        "title": "Norsko",
+        "chapter_number": "",
+        "page_number": "418",
+        "children": []
+      },
+      {
+        "title": "Nový Zéland",
+        "chapter_number": "",
+        "page_number": "420",
+        "children": []
+      },
+      {
+        "title": "Polsko",
+        "chapter_number": "",
+        "page_number": "422",
+        "children": []
+      },
+      {
+        "title": "Singapúr",
+        "chapter_number": "",
+        "page_number": "429",
+        "children": []
+      },
+      {
+        "title": "SSSR",
+        "chapter_number": "",
+        "page_number": "432",
+        "children": []
+      },
+      {
+        "title": "Švýcarsko",
+        "chapter_number": "",
+        "page_number": "435",
+        "children": []
+      },
+      {
+        "title": "USA",
+        "chapter_number": "",
+        "page_number": "441",
+        "children": []
+      },
+      {
+        "title": "Velká Británie",
+        "chapter_number": "",
+        "page_number": "450",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Mezinárodní organizace",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Světová zdravotnická organizace",
+        "chapter_number": "",
+        "page_number": "456",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "států",
+        "chapter_number": "",
+        "page_number": "463",
+        "children": []
+      },
+      {
+        "title": "jmenný",
+        "chapter_number": "",
+        "page_number": "465",
+        "children": []
+      },
+      {
+        "title": "věcný",
+        "chapter_number": "",
+        "page_number": "468",
+        "children": []
+      }
+    ]
+  }
+]

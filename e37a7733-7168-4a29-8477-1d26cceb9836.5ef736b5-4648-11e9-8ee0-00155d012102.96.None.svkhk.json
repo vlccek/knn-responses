@@ -1,0 +1,44 @@
+
+[
+  {
+    "title": "Obsah",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Památce arciotce chemie A. V. Lavoisiera",
+    "chapter_number": "I",
+    "page_number": "1"
+  },
+  {
+    "title": "Dílo Lavoisierovo a jeho předchůdcové:",
+    "chapter_number": "II",
+    "page_number": "30",
+    "children": [
+      {
+        "title": "Boj o uznání",
+        "chapter_number": "a",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Jaká byla chemie stará",
+        "chapter_number": "b",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Tresť vynálezů Lavoisierových",
+        "chapter_number": "c",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Lavoisier a jeho soupeři",
+        "chapter_number": "d",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

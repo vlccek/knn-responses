@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "Stadterweiterung",
+    "chapter_number": "9",
+    "page_number": "85",
+    "children": []
+  },
+  {
+    "title": "Deffentliche Arbeiten",
+    "chapter_number": "10",
+    "page_number": "89",
+    "children": [
+      {
+        "title": "Wasserleitung",
+        "chapter_number": "a",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Marchregulirung",
+        "chapter_number": "b",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Straßen und Brücken",
+        "chapter_number": "c",
+        "page_number": "91",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Sanitätswesen",
+    "chapter_number": "11",
+    "page_number": "93",
+    "children": []
+  },
+  {
+    "title": "Garnisons-Angelegenheiten",
+    "chapter_number": "12",
+    "page_number": "95",
+    "children": []
+  },
+  {
+    "title": "Vereinsangelegenheiten",
+    "chapter_number": "13",
+    "page_number": "107",
+    "children": []
+  },
+  {
+    "title": "Armenwesen",
+    "chapter_number": "14",
+    "page_number": "111",
+    "children": []
+  },
+  {
+    "title": "Unterschiedliche Angelegenheiten",
+    "chapter_number": "15",
+    "page_number": "112",
+    "children": []
+  },
+  {
+    "title": "Anhang. Verzeichniß dee hier bestehenden Aemter und Behörden Uebergabs-Protokoll der Frohnfeste in der königl. Stadt Hradisch vom Jahre 1786",
+    "chapter_number": "16",
+    "page_number": "125",
+    "children": []
+  }
+]

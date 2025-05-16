@@ -1,0 +1,76 @@
+
+[
+  {
+    "title": "Úvodem",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Knihovny veřejné",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Bibliotéky parlamentní. Bibliotéky komunální a administrativně-technické ve Spojených Státech",
+    "chapter_number": "II",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Bibliotéky technické a obchodní",
+    "chapter_number": "III",
+    "page_number": "19",
+    "children": [
+      {
+        "title": "Americké bibliotéky technické",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Technické a obchodní knihovny v Anglii",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Informační bureau Bostonské",
+    "chapter_number": "IV",
+    "page_number": "28",
+    "children": []
+  },
+  {
+    "title": "Mezinárodní bibliografický ústav Bruselský",
+    "chapter_number": "V",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Československý ústav bibliografický",
+    "chapter_number": "VI",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Masarykova Akademie práce Knihovny universitní",
+    "chapter_number": "VII",
+    "page_number": "35",
+    "children": []
+  },
+  {
+    "title": "Doslov",
+    "chapter_number": "",
+    "page_number": "36",
+    "children": []
+  },
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": "36",
+    "children": []
+  }
+]

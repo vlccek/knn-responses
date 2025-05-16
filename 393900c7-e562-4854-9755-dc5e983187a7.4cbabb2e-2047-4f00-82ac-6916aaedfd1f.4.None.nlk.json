@@ -1,0 +1,54 @@
+
+[
+  {
+    "title": "NOVÉ KNIHY",
+    "chapter_number": "",
+    "page_number": "40",
+    "children": [
+      {
+        "title": "Cigánik M.: Vytváranie a využívanie fondu informácií vo vede, technike a ekonomike",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Ehleman J.: Stroje pracující v administrativě",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Thomson A.: Library Buildings of Britain and Europe",
+        "chapter_number": "",
+        "page_number": "42",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Z NAŠICH PRACOVIŠŤ",
+    "chapter_number": "",
+    "page_number": "44",
+    "children": [
+      {
+        "title": "Návrh na zlepšenie výmeny informácií",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "ČTENÁŘI NÁM PÍŠÍ",
+    "chapter_number": "",
+    "page_number": "46",
+    "children": [
+      {
+        "title": "Pripomienky ohladne nášho časopisu",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      }
+    ]
+  }
+]

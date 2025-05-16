@@ -1,0 +1,107 @@
+
+[
+  {
+    "title": "ORGANISAČNÍ ŘÁD",
+    "chapter_number": "Díl prvý",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Povinosti a práva zaměstnanců",
+        "chapter_number": "Hlava prvá",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Organisace úřadu",
+        "chapter_number": "Hlava druhá",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Hospodářská správa",
+        "chapter_number": "Hlava třetí",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Ředitelství pomocných úřadů",
+        "chapter_number": "Hlava čtvrtá",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Účetní služba",
+        "chapter_number": "Hlava pátá",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Služba komisionelní",
+        "chapter_number": "Hlava šestá",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Úřední zřízenci",
+        "chapter_number": "Hlava sedmá",
+        "page_number": "69",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "KANCELÁŘSKÝ ŘÁD",
+    "chapter_number": "Díl druhý",
+    "page_number": "71",
+    "children": [
+      {
+        "title": "Všeobecné předpisy o kancelářské službě",
+        "chapter_number": "Hlava prvá",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Služba v podatelně a v indexu",
+        "chapter_number": "Hlava druhá",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Služba v kancelářských odděleních",
+        "chapter_number": "Hlava třetí",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Vyřizování spisů referenty",
+        "chapter_number": "Hlava čtvrtá",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Služba v pisárně a ve výpravně",
+        "chapter_number": "Hlava pátá",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Služba ve spisovně",
+        "chapter_number": "Hlava šestá",
+        "page_number": "109",
+        "children": []
+      },
+      {
+        "title": "Platnost organisačního a kancelářského řádu",
+        "chapter_number": "Hlava sedmá",
+        "page_number": "112",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Abecední ukazatel",
+    "chapter_number": "",
+    "page_number": "114",
+    "children": []
+  }
+]

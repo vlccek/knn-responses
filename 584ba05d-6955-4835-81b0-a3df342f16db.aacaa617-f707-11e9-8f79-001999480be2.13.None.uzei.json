@@ -1,0 +1,453 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "O semeně",
+    "chapter_number": "I. oddíl",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Tvaroznalství semene",
+        "chapter_number": "1. část",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Klíčení semene",
+        "chapter_number": "2. část",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Zkoušení semene",
+        "chapter_number": "3. část",
+        "page_number": "19",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rostlina a její život",
+    "chapter_number": "II, oddíl",
+    "page_number": "26",
+    "children": [
+      {
+        "title": "Ústroje rostliny a jich výkon",
+        "chapter_number": "1. část",
+        "page_number": "26",
+        "children": [
+          {
+            "title": "Tvaroznalství kořene",
+            "chapter_number": "A.",
+            "page_number": "26",
+            "children": []
+          },
+          {
+            "title": "Stonek",
+            "chapter_number": "B.",
+            "page_number": "31",
+            "children": []
+          },
+          {
+            "title": "List",
+            "chapter_number": "C.",
+            "page_number": "32",
+            "children": []
+          },
+          {
+            "title": "Květy a plody",
+            "chapter_number": "D.",
+            "page_number": "35",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Výživa a vzrůst rostliny",
+        "chapter_number": "2. část",
+        "page_number": "38",
+        "children": [
+          {
+            "title": "O živinách",
+            "chapter_number": "E.",
+            "page_number": "39",
+            "children": []
+          },
+          {
+            "title": "Dýchání",
+            "chapter_number": "F.",
+            "page_number": "44",
+            "children": []
+          },
+          {
+            "title": "Záměna látek",
+            "chapter_number": "G.",
+            "page_number": "45",
+            "children": []
+          },
+          {
+            "title": "Vzrůst rostliny",
+            "chapter_number": "H.",
+            "page_number": "45",
+            "children": []
+          },
+          {
+            "title": "Výrobnost rostliny",
+            "chapter_number": "I.",
+            "page_number": "46",
+            "children": []
+          },
+          {
+            "title": "Stáří rostliny a její zánik",
+            "chapter_number": "K.",
+            "page_number": "47",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Působení podnebí",
+    "chapter_number": "III. oddíl",
+    "page_number": "49",
+    "children": [
+      {
+        "title": "Působení tepla",
+        "chapter_number": "1.",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Působení světla",
+        "chapter_number": "2.",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Vliv srážek",
+        "chapter_number": "3.",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Působení větrů",
+        "chapter_number": "4.",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Vliv místní polohy",
+        "chapter_number": "5.",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Vliv ročních počasí",
+        "chapter_number": "6.",
+        "page_number": "60",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O půdě",
+    "chapter_number": "IV. oddíl",
+    "page_number": "62",
+    "children": [
+      {
+        "title": "Součástky půdy",
+        "chapter_number": "1. část",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Fysikální vlastnosti půdy",
+        "chapter_number": "2. část",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Posudek a třídění půd",
+        "chapter_number": "3. část",
+        "page_number": "88",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O hnojení",
+    "chapter_number": "V. oddíl",
+    "page_number": "102",
+    "children": [
+      {
+        "title": "Podstata a úkol hnojení",
+        "chapter_number": "1. část",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Hnojiva",
+        "chapter_number": "2. část",
+        "page_number": "108",
+        "children": [
+          {
+            "title": "Hnojiva přímo působící",
+            "chapter_number": "A.",
+            "page_number": "108",
+            "children": []
+          },
+          {
+            "title": "Hnojiva nepřímo působící",
+            "chapter_number": "B.",
+            "page_number": "126",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Vzdělání půdy",
+    "chapter_number": "VI. oddíl",
+    "page_number": "135",
+    "children": [
+      {
+        "title": "Orba",
+        "chapter_number": "1. část",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Práce pospěchů",
+        "chapter_number": "2.",
+        "page_number": "143",
+        "children": []
+      },
+      {
+        "title": "Práce bran",
+        "chapter_number": "3.",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "Práce válce",
+        "chapter_number": "4.",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "Práce pěchovačů",
+        "chapter_number": "5.",
+        "page_number": "146",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Práce smyků",
+    "chapter_number": "6. část",
+    "page_number": "146",
+    "children": []
+  },
+  {
+    "title": "Postup praci obděláva-cích",
+    "chapter_number": "7.",
+    "page_number": "147",
+    "children": []
+  },
+  {
+    "title": "O seti",
+    "chapter_number": "VII. oddil",
+    "page_number": "149",
+    "children": [
+      {
+        "title": "Co sejeme?",
+        "chapter_number": "1. část",
+        "page_number": "149",
+        "children": []
+      },
+      {
+        "title": "Vliv jakosti semene na výnos",
+        "chapter_number": "2.",
+        "page_number": "152",
+        "children": []
+      },
+      {
+        "title": "Zušlechťování a pěstění nových odrůd",
+        "chapter_number": "3.",
+        "page_number": "160",
+        "children": []
+      },
+      {
+        "title": "Přesévání obilí a volba druhů",
+        "chapter_number": "4.",
+        "page_number": "173",
+        "children": []
+      },
+      {
+        "title": "Příprava semene k setbě",
+        "chapter_number": "5.",
+        "page_number": "177",
+        "children": []
+      },
+      {
+        "title": "Vliv velikosti prostoru na výnos",
+        "chapter_number": "6,",
+        "page_number": "183",
+        "children": []
+      },
+      {
+        "title": "Vliv způsobu setby na výnos",
+        "chapter_number": "7.",
+        "page_number": "189",
+        "children": []
+      },
+      {
+        "title": "Vliv doby setby na výnos",
+        "chapter_number": "8.",
+        "page_number": "193",
+        "children": []
+      },
+      {
+        "title": "Vliv hloubky setby na výnos",
+        "chapter_number": "9.",
+        "page_number": "196",
+        "children": []
+      },
+      {
+        "title": "Směse",
+        "chapter_number": "10.",
+        "page_number": "199",
+        "children": []
+      },
+      {
+        "title": "Rostliny ochranné",
+        "chapter_number": "11.",
+        "page_number": "200",
+        "children": []
+      },
+      {
+        "title": "Přesazování rostlin",
+        "chapter_number": "12.",
+        "page_number": "201",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ošetřování rostlin",
+    "chapter_number": "VIII.oddil",
+    "page_number": "204",
+    "children": [
+      {
+        "title": "Ochrana proti mokru",
+        "chapter_number": "1.",
+        "page_number": "204",
+        "children": []
+      },
+      {
+        "title": "mrazu",
+        "chapter_number": "2.",
+        "page_number": "204",
+        "children": []
+      },
+      {
+        "title": "suchu",
+        "chapter_number": "3.",
+        "page_number": "204",
+        "children": []
+      },
+      {
+        "title": "Prostředky proti lehání obilí",
+        "chapter_number": "4.",
+        "page_number": "205",
+        "children": []
+      },
+      {
+        "title": "Prostředky k zlepšení obilí",
+        "chapter_number": "5.",
+        "page_number": "206",
+        "children": []
+      },
+      {
+        "title": "Spásání obilí",
+        "chapter_number": "6.",
+        "page_number": "206",
+        "children": []
+      },
+      {
+        "title": "Válení",
+        "chapter_number": "7.",
+        "page_number": "206",
+        "children": []
+      },
+      {
+        "title": "Hrůbkování rostlin",
+        "chapter_number": "8.",
+        "page_number": "207",
+        "children": []
+      },
+      {
+        "title": "Kultura hřebenová",
+        "chapter_number": "9.",
+        "page_number": "208",
+        "children": []
+      },
+      {
+        "title": "Kultura Demčinského",
+        "chapter_number": "10.",
+        "page_number": "208",
+        "children": []
+      },
+      {
+        "title": "Ochrana proti škůdcům a chorobám",
+        "chapter_number": "11.",
+        "page_number": "210",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hubení plevele",
+    "chapter_number": "IX. odd.",
+    "page_number": "211",
+    "children": [
+      {
+        "title": "Hubení plevele semenného",
+        "chapter_number": "A.",
+        "page_number": "213",
+        "children": []
+      },
+      {
+        "title": "s mělkými oddenky",
+        "chapter_number": "B.",
+        "page_number": "216",
+        "children": []
+      },
+      {
+        "title": "s hlubok.",
+        "chapter_number": "C.",
+        "page_number": "217",
+        "children": []
+      },
+      {
+        "title": "Únava půdy",
+        "chapter_number": "D.",
+        "page_number": "218",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Opravy tiskových chyb a omylů",
+    "chapter_number": "",
+    "page_number": "219",
+    "children": []
+  }
+]

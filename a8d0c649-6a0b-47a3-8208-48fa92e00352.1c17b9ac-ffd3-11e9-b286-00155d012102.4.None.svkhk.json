@@ -1,0 +1,140 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "O prospěšnosti studia dějin vychovatelství",
+    "chapter_number": "II",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Rozdělení dějin vychovatelství",
+    "chapter_number": "III",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "HLAVA PRVÁ",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Doba předkřesťanská",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Úvod",
+            "chapter_number": "§. 1",
+            "page_number": "5",
+            "children": []
+          },
+          {
+            "title": "Vychování u Číňanů",
+            "chapter_number": "§. 2",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Vychování u Indů",
+            "chapter_number": "§. 3",
+            "page_number": "8",
+            "children": []
+          },
+          {
+            "title": "Vychování u Peršanů",
+            "chapter_number": "§ 4",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "Vychování u Egypťanů",
+            "chapter_number": "§. 5",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Vychování u Židů",
+            "chapter_number": "§. 6",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "Vychování u Řeků vůbec",
+            "chapter_number": "§. 7",
+            "page_number": "14",
+            "children": [
+              {
+                "title": "Spartané. Lykurg",
+                "chapter_number": "A",
+                "page_number": "15",
+                "children": []
+              },
+              {
+                "title": "Atheňané. Homer. Solon. Pythagoras. Sokrates. Plato. Xenofon. Aristoteles",
+                "chapter_number": "B",
+                "page_number": "17",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Vychování u Římanů. Cicero. Quinctilian. Plutarch. Plinius mladší",
+            "chapter_number": "§. 8",
+            "page_number": "23",
+            "children": []
+          },
+          {
+            "title": "Něco o vychování Germanů a Slovanů z dob pohanských",
+            "chapter_number": "§. 9",
+            "page_number": "30",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "HLAVA DRUHÁ",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Doba křesťanská",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Úvod. První školy křesťanské. Origenes a jiní učenci paedagogičtí v starověku křesťanském",
+            "chapter_number": "§. 10",
+            "page_number": "32",
+            "children": []
+          },
+          {
+            "title": "Mnišství. Školy klášterní. Benedikt z Nursie. Školy zpěvní",
+            "chapter_number": "§. 11",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Škola v Rychnově podle zápisku Valafrieda Strabona benediktina",
+            "chapter_number": "§. 12",
+            "page_number": "38",
+            "children": []
+          },
+          {
+            "title": "Školy katedrální. Chrodegang. Školy parochiální. Učenci paedagogičtí. Duch škol té doby. Alfred",
+            "chapter_number": "§. 13",
+            "page_number": "42",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

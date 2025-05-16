@@ -1,0 +1,240 @@
+
+[
+  {
+    "title": "Plemeno",
+    "chapter_number": "III",
+    "page_number": "24",
+    "children": []
+  },
+  {
+    "title": "Dědičnost a děditelnost hosp. zvířat",
+    "chapter_number": "IV",
+    "page_number": "33",
+    "children": [
+      {
+        "title": "Dědičnost pravidelná",
+        "chapter_number": "A",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Porušování děditelnosti pravidelné",
+        "chapter_number": "B",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Děditelnost vlastností získaných",
+        "chapter_number": "C",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Děditelnost barvy srsti",
+        "chapter_number": "D",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Děditelnost pohlaví",
+        "chapter_number": "E",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Theorie dědičnosti",
+        "chapter_number": "F",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Plemenitba",
+    "chapter_number": "V",
+    "page_number": "54",
+    "children": [
+      {
+        "title": "Způsob plemenitby",
+        "chapter_number": "1",
+        "page_number": "54",
+        "children": [
+          {
+            "title": "Plemenitba stejnoplemenná",
+            "chapter_number": "A",
+            "page_number": "55",
+            "children": []
+          },
+          {
+            "title": "Plemenitba různoplemenná",
+            "chapter_number": "B",
+            "page_number": "60",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Výbér plemeniva",
+        "chapter_number": "2",
+        "page_number": "65",
+        "children": [
+          {
+            "title": "zdravotní stav plemeniva",
+            "chapter_number": "a",
+            "page_number": "66",
+            "children": []
+          },
+          {
+            "title": "Stáří plemeniva",
+            "chapter_number": "b",
+            "page_number": "74",
+            "children": []
+          },
+          {
+            "title": "Přizpůsobení se plemeniva",
+            "chapter_number": "c",
+            "page_number": "77",
+            "children": []
+          },
+          {
+            "title": "Výkon. e) Původ plemeniva",
+            "chapter_number": "d",
+            "page_number": "78",
+            "children": []
+          },
+          {
+            "title": "Tvary plemeniva",
+            "chapter_number": "f",
+            "page_number": "79",
+            "children": [
+              {
+                "title": "Směr praktický",
+                "chapter_number": "1",
+                "page_number": "84",
+                "children": []
+              },
+              {
+                "title": "Směr vědecký",
+                "chapter_number": "2",
+                "page_number": "88",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Pozorování tvarů tělesných",
+        "chapter_number": "3",
+        "page_number": "93",
+        "children": [
+          {
+            "title": "Část povšechná",
+            "chapter_number": "A",
+            "page_number": "93",
+            "children": [
+              {
+                "title": "Všeobecná přehlídka tvarů těla hospod. ssavců",
+                "chapter_number": "1",
+                "page_number": "93",
+                "children": []
+              },
+              {
+                "title": "Hlava",
+                "chapter_number": "2",
+                "page_number": "100",
+                "children": []
+              },
+              {
+                "title": "Krk",
+                "chapter_number": "3",
+                "page_number": "103",
+                "children": []
+              },
+              {
+                "title": "Trup",
+                "chapter_number": "4",
+                "page_number": "104",
+                "children": []
+              },
+              {
+                "title": "Pohlavní ústrojí",
+                "chapter_number": "5",
+                "page_number": "114",
+                "children": []
+              },
+              {
+                "title": "Končetiny přední",
+                "chapter_number": "6",
+                "page_number": "116",
+                "children": []
+              },
+              {
+                "title": "Končetiny zadní",
+                "chapter_number": "7",
+                "page_number": "120",
+                "children": []
+              },
+              {
+                "title": "Postavení noh předních",
+                "chapter_number": "8",
+                "page_number": "122",
+                "children": []
+              },
+              {
+                "title": "Postavení noh zadních",
+                "chapter_number": "9",
+                "page_number": "125",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Část podrobná",
+            "chapter_number": "B",
+            "page_number": "127",
+            "children": [
+              {
+                "title": "Posuzování tvarů těla zvířa thosp. přizpůsobených výkonu jedinému",
+                "chapter_number": "I",
+                "page_number": "128",
+                "children": [
+                  {
+                    "title": "Posuzování zvířat tažných",
+                    "chapter_number": "1",
+                    "page_number": "128",
+                    "children": []
+                  },
+                  {
+                    "title": "Posuzování koní jízdeckých a soumarů",
+                    "chapter_number": "2",
+                    "page_number": "136",
+                    "children": []
+                  },
+                  {
+                    "title": "Tvar těla pro dojivost",
+                    "chapter_number": "3",
+                    "page_number": "137",
+                    "children": []
+                  },
+                  {
+                    "title": "Tvar těla pro žír",
+                    "chapter_number": "4",
+                    "page_number": "144",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Posuzování tvarů těla zvířat hosp. přizpůsobených více vý-konům",
+                "chapter_number": "II",
+                "page_number": "148",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

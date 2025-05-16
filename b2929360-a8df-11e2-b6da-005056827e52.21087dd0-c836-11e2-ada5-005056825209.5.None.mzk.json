@@ -1,0 +1,167 @@
+
+[
+  {
+    "title": "Zweiter Abschnitt.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Der Unterricht im Griechischen.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Grammatik.",
+            "chapter_number": "A",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Aufgabe des Unterrichtes im Untergymnasium und allgemeine Bedingung des Erfolges.",
+                "chapter_number": "I",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Die Lautlchre.",
+                "chapter_number": "II",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Die Flexionslehre.",
+                "chapter_number": "III",
+                "page_number": "",
+                "children": [
+                  {
+                    "title": "Die Declination; Uebersicht, auch der Contraction.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Die Conjugation auf w: Uebersicht der Biegungsausgänge, der Classen der Verba nach dem Charakter, der Augmentation.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Die Conjugation auf μι, Uebersicht.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Forderung an Uebungsbücher für das Untergymnasium.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Der grammatische Unterricht im Obergymnasium.",
+                "chapter_number": "IV",
+                "page_number": "",
+                "children": [
+                  {
+                    "title": "Zweck dieses Unterrichtes.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Benutzung des Sprachstoffes der Lectüre für die grammatischen Uebungen.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Die griechische Lectűre.",
+            "chapter_number": "B",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Behandlung der griechischen Lectüre.",
+                "chapter_number": "I",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Die Homerlectüre.",
+                "chapter_number": "II",
+                "page_number": "",
+                "children": [
+                  {
+                    "title": "Nücksichten bei der Behandlung der Homerlectüre.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Die Lectüre der Odyssee.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Leitung der Schüler zu selbstständiger Lectüre lateinischer und griechischer Classiker.",
+                "chapter_number": "III",
+                "page_number": "",
+                "children": [
+                  {
+                    "title": "Allgemeine Forderung an jeden Unterricht.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Die Präparation für die Lectüre.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Mittel gegen den Gebrauch fertiger Uebersetzungen.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Commentierte Classikerausgaben.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Auswahl des zu Lesenden.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Zwei Schriftsteller sind nicht gleichzeitig zu lesen.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  },
+                  {
+                    "title": "Umfang der Lectüre.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

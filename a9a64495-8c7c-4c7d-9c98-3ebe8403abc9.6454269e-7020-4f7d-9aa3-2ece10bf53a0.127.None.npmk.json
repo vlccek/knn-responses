@@ -1,0 +1,212 @@
+
+[
+  {
+    "title": "Zeměpis obecný.",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": [
+      {
+        "title": "O zemi celé",
+        "chapter_number": "I.",
+        "page_number": "5",
+        "children": [
+          {
+            "title": "Kde zeměkoule jest?",
+            "chapter_number": "§. 1-5",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Jak země se pohybuje?",
+            "chapter_number": "§. 6-15",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "O sluneční soustavě",
+            "chapter_number": "§. 16-38",
+            "page_number": "8",
+            "children": []
+          },
+          {
+            "title": "O světě",
+            "chapter_number": "§. 39-44",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Měřický popis země",
+            "chapter_number": "§. 45-66",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "O povrchu zemském",
+            "chapter_number": "§. 67-99",
+            "page_number": "16",
+            "children": []
+          },
+          {
+            "title": "O lidech",
+            "chapter_number": "§. 100-109",
+            "page_number": "21",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O zemědílech jednotlivých.",
+        "chapter_number": "II.",
+        "page_number": "23",
+        "children": [
+          {
+            "title": "O Evropě",
+            "chapter_number": "§. 110—144",
+            "page_number": "23",
+            "children": []
+          },
+          {
+            "title": "O Asii",
+            "chapter_number": "§. 145-165",
+            "page_number": "33",
+            "children": []
+          },
+          {
+            "title": "O Africe",
+            "chapter_number": "§. 166-187",
+            "page_number": "38",
+            "children": []
+          },
+          {
+            "title": "O Americe",
+            "chapter_number": "§. 188-210",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "O Australii",
+            "chapter_number": "§. 211-223",
+            "page_number": "49",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O Evropě zvlášť.",
+        "chapter_number": "III.",
+        "page_number": "52",
+        "children": [
+          {
+            "title": "O državách západoevropských",
+            "chapter_number": "A. §. 224-227",
+            "page_number": "52",
+            "children": []
+          },
+          {
+            "title": "O jiho-",
+            "chapter_number": "B. §. 228-235",
+            "page_number": "54",
+            "children": []
+          },
+          {
+            "title": "O východo-",
+            "chapter_number": "C. §. 236-239",
+            "page_number": "57",
+            "children": []
+          },
+          {
+            "title": "O severo-",
+            "chapter_number": "D. 240-241",
+            "page_number": "59",
+            "children": []
+          },
+          {
+            "title": "O středo-",
+            "chapter_number": "E. §. 242-252",
+            "page_number": "60",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Zeměpis Rakousko-Uherský.",
+    "chapter_number": "",
+    "page_number": "71",
+    "children": [
+      {
+        "title": "Úvod",
+        "chapter_number": "§. 1-7",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "O tvaru zemském",
+        "chapter_number": "§. 8-19",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "O vodstvu",
+        "chapter_number": "§. 20-24",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "O obyvatelstvu",
+        "chapter_number": "§. 25-42",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Místopis",
+        "chapter_number": "§. 43-188",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Čechy",
+        "chapter_number": "§. 47-72",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Morava",
+        "chapter_number": "§. 73-97",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Slezsko",
+        "chapter_number": "§. 98-113",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Země Alpské",
+        "chapter_number": "§. 114-156",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Dalmacie, Halič a Bukovina",
+        "chapter_number": "§. 157-168",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Uhry a Sedmihradsko",
+        "chapter_number": "§. 169-182",
+        "page_number": "116",
+        "children": []
+      },
+      {
+        "title": "Chorvatsko se Slavonií",
+        "chapter_number": "§. 183-188",
+        "page_number": "120",
+        "children": []
+      }
+    ]
+  }
+]

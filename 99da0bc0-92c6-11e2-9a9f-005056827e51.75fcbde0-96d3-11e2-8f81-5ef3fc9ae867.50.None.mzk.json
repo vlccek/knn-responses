@@ -1,0 +1,144 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Část I.: Počátky myšlení.",
+    "chapter_number": "",
+    "page_number": "4",
+    "children": [
+      {
+        "title": "Pocity prvky duševní",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": [
+          {
+            "title": "Hmat",
+            "chapter_number": "I",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Chuť",
+            "chapter_number": "II",
+            "page_number": "8",
+            "children": []
+          },
+          {
+            "title": "Čich",
+            "chapter_number": "III",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "Sluch",
+            "chapter_number": "IV",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "Zrak",
+            "chapter_number": "V",
+            "page_number": "13",
+            "children": []
+          },
+          {
+            "title": "Tělová nálada",
+            "chapter_number": "VI",
+            "page_number": "16",
+            "children": []
+          },
+          {
+            "title": "Pozornosť",
+            "chapter_number": "VII",
+            "page_number": "17",
+            "children": []
+          },
+          {
+            "title": "Představy",
+            "chapter_number": "VIII",
+            "page_number": "19",
+            "children": []
+          },
+          {
+            "title": "Paměť a obraznosť",
+            "chapter_number": "IX",
+            "page_number": "19",
+            "children": []
+          },
+          {
+            "title": "Myšlení",
+            "chapter_number": "X",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Spaní a sen",
+            "chapter_number": "XI",
+            "page_number": "24",
+            "children": []
+          },
+          {
+            "title": "Úsoba",
+            "chapter_number": "XII",
+            "page_number": "25",
+            "children": []
+          },
+          {
+            "title": "City",
+            "chapter_number": "XIII",
+            "page_number": "27",
+            "children": []
+          },
+          {
+            "title": "Snahy",
+            "chapter_number": "XIV",
+            "page_number": "29",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Část II.: Počátky jednání.",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": [
+      {
+        "title": "Pohyb automatický",
+        "chapter_number": "XV",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Pohyb reflexní",
+        "chapter_number": "XVI",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Pohyb instinktivní",
+        "chapter_number": "XVII",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Pohyb zúmyslný",
+        "chapter_number": "XVIII",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Čas a prostor",
+        "chapter_number": "XIX",
+        "page_number": "43",
+        "children": []
+      }
+    ]
+  }
+]

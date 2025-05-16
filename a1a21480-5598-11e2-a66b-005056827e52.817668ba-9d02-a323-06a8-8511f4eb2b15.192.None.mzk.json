@@ -1,0 +1,126 @@
+
+[
+  {
+    "title": "Místo úvodu",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Hlavní zásady etiky humanitní",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Náboženství a mravnost",
+    "chapter_number": "II",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "Člověk a mravnost (Ideály humanitní)",
+    "chapter_number": "III",
+    "page_number": "37",
+    "children": []
+  },
+  {
+    "title": "Národ a mravnost (Masarykova idea národa českého)",
+    "chapter_number": "IV",
+    "page_number": "61",
+    "children": [
+      {
+        "title": "České ideály humanitní před válkou",
+        "chapter_number": "1",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "České ideály humanitní ve světové válce",
+        "chapter_number": "2",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Idea státu československého",
+        "chapter_number": "3",
+        "page_number": "78",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Společnost a mravnost",
+    "chapter_number": "V",
+    "page_number": "89",
+    "children": [
+      {
+        "title": "Politika a mravnost — demokracie a mravnost",
+        "chapter_number": "1",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Socialismus a mravnost",
+        "chapter_number": "2",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Mládež a mravnost",
+        "chapter_number": "3",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Ženská otázka",
+        "chapter_number": "4",
+        "page_number": "105",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pohlavní život a mravnost (Láska, manželství, rodina)",
+    "chapter_number": "VI",
+    "page_number": "114",
+    "children": []
+  },
+  {
+    "title": "Mravní stíny společnosti",
+    "chapter_number": "VII",
+    "page_number": "139",
+    "children": [
+      {
+        "title": "Pohlavní nemravnost",
+        "chapter_number": "1",
+        "page_number": "139",
+        "children": []
+      },
+      {
+        "title": "Alkoholismus",
+        "chapter_number": "2",
+        "page_number": "148",
+        "children": []
+      },
+      {
+        "title": "Sebevražednost",
+        "chapter_number": "3",
+        "page_number": "157",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Poznámky životopisné",
+    "chapter_number": "",
+    "page_number": "168",
+    "children": []
+  },
+  {
+    "title": "Vysvětlení cizích slov",
+    "chapter_number": "",
+    "page_number": "183",
+    "children": []
+  }
+]

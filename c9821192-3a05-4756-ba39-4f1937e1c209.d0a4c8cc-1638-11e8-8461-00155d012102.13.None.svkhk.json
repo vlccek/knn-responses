@@ -1,0 +1,222 @@
+
+[
+  {
+    "title": "Abnormitäten des Rückenmarkes.",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Der Rückenmarkshäute",
+        "chapter_number": "1",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Der harten Rückenmarkshaut",
+            "chapter_number": "A",
+            "page_number": "844",
+            "children": [
+              {
+                "title": "Bildungsmangel",
+                "chapter_number": "1",
+                "page_number": ""
+              },
+              {
+                "title": "Anomalien der Grösse und Gestalt",
+                "chapter_number": "2",
+                "page_number": ""
+              },
+              {
+                "title": "der Continuität",
+                "chapter_number": "3",
+                "page_number": ""
+              },
+              {
+                "title": "Krankheiten der Textur",
+                "chapter_number": "4",
+                "page_number": "845",
+                "children": [
+                  {
+                    "title": "Entzündung",
+                    "chapter_number": "a",
+                    "page_number": ""
+                  },
+                  {
+                    "title": "Aftergebilde",
+                    "chapter_number": "b",
+                    "page_number": ""
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Der Arachnoidea spinalis",
+            "chapter_number": "B",
+            "page_number": "846",
+            "children": [
+              {
+                "title": "Anomalien der Grösse",
+                "chapter_number": "1",
+                "page_number": "847"
+              },
+              {
+                "title": "Krankheiten der Textur",
+                "chapter_number": "2",
+                "page_number": "849",
+                "children": [
+                  {
+                    "title": "Hyperämie, Apoplexie, Entzündung (Arachnitis spinalis)",
+                    "chapter_number": "a",
+                    "page_number": ""
+                  },
+                  {
+                    "title": "Aftergebilde",
+                    "chapter_number": "b",
+                    "page_number": "850"
+                  }
+                ]
+              },
+              {
+                "title": "Anomalien des Inhaltes",
+                "chapter_number": "3",
+                "page_number": ""
+              }
+            ]
+          },
+          {
+            "title": "Der Pia mater spinalis.",
+            "chapter_number": "C",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Krankheiten der Textur.",
+                "chapter_number": "1",
+                "page_number": "851",
+                "children": [
+                  {
+                    "title": "Hyperämie, Apoplexie",
+                    "chapter_number": "a",
+                    "page_number": ""
+                  },
+                  {
+                    "title": "Entzündung (Meningitis spinalis)",
+                    "chapter_number": "b",
+                    "page_number": "852"
+                  },
+                  {
+                    "title": "Afterbildungen",
+                    "chapter_number": "c",
+                    "page_number": "853"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Des Rückenmarkes.",
+    "chapter_number": "2",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bildungsmangel und -Excess",
+        "chapter_number": "1",
+        "page_number": "856"
+      },
+      {
+        "title": "Anomalien der Grösse",
+        "chapter_number": "2",
+        "page_number": "859"
+      },
+      {
+        "title": "Störungen der Continuität",
+        "chapter_number": "3",
+        "page_number": "860"
+      },
+      {
+        "title": "Krankheiten der Textur",
+        "chapter_number": "4",
+        "page_number": "861",
+        "children": [
+          {
+            "title": "Hyperämie, Apoplexie",
+            "chapter_number": "a",
+            "page_number": ""
+          },
+          {
+            "title": "Oedem",
+            "chapter_number": "b",
+            "page_number": ""
+          },
+          {
+            "title": "Entzündung",
+            "chapter_number": "c",
+            "page_number": "866"
+          },
+          {
+            "title": "Erweichung, Sclerose",
+            "chapter_number": "d",
+            "page_number": ""
+          },
+          {
+            "title": "Afterbildungen",
+            "chapter_number": "e",
+            "page_number": "867"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abnormitäten der Nerven,",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bildungsmangel und -Excess",
+        "chapter_number": "1",
+        "page_number": "868"
+      },
+      {
+        "title": "Anomalien der Gestalt, des Ursprunges und Verlaufes, der Verästelung",
+        "chapter_number": "2",
+        "page_number": "870"
+      },
+      {
+        "title": "Anomalien der Grösse",
+        "chapter_number": "3",
+        "page_number": "871"
+      },
+      {
+        "title": "Trennungen des Zusammenhanges",
+        "chapter_number": "4",
+        "page_number": "873"
+      },
+      {
+        "title": "Krankheiten der Textur",
+        "chapter_number": "5",
+        "page_number": "876",
+        "children": [
+          {
+            "title": "Hyperämie, Apoplexie",
+            "chapter_number": "a",
+            "page_number": ""
+          },
+          {
+            "title": "Entzündung",
+            "chapter_number": "b",
+            "page_number": ""
+          },
+          {
+            "title": "Aftergebilde",
+            "chapter_number": "c",
+            "page_number": "880"
+          }
+        ]
+      }
+    ]
+  }
+]

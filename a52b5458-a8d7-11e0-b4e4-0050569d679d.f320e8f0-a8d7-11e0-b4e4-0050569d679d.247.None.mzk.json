@@ -1,0 +1,155 @@
+
+[
+  {
+    "title": "Die Vögel",
+    "chapter_number": "B",
+    "page_number": "205",
+    "children": [
+      {
+        "title": "Hausvögel",
+        "chapter_number": "I",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Feld- und Waldvögel",
+        "chapter_number": "II",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Raubvögel",
+        "chapter_number": "III",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Wald- und Singvögel",
+        "chapter_number": "IV",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Fische",
+    "chapter_number": "C",
+    "page_number": "211",
+    "children": []
+  },
+  {
+    "title": "Amfibien",
+    "chapter_number": "D",
+    "page_number": "212",
+    "children": []
+  },
+  {
+    "title": "Insekten",
+    "chapter_number": "E",
+    "page_number": "214",
+    "children": []
+  },
+  {
+    "title": "Zehnter Abschnitt",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Mittheilungen über Kunstgewerbe, Handel und Beförderungsmittel des Verkehrs",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Chemische Produkten-Fabrikazion",
+        "chapter_number": "1",
+        "page_number": "217",
+        "children": []
+      },
+      {
+        "title": "Thonwaaren-Fabrikazion",
+        "chapter_number": "2",
+        "page_number": "218",
+        "children": []
+      },
+      {
+        "title": "Glas-Erzeugung",
+        "chapter_number": "3",
+        "page_number": "219",
+        "children": []
+      },
+      {
+        "title": "Papier-Erzeugung",
+        "chapter_number": "4",
+        "page_number": "220",
+        "children": []
+      },
+      {
+        "title": "Kunstmühlen",
+        "chapter_number": "5",
+        "page_number": "220",
+        "children": []
+      },
+      {
+        "title": "Buchdruckerei und Lithografie",
+        "chapter_number": "6",
+        "page_number": "222",
+        "children": []
+      },
+      {
+        "title": "Buch-, Kunst- und Musikalienhandlungen",
+        "chapter_number": "7",
+        "page_number": "222",
+        "children": []
+      },
+      {
+        "title": "Ledererzeugung",
+        "chapter_number": "8",
+        "page_number": "223",
+        "children": []
+      },
+      {
+        "title": "Handel",
+        "chapter_number": "9",
+        "page_number": "223",
+        "children": []
+      },
+      {
+        "title": "Die Handels- und Gewerbekammer in Troppau",
+        "chapter_number": "10",
+        "page_number": "223",
+        "children": []
+      },
+      {
+        "title": "Beförderungsmittel des Verkehrs",
+        "chapter_number": "11",
+        "page_number": "225",
+        "children": []
+      },
+       {
+        "title": "Straßen",
+        "chapter_number": "A",
+        "page_number": "225",
+        "children": []
+      },
+       {
+        "title": "Eisenbahnen",
+        "chapter_number": "B",
+        "page_number": "226",
+        "children": []
+      },
+       {
+        "title": "Postwesen und Telegrafen",
+        "chapter_number": "C",
+        "page_number": "226",
+        "children": []
+      },
+       {
+        "title": "Filial-Eskompte-Anstalt",
+        "chapter_number": "D",
+        "page_number": "227",
+        "children": []
+      }
+    ]
+  }
+]

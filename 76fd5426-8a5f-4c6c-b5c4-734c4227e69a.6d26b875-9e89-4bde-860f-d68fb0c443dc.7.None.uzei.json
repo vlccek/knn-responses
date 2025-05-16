@@ -1,0 +1,112 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Zahraniční obchod republiky Československé v roce 1921.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Dovoz a vývoz v celním záznamu a průvoz.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Úvod:",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Dovoz a vývoz v celním záznamu",
+                "chapter_number": "A",
+                "page_number": "6",
+                "children": []
+              },
+              {
+                "title": "Průvoz",
+                "chapter_number": "B",
+                "page_number": "10",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dovoz a vývoz v celním záznamu:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Zušlechtění:",
+        "chapter_number": "A",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Zušlechtění v tuzemsku podle jednotlivých druhů zušlechtění",
+            "chapter_number": "I",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "Zušlechtění v cizině",
+            "chapter_number": "II",
+            "page_number": "70",
+            "children": []
+          },
+          {
+            "title": "Zušlechtění v tuzemsku podle tříd a položek celního sazebníku a podle pořadových čísel statistického seznamu zboží:",
+            "chapter_number": "III",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Dovoz",
+                "chapter_number": "1",
+                "page_number": "75",
+                "children": []
+              },
+              {
+                "title": "Zpětný vývoz",
+                "chapter_number": "2",
+                "page_number": "99",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ostatní dovoz a vývoz v celním záznamu:",
+        "chapter_number": "B",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Dovoz a zpětný vývoz",
+            "chapter_number": "I",
+            "page_number": "117",
+            "children": []
+          },
+          {
+            "title": "Vývoz a zpětný dovoz",
+            "chapter_number": "II",
+            "page_number": "148",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Průvoz",
+    "chapter_number": "",
+    "page_number": "181",
+    "children": []
+  }
+]

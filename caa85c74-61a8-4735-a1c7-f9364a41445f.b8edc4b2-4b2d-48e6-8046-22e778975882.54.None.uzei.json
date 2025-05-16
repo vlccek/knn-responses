@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Vznik a vývoj zemědělského průmyslu",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Definice a význam zemědělského průmyslu v rámci zemědělské výroby",
+    "chapter_number": "II",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Rozsah zemědělského průmyslu",
+    "chapter_number": "III",
+    "page_number": "10",
+    "children": [
+      {
+        "title": "Zemědělský průmysl zpracující produkty rostlinné",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Zemědělský průmysl zpracující produkty živočišné",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Chemické složení důležitějších odpadků zemědělské výroby, hlavně výroby země-dělsko-průmyslové",
+    "chapter_number": "IV",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Koloběh asimilátů a půdních živin v zemědělství, význam půdy",
+    "chapter_number": "V",
+    "page_number": "36",
+    "children": []
+  },
+  {
+    "title": "Efektivní ztráty na půdních živinách v některých důležitějších zemědělských výrobách",
+    "chapter_number": "VI",
+    "page_number": "40",
+    "children": []
+  },
+  {
+    "title": "Studium zemědělství",
+    "chapter_number": "VII",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Diagram: Koloběh asimilátů a půdních živin",
+    "chapter_number": "",
+    "page_number": "40",
+    "children": []
+  }
+]

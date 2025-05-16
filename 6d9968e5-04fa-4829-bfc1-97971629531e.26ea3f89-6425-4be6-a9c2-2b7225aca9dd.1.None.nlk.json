@@ -1,0 +1,64 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "II",
+    "children": []
+  },
+  {
+    "title": "Seznam časopisů excerpovaných v roce 1986",
+    "chapter_number": "",
+    "page_number": "II",
+    "children": []
+  },
+  {
+    "title": "Seznam časopisů excerpovaných v č. 1/1986",
+    "chapter_number": "",
+    "page_number": "VI",
+    "children": []
+  },
+  {
+    "title": "Deskriptorový rejstřík",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Autorský rejstřík",
+    "chapter_number": "",
+    "page_number": "205",
+    "children": []
+  },
+  {
+    "title": "Zprávy z cest do zahraničí",
+    "chapter_number": "",
+    "page_number": "287",
+    "children": [
+      {
+        "title": "duben",
+        "chapter_number": "",
+        "page_number": "288",
+        "children": []
+      },
+      {
+        "title": "květen",
+        "chapter_number": "",
+        "page_number": "312",
+        "children": []
+      },
+      {
+        "title": "červen",
+        "chapter_number": "",
+        "page_number": "340",
+        "children": []
+      },
+      {
+        "title": "červenec",
+        "chapter_number": "",
+        "page_number": "368",
+        "children": []
+      }
+    ]
+  }
+]

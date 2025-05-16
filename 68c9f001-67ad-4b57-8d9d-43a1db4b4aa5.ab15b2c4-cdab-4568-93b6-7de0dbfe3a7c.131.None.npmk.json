@@ -1,0 +1,309 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Země v říšské radě zastoupené.",
+    "chapter_number": "A",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Království České",
+        "chapter_number": "I",
+        "page_number": "2",
+        "children": [
+          {
+            "title": "Popis přírodní",
+            "chapter_number": "A",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "Místopis",
+            "chapter_number": "B",
+            "page_number": "12",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Markrabství Moravské",
+        "chapter_number": "II",
+        "page_number": "26",
+        "children": [
+          {
+            "title": "Popis přírodní",
+            "chapter_number": "A",
+            "page_number": "27",
+            "children": []
+          },
+          {
+            "title": "Místopis",
+            "chapter_number": "B",
+            "page_number": "31",
+            "children": []
+          },
+          {
+            "title": "Popis občanský",
+            "chapter_number": "C",
+            "page_number": "36",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Vévodství Slezské",
+        "chapter_number": "III",
+        "page_number": "39",
+        "children": [
+          {
+            "title": "Popis přírodní",
+            "chapter_number": "A",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Místopis",
+            "chapter_number": "B",
+            "page_number": "40",
+            "children": []
+          },
+          {
+            "title": "Popis občanský",
+            "chapter_number": "C",
+            "page_number": "41",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Arcivévodství Dolnorakouské",
+        "chapter_number": "IV",
+        "page_number": "42",
+        "children": [
+          {
+            "title": "Popis přírodní",
+            "chapter_number": "A",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Místopis",
+            "chapter_number": "B",
+            "page_number": "44",
+            "children": []
+          },
+          {
+            "title": "Popis občanský",
+            "chapter_number": "C",
+            "page_number": "47",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Arcivévodství Hornorakouské",
+        "chapter_number": "V",
+        "page_number": "49",
+        "children": [
+          {
+            "title": "Popis přírodní",
+            "chapter_number": "A",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Místopis",
+            "chapter_number": "B",
+            "page_number": "50",
+            "children": []
+          },
+          {
+            "title": "Popis občanský",
+            "chapter_number": "C",
+            "page_number": "52",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Vévodství Salcburské",
+        "chapter_number": "VI",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Knížecí hrabství Tyrolské a Vorarlberg",
+        "chapter_number": "VII",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Vévodství Korutanské",
+        "chapter_number": "VIII",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Štyrské",
+        "chapter_number": "IX",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Vévodství Kraňské",
+        "chapter_number": "X",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Přímoří",
+        "chapter_number": "XI",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Království Dalmatské",
+        "chapter_number": "XII",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Haličské",
+        "chapter_number": "XIII",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Vévodství Bukovinské",
+        "chapter_number": "XIV",
+        "page_number": "82",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Země uherské.",
+    "chapter_number": "B",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Království Uherské",
+        "chapter_number": "XV",
+        "page_number": "83",
+        "children": [
+          {
+            "title": "Popis přírodní",
+            "chapter_number": "A",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Místopis",
+            "chapter_number": "B",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Popis občanský",
+            "chapter_number": "C",
+            "page_number": "94",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Království Chorvatské a Slavonské",
+        "chapter_number": "XVI",
+        "page_number": "96",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Země osazené.",
+    "chapter_number": "C",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bosna s Hercegovinou",
+        "chapter_number": "XVII",
+        "page_number": "99",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Popis říšského celku.",
+    "chapter_number": "D",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Popis přírodní",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Půda",
+            "chapter_number": "I",
+            "page_number": "102",
+            "children": []
+          },
+          {
+            "title": "Vodstvo",
+            "chapter_number": "II",
+            "page_number": "109",
+            "children": []
+          },
+          {
+            "title": "Vzduch",
+            "chapter_number": "III",
+            "page_number": "111",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Popis občansk",
+        "chapter_number": "",
+        "page_number": "113",
+        "children": [
+          {
+            "title": "Obyvatelstvo",
+            "chapter_number": "I",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Živnosti",
+            "chapter_number": "II",
+            "page_number": "115",
+            "children": []
+          },
+          {
+            "title": "Osvěta",
+            "chapter_number": "III",
+            "page_number": "119",
+            "children": []
+          },
+          {
+            "title": "Zřízení občanské",
+            "chapter_number": "IV",
+            "page_number": "122",
+            "children": []
+          },
+          {
+            "title": "Tabulky",
+            "chapter_number": "",
+            "page_number": "123",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

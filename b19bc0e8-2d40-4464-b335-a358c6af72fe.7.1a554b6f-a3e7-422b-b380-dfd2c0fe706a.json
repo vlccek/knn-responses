@@ -1,0 +1,33 @@
+
+[
+  {
+    "title": "Studium",
+    "chapter_number": "I.",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Učební povinnost",
+    "chapter_number": "II.",
+    "page_number": "17",
+    "children": []
+  },
+  {
+    "title": "Osobní práva",
+    "chapter_number": "III.",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Sbírky",
+    "chapter_number": "IV.",
+    "page_number": "38",
+    "children": []
+  },
+  {
+    "title": "Tělocvična",
+    "chapter_number": "V.",
+    "page_number": "41",
+    "children": []
+  }
+]

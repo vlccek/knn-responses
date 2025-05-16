@@ -1,0 +1,56 @@
+
+[
+  {
+    "title": "Inhalt",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Erster Theil",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Das Land",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "Erster Abschnitt. Historisch-statistische Landeskunde. §. 1. Anwachs des Staates",
+        "chapter_number": "",
+        "page_number": "1-17",
+        "children": []
+      },
+      {
+        "title": "Zweiter Abschnitt. Topische Landeskunde. §. 2. Lage, Gränzen, Größe und Gestalt. §. 3. Allgemeine Bodenplastik. §. 4. A. Gebirge. §. 5. Gangbarkeit der Gebirge. §. 6. Höhlen. §. 7. Geognostische Beschaffenheit der Gebirge. §. 8. Das Tiefland. §. 9. B. Gewässer. §. 10. Canäle. §. 11. Mineralquellen. §. 12. C. Bodenart. §. 13. Klimatische und meteorologische Verhältnisse",
+        "chapter_number": "",
+        "page_number": "18-67",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zweiter Theil",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Das Volk",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "Erster Abschnitt. Bevölkerungs-Verhältnisse. §. 14. Ausmittlung der Volkszahl. §. 15. Relative, einheimische und effective Bevölkerung; Sexual-Verhältnisse. §. 16. Wachsthum der Bevölkerung. §. 17. Wohnorte. §. 18. Nationalität. §. 19. Religionsverschiedenheit.",
+        "chapter_number": "",
+        "page_number": "68-85",
+        "children": []
+      },
+      {
+        "title": "Zweiter Abschnitt. Die Culturverhältnisse der Bevölkerung. §. 20. Geistescultur. a) intellectuelle und ästhetische. Das Unterrichtswesen. A. Lehranstalten. B. Erziehungsanstalten. C. Bildungsanstalten. §. 21. b) die moralische Cultur. §. 22. Materielle Cultur. I. Urproduction. a) Landwirthschaft. §. 23. Das Pflanzenreich. §. 24. Thierreich. §. 25. β) Der Bergbau und das Mineralreich. §. 26. II. Industrie. §. 27. III. Handel. §. 28. Schifffahrt. §. 29. Verkehrsanstalten und Beförderungsmittel des Handels; Eisenbahnen, Commerzialstraßen, Posten und Telegraphen, Börsen, Jahrmärkte, Münzsystem, Maße und Gewichte, Creditsanstalten und Banken, Handelskammern, Handelsgesellschaften, Freihäfen, Bollausschlüsse, Consulate, Handelsverträge.",
+        "chapter_number": "",
+        "page_number": "85-171",
+        "children": []
+      }
+    ]
+  }
+]

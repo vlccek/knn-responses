@@ -1,0 +1,58 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "1",
+    "page_number": "VII",
+    "children": []
+  },
+  {
+    "title": "Úvod dějepisný",
+    "chapter_number": "2",
+    "page_number": "IX",
+    "children": []
+  },
+  {
+    "title": "Popisné seznamy",
+    "chapter_number": "3",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Olejové malby starých mistrů",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Olejové malby moderních mistrů",
+        "chapter_number": "",
+        "page_number": "207",
+        "children": []
+      },
+      {
+        "title": "Akvarely, kartony, studie podle přírody a náčrtky",
+        "chapter_number": "",
+        "page_number": "311",
+        "children": []
+      },
+      {
+        "title": "Sochařská díla",
+        "chapter_number": "",
+        "page_number": "353",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rejstřík",
+    "chapter_number": "4",
+    "page_number": "365",
+    "children": []
+  },
+  {
+    "title": "Opravy a dodatky",
+    "chapter_number": "5",
+    "page_number": "377",
+    "children": []
+  }
+]

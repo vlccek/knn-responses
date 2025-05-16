@@ -1,0 +1,246 @@
+
+[
+  {
+    "title": "Cukrovarství.",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Důležitost a vývoz cukrovarství v království Českém",
+        "chapter_number": "I.",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Pěstování cukrovky",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Výroba cukru. Tržba cukrem",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Přílišná výroba cukru",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Obmezování odbytu cukru",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Politika Anglie",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Otázka cukerní",
+        "chapter_number": "II.",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Vývozní premie a cla cukerní",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Kartely",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Odstranění vývozních premií",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Akce Anglie a Francie na bruselské konferenci",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Obrana cukrovarů",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Dílo bruselské konference. Vítězství Anglie",
+        "chapter_number": "III.",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Postup velkých cukrovarů",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Následky bruselské úmluvy",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Pomoc. Zdokonalení pěstování cukrovky a výroby cukru",
+        "chapter_number": "IV.",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Zamezení nadvýroby cukru",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Kontingentování výroby cukru",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Náhrada za cukrovku",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Zvýšení spotřeby cukru",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Denaturování cukru",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Obmezení tržby sacharinem",
+        "chapter_number": "",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Zachování vývozu cukru",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Sazby dopravní",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Zachránění malých cukrovarů",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Sladovnictví.",
+    "chapter_number": "",
+    "page_number": "48",
+    "children": [
+      {
+        "title": "Vývoz pivovarství v Čechách",
+        "chapter_number": "",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Pěstování ječmene",
+        "chapter_number": "",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Tržba s ječmenem a sladem",
+        "chapter_number": "",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Konkurence uherská",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Spor o degenerování českého ječmene",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Příčiny poklesání pěstování ječmene",
+        "chapter_number": "",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Důležitost sladovnictví pro zemědělství",
+        "chapter_number": "",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Následky nadvýroby sladu v Německu",
+        "chapter_number": "",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Podporování sladoven v Německu",
+        "chapter_number": "",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Náklad dopravy",
+        "chapter_number": "",
+        "page_number": "61",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Chmelařství.",
+    "chapter_number": "",
+    "page_number": "64",
+    "children": [
+      {
+        "title": "Český chmel",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Sklizeň chmele",
+        "chapter_number": "",
+        "page_number": "65",
+        "children": []
+      }
+    ]
+  }
+]

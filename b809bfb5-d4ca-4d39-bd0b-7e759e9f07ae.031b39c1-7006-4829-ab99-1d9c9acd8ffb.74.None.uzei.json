@@ -1,0 +1,94 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Konstruktivní zásady",
+    "chapter_number": "II",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Popis konstrukce a řešení stroje",
+    "chapter_number": "III",
+    "page_number": "14",
+    "children": [
+      {
+        "title": "Motor",
+        "chapter_number": "a",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Chlazení motoru",
+        "chapter_number": "b",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Třecí spojka a převodové ústrojí hnací",
+        "chapter_number": "c",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Ústrojí k samočinnému ustavení brázdového kola na žádanou hloubku brázdy",
+        "chapter_number": "d",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Řemenice a její pohon",
+        "chapter_number": "e",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Řízení a páky obsluhovací",
+        "chapter_number": "f",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Samočinné mazání celého ústrojí hnacího",
+        "chapter_number": "g",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Hnací pojízdná kola",
+        "chapter_number": "h",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Hlavní rám, rámy těles, tělesa",
+        "chapter_number": "i",
+        "page_number": "47",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Váha a výkonnost stroje",
+    "chapter_number": "IV",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Podrobný seznam součástek",
+    "chapter_number": "V",
+    "page_number": "51",
+    "children": []
+  }
+]

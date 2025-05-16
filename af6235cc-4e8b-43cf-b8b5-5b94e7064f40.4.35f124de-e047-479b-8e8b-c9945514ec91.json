@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Finanční principy dopravních prostředků v literatuře národohospodářské",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Kameralisté a fysiokraté",
+        "chapter_number": "1",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Adam Smith",
+        "chapter_number": "2",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Následovníci Smithovi ve Francii a v Německu",
+        "chapter_number": "3",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Finančněpolitické názory prvních let doby železniční",
+        "chapter_number": "4",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Orthodoxní liberalismus",
+        "chapter_number": "5",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Nové theorie regálové",
+        "chapter_number": "6",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Emil Sax a Adolf Wagner",
+        "chapter_number": "7",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Roscher, Cohn a novější literatura",
+        "chapter_number": "8",
+        "page_number": "70",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Finanční principy dopravních prostředků v moderním hospodářství národním a státním",
+    "chapter_number": "II",
+    "page_number": "84",
+    "children": [
+      {
+        "title": "Význam dopravních prostředků a zařízení v národním hospodářství",
+        "chapter_number": "9",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Užívání a prospěchy z prostředků dopravních",
+        "chapter_number": "10",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Dopravní prostředky a stát",
+        "chapter_number": "11",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Dopravní prostředky jakožto zdroje příjmů státních",
+        "chapter_number": "12",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Souvislost finančních výsledků dopravních s všeobecným stavem vývoje hospodářství národního",
+        "chapter_number": "13",
+        "page_number": "111",
+        "children": []
+      }
+    ]
+  }
+]

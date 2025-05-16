@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "Příklad praktického užití podvojného účetnictví",
+    "chapter_number": "VI",
+    "page_number": "201",
+    "children": []
+  },
+  {
+    "title": "Speciální druhy podvojného účetnictví",
+    "chapter_number": "VII",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Účtování obstaratelských obchodů",
+        "chapter_number": null,
+        "page_number": "230",
+        "children": []
+      },
+      {
+        "title": "Účtování spedičních obchodů",
+        "chapter_number": null,
+        "page_number": "241",
+        "children": []
+      },
+      {
+        "title": "Účtování devis a cenných papírů",
+        "chapter_number": null,
+        "page_number": "244",
+        "children": []
+      },
+      {
+        "title": "Účtování ve veřejných společnostech",
+        "chapter_number": null,
+        "page_number": "249",
+        "children": []
+      },
+      {
+        "title": "Účetnictví průmyslových závodů",
+        "chapter_number": null,
+        "page_number": "265",
+        "children": []
+      },
+      {
+        "title": "Americké účetnictví",
+        "chapter_number": null,
+        "page_number": "627",
+        "children": []
+      },
+      {
+        "title": "Tajné účtování",
+        "chapter_number": null,
+        "page_number": "279",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O kontokorentech",
+    "chapter_number": "VIII",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Progresivní methoda",
+        "chapter_number": null,
+        "page_number": "280",
+        "children": []
+      },
+      {
+        "title": "Retrográdní methoda",
+        "chapter_number": null,
+        "page_number": "282",
+        "children": []
+      },
+      {
+        "title": "Stupnicová methoda",
+        "chapter_number": null,
+        "page_number": "284",
+        "children": []
+      },
+      {
+        "title": "Dvojí úroková míra v kontokorentu",
+        "chapter_number": null,
+        "page_number": "290",
+        "children": []
+      },
+      {
+        "title": "Změna úrokové míry",
+        "chapter_number": null,
+        "page_number": "291",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Počítání úroků u c. k. pošt. spořitelny",
+    "chapter_number": "IX",
+    "page_number": "295",
+    "children": []
+  }
+]

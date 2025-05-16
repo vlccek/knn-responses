@@ -1,0 +1,202 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3-4",
+    "children": []
+  },
+  {
+    "title": "Borboniova autobiografie a múza (1566-1595)",
+    "chapter_number": "I.",
+    "page_number": "5-13",
+    "children": []
+  },
+  {
+    "title": "Deník čís. 1.",
+    "chapter_number": "II.",
+    "page_number": "14-29",
+    "children": [
+      {
+        "title": "Iter helveticum (17. II. 1596-12. VI. 1597)",
+        "chapter_number": "1.",
+        "page_number": "14-29",
+        "children": [
+          {
+            "title": "Jízda do Basileje",
+            "chapter_number": "a)",
+            "page_number": "29-54",
+            "children": []
+          },
+          {
+            "title": "Studijní pobyt v Basileji",
+            "chapter_number": "b)",
+            "page_number": "29-54",
+            "children": []
+          },
+          {
+            "title": "Návrat",
+            "chapter_number": "c)",
+            "page_number": "54-58",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Lékařem v Napajedlích (13. VI. 1597-31. XII. 1598)",
+        "chapter_number": "2.",
+        "page_number": "58-76",
+        "children": []
+      },
+      {
+        "title": "Románová předehra k přesídlení do Litoměřic",
+        "chapter_number": "3.",
+        "page_number": "76-83",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Lékařem v Litoměřicích a Ml. Boleslavi. Jmenování zemským lékařem v Praze (1599-1609)",
+    "chapter_number": "III.",
+    "page_number": "84-87",
+    "children": []
+  },
+  {
+    "title": "Lékařem v Praze Rudolfově a Matyášově.",
+    "chapter_number": "IV.",
+    "page_number": "88-91",
+    "children": [
+      {
+        "title": "Theoria medica",
+        "chapter_number": "1.",
+        "page_number": "88-91",
+        "children": []
+      },
+      {
+        "title": "Mezi chemiatry a alchymisty",
+        "chapter_number": "2.",
+        "page_number": "91-97",
+        "children": []
+      },
+      {
+        "title": "Případ Polyxeny z Lobkovic a nástup k slávě chebských vod (Františkových Lázní)",
+        "chapter_number": "3.",
+        "page_number": "97-105",
+        "children": []
+      },
+      {
+        "title": "Dozvuky šťastných let",
+        "chapter_number": "4.",
+        "page_number": "105-107",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Deník čís. 2.",
+    "chapter_number": "V.",
+    "page_number": "108-112",
+    "children": [
+      {
+        "title": "Nešťastný smyk do veřejného života",
+        "chapter_number": "1.",
+        "page_number": "108-112",
+        "children": []
+      },
+      {
+        "title": "Rok 1622.",
+        "chapter_number": "2.",
+        "page_number": "112-133",
+        "children": [
+          {
+            "title": "První pololetí",
+            "chapter_number": "a)",
+            "page_number": "112-133",
+            "children": []
+          },
+          {
+            "title": "Druhé pololetí s pobytem v Teplicích a případem šlechtičny Alžběty Vchynské",
+            "chapter_number": "b)",
+            "page_number": "133-167",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Poslední čtyři léta v Praze (1623-1627).",
+    "chapter_number": "VI.",
+    "page_number": "168-170",
+    "children": [
+      {
+        "title": "Víra nade všecko",
+        "chapter_number": "1.",
+        "page_number": "168-170",
+        "children": []
+      },
+      {
+        "title": "Případ Pavla Michny",
+        "chapter_number": "2.",
+        "page_number": "170-175",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Nakonec lékařem v Polsku",
+    "chapter_number": "VII.",
+    "page_number": "176",
+    "children": []
+  },
+  {
+    "title": "Příloha oprav k textu Dvořákovy edice Borboniových deníků.",
+    "chapter_number": "",
+    "page_number": "177-182",
+    "children": [
+      {
+        "title": "deníku čís. 1",
+        "chapter_number": "a)",
+        "page_number": "177-182",
+        "children": []
+      },
+      {
+        "title": "deníku čís. 2",
+        "chapter_number": "b)",
+        "page_number": "182-193",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Prameny a literatura",
+    "chapter_number": "",
+    "page_number": "194-198",
+    "children": []
+  },
+  {
+    "title": "Rejstřík osobní",
+    "chapter_number": "",
+    "page_number": "199-228",
+    "children": []
+  },
+  {
+    "title": "Rejstřík místní",
+    "chapter_number": "",
+    "page_number": "229-239",
+    "children": []
+  },
+  {
+    "title": "Rejstřík věcný",
+    "chapter_number": "",
+    "page_number": "240-260",
+    "children": []
+  },
+  {
+    "title": "Opravy",
+    "chapter_number": "",
+    "page_number": "261-262",
+    "children": []
+  }
+]

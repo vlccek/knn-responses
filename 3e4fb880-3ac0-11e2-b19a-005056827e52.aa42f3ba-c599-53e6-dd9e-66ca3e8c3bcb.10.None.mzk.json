@@ -1,0 +1,64 @@
+
+[
+  {
+    "title": "Vorwort von Felix Dahn",
+    "chapter_number": "",
+    "page_number": "VII-IX",
+    "children": []
+  },
+  {
+    "title": "Vorwort vom Verfasser",
+    "chapter_number": "",
+    "page_number": "XI-XV",
+    "children": []
+  },
+  {
+    "title": "Einleitung: Das Land der Quaden und ihre Nachbarn",
+    "chapter_number": "",
+    "page_number": "1-21",
+    "children": []
+  },
+  {
+    "title": "Geschichte der Quaden vom Beginne der geschichtlichen Nachrichten bis zum Aufhören derselben zur Zeit der Völkerwanderung.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Von den ersten Nachrichten bis zur Eroberung Dakiens durch die Römer",
+        "chapter_number": "I",
+        "page_number": "22-49",
+        "children": []
+      },
+      {
+        "title": "Während des Markomannenkrieges",
+        "chapter_number": "II",
+        "page_number": "50-76",
+        "children": []
+      },
+      {
+        "title": "Vom Markomannenkriege bis zur Eroberung der Provinz Dakien durch die Gothen",
+        "chapter_number": "III",
+        "page_number": "77-96",
+        "children": []
+      },
+      {
+        "title": "Von der Räumung Dakiens bis zum Beginne der Völkerwanderung",
+        "chapter_number": "IV",
+        "page_number": "97-112",
+        "children": []
+      },
+      {
+        "title": "Vom Beginne der Völkerwanderung bis zum Ende des weströmischen Reiches",
+        "chapter_number": "V",
+        "page_number": "113-135",
+        "children": []
+      },
+      {
+        "title": "Von Odoaker bis zu den Avaren und Slaven",
+        "chapter_number": "VI",
+        "page_number": "136-173",
+        "children": []
+      }
+    ]
+  }
+]

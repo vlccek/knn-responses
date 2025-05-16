@@ -1,0 +1,85 @@
+
+[
+  {
+    "title": "AKTUALITY NLK",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Aktuálně o NLK",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Helbich, J.: Bohemica non leguntur?",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Skálová, H.: Na rozloučenou",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "ZPRÁVY",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Solničková, K.: Lékařská knihovna Nemocnice v Karlových Varech",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Fleissigová, B.: Knihovna McGillovy university v Montrealu",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "STATISTICKÉ UKAZTELE VISZ",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Vzdělanostní skladba pracovníků lékařských knihoven",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Technické vybavení lékařských knihoven",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "KONFERENCE - SEMINÁŘE",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Knihovnické konference, semináře, vzdělávací akce",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Podzimní kurz IPVZ Praha",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      }
+    ]
+  }
+]

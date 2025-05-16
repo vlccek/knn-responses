@@ -1,0 +1,186 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "V",
+    "children": []
+  },
+  {
+    "title": "Einführung",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Einführungsbestimmungen",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Finanzplan",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hauptstück, betreffend die allgemeine Erwerbsteuer",
+    "chapter_number": "I",
+    "page_number": "10",
+    "children": [
+      {
+        "title": "Steuerpflicht",
+        "chapter_number": "a",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Ausnahmen",
+        "chapter_number": "b",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Befreiungen",
+        "chapter_number": "c",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Gemeinnützige Unternehmungen",
+        "chapter_number": "d",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Dürftige Erwerbsteuerpflicht",
+        "chapter_number": "e",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Fortdauer bestehender Befreiungen",
+        "chapter_number": "f",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Verhältnis zu den Ländern der ungarischen Krone und zum Auslande",
+        "chapter_number": "g",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Erwerbsteuerhauptsumme",
+        "chapter_number": "h",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Eintheilung der Steuerpflichtigen in Classen",
+        "chapter_number": "i",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Veranlagungsbezirke",
+        "chapter_number": "k",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Steuergesellschaften",
+        "chapter_number": "l",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Bildung der Erwerbsteuercommission",
+        "chapter_number": "m",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Geschäftsführung der Erwerbsteuercommissionen und Erwerb-steuerlandescommissionen",
+        "chapter_number": "n",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Obliegenheiten und Befugnisse des Vorsißenden der Erwerb-steuercommission",
+        "chapter_number": "o",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Befugnisse der Erwerbsteuercommission",
+        "chapter_number": "p",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Veranlagungsgrundsäke",
+        "chapter_number": "q",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Schema enthaltend die bei der Veranlagung der allgemeinen Erwerb-steuer anzuwendenden Steuersäße",
+        "chapter_number": "",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Die äußeren Merkmale der steuerpflichtigen Betriebe",
+        "chapter_number": "r",
+        "page_number": "41",
+        "children": [
+          {
+            "title": "Die Art des Geschäftsbetriebes",
+            "chapter_number": "1",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "Ort und Zeit des Betriebes",
+            "chapter_number": "2",
+            "page_number": "42",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Merkmale des Betriebsumfanges",
+        "chapter_number": "s",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Hausindustrie",
+        "chapter_number": "t",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Thierische und mechanische motorische Kräfte",
+        "chapter_number": "u",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Das Capital",
+        "chapter_number": "v",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Besonderes Merkmal und Verzeichnis",
+        "chapter_number": "w",
+        "page_number": "47",
+        "children": []
+      }
+    ]
+  }
+]

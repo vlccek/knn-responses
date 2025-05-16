@@ -1,0 +1,567 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "O výrobě sladu.",
+    "chapter_number": "I.",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Popis manipulace",
+        "chapter_number": "A.",
+        "page_number": "1",
+        "children": [
+          {
+            "title": "Máčení ječmene",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Sladování",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Válení sladu vyrovnaného",
+            "chapter_number": "",
+            "page_number": "2"
+            , "children": []
+          },
+          {
+            "title": "Sušení sladu",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Čistění sladu sušeného",
+            "chapter_number": "",
+            "page_number": "3"
+            , "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zřizování sladovny",
+        "chapter_number": "B.",
+        "page_number": "3",
+        "children": [
+          {
+            "title": "Máčírna",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Výpočet velikosti stoku máčecího",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Humna",
+            "chapter_number": "",
+            "page_number": "4"
+            , "children": []
+          },
+          {
+            "title": "Dlažba a její spodek",
+            "chapter_number": "",
+            "page_number": "5"
+            , "children": []
+          },
+          {
+            "title": "Kouty, sokl, sloupy a pilíře",
+            "chapter_number": "",
+            "page_number": "6"
+            , "children": []
+          },
+          {
+            "title": "Ventilace",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Vliv záchodův, stok a p. na humno",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Osvětlování humna.",
+            "chapter_number": "",
+            "page_number": "7"
+            , "children": []
+          },
+          {
+            "title": "Vodovod",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Isolování hlavních zdí humna",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Velikosť a prostrannosť humen",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Vytahovadla.",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Valečka",
+            "chapter_number": "",
+            "page_number": "8"
+            , "children": []
+          },
+          {
+            "title": "Hvozd",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Půdy na slad a na ječmen",
+            "chapter_number": "",
+            "page_number": "10"
+            , "children": []
+          },
+          {
+            "title": "Třídidla.",
+            "chapter_number": "",
+            "page_number": "11"
+            , "children": []
+          },
+          {
+            "title": "Výpočet velikosti místností sladovny",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "O přípravě mladinky.",
+    "chapter_number": "II.",
+    "page_number": "12",
+    "children": [
+      {
+        "title": "Popis manipulace",
+        "chapter_number": "A.",
+        "page_number": "12",
+        "children": [
+          {
+            "title": "Přípravné práce",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Várka",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zřizování varny a chladírny",
+        "chapter_number": "B.",
+        "page_number": "13",
+        "children": [
+          {
+            "title": "Varna.",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Kotel (v menším pivovaře)",
+            "chapter_number": "",
+            "page_number": "14"
+            , "children": []
+          },
+          {
+            "title": "Zahřívadlo.",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Vystírací káď",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Cedidlo a čeřidlo",
+            "chapter_number": "",
+            "page_number": "15"
+            , "children": []
+          },
+          {
+            "title": "Korýtko.",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Čerpadla či pumpy",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Hřebla, vesla a kopístě",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "O situaci ve varně",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Kotel na rmuty (ve větším pivovaře)",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Kotel na mladinku",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Mísidlo",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Vystíradlo",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Káď cedící",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Kypřidlo na mláto",
+            "chapter_number": "",
+            "page_number": "16"
+            , "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ciz",
+    "chapter_number": "",
+    "page_number": "17",
+    "children": []
+  },
+  {
+    "title": "Zahřívadlo",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "O situování nádob ve varně pivovaru strojního",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Dodatek.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Chladírna",
+    "chapter_number": "",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Stoky chladící.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Větráky.",
+    "chapter_number": "",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "O chladičích",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "O kvašeni mladinky.",
+    "chapter_number": "III.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Popis manipulace",
+        "chapter_number": "A.",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Zřizování kvasírny.",
+        "chapter_number": "B.",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Kvasírny",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Dlažba",
+            "chapter_number": "",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Ventilace",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "O velikosti kvasírny",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Nádoby a přístroje v kvasírně",
+            "chapter_number": "",
+            "page_number": "23",
+            "children": []
+          },
+          {
+            "title": "Kádě kvasící",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Kantnýře",
+            "chapter_number": "",
+            "page_number": "24",
+            "children": []
+          },
+          {
+            "title": "Plováky a t. d.",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "O opatrování piv.",
+    "chapter_number": "IV.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Stručný popis manipulace",
+        "chapter_number": "A.",
+        "page_number": "24",
+        "children": [
+          {
+            "title": "Pivo výčepné",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Pivo stáčené.",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Ležák.",
+            "chapter_number": "",
+            "page_number": "25"
+            , "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zakládání a zřizování sklepův pivních",
+        "chapter_number": "B.",
+        "page_number": "25",
+        "children": [
+          {
+            "title": "O prostrannosti sklepův na roční výrobu 35.000 věder piva",
+            "chapter_number": "",
+            "page_number": "26"
+            , "children": []
+          },
+          {
+            "title": "O prostrannosti sklepův na roční výrobu 59.000 věder piva",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Výška sklepův",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Délka a šířka šijí",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Dlažba",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "O šíji jalové",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Lednice",
+            "chapter_number": "",
+            "page_number": "27"
+            , "children": []
+          },
+          {
+            "title": "Ledárny.",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Vrstvy isolační",
+            "chapter_number": "",
+            "page_number": "28"
+            , "children": []
+          },
+          {
+            "title": "Vytahovadlo.",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Pivovod, vodovod a plynovod",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Vnitřní zřízení sklepův",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          },
+          {
+            "title": "Sudy, kantnýře a polštáře",
+            "chapter_number": "",
+            "page_number": ""
+            , "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Dodatky.",
+    "chapter_number": "V.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O vodě",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "O denní spotřebě vody v pivovaře",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "O zásobárnách a komorách.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "O bytech pro sládka, účetního a chasu",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Bednárna",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "O projektu zobrazeném na tabulkách VII. a VIII.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Nejdůležitější z podaných měr uvedené na míru metrickou",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      }
+    ]
+  }
+]

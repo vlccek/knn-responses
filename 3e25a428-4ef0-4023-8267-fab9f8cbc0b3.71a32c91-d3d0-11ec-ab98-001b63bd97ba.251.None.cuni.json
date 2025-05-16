@@ -1,0 +1,96 @@
+
+[
+  {
+    "title": "Správa policejní",
+    "chapter_number": "IV",
+    "page_number": "177",
+    "children": [
+      {
+        "title": "Evidence obyvatelstva",
+        "chapter_number": "§ 58",
+        "page_number": "177",
+        "children": []
+      },
+      {
+        "title": "O jménech",
+        "chapter_number": "§ 59",
+        "page_number": "179",
+        "children": []
+      },
+      {
+        "title": "Policie stavební",
+        "chapter_number": "§ 60",
+        "page_number": "180",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Správa zdravotní",
+    "chapter_number": "V",
+    "page_number": "184",
+    "children": [
+      {
+        "title": "Veřejná zdravotní služba",
+        "chapter_number": "§ 61",
+        "page_number": "184",
+        "children": []
+      },
+      {
+        "title": "Ústavy humanitní",
+        "chapter_number": "§ 62",
+        "page_number": "186",
+        "children": []
+      },
+      {
+        "title": "Lékárny",
+        "chapter_number": "§ 63",
+        "page_number": "187",
+        "children": []
+      },
+      {
+        "title": "Všeobecné zdravotní předpisy",
+        "chapter_number": "§ 64",
+        "page_number": "189",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Opatření bezpečnostní",
+    "chapter_number": "VI",
+    "page_number": "192",
+    "children": [
+      {
+        "title": "Opatření proti nebezpečným osobám",
+        "chapter_number": "§ 65",
+        "page_number": "192",
+        "children": []
+      },
+      {
+        "title": "Opatření proti nebezpečným předmětům nebo živlům",
+        "chapter_number": "§ 66",
+        "page_number": "193",
+        "children": []
+      },
+      {
+        "title": "Policie mravnostní",
+        "chapter_number": "§ 67",
+        "page_number": "194",
+        "children": []
+      },
+      {
+        "title": "Zákon o potulných cikánech",
+        "chapter_number": "§ 68",
+        "page_number": "195",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Příloha",
+    "chapter_number": "",
+    "page_number": "196",
+    "children": []
+  }
+]

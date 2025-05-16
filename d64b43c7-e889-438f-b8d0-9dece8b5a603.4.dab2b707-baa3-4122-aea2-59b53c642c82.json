@@ -1,0 +1,78 @@
+
+[
+  {
+    "title": "Introduction",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Economic Model",
+    "chapter_number": "1",
+    "page_number": "2",
+    "children": [
+      {
+        "title": "Aggregate Supply",
+        "chapter_number": "1.1",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Aggregate Demand",
+        "chapter_number": "1.2",
+        "page_number": "8",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Empirical Analysis",
+    "chapter_number": "2",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Concluding Remarks",
+    "chapter_number": "3",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "References",
+    "chapter_number": "",
+    "page_number": "14",
+    "children": []
+  },
+  {
+    "title": "Appendix I",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Summary of the regression analysis",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Regression analysis I",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Appendix II",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Regression analysis II and modelling for Hungary, Romania, the Czech Republic, the United States of America, Federal Republic of Germany, Japan, Korea, Malaysia, Philippines, Indonesia, Thailand, Hong-Kong, Singapore, Chile, Peru, Argentina",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

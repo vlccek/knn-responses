@@ -1,0 +1,175 @@
+
+[
+  {
+    "title": "Schlauchlegungsdienst",
+    "chapter_number": "7",
+    "page_number": "211",
+    "children": []
+  },
+  {
+    "title": "Schutzmannschaft",
+    "chapter_number": "8",
+    "page_number": "211",
+    "children": []
+  },
+  {
+    "title": "Allgemeine Branddienst-Instructionen für die Sanitätsmannschaft",
+    "chapter_number": "9",
+    "page_number": "211",
+    "children": [
+      {
+        "title": "Allgemeines",
+        "chapter_number": "a",
+        "page_number": "211",
+        "children": []
+      },
+      {
+        "title": "Praktischer Dienst am Brandplatz",
+        "chapter_number": "b",
+        "page_number": "213",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vorschriften für besondere Brandfälle",
+    "chapter_number": "II",
+    "page_number": "220",
+    "children": [
+      {
+        "title": "Kamin (Schornstein-) und Ofenbrände",
+        "chapter_number": "1",
+        "page_number": "220",
+        "children": []
+      },
+      {
+        "title": "Zimmer- und Mobilienbrand",
+        "chapter_number": "2",
+        "page_number": "221",
+        "children": []
+      },
+      {
+        "title": "Brand infolge fehlerhafter baulicher Anlagen von Feuerungen (Feuer in Fussböden, Decken und in Wänden)",
+        "chapter_number": "3",
+        "page_number": "221",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kellerbrand",
+    "chapter_number": "4",
+    "page_number": "222",
+    "children": []
+  },
+  {
+    "title": "Brände in Erdgeschossen (Gewölbe-, Magazinsbrand)",
+    "chapter_number": "5",
+    "page_number": "223",
+    "children": []
+  },
+  {
+    "title": "Brände in Stockwerken",
+    "chapter_number": "6",
+    "page_number": "224",
+    "children": []
+  },
+  {
+    "title": "Dachstuhlbrand",
+    "chapter_number": "7",
+    "page_number": "224",
+    "children": []
+  },
+  {
+    "title": "Strassen- und Ortsbrände (Flugfeuer)",
+    "chapter_number": "8",
+    "page_number": "226",
+    "children": []
+  },
+  {
+    "title": "Brand v. Wirtschaftsgebäuden (Ställen und Scheuern)",
+    "chapter_number": "9",
+    "page_number": "227",
+    "children": []
+  },
+  {
+    "title": "Fabriksbrände",
+    "chapter_number": "10",
+    "page_number": "228",
+    "children": []
+  },
+  {
+    "title": "Thurm- und Kirchenbrand",
+    "chapter_number": "11",
+    "page_number": "232",
+    "children": []
+  },
+  {
+    "title": "Theaterbrände",
+    "chapter_number": "12",
+    "page_number": "233",
+    "children": []
+  },
+  {
+    "title": "Strohtristen- u. Schoberbrände",
+    "chapter_number": "13",
+    "page_number": "233",
+    "children": []
+  },
+  {
+    "title": "Wald- und Wiesenbrände",
+    "chapter_number": "14",
+    "page_number": "233",
+    "children": []
+  },
+  {
+    "title": "Vorschriften für das Verhalten nach dem Brande",
+    "chapter_number": "III",
+    "page_number": "234",
+    "children": [
+      {
+        "title": "Aufräumen der Brandstelle",
+        "chapter_number": "1",
+        "page_number": "234",
+        "children": []
+      },
+      {
+        "title": "Brandwache",
+        "chapter_number": "2",
+        "page_number": "236",
+        "children": []
+      },
+      {
+        "title": "Abrücken vom Brandplatze",
+        "chapter_number": "3",
+        "page_number": "236",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Empfehlenswerte Schriften für Feuerwehren",
+    "chapter_number": "I",
+    "page_number": "237",
+    "children": []
+  },
+  {
+    "title": "Feuerwehr-Zeitungen",
+    "chapter_number": "II",
+    "page_number": "239",
+    "children": [
+      {
+        "title": "Zeitungen in deutscher Sprache",
+        "chapter_number": "a",
+        "page_number": "239",
+        "children": []
+      },
+      {
+        "title": "Zeitungen in anderen Sprachen",
+        "chapter_number": "b",
+        "page_number": "240",
+        "children": []
+      }
+    ]
+  }
+]

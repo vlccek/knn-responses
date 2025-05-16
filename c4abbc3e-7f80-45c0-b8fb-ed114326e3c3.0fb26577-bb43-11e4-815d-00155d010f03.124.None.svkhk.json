@@ -1,0 +1,132 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Dějepisné prameny",
+    "chapter_number": "",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Petr hrabě Strozzi",
+    "chapter_number": "Kapitola I",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Vznik nadace hraběte Strozziho",
+        "chapter_number": "II",
+        "page_number": "12",
+        "children": [
+          {
+            "title": "Nadační velkostatek Hořický v Čechách",
+            "chapter_number": "a",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "Nadace hraběte Strozziho",
+            "chapter_number": "b",
+            "page_number": "14",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Změny ve správě výkonu nadace od roku 1735",
+        "chapter_number": "III",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Obrození vojenské nadace invalidní hraběte Strozzi",
+        "chapter_number": "IV",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Dodatečná ustanovení",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Vznik invalidního asylu v Hořicích",
+        "chapter_number": "V",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Popis místa a invalidovny Hořické",
+        "chapter_number": "VI",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Úvaha a dobrozdání",
+        "chapter_number": "VII",
+        "page_number": "48",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "DOKLADY",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Darovací listina J. M. cís. Ferdinanda II. ze dne 19. máje 1635, kterou daroval panství Hořice a Třebo-větice hraběti Jakubu Strozzimu",
+        "chapter_number": "Lit. A",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Testament pol. podmaršálka hraběte Petra Strozziho ze dne 3. srpna 1658",
+        "chapter_number": "B",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Testament paní hraběnky Kateřiny Strozziové",
+        "chapter_number": "C",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Hořický hraběnky Strozziho chudobinec z r. 1699",
+        "chapter_number": "D",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Rozdělení poplužních dvorů a smlouva o zrušení roboty na panství Hořickém",
+        "chapter_number": "E",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Z věstníku pro c. a k. armádu č. 12. r. 1882",
+        "chapter_number": "F",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Odůvodnění žádosti, podané na majestát v roce 1897 zastupitelstvem města Hořic",
+        "chapter_number": "G. a",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Výsledek žádosti na majestát",
+        "chapter_number": "b",
+        "page_number": "109",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,144 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "1-4",
+    "children": []
+  },
+  {
+    "title": "Dílna, její uspořádání, volba místnosti, stroje",
+    "chapter_number": "",
+    "page_number": "5-20",
+    "children": []
+  },
+  {
+    "title": "Zpracování vazby",
+    "chapter_number": "I.",
+    "page_number": "21-162",
+    "children": [
+      {
+        "title": "Archy tištěné, papír na knihy, skládání archů, brožování",
+        "chapter_number": "1.",
+        "page_number": "23-30",
+        "children": []
+      },
+      {
+        "title": "Formáty",
+        "chapter_number": "2.",
+        "page_number": "31-35",
+        "children": []
+      },
+      {
+        "title": "Postup práce při vazbě",
+        "chapter_number": "3.",
+        "page_number": "36-132",
+        "children": [
+          {
+            "title": "Rozbírání",
+            "chapter_number": "a)",
+            "page_number": "37-48",
+            "children": []
+          },
+          {
+            "title": "Zařezávání, šití, klížení",
+            "chapter_number": "b)",
+            "page_number": "48-82",
+            "children": []
+          },
+          {
+            "title": "Nasazování plátěných a kožených vazeb",
+            "chapter_number": "c)",
+            "page_number": "82-105",
+            "children": []
+          },
+          {
+            "title": "Potahování hřbetů a desek",
+            "chapter_number": "d)",
+            "page_number": "105-123",
+            "children": []
+          },
+          {
+            "title": "Práce konečné",
+            "chapter_number": "e)",
+            "page_number": "123-132",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Mramorování a škrobové papíry",
+        "chapter_number": "4.",
+        "page_number": "133-162",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Výzdoba vazby",
+    "chapter_number": "II.",
+    "page_number": "163-274",
+    "children": [
+      {
+        "title": "Úvod",
+        "chapter_number": "1.",
+        "page_number": "165-171",
+        "children": []
+      },
+      {
+        "title": "Nářadí ke zlacení a k tisku na slepo",
+        "chapter_number": "2.",
+        "page_number": "172-188",
+        "children": []
+      },
+      {
+        "title": "Postup při zlacení",
+        "chapter_number": "3.",
+        "page_number": "189-202",
+        "children": []
+      },
+      {
+        "title": "Zlacení na plocho, slepotisk, vykládání, intarsie a prolamování",
+        "chapter_number": "4.",
+        "page_number": "203-219",
+        "children": []
+      },
+      {
+        "title": "Zlacení lisem",
+        "chapter_number": "5.",
+        "page_number": "220-240",
+        "children": []
+      },
+      {
+        "title": "Tepání, řezání a moření kůže",
+        "chapter_number": "6.",
+        "page_number": "241-260",
+        "children": []
+      },
+      {
+        "title": "Návrhy na zdobení knihy",
+        "chapter_number": "7.",
+        "page_number": "261-274",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rejstřík",
+    "chapter_number": "",
+    "page_number": "275---278",
+    "children": []
+  },
+  {
+    "title": "Slovník",
+    "chapter_number": "",
+    "page_number": "279-285",
+    "children": []
+  },
+  {
+    "title": "Seznam příloh",
+    "chapter_number": "",
+    "page_number": "286-287",
+    "children": []
+  }
+]

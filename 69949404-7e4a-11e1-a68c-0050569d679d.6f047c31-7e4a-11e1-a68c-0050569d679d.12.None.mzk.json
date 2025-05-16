@@ -1,0 +1,161 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3-5",
+    "children": []
+  },
+  {
+    "title": "Seznam živností řemeslných",
+    "chapter_number": "I.",
+    "page_number": "5-6",
+    "children": []
+  },
+  {
+    "title": "Leta učednická a pomocnická",
+    "chapter_number": "II.",
+    "page_number": "5-6",
+    "children": []
+  },
+  {
+    "title": "Učiliště živnostenská, jichž vysvědčení oprávňují ku nastoupení živnosti",
+    "chapter_number": "III.",
+    "page_number": "7-10",
+    "children": []
+  },
+  {
+    "title": "Zvláštní způsobilosť při některých živnostech koncessijních",
+    "chapter_number": "IV.",
+    "page_number": "11-35",
+    "children": [
+      {
+        "title": "Při živnosti tiskařské",
+        "chapter_number": "1.",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "plavecké",
+        "chapter_number": "2.",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "kominické",
+        "chapter_number": "3.",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "průtočnické",
+        "chapter_number": "4.",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "výroby a prodeje zbraní a střeliva",
+        "chapter_number": "5.",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "výroby a prodeje látek a předmětů ohněstrojných a všelikých praeparatů třaskavých",
+        "chapter_number": "6.",
+        "page_number": "14-15",
+        "children": []
+      },
+      {
+        "title": "výroby jedů a přípravy látek a praeparatů léčebných, pak výroby a prodeje strojených vod minerálních",
+        "chapter_number": "7.",
+        "page_number": "15-22",
+        "children": []
+      },
+      {
+        "title": "zařizování plynovodů, zařízení osvětlovacích a vodovodů",
+        "chapter_number": "8.",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "vyrábění a opravování parních kotlů",
+        "chapter_number": "9.",
+        "page_number": "23-28",
+        "children": []
+      },
+      {
+        "title": "podkovářské",
+        "chapter_number": "10.",
+        "page_number": "28-32",
+        "children": []
+      },
+      {
+        "title": "zahlazování krys, myší, škodlivého hmyzu a pod. prostředky jedovatými",
+        "chapter_number": "11.",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "stavitelů, studňařů, zedníků, kamenníků a tesařů",
+        "chapter_number": "12.",
+        "page_number": "33-34",
+        "children": []
+      },
+      {
+        "title": "výroby a rozvádění elektřiny",
+        "chapter_number": "13.",
+        "page_number": "34-35",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Práva lékáren vzhledem k obchodům se zbožím materialním a k jiným živnostem",
+    "chapter_number": "V.",
+    "page_number": "36-38",
+    "children": []
+  },
+  {
+    "title": "O příslušnosti úřadů při přestupcích zákona o podomním obchodě",
+    "chapter_number": "VI.",
+    "page_number": "38-39",
+    "children": []
+  },
+  {
+    "title": "O živnostenských inspektorech",
+    "chapter_number": "VII.",
+    "page_number": "39-45",
+    "children": []
+  },
+  {
+    "title": "Vzorné stanovy",
+    "chapter_number": "VIII.",
+    "page_number": "46-86",
+    "children": [
+      {
+        "title": "Pro živnostenská společenstva",
+        "chapter_number": "A.",
+        "page_number": "46-60",
+        "children": []
+      },
+      {
+        "title": "hromady pomocníků (tovaryšů)",
+        "chapter_number": "B.",
+        "page_number": "61-66",
+        "children": []
+      },
+      {
+        "title": "nemocenské pokladny",
+        "chapter_number": "C.",
+        "page_number": "67-77",
+        "children": []
+      },
+      {
+        "title": "výbor rozsudí",
+        "chapter_number": "D.",
+        "page_number": "78-86",
+        "children": []
+      }
+    ]
+  }
+]

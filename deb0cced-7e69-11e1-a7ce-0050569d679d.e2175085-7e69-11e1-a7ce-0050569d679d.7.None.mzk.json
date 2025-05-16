@@ -1,0 +1,160 @@
+
+[
+  {
+    "title": "b) Schlüsse mit zusammengesetzten Prämissen.",
+    "chapter_number": null,
+    "page_number": "45",
+    "children": [
+      {
+        "title": "Conjunctive Schlüsse",
+        "chapter_number": "§ 20",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Der hypothetische Schluß",
+        "chapter_number": "§ 21",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Disjunctive Schlußformen",
+        "chapter_number": "§ 22",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Unvollständige Schlüsse.",
+        "chapter_number": "§ 23",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Fehl- und Trugschlüsse.",
+        "chapter_number": "§ 24",
+        "page_number": "49",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "c) Zusammengesezte Schlüsse oder Schlußketten.",
+    "chapter_number": null,
+    "page_number": "49",
+    "children": [
+      {
+        "title": "Kettenschluß oder Sorites",
+        "chapter_number": "§ 26",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zweiter Theil: Methodenlehre.",
+    "chapter_number": null,
+    "page_number": "53",
+    "children": [
+      {
+        "title": "Aufgabe der Methodenlehre",
+        "chapter_number": "§ 27",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "I. Erklärungen.",
+        "chapter_number": null,
+        "page_number": "54",
+        "children": [
+          {
+            "title": "Von den Erklärungen überhaupt",
+            "chapter_number": "§ 28",
+            "page_number": "54",
+            "children": []
+          },
+          {
+            "title": "Nothwendige Eigenschaften der Definition und Fehler derselben",
+            "chapter_number": "§ 29",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Mit der Definition verwandte Formen.",
+            "chapter_number": "§ 30",
+            "page_number": "57",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "II. Eintheilungen.",
+        "chapter_number": null,
+        "page_number": "59",
+        "children": [
+          {
+            "title": "Von der Eintheilung überhaupt",
+            "chapter_number": "§ 31",
+            "page_number": "59",
+            "children": []
+          },
+          {
+            "title": "Arten der Eintheilung.",
+            "chapter_number": "§ 32",
+            "page_number": "60",
+            "children": []
+          },
+          {
+            "title": "Nothwendige Eigenschaften der Eintheilung und Fehler derselben",
+            "chapter_number": "§ 33",
+            "page_number": "60",
+            "children": []
+          },
+          {
+            "title": "Mit der Eintheilung verwandte Formen",
+            "chapter_number": "§ 34",
+            "page_number": "62",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "III. Beweise.",
+        "chapter_number": null,
+        "page_number": "64",
+        "children": [
+          {
+            "title": "Von dem Beweise überhaupt",
+            "chapter_number": "§ 35",
+            "page_number": "64",
+            "children": []
+          },
+          {
+            "title": "Die verschiedenen Formen der Beweise",
+            "chapter_number": "§ 36",
+            "page_number": "65",
+            "children": []
+          },
+          {
+            "title": "Erfordernisse und Fehler der Beweise",
+            "chapter_number": "§ 37",
+            "page_number": "67",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "IV. Methode.",
+        "chapter_number": null,
+        "page_number": "69",
+        "children": [
+          {
+            "title": null,
+            "chapter_number": "§ 38",
+            "page_number": "69",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

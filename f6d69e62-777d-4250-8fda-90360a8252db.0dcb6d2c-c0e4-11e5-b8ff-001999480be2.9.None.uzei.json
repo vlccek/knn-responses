@@ -1,0 +1,181 @@
+
+[
+  {
+    "title": "Botanika všeobecná.",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Úvod",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "O buňkách.",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "O cevách",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "O rostlinách vůbec",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "O kořenu",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "O pni",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "O ústrojnosti pně",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "O listech",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "O květu",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": [
+          {
+            "title": "1) Kalich 15. 2) Koruna 16. 3) Tyčinky 17. 4) Pestík 18.",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Květenství",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Plod",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Zevnější tvary plodu",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Semeno",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Rozdělení rostlin",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rostlinopis.",
+    "chapter_number": "",
+    "page_number": "25",
+    "children": [
+      {
+        "title": "A. Rostliny bezděložné",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": [
+          {
+            "title": "I. Třída: Rostliny tajnosnubné bezlisté",
+            "chapter_number": "",
+            "page_number": "26",
+            "children": [
+              {
+                "title": "1) Čeleď. Řasy 26. 2) Lišejníky 28. 3) Houby 28.",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "II. Třída: Rostliny tajnosnubné listnaté.",
+            "chapter_number": "",
+            "page_number": "30",
+            "children": [
+              {
+                "title": "4) Mechy 31. 5) Přesličky 32. 6) Kapradiny 32. 7) Plavuně 32.",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "B. Rostliny jednoděložné",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": [
+          {
+            "title": "III. Třída: Rostliny o jedné semenní děloze",
+            "chapter_number": "",
+            "page_number": "-",
+            "children": [
+              {
+                "title": "8) Trávy 33. 9) Šachorovité 39. 10) Orobincovité 39. 11) Aronovité 39. 12) Palmy 39. 13) Liliovité 40. 14) Ocúnovité 41. 15) Bíserovité 41. 16) Sněženkovité 42. 17) Kosatcovité 42. 18) Ananasovité 42. 19) Bananovité 42. 20) Zázvorovité 43. 21) Vstavačovité 43. 22) Žabníkovité 43.",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "C. Rostliny dvouděložné",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": [
+          {
+            "title": "IV. Třída: Bezkorunné",
+            "chapter_number": "",
+            "page_number": "-",
+            "children": [
+              {
+                "title": "23) Sosnovité 44. 24) Pepřovité 45. 25) Vrbovité 45. 26) Březovité 45. 27) Dubovité 45. 28) Kopřivovité 46. 29) Chleboňovité 46. 30) Macizeňovité 47. 31) Pryšcovité 48. 32) Merlíkovité 48. 33) Rdesnovité 49. 34) Lýkovcovité 50. 35) Vavřínovité 50. 36) Podražcovité 50.",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,152 @@
+
+[
+  {
+    "title": "Physik im Allgemeinen. Elektrizitätslehre. Magnetismus. Elektrotechnik. Meteorologie",
+    "chapter_number": "XVI",
+    "page_number": "19",
+    "children": [
+      {
+        "title": "Astronomie. Matkematische u. physikalische Geographie",
+        "chapter_number": "b",
+        "page_number": "21",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rechts- und Staatswissenschaften:",
+    "chapter_number": "XVII",
+    "page_number": "22",
+    "children": [
+      {
+        "title": "Handels- u. Wechselrecht",
+        "chapter_number": "a",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Nationalökonomie",
+        "chapter_number": "b",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Statistik",
+        "chapter_number": "c",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Rechts- u. Staatswissenschaften im engeren Sinne",
+        "chapter_number": "d",
+        "page_number": "23",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Sammelwerke",
+    "chapter_number": "XVIII",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Technologie (chemische u. mechanische):",
+    "chapter_number": "XIX",
+    "page_number": "24",
+    "children": [
+      {
+        "title": "Chemische",
+        "chapter_number": "a",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Mechanische",
+        "chapter_number": "b",
+        "page_number": "25",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Werke sonstigen Inhaltes:",
+    "chapter_number": "XX",
+    "page_number": "25",
+    "children": [
+      {
+        "title": "Belletristik",
+        "chapter_number": "a",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Berichte ü. Ausstellungen, Comissionen der Handels- und Gewerbe-kammern",
+        "chapter_number": "b",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Bücherkataloge. Bibliothekskunde",
+        "chapter_number": "c",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Heilkunde u. Hilfswissenschaften",
+        "chapter_number": "d",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Kriegswissenschaften",
+        "chapter_number": "e",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Philosophie",
+        "chapter_number": "f",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Sprachwissenschaft u. Schreibkunde",
+        "chapter_number": "g",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Unterrichtswesen u. Erziehungskunde",
+        "chapter_number": "h",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Varia",
+        "chapter_number": "i",
+        "page_number": "27",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zeitschriften und periodische Werke:",
+    "chapter_number": "XXI",
+    "page_number": "27",
+    "children": [
+      {
+        "title": "Eingegangene u. aufgegebene",
+        "chapter_number": "a",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Gegenwärtig noch gehaltene",
+        "chapter_number": "b",
+        "page_number": "27",
+        "children": []
+      }
+    ]
+  }
+]

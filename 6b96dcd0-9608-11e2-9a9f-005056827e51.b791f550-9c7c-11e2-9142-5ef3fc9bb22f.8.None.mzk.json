@@ -1,0 +1,332 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Zkráceniny a opravy",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "O nových školských zákonech a úřadech",
+    "chapter_number": "Kapitola 1",
+    "page_number": "5",
+    "children": [
+      {
+        "title": "Nové zákony školské",
+        "chapter_number": "§. 1",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Základní zásady nového zákonodárství školského",
+        "chapter_number": "§. 2",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Nové úřady školské a jich sestavení",
+        "chapter_number": "§. 3",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Říšský soud a správní dvůr soudní",
+        "chapter_number": "§. 4",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "O samosprávě ve zřízení školském",
+        "chapter_number": "§. 5",
+        "page_number": "8",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O školní obci",
+    "chapter_number": "Kapitola II",
+    "page_number": "8",
+    "children": [
+      {
+        "title": "O poměru mezi obcí školní a místní",
+        "chapter_number": "§. 6",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "O vyškolení a přiškolení k jiné obci školní",
+        "chapter_number": "§. 7",
+        "page_number": "10",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kdo zasedá v m. šk. radě?",
+    "chapter_number": "Kapitola III",
+    "page_number": "10",
+    "children": [
+      {
+        "title": "Přehled.",
+        "chapter_number": "§. 8",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "O zástupcích školy v m. šk. radě. (§. 9.)",
+        "chapter_number": "I",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "O zástupcích víry v m. šk. radě. (§. 10).",
+        "chapter_number": "II",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "O zástupcích obce v m. šk. radě",
+        "chapter_number": "III",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Kolik jich jest",
+        "chapter_number": "§. 11",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "O způsobu volby do m. šk. rady",
+        "chapter_number": "§. 12",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Kdo může býti do m. šk. rady volen?",
+        "chapter_number": "§. 13",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Kdo smí volbu do m. šk. rady odmítnouti?",
+        "chapter_number": "§. 14",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Na jakou dobu volba platí",
+        "chapter_number": "§. 15",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "O následcích odepření volby",
+        "chapter_number": "§. 16",
+        "page_number": "16",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O školském patrónovi a největším poplatníku (§. 17)",
+    "chapter_number": "IV",
+    "page_number": "17",
+    "children": []
+  },
+  {
+    "title": "O místním dozorci školním (§. 18)",
+    "chapter_number": "V",
+    "page_number": "17",
+    "children": [
+      {
+        "title": "Závěrka",
+        "chapter_number": "§. 19",
+        "page_number": "18",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O pravidlech v příčině úřadování m. šk. rady",
+    "chapter_number": "Kapitola IV",
+    "page_number": "18",
+    "children": [
+      {
+        "title": "O nastoupení úřadu",
+        "chapter_number": "§. 20",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "O pravidlech jednacích",
+        "chapter_number": "§. 21",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "O právech předsedových",
+        "chapter_number": "§. 22",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Manipulace.",
+        "chapter_number": "§. 23",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "O poměru m. šk. rady k jiným úřadům",
+        "chapter_number": "§. 24",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "O zevnější formě úředních spisův",
+        "chapter_number": "§. 25",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "O kolkování a frankování spisů m. šk. rady",
+        "chapter_number": "§. 26",
+        "page_number": "23",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O působnosti m. šk. rady",
+    "chapter_number": "Kapitola V",
+    "page_number": "23",
+    "children": [
+      {
+        "title": "Na které školy vztahuje se úřední činnosť m. šk. rady?",
+        "chapter_number": "A",
+        "page_number": "24",
+        "children": [
+          {
+            "title": "Školy obecné, střední, vysoké",
+            "chapter_number": "§. 27",
+            "page_number": "25",
+            "children": []
+          },
+          {
+            "title": "Školy veřejné a soukromé",
+            "chapter_number": "§. 28",
+            "page_number": "25",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Úřední záležitosti m. šk. radě svěřené",
+        "chapter_number": "B",
+        "page_number": "25",
+        "children": [
+          {
+            "title": "Přehled",
+            "chapter_number": "§. 29",
+            "page_number": "27",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O správě jmění školního (§. 30.)",
+        "chapter_number": "I",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "O správě budovy školní a věcných potřeb školních",
+        "chapter_number": "II",
+        "page_number": "27",
+        "children": [
+          {
+            "title": "O správě budovy školní",
+            "chapter_number": "1",
+            "page_number": "27",
+            "children": [
+              {
+                "title": "O stavbě nové budovy školní",
+                "chapter_number": "a",
+                "page_number": "27",
+                "children": []
+              },
+              {
+                "title": "O místě stavebním",
+                "chapter_number": "§. 31",
+                "page_number": "30",
+                "children": []
+              },
+              {
+                "title": "O budově školní.",
+                "chapter_number": "§. 32",
+                "page_number": "30",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "O udržování budovy školní v dobrém stavu (§. 33)",
+            "chapter_number": "b",
+            "page_number": "30",
+            "children": []
+          },
+          {
+            "title": "O věcných potřebách školních",
+            "chapter_number": "2",
+            "page_number": "31",
+            "children": [
+              {
+                "title": "O školním nářadí (§. 34).",
+                "chapter_number": "a",
+                "page_number": "31",
+                "children": []
+              },
+              {
+                "title": "O učebných pomůckách (§. 35)",
+                "chapter_number": "b",
+                "page_number": "32",
+                "children": []
+              },
+              {
+                "title": "O správě školní knihovny",
+                "chapter_number": "§. 36",
+                "page_number": "32",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "O příbytku učitelů (§. 37)",
+            "chapter_number": "c",
+            "page_number": "33",
+            "children": []
+          },
+          {
+            "title": "O školském rozpočtu a závěrečných účtech.",
+            "chapter_number": "§. 38",
+            "page_number": "33",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

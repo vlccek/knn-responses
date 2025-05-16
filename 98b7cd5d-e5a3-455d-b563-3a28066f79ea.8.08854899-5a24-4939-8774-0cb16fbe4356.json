@@ -1,0 +1,78 @@
+
+[
+  {
+    "title": "Aus der Vorkriegszeit",
+    "chapter_number": "I",
+    "page_number": "4-32",
+    "children": [
+      {
+        "title": "Allgemeine Richtlinien der tschechischen Politik",
+        "chapter_number": "1",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Wurzeln staatsfeindlicher Strömungen in der tschechischen Politik",
+        "chapter_number": "2",
+        "page_number": "20",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Während des Weltkrieges",
+    "chapter_number": "II",
+    "page_number": "33-141",
+    "children": [
+      {
+        "title": "Die Tschechen in Österreich während der ersten Kriegsmonate",
+        "chapter_number": "1",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Die österreichfeindliche Arbeit der Tschechen im Auslande",
+        "chapter_number": "2",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Die Tschechen in Österreich vom ersten Kriegswinter bis zur Einberufung des Reichsrates",
+        "chapter_number": "3",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Die Tschechen in Österreich von der Einberufung des Reichs-rates bis zum Umsturz",
+        "chapter_number": "4",
+        "page_number": "121",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Aus der Zeit des Umsturzes",
+    "chapter_number": "III",
+    "page_number": "142-161",
+    "children": [
+      {
+        "title": "Der Umsturz und das Militärkommando in Prag",
+        "chapter_number": "1",
+        "page_number": "142",
+        "children": []
+      },
+      {
+        "title": "Deutsch-tschechische Verhandlungsversuche nach dem Umsturz",
+        "chapter_number": "2",
+        "page_number": "153",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Namen- und Sachverzeichnis",
+    "chapter_number": "",
+    "page_number": "162",
+    "children": []
+  }
+]

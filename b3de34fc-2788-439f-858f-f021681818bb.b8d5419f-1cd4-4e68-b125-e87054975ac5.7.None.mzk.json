@@ -1,0 +1,261 @@
+
+[
+  {
+    "title": "PŘEDMLUVA",
+    "chapter_number": "",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "SPRÁVNÍ VÝVOJ OKRESU JIHLAVA",
+    "chapter_number": "",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "SOUPIS PUBLIKACÍ A ČLÁNKŮ",
+    "chapter_number": "",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "JIHLAVSKO 1-926",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Všeobecné materiály 1-90",
+    "chapter_number": "1",
+    "page_number": "34",
+    "children": [
+      {
+        "title": "Souborné práce 1-33",
+        "chapter_number": "1.1",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Průvodce 34-58",
+        "chapter_number": "1.2",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Mapy a plány 59-78",
+        "chapter_number": "1.3",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Bibliografie 79-90",
+        "chapter_number": "1.4",
+        "page_number": "37",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Příroda. Přírodní vědy 91-192",
+    "chapter_number": "2",
+    "page_number": "37",
+    "children": [
+      {
+        "title": "Souborné práce 91-96",
+        "chapter_number": "2.1",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Vodopis 97-100",
+        "chapter_number": "2.2",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Nerosty, geologie a mineralogie 101-116",
+        "chapter_number": "2.3",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Meteorologie 117-122",
+        "chapter_number": "2.4",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Flora 123-157",
+        "chapter_number": "2.5",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Fauna 158-177",
+        "chapter_number": "2.6",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Ochrana přírody 178-192",
+        "chapter_number": "2.7",
+        "page_number": "40",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dějiny a národopis 193-568",
+    "chapter_number": "3",
+    "page_number": "41",
+    "children": [
+      {
+        "title": "Dějiny 193-400",
+        "chapter_number": "3.1",
+        "page_number": "41",
+        "children": [
+          {
+            "title": "Historiografie, vlastivěda 193-206",
+            "chapter_number": "3.1.1",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Pomocné vědy historické 207-212",
+            "chapter_number": "3.1.2",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Pravěk. Archeologie 213-222",
+            "chapter_number": "3.1.3",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Období feudalismu 223-243",
+            "chapter_number": "3.1.4",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Období kapitalismu 244-257",
+            "chapter_number": "3.1.5",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Dějiny dělnického hnutí a KSČ do r. 1939 258-340",
+            "chapter_number": "3.1.6",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Období 1939-1945, protifašistický odboj, osvobození 341-376",
+            "chapter_number": "3.1.7",
+            "page_number": "46",
+            "children": []
+          },
+          {
+            "title": "Období od osvobození 1945 377-400",
+            "chapter_number": "3.1.8",
+            "page_number": "47",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Národopis 401-568",
+        "chapter_number": "3.2",
+        "page_number": "48",
+        "children": [
+          {
+            "title": "Celkově 401-415",
+            "chapter_number": "3.2.1",
+            "page_number": "48",
+            "children": []
+          },
+          {
+            "title": "Zaměstnání a práce lidu 416-420",
+            "chapter_number": "3.2.2",
+            "page_number": "48",
+            "children": []
+          },
+          {
+            "title": "Lidové stavitelství a umění 421-427",
+            "chapter_number": "3.2.3",
+            "page_number": "49",
+            "children": []
+          },
+          {
+            "title": "Lidový oděv 432-449",
+            "chapter_number": "3.2.4",
+            "page_number": "49",
+            "children": []
+          },
+          {
+            "title": "Lidová duchovní kultura 450-489",
+            "chapter_number": "3.2.5",
+            "page_number": "50",
+            "children": []
+          },
+          {
+            "title": "Lidová píseň a tanec 490-528",
+            "chapter_number": "3.2.6",
+            "page_number": "51",
+            "children": []
+          },
+          {
+            "title": "Lidová slovesnost 529-568",
+            "chapter_number": "3.2.7",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Politický a veřejný život. Sociální a zdravotní péče 569-672",
+    "chapter_number": "4",
+    "page_number": "54",
+    "children": [
+      {
+        "title": "Obyvatelstvo 569-622",
+        "chapter_number": "4.1",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Státní správa, národní výbory 623-634",
+        "chapter_number": "4.2",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Politické strany 635-641",
+        "chapter_number": "4.3",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Společenské organizace 642-650",
+        "chapter_number": "4.4",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Zdravotnictví 651-665",
+        "chapter_number": "4.5",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Sociální péče 666-672",
+        "chapter_number": "4.6",
+        "page_number": "58",
+        "children": []
+      }
+    ]
+  }
+]

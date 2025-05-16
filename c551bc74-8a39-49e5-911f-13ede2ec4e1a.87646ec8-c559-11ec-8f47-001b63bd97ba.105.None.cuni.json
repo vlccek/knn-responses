@@ -1,0 +1,168 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "1",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Doba nejstarší od r. 955 do konce 12. stol.",
+    "chapter_number": "I",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Trůnní právo",
+        "chapter_number": "2",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Panovnická moc",
+        "chapter_number": "3",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Správa",
+        "chapter_number": "4",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Sněmy",
+        "chapter_number": "5",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "6",
+        "page_number": "15",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Doba od konce 12. stol. do r. 1628.",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Území",
+        "chapter_number": "7",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Poměr k Čechám",
+        "chapter_number": "8",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "9",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Moc panovnická",
+        "chapter_number": "10",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Zemské sněmy",
+        "chapter_number": "11",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Úřady",
+        "chapter_number": "12",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Soudnictví",
+        "chapter_number": "13",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Prameny ústavního práva",
+        "chapter_number": "14",
+        "page_number": "66",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Doba od r. 1628 do r. 1848.",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Území",
+        "chapter_number": "15",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Poměr Moravy ke král. českému",
+        "chapter_number": "16",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "17",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Panovnická moc",
+        "chapter_number": "18",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Úřady",
+        "chapter_number": "19",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Soudnictví",
+        "chapter_number": "20",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Zemské sněmy a zemská samospráva",
+        "chapter_number": "21",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Právní prameny",
+        "chapter_number": "22",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Literatura",
+        "chapter_number": "",
+        "page_number": "96",
+        "children": []
+      }
+    ]
+  }
+]

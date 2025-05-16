@@ -1,0 +1,232 @@
+
+[
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "ČSSR",
+    "chapter_number": "I.",
+    "page_number": "" ,
+    "children": [
+      {
+        "title": "Právní sbírky",
+        "chapter_number": "",
+        "page_number": "419",
+        "children": []
+      },
+      {
+        "title": "Časopisy",
+        "chapter_number": "",
+        "page_number": "457",
+        "children": []
+      },
+      {
+        "title": "Knihy",
+        "chapter_number": "",
+        "page_number": "479",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zahraničí",
+    "chapter_number": "II.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Brazílie",
+        "chapter_number": "",
+        "page_number": "483",
+        "children": []
+      },
+      {
+        "title": "Čína",
+        "chapter_number": "",
+        "page_number": "484",
+        "children": []
+      },
+      {
+        "title": "Filipíny",
+        "chapter_number": "",
+        "page_number": "484",
+        "children": []
+      },
+      {
+        "title": "Francie",
+        "chapter_number": "",
+        "page_number": "485",
+        "children": []
+      },
+      {
+        "title": "Chile",
+        "chapter_number": "",
+        "page_number": "496",
+        "children": []
+      },
+      {
+        "title": "Itálie",
+        "chapter_number": "",
+        "page_number": "498",
+        "children": []
+      },
+      {
+        "title": "Izrael",
+        "chapter_number": "",
+        "page_number": "499",
+        "children": []
+      },
+      {
+        "title": "Lichtenštejnsko",
+        "chapter_number": "",
+        "page_number": "500",
+        "children": []
+      },
+      {
+        "title": "Lucembursko",
+        "chapter_number": "",
+        "page_number": "500",
+        "children": []
+      },
+      {
+        "title": "Maďarsko",
+        "chapter_number": "",
+        "page_number": "501",
+        "children": []
+      },
+      {
+        "title": "Mexiko",
+        "chapter_number": "",
+        "page_number": "514",
+        "children": []
+      },
+      {
+        "title": "NDR",
+        "chapter_number": "",
+        "page_number": "516",
+        "children": []
+      },
+      {
+        "title": "NSR",
+        "chapter_number": "",
+        "page_number": "520",
+        "children": []
+      },
+      {
+        "title": "Nizozemí",
+        "chapter_number": "",
+        "page_number": "539",
+        "children": []
+      },
+      {
+        "title": "Norsko",
+        "chapter_number": "",
+        "page_number": "540",
+        "children": []
+      },
+      {
+        "title": "Paraguay",
+        "chapter_number": "",
+        "page_number": "540",
+        "children": []
+      },
+      {
+        "title": "Polsko",
+        "chapter_number": "",
+        "page_number": "541",
+        "children": []
+      },
+      {
+        "title": "Portugalsko",
+        "chapter_number": "",
+        "page_number": "552",
+        "children": []
+      },
+      {
+        "title": "Rakousko",
+        "chapter_number": "",
+        "page_number": "553",
+        "children": []
+      },
+      {
+        "title": "SSSR",
+        "chapter_number": "",
+        "page_number": "556",
+        "children": []
+      },
+      {
+        "title": "Švýcarsko",
+        "chapter_number": "",
+        "page_number": "568",
+        "children": []
+      },
+      {
+        "title": "USA",
+        "chapter_number": "",
+        "page_number": "573",
+        "children": []
+      },
+      {
+        "title": "Venezuela",
+        "chapter_number": "",
+        "page_number": "587",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Mezinárodní organizace",
+    "chapter_number": "III.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Evropské hospodářské společenství",
+        "chapter_number": "",
+        "page_number": "588",
+        "children": []
+      },
+      {
+        "title": "Organizace pro ekonomickou spolupráci a rozvoj",
+        "chapter_number": "",
+        "page_number": "589",
+        "children": []
+      },
+      {
+        "title": "Světová společnost medicínského práva",
+        "chapter_number": "",
+        "page_number": "589",
+        "children": []
+      },
+      {
+        "title": "Světová zdravotnická organizace",
+        "chapter_number": "",
+        "page_number": "590",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "států",
+    "chapter_number": "",
+    "page_number": "608",
+    "children": []
+  },
+  {
+    "title": "jmenný",
+    "chapter_number": "",
+    "page_number": "610",
+    "children": []
+  },
+  {
+    "title": "věcný",
+    "chapter_number": "",
+    "page_number": "617",
+    "children": []
+  }
+]

@@ -1,0 +1,561 @@
+
+[
+  {
+    "title": "O vnitřní skladbě těla rostlinného",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "O soustavách pletiv",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": [
+      {
+        "title": "Pletivo kožní",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Pletivo základní",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Svazky cevní",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O vnější skladbě těla rostlinného",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Kořen",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Stonek",
+    "chapter_number": "",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Listy",
+    "chapter_number": "",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Květy",
+    "chapter_number": "",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "O zúrodnění květů",
+    "chapter_number": "",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "O plodu a semeni",
+    "chapter_number": "",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "O výživě rostlin",
+    "chapter_number": "",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Rozdělení rostlin",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Soustavný přehled rostlinstva",
+    "chapter_number": "",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Rostliny jevnosnubné.",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Krytosemenné:",
+        "chapter_number": "A)",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Prostoplátečné.",
+            "chapter_number": "a)",
+            "page_number": null,
+            "children": [
+              {
+                "title": "Pryskyřníkovité",
+                "chapter_number": "",
+                "page_number": "33",
+                "children": []
+              },
+              {
+                "title": "Dřišťálovité",
+                "chapter_number": "",
+                "page_number": "34",
+                "children": []
+              },
+              {
+                "title": "Leknínovité",
+                "chapter_number": "",
+                "page_number": "35",
+                "children": []
+              },
+              {
+                "title": "Makovité",
+                "chapter_number": "",
+                "page_number": "35",
+                "children": []
+              },
+              {
+                "title": "Křížaté",
+                "chapter_number": "",
+                "page_number": "35",
+                "children": []
+              },
+              {
+                "title": "Violkovité",
+                "chapter_number": "",
+                "page_number": "39",
+                "children": []
+              },
+              {
+                "title": "Rýtovité",
+                "chapter_number": "",
+                "page_number": "39",
+                "children": []
+              },
+              {
+                "title": "Lipovité",
+                "chapter_number": "",
+                "page_number": "39",
+                "children": []
+              },
+              {
+                "title": "Slézovité",
+                "chapter_number": "",
+                "page_number": "39",
+                "children": []
+              },
+              {
+                "title": "Kakostovité",
+                "chapter_number": "",
+                "page_number": "40",
+                "children": []
+              },
+              {
+                "title": "Lnovité",
+                "chapter_number": "",
+                "page_number": "40",
+                "children": []
+              },
+              {
+                "title": "Šťavelovité",
+                "chapter_number": "",
+                "page_number": "40",
+                "children": []
+              },
+              {
+                "title": "Silenkovité",
+                "chapter_number": "",
+                "page_number": "41",
+                "children": []
+              },
+              {
+                "title": "Ptačincovíté",
+                "chapter_number": "",
+                "page_number": "41",
+                "children": []
+              },
+              {
+                "title": "Jírovcovité",
+                "chapter_number": "",
+                "page_number": "41",
+                "children": []
+              },
+              {
+                "title": "Javorovité",
+                "chapter_number": "",
+                "page_number": "42",
+                "children": []
+              },
+              {
+                "title": "Révovité",
+                "chapter_number": "",
+                "page_number": "43",
+                "children": []
+              },
+              {
+                "title": "Motýlokvěté",
+                "chapter_number": "",
+                "page_number": "43",
+                "children": []
+              },
+              {
+                "title": "Tučnicovité",
+                "chapter_number": "",
+                "page_number": "48",
+                "children": []
+              },
+              {
+                "title": "Růžovité",
+                "chapter_number": "",
+                "page_number": "48",
+                "children": []
+              },
+              {
+                "title": "Mandloňovité",
+                "chapter_number": "",
+                "page_number": "48",
+                "children": []
+              },
+              {
+                "title": "Jabloňovité",
+                "chapter_number": "",
+                "page_number": "49",
+                "children": []
+              },
+              {
+                "title": "Meruzalkovité",
+                "chapter_number": "",
+                "page_number": "50",
+                "children": []
+              },
+              {
+                "title": "Lomikamenovité",
+                "chapter_number": "",
+                "page_number": "50",
+                "children": []
+              },
+              {
+                "title": "Pupalkovité",
+                "chapter_number": "",
+                "page_number": "50",
+                "children": []
+              },
+              {
+                "title": "Dřínovité",
+                "chapter_number": "",
+                "page_number": "50",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Okoličnaté",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Vřesovité",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Brusnicovité",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Prvosenkovité",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Srostloplátečné",
+        "chapter_number": "b)",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Krtičníkovité",
+        "chapter_number": "",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Zárazovité",
+        "chapter_number": "",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Pyskaté",
+        "chapter_number": "",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Drsnolisté",
+        "chapter_number": "",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Kokoticovité",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Svlačcovité",
+        "chapter_number": "",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Lilkovité",
+        "chapter_number": "",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Jitrocelovité",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Hořcovité",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Olivovité",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Zvonkovité",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Tykvicovité",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Zimolezovité",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Mařinovité",
+        "chapter_number": "",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Štětkovité",
+        "chapter_number": "",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Spoluložné",
+        "chapter_number": "",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Bezkorunné",
+        "chapter_number": "c)",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Ochmetovité",
+        "chapter_number": "",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Rdesnovité",
+        "chapter_number": "",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Merlíkovité",
+        "chapter_number": "",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Konopovité",
+        "chapter_number": "",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Morušovité",
+        "chapter_number": "",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Vrbovité",
+        "chapter_number": "",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Břízovité",
+        "chapter_number": "",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Číškonosné",
+        "chapter_number": "",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Pryšcovité",
+        "chapter_number": "",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Jednoděložné:",
+        "chapter_number": "B)",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Vstavačovité",
+        "chapter_number": "",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Kosatcovité",
+        "chapter_number": "",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Rdestovité",
+        "chapter_number": "",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Ocúnovité",
+        "chapter_number": "",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Liliovité",
+        "chapter_number": "",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Sítinovité",
+        "chapter_number": "",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Trávy",
+        "chapter_number": "",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Nahosemenné:",
+        "chapter_number": "C)",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Jedlovité",
+        "chapter_number": "",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Tisovité",
+        "chapter_number": "",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Cypřišovité",
+        "chapter_number": "",
+        "page_number": "86",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rostliny tajnosnubné.",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Houby:",
+        "chapter_number": "",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Houby hniložijné",
+            "chapter_number": "a",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Houby cizopasné",
+            "chapter_number": "b)",
+            "page_number": "89",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Bakterie",
+    "chapter_number": "",
+    "page_number": "103",
+    "children": []
+  }
+]

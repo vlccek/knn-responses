@@ -1,0 +1,39 @@
+
+[
+  {
+    "title": "INTRODUCTORY",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "PATTERN DISSECTION",
+    "chapter_number": "II",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "PRACTICAL PATTERN PLANNING",
+    "chapter_number": "III",
+    "page_number": "25",
+    "children": []
+  },
+  {
+    "title": "The “DROP” PATTERN",
+    "chapter_number": "IV",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "SKELETON PLANS",
+    "chapter_number": "V",
+    "page_number": "40",
+    "children": []
+  },
+  {
+    "title": "APPROPRIATE PATTERN",
+    "chapter_number": "VI",
+    "page_number": "48",
+    "children": []
+  }
+]

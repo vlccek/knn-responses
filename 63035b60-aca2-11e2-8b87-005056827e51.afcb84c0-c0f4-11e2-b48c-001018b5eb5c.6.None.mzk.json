@@ -1,0 +1,189 @@
+
+[
+  {
+    "title": "Náuka o větách",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "O větě vůbec",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Vytknutí podmětu a výroku",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Podmět",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Výrok",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "O shodě částek ve větě",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Rozdělení vět",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": [
+          {
+            "title": "I. Jednoduchá věta",
+            "chapter_number": "",
+            "page_number": "8",
+            "children": [
+              {
+                "title": "A. Holá věta",
+                "chapter_number": "",
+                "page_number": "8",
+                "children": []
+              },
+              {
+                "title": "B. Rozvinutá věta",
+                "chapter_number": "",
+                "page_number": "9",
+                "children": [
+                  {
+                    "title": "1. Přívlastek",
+                    "chapter_number": "",
+                    "page_number": "11",
+                    "children": []
+                  },
+                  {
+                    "title": "2. Předmět",
+                    "chapter_number": "",
+                    "page_number": "15",
+                    "children": []
+                  },
+                  {
+                    "title": "Akkusativ",
+                    "chapter_number": "",
+                    "page_number": "16",
+                    "children": []
+                  },
+                  {
+                    "title": "Genitiv",
+                    "chapter_number": "",
+                    "page_number": "18",
+                    "children": []
+                  },
+                  {
+                    "title": "Dativ",
+                    "chapter_number": "",
+                    "page_number": "20",
+                    "children": []
+                  },
+                  {
+                    "title": "Lokal",
+                    "chapter_number": "",
+                    "page_number": "22",
+                    "children": []
+                  },
+                  {
+                    "title": "Instrumental",
+                    "chapter_number": "",
+                    "page_number": "23",
+                    "children": []
+                  },
+                  {
+                    "title": "Mnohá časoslova řídí dva pády",
+                    "chapter_number": "",
+                    "page_number": "24",
+                    "children": []
+                  },
+                  {
+                    "title": "3. Příslovkové určení",
+                    "chapter_number": "",
+                    "page_number": "26",
+                    "children": []
+                  },
+                  {
+                    "title": "Příslovkové určení místa",
+                    "chapter_number": "",
+                    "page_number": "27",
+                    "children": []
+                  },
+                  {
+                    "title": "Příslovkové určení času",
+                    "chapter_number": "",
+                    "page_number": "29",
+                    "children": []
+                  },
+                  {
+                    "title": "Příslovkové určení způsobu",
+                    "chapter_number": "",
+                    "page_number": "32",
+                    "children": []
+                  },
+                  {
+                    "title": "Příslovkové určení příčinnosti",
+                    "chapter_number": "",
+                    "page_number": "35",
+                    "children": []
+                  },
+                  {
+                    "title": "Slovosled",
+                    "chapter_number": "",
+                    "page_number": "39",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "II. Složená věta",
+        "chapter_number": "",
+        "page_number": "42",
+        "children": [
+          {
+            "title": "A. Věta souřadně složená",
+            "chapter_number": "",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Věta stažená",
+            "chapter_number": "",
+            "page_number": "46",
+            "children": []
+          },
+          {
+            "title": "L. Věta podřadně složená (souvětí)",
+            "chapter_number": "",
+            "page_number": "50",
+            "children": [
+              {
+                "title": "a) Podmětné věty",
+                "chapter_number": "",
+                "page_number": "53",
+                "children": []
+              },
+              {
+                "title": "b) Předmětné věty",
+                "chapter_number": "",
+                "page_number": "54",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

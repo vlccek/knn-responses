@@ -1,0 +1,83 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Část první.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O pachtech",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Historický vývoj pachtu",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Dnešní stav dlouholetých pachtýřů",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část druhá.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Zákonná úprava dědičných a dlouholetých pachtů",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Přípravný návrh poslanců Republikánské strany českoslov. venkova",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Vládní návrh s resolucí",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Platný zákon o zajištění půdy drobným pachtýřům",
+        "chapter_number": "",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Poznámky a vysvětlivky k zákonu o zajištění půdy drobným pachtýřům",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Obdobný zákon republiky německo-rakouské",
+        "chapter_number": "",
+        "page_number": "59",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Závěr",
+    "chapter_number": "",
+    "page_number": "60",
+    "children": []
+  }
+]

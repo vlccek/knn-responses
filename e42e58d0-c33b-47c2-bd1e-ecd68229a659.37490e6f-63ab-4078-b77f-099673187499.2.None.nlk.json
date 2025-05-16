@@ -1,0 +1,266 @@
+
+[
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ČSSR",
+        "chapter_number": "I",
+        "page_number": "445",
+        "children": [
+          {
+            "title": "Právní sbírky",
+            "chapter_number": "",
+            "page_number": "445",
+            "children": []
+          },
+          {
+            "title": "Casopisy",
+            "chapter_number": "",
+            "page_number": "489",
+            "children": []
+          },
+          {
+            "title": "Knihy",
+            "chapter_number": "",
+            "page_number": "523",
+            "children": []
+          },
+          {
+            "title": "Různé",
+            "chapter_number": "",
+            "page_number": "527",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zahraničí",
+        "chapter_number": "II",
+        "page_number": "528",
+        "children": [
+          {
+            "title": "Alžírsko",
+            "chapter_number": "",
+            "page_number": "528",
+            "children": []
+          },
+          {
+            "title": "Belgie",
+            "chapter_number": "",
+            "page_number": "529",
+            "children": []
+          },
+          {
+            "title": "Británie",
+            "chapter_number": "",
+            "page_number": "531",
+            "children": []
+          },
+          {
+            "title": "Burma",
+            "chapter_number": "",
+            "page_number": "534",
+            "children": []
+          },
+          {
+            "title": "Čína",
+            "chapter_number": "",
+            "page_number": "534",
+            "children": []
+          },
+          {
+            "title": "Ekvádor",
+            "chapter_number": "",
+            "page_number": "535",
+            "children": []
+          },
+          {
+            "title": "Filipíny",
+            "chapter_number": "",
+            "page_number": "535",
+            "children": []
+          },
+          {
+            "title": "Francie",
+            "chapter_number": "",
+            "page_number": "537",
+            "children": []
+          },
+          {
+            "title": "Guayana",
+            "chapter_number": "",
+            "page_number": "546",
+            "children": []
+          },
+          {
+            "title": "Irán",
+            "chapter_number": "",
+            "page_number": "546",
+            "children": []
+          },
+          {
+            "title": "Irsko",
+            "chapter_number": "",
+            "page_number": "547",
+            "children": []
+          },
+          {
+            "title": "Island",
+            "chapter_number": "",
+            "page_number": "547",
+            "children": []
+          },
+          {
+            "title": "Itálie",
+            "chapter_number": "",
+            "page_number": "549",
+            "children": []
+          },
+          {
+            "title": "Kamerun",
+            "chapter_number": "",
+            "page_number": "554",
+            "children": []
+          },
+          {
+            "title": "Madarsko",
+            "chapter_number": "",
+            "page_number": "555",
+            "children": []
+          },
+          {
+            "title": "Maroko",
+            "chapter_number": "",
+            "page_number": "557",
+            "children": []
+          },
+          {
+            "title": "Mexiko",
+            "chapter_number": "",
+            "page_number": "558",
+            "children": []
+          },
+          {
+            "title": "NDR",
+            "chapter_number": "",
+            "page_number": "559",
+            "children": []
+          },
+          {
+            "title": "NSR",
+            "chapter_number": "",
+            "page_number": "565",
+            "children": []
+          },
+          {
+            "title": "Portugalsko",
+            "chapter_number": "",
+            "page_number": "586",
+            "children": []
+          },
+          {
+            "title": "Rumunsko",
+            "chapter_number": "",
+            "page_number": "589",
+            "children": []
+          },
+          {
+            "title": "Řecko",
+            "chapter_number": "",
+            "page_number": "590",
+            "children": []
+          },
+          {
+            "title": "Súdán",
+            "chapter_number": "",
+            "page_number": "592",
+            "children": []
+          },
+          {
+            "title": "SSSR",
+            "chapter_number": "",
+            "page_number": "593",
+            "children": []
+          },
+          {
+            "title": "Švédsko",
+            "chapter_number": "",
+            "page_number": "598",
+            "children": []
+          },
+          {
+            "title": "Švýcarsko",
+            "chapter_number": "",
+            "page_number": "601",
+            "children": []
+          },
+          {
+            "title": "USA",
+            "chapter_number": "",
+            "page_number": "607",
+            "children": []
+          },
+          {
+            "title": "Venezuela",
+            "chapter_number": "",
+            "page_number": "619",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Mezinárodní organizace",
+        "chapter_number": "III",
+        "page_number": "620",
+        "children": [
+          {
+            "title": "Evropské hospodářské společenství",
+            "chapter_number": "",
+            "page_number": "620",
+            "children": []
+          },
+          {
+            "title": "Mezinárodní komitét Červeného kříže",
+            "chapter_number": "",
+            "page_number": "624",
+            "children": []
+          },
+          {
+            "title": "Světová zdravotnická organizace",
+            "chapter_number": "",
+            "page_number": "632",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Abecední seznam",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "států",
+            "chapter_number": "",
+            "page_number": "639",
+            "children": []
+          },
+          {
+            "title": "jmenný",
+            "chapter_number": "",
+            "page_number": "641",
+            "children": []
+          },
+          {
+            "title": "věcný",
+            "chapter_number": "",
+            "page_number": "646",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

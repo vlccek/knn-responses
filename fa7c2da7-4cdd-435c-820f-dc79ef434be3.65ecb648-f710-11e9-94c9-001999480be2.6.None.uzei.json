@@ -1,0 +1,261 @@
+
+[
+  {
+    "title": "Die Pflege der Haut nebst Bemerkungen über die Kleidung",
+    "chapter_number": "VI",
+    "page_number": "89",
+    "children": [
+      {
+        "title": "Hautverunreinigungen",
+        "chapter_number": "1",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Bäder",
+        "chapter_number": "2",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Bemerkungen über die Kleidung",
+        "chapter_number": "3",
+        "page_number": "92",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Erdboden und Wasser",
+    "chapter_number": "VII",
+    "page_number": "94",
+    "children": [
+      {
+        "title": "Die hygienische Bedeutung des Erdbodens",
+        "chapter_number": "1",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Die hygienische Bedeutung des Wassers",
+        "chapter_number": "2",
+        "page_number": "97",
+        "children": []
+      },
+      {
+        "title": "Eigenschaften des Wassers verschiedener Herkunft",
+        "chapter_number": null,
+        "page_number": "97",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die menschliche Wohnung",
+    "chapter_number": "VIII",
+    "page_number": "101",
+    "children": [
+      {
+        "title": "Die Lüftung geschlossener Räume (Ventilation)",
+        "chapter_number": null,
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Die Heizungseinrichtungen der Wohnräume",
+        "chapter_number": null,
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Die künstliche Beleuchtung der Wohnräume",
+        "chapter_number": null,
+        "page_number": "112",
+        "children": []
+      },
+      {
+        "title": "Die Entfernung der Abfallstoffe",
+        "chapter_number": null,
+        "page_number": "115",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die hygienischen Mittel zur Abwehr und Bekämpfung der Infections- krankheiten",
+    "chapter_number": "IX",
+    "page_number": "117",
+    "children": [
+      {
+        "title": "Verbreitungswege der Infectionskeime",
+        "chapter_number": null,
+        "page_number": "117",
+        "children": []
+      },
+      {
+        "title": "Wundinfectionskrankheiten",
+        "chapter_number": null,
+        "page_number": "118",
+        "children": []
+      },
+      {
+        "title": "Fieberhafte Ausschläge",
+        "chapter_number": null,
+        "page_number": "119",
+        "children": []
+      },
+      {
+        "title": "Bräunekrankheiten",
+        "chapter_number": null,
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Cholera",
+        "chapter_number": null,
+        "page_number": "122",
+        "children": []
+      },
+      {
+        "title": "Typhöse Krankheiten",
+        "chapter_number": null,
+        "page_number": "123",
+        "children": []
+      },
+      {
+        "title": "Tuberculose",
+        "chapter_number": null,
+        "page_number": "123",
+        "children": []
+      },
+      {
+        "title": "Die Hemmungseinrichtungen gegen das Überhandnehmen der Infections- krankheiten",
+        "chapter_number": null,
+        "page_number": "124",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Anhang: Erste Hilfe in Unglücksfällen bis zur Ankunft des Arztes",
+    "chapter_number": null,
+    "page_number": "127",
+    "children": [
+      {
+        "title": "Verletzungen ohne Hautdurchtrennung",
+        "chapter_number": "I",
+        "page_number": "127",
+        "children": []
+      },
+      {
+        "title": "Wunden",
+        "chapter_number": "II",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Bewusstlosigkeit, Scheintod, Vergiftungen, behinderte Athmung und ander- weitige Verletzungen",
+        "chapter_number": "III",
+        "page_number": "135",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dritter Abschnitt: Schulhygiene",
+    "chapter_number": null,
+    "page_number": "138",
+    "children": [
+      {
+        "title": "Wesen und Aufgabe der Schulhygiene",
+        "chapter_number": null,
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Die bauliche Anlage des Schulhauses, die Instandhaltung und innere Einrichtung der Schulräume",
+        "chapter_number": "I",
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Abfassung des Grundrisses",
+        "chapter_number": null,
+        "page_number": "139",
+        "children": []
+      },
+      {
+        "title": "Herstellung des Schulhauses",
+        "chapter_number": null,
+        "page_number": "140",
+        "children": []
+      },
+      {
+        "title": "Herstellung und Einrichtung des Schulzimmers",
+        "chapter_number": null,
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Tabelle über die in der Wiener Schulbank-Expertise normierten Maße",
+        "chapter_number": null,
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "Die Lehrmittel",
+        "chapter_number": null,
+        "page_number": "146",
+        "children": []
+      },
+      {
+        "title": "Lüftung der Schullocale",
+        "chapter_number": null,
+        "page_number": "146",
+        "children": []
+      },
+      {
+        "title": "Heizung der Schullocale",
+        "chapter_number": null,
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Die Anpassung des Unterrichtes an die Forderungen der Schulgesundheitslehre",
+        "chapter_number": "II",
+        "page_number": "148",
+        "children": []
+      },
+      {
+        "title": "Die Überwachung des Gesundheitszustandes der Schulkinder",
+        "chapter_number": "III",
+        "page_number": "151",
+        "children": []
+      },
+      {
+        "title": "Kurzsichtigkeit",
+        "chapter_number": null,
+        "page_number": "151",
+        "children": []
+      },
+      {
+        "title": "Rückgratsverkrümmungen",
+        "chapter_number": null,
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "Andere verschiedene Gesundheitsstörungen der Schulkinder",
+        "chapter_number": null,
+        "page_number": "155",
+        "children": []
+      },
+      {
+        "title": "Infectionskrankheiten",
+        "chapter_number": null,
+        "page_number": "158",
+        "children": []
+      }
+    ]
+  }
+]

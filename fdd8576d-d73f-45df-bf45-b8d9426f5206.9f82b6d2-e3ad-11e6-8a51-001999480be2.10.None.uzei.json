@@ -1,0 +1,199 @@
+
+[
+  {
+    "title": "O počtu společném",
+    "chapter_number": "8",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "O počtu řetězovém",
+    "chapter_number": "9",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "O měřictví neb geometrii",
+    "chapter_number": "II",
+    "page_number": "67",
+    "children": [
+      {
+        "title": "Plochoměrství",
+        "chapter_number": "a",
+        "page_number": "",
+        "children": [
+          {
+            "title": "O čáře",
+            "chapter_number": "1",
+            "page_number": "68",
+            "children": []
+          },
+          {
+            "title": "O úhlu",
+            "chapter_number": "2",
+            "page_number": "69",
+            "children": []
+          },
+          {
+            "title": "O trojúhelníku",
+            "chapter_number": "3",
+            "page_number": "73",
+            "children": []
+          },
+          {
+            "title": "O čtverúhelníku",
+            "chapter_number": "4",
+            "page_number": "76",
+            "children": []
+          },
+          {
+            "title": "O mnohoúhelníku",
+            "chapter_number": "5",
+            "page_number": "80",
+            "children": []
+          },
+          {
+            "title": "O kruhu",
+            "chapter_number": "6",
+            "page_number": "81",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Telesoměrství",
+        "chapter_number": "f",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Jednoduchá tělesa",
+            "chapter_number": "1",
+            "page_number": "84",
+            "children": []
+          },
+          {
+            "title": "Povrch těles",
+            "chapter_number": "2",
+            "page_number": "89",
+            "children": []
+          },
+          {
+            "title": "Krychlení těles",
+            "chapter_number": "3",
+            "page_number": "89",
+            "children": []
+          },
+          {
+            "title": "Vyměřování čar a jednoduchých ploch řetízkem",
+            "chapter_number": "r",
+            "page_number": "94",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Literatura matematických věd",
+    "chapter_number": "",
+    "page_number": "98",
+    "children": []
+  },
+  {
+    "title": "Přírodní vědy",
+    "chapter_number": "B",
+    "page_number": "99",
+    "children": [
+      {
+        "title": "Úvod a rozdělení",
+        "chapter_number": "",
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "O silozpytu",
+        "chapter_number": "1",
+        "page_number": "101",
+        "children": []
+      },
+      {
+        "title": "O lučbě",
+        "chapter_number": "2",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "O nerostopisu",
+        "chapter_number": "3",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "O klimatologii, geologii, geognosii a půdoznalství",
+        "chapter_number": "4",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "Vzduch",
+        "chapter_number": "",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "Atmosférické sraženiny",
+        "chapter_number": "",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Země",
+        "chapter_number": "",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Podnebí",
+        "chapter_number": "",
+        "page_number": "115",
+        "children": []
+      },
+      {
+        "title": "Půdoznalství",
+        "chapter_number": "",
+        "page_number": "122",
+        "children": []
+      },
+      {
+        "title": "Horské soustavy",
+        "chapter_number": "",
+        "page_number": "127",
+        "children": []
+      },
+      {
+        "title": "Vznik půdy, její vlastnosti a rozdělení",
+        "chapter_number": "",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Připravování a chránění půdy",
+        "chapter_number": "",
+        "page_number": "143",
+        "children": []
+      },
+      {
+        "title": "Literatura geologie, geognosie a půdoznalství",
+        "chapter_number": "",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "O živočišstvu",
+        "chapter_number": "5",
+        "page_number": "145",
+        "children": []
+      }
+    ]
+  }
+]

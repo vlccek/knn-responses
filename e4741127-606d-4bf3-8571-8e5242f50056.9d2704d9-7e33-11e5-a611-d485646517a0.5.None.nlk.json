@@ -1,0 +1,205 @@
+
+[
+  {
+    "title": "Klinické práce",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Filip, K., Brůček, P., Malý, J. et al.: Intravenózní tukový toleranční test",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Boča, M., Payer, J., Jr., Ilková, M., Killinger, Z., Ondrejka, P., Kratochvíľová, E.: Kostné zmeny u cirhózy pečene",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Růžička, M, Kala, Z., Dítě, P., Konečná, D., Válek, V.: Pankreatické pleurální a peritoneální efuze",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Terapie",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Hořejšová, M., Pavlíčková, V.: Perkutánní aplikace etanolu v léčbě primárních nádorů jater",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Vaľko, M., Bober, J.: Liečba echinokokózy pečene",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Sdělení případů",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Růžička, P., Pešková, M., Šváb, J., Fried, M., Lukáš, M., Háber, J.: Mykotická sepse jako komplikace antimikrobiální léčby",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Aktuální přehled",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Drábek, J., Honsová, S., Námešný, I., Kvapil, M.: Celiakie - další autoimunní onemocnění spojené s diabetes mellitus I. typu",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zprávy o akcích",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "První doškolovací kurz pro gastroenterology východní Evropy",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Postgraduální kurz o motilitě trávicího ústrojí 9. - 11. srpen 1995, Utrecht - Beerse",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "84. Falkovo sympozium. Žlučové kyseliny, cholestáza, žlučové kameny",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Nové knihy",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Original Papers",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Filip, K., Brůček, P., Malý, J. et al.: Intravenous Fat Tolerance Test",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Boča, M., Payer, J. Jr., Ilková, M., Killinger, Z., Ondrejka, P., Kratochvíľová, E.: Bone Changes in Cirrhosis of the Liver",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Růžička, M., Kala, Z., Dítě, P., Konečná, D., Válek, V.: Pancreatic Pleural and Peritoneal Effusions",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Therapy",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Hořejšová, M., Pavlíčková, V.: Percutaneous Administration of Ethanol in the Treatment of Primary Carcinoma of the Liver",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Vaľko, M., Bober, J.: Treatment of Echinococcosis of the Liver",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Case Report",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Růžička, P., Pešková, M., Šváb, J., Fried, M., Lukáš, M., Háber, J.: Mycotic Sepsis as a Complication of Antimicrobial Treatment",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Review",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Drábek, J., Honsová, S., Námešný, I., Kvapil, M.: Coeliac Disease - Another Autoimmune Disease Associated with Type I. Diabetes Mellitus",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "News",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "1st Integraded ESGE Postgraduate Course for Eastern European Countries",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Postgraduate Course on the Motility of the Digestive System, August 9. 11. 1995, Utrecht - Beerse",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "84.th Falk Symposium. Bile acids, Cholestasis, Bile Stones",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "New Books",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": []
+  }
+]

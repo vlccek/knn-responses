@@ -1,0 +1,108 @@
+
+[
+  {
+    "title": "Zakládání a výdržování škol národních",
+    "chapter_number": "D",
+    "page_number": "96",
+    "children": [
+      {
+        "title": "Zakládání škol národních",
+        "chapter_number": "§ 1",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Vydržování škol národních",
+        "chapter_number": "§ 2",
+        "page_number": "101",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dozor nad školami národními",
+    "chapter_number": "E",
+    "page_number": "107",
+    "children": [
+      {
+        "title": "Místní školní rada",
+        "chapter_number": "§ 1",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Okresní školní rada",
+        "chapter_number": "§ 2",
+        "page_number": "112",
+        "children": []
+      },
+      {
+        "title": "Zemská školní rada",
+        "chapter_number": "§ 3",
+        "page_number": "117",
+        "children": []
+      },
+      {
+        "title": "Ministerstvo kultu a vyučování",
+        "chapter_number": "§ 4",
+        "page_number": "121",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Soukromé školství národní",
+    "chapter_number": "F",
+    "page_number": "122",
+    "children": []
+  },
+  {
+    "title": "Domácí vyučování",
+    "chapter_number": "G",
+    "page_number": "125",
+    "children": []
+  },
+  {
+    "title": "Péče o děti",
+    "chapter_number": "H",
+    "page_number": "127",
+    "children": []
+  },
+  {
+    "title": "Ústavy pro hluchoněmé a slepce",
+    "chapter_number": "Ch",
+    "page_number": "128",
+    "children": []
+  },
+  {
+    "title": "Kursy pro mládež školní povinnosti odrostlou",
+    "chapter_number": "I",
+    "page_number": "129",
+    "children": []
+  },
+  {
+    "title": "Mateřské školy, opatrovny a jesle",
+    "chapter_number": "J",
+    "page_number": "130",
+    "children": [
+      {
+        "title": "Školy mateřské",
+        "chapter_number": "§ 1",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Opatrovny",
+        "chapter_number": "§ 2",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "Jesličky",
+        "chapter_number": "§ 3",
+        "page_number": "133",
+        "children": []
+      }
+    ]
+  }
+]

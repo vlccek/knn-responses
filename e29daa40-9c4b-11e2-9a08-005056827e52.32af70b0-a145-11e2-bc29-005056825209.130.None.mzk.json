@@ -1,0 +1,160 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Část prvá.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Dějiny knihoven",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část druhá.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "I. O správě knihoven.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "A. Organizace",
+            "chapter_number": "",
+            "page_number": "24",
+            "children": []
+          },
+          {
+            "title": "B. Knihovník",
+            "chapter_number": "",
+            "page_number": "34",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "II. Místnosti a nářadí",
+        "chapter_number": "",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "III. O výběru knih",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "IV. O vazbách",
+        "chapter_number": "",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "V. O akcesi",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "VI. O klasifikaci",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "VII. Notace, výstavba a kontrola knih",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "VIII. O katalogizaci",
+        "chapter_number": "",
+        "page_number": "69",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část třetí.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "I. Styky se čtenáři",
+        "chapter_number": "",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "II. Technika půjčovní (distribuce)",
+        "chapter_number": "",
+        "page_number": "84",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část čtvrtá.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "I. Knihovny přenosné",
+        "chapter_number": "",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "II. Zvláštní druhy knihoven",
+        "chapter_number": "",
+        "page_number": "96",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část pátá.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Výroční zpráva o knihovně",
+        "chapter_number": "",
+        "page_number": "98",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "1. Pravidla katalogizační",
+        "chapter_number": "",
+        "page_number": "101",
+        "children": []
+      },
+      {
+        "title": "2. Ukázky hlavních forem katalografických",
+        "chapter_number": "",
+        "page_number": "118",
+        "children": []
+      }
+    ]
+  }
+]

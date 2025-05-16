@@ -1,0 +1,532 @@
+
+[
+  {
+    "title": "De matrimonio",
+    "chapter_number": "Titulus primus",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Sponsalia",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Validitatis eorum conditiones",
+            "chapter_number": "",
+            "page_number": "2",
+            "children": []
+          },
+          {
+            "title": "Mutuo consensu solvi possunt",
+            "chapter_number": "",
+            "page_number": "2",
+            "children": []
+          },
+          {
+            "title": "Quatenus absque mutuo consensu solvantur",
+            "chapter_number": "",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "Ad damnum resarciendum obligatio",
+            "chapter_number": "",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "Ad matrimonium valide contrahendum necessaria",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Impedimenta dirimentia:",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Defectus aptitudinis ad consentiendum",
+            "chapter_number": "4",
+            "page_number": "4",
+            "children": []
+          },
+          {
+            "title": "Error in persona",
+            "chapter_number": "2",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Error circa conditionem servilem",
+            "chapter_number": "3",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Impotentia ad debitum conjugale praestandum",
+            "chapter_number": "4",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Impubertas",
+            "chapter_number": "5",
+            "page_number": "5",
+            "children": []
+          },
+          {
+            "title": "Vis et metus.",
+            "chapter_number": "6",
+            "page_number": "5",
+            "children": []
+          },
+          {
+            "title": "Raptus",
+            "chapter_number": "7",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Ligamen",
+            "chapter_number": "8",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Ordo sacer et votum solemne",
+            "chapter_number": "9",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Cultus inter baptizatos et non baptizatos disparitas",
+            "chapter_number": "10",
+            "page_number": "8",
+            "children": []
+          },
+          {
+            "title": "Consanguinitas",
+            "chapter_number": "11",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Cognatio spiritualis",
+            "chapter_number": "12",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Cognatio affinitasque civilis",
+            "chapter_number": "13",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "Adoptio juris Austriaci",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Affinitas ex copula licita",
+            "chapter_number": "14",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "Affinitas ex copula illicita",
+            "chapter_number": "15",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Affinitas superveniens ;.",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Justicia publicae honestatis ex matrimonio rato non consummato",
+            "chapter_number": "16",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "ex matrimonio invalide contracto non consummato",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "ex sponsalibus",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Adulterium",
+            "chapter_number": "17",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Conjugicidium",
+            "chapter_number": "18",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Clandestinitas",
+            "chapter_number": "19",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "Domicilium verum et quasi domicilium",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Competens personarum militarium paroch.",
+            "chapter_number": "",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Licentia tacite concessa et mere praesumta",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Subdelegandi jus",
+            "chapter_number": "",
+            "page_number": "15",
+            "children": []
+          },
+          {
+            "title": "Decisio de parochi competentia",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Matrimonium per procuratorem contractum",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Conditio",
+            "chapter_number": "20",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Impedimenta impedientia:",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Sponsalia",
+            "chapter_number": "1",
+            "page_number": "17",
+            "children": []
+          },
+          {
+            "title": "Votum simplex",
+            "chapter_number": "2",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Tempus sacratum",
+            "chapter_number": "3",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Bannus nuptialis",
+            "chapter_number": "4",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Von der Che",
+    "chapter_number": "Erster Abschnitt",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Eigenthümlichkeit und höhere Weihe der ehelichen Gesellschaft",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Cheverlöbnisse",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Bedingungen der Giltigkeit",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Einverständliche Aufhebung",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Aufhebung ohne beiderseitige Einwilligung",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Pflicht des Schadenersayes",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Erfordernisse zur giltigen Eingehung der Ehe",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Hindernisse der Giltigkeit:",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Mangel der Fähigkeit zur Einwilligung",
+            "chapter_number": "1",
+            "page_number": "4",
+            "children": []
+          },
+          {
+            "title": "Irrthum in der Person",
+            "chapter_number": "2",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Irrthum in Betreff des Sklavenstandes",
+            "chapter_number": "3",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Unvermögen zu Leistung der ehelichen Pflicht",
+            "chapter_number": "4",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Unmündigkeit.",
+            "chapter_number": "5",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Widerrechtlicher Zwang",
+            "chapter_number": "6",
+            "page_number": "5",
+            "children": []
+          },
+          {
+            "title": "Entführung",
+            "chapter_number": "7",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Bestehendes Eheband",
+            "chapter_number": "8",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Höhere Weihen und feierliche Ordensgelübde",
+            "chapter_number": "9",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Religionsverschiedenheit zwischen Getauften und Ungetauften",
+            "chapter_number": "10",
+            "page_number": "8",
+            "children": []
+          },
+          {
+            "title": "Blutsverwandtschaft",
+            "chapter_number": "11",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Geistliche Verwandtschaft",
+            "chapter_number": "12",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Bürgerliche Verwandtschaft",
+            "chapter_number": "13",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "Annahme an Kindesstatt des österr. Gesezes",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Schwägerschaft aus erlaubtem Umgange",
+            "chapter_number": "14",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "Schwägerschaft aus unerlaubtem Umgange",
+            "chapter_number": "15",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Hinzutretende Schwägerschaft",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Forderung der öffentlichen Sittlichkeit aus einer giltigen, doch nicht vollzogenen Ehe",
+            "chapter_number": "16",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "aus einer ungiltig geschlossenen und nicht vollzogenen Che",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "aus einem Eheverlőbnisse",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Ehebruch",
+            "chapter_number": "17",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Gattenmord",
+            "chapter_number": "18",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Heimlichkeit",
+            "chapter_number": "19",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "Eigentlicher und uneigentlicher Wohnsiz",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Zuständigkeit der Militärpersonen",
+            "chapter_number": "",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Stillschweigende und bloß vermuthete Erlaubniß",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Necht zu subdelegiren",
+            "chapter_number": "",
+            "page_number": "15",
+            "children": []
+          },
+          {
+            "title": "Entscheidung über die Zuständigkeit des Pfarrers",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Eingehung der Ehe durch einen Bevollmächtigten",
+            "chapter_number": "",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Bedingung",
+            "chapter_number": "20",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Hindernisse einer erlaubten Eheschließung:",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Cheverlőbniß",
+            "chapter_number": "1",
+            "page_number": "17",
+            "children": []
+          },
+          {
+            "title": "Einfache Gelübde",
+            "chapter_number": "2",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Geheiligte Zeit",
+            "chapter_number": "3",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Aufgebot",
+            "chapter_number": "4",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

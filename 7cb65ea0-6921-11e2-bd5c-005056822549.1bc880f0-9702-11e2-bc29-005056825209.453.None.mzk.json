@@ -1,0 +1,200 @@
+
+[
+  {
+    "title": "Inhalt",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Kirchen- und Staatsgewalt im Verhältnisse zum Kirchenvermögen",
+    "chapter_number": "§ 607-608",
+    "page_number": "236-239",
+    "children": []
+  },
+  {
+    "title": "Das Amortisationsgesetz",
+    "chapter_number": "609-612",
+    "page_number": "239-244",
+    "children": []
+  },
+  {
+    "title": "Die kirchlichen Stiftungen",
+    "chapter_number": "613-617",
+    "page_number": "245-252",
+    "children": []
+  },
+  {
+    "title": "Die Arten des Erwerbes kirchlichen Vermögens",
+    "chapter_number": "618-619",
+    "page_number": "252-255",
+    "children": []
+  },
+  {
+    "title": "Zweiter Abschnitt",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Verwaltung des Kirchenvermögens.",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "Die kirchlichen Verwaltungsorgane. Kirchenväter",
+        "chapter_number": "§ 620",
+        "page_number": "255",
+        "children": []
+      },
+      {
+        "title": "Kirchenvögte",
+        "chapter_number": "621-625",
+        "page_number": "257-262",
+        "children": []
+      },
+      {
+        "title": "Verwaltungsnormen",
+        "chapter_number": "626-631",
+        "page_number": "262-269",
+        "children": []
+      },
+      {
+        "title": "Veräußerung des Kirchenvermögens",
+        "chapter_number": "632-639",
+        "page_number": "269-279",
+        "children": []
+      },
+      {
+        "title": "Kirchenrechnungen",
+        "chapter_number": "640",
+        "page_number": "279",
+        "children": []
+      },
+      {
+        "title": "Vorrechte des Kirchenvermögens",
+        "chapter_number": "641-643",
+        "page_number": "282-285",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zweites Hauptstück.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Der Klerikal-Unterhalt.",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "Erster Abschnitt.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Das Pfründenwesen.",
+            "chapter_number": "",
+            "page_number": ""
+          },
+          {
+            "title": "Begriff von Pfründen",
+            "chapter_number": "§ 644-645",
+            "page_number": "286-289",
+            "children": []
+          },
+          {
+            "title": "Zweige des Beneficial-Einkommens",
+            "chapter_number": "646",
+            "page_number": "289",
+            "children": []
+          },
+          {
+            "title": "Die Ruralbestallung",
+            "chapter_number": "647-648",
+            "page_number": "290-292",
+            "children": []
+          },
+          {
+            "title": "Der kirchliche Zehent",
+            "chapter_number": "649-652",
+            "page_number": "293-297",
+            "children": []
+          },
+          {
+            "title": "Die Opfergaben",
+            "chapter_number": "653",
+            "page_number": "297",
+            "children": []
+          },
+          {
+            "title": "Stolgebühren",
+            "chapter_number": "654-657",
+            "page_number": "299-307",
+            "children": []
+          },
+          {
+            "title": "Die portio canonica des Pfarrers",
+            "chapter_number": "658",
+            "page_number": "307",
+            "children": []
+          },
+          {
+            "title": "Die Pfründen-Verleihung",
+            "chapter_number": "659-668",
+            "page_number": "307-318",
+            "children": []
+          },
+          {
+            "title": "Die Temporol-Installation",
+            "chapter_number": "669",
+            "page_number": "318",
+            "children": []
+          },
+          {
+            "title": "Die Rechte des Pfründners an dem Beneficial-Einkommen",
+            "chapter_number": "670",
+            "page_number": "319",
+            "children": []
+          },
+          {
+            "title": "Seine Obliegenheiten",
+            "chapter_number": "671-674",
+            "page_number": "322-328",
+            "children": []
+          },
+          {
+            "title": "Congrua",
+            "chapter_number": "675",
+            "page_number": "328",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Zweiter Abschnitt.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Versorgung der Geistlichen außer dem Pfründen-Verhältnisse.",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "Versorgung der in kirchlicher Verwendung stehenden Nicht-Beneficiaten",
+        "chapter_number": "§ 676-677",
+        "page_number": "330-331",
+        "children": []
+      },
+      {
+        "title": "Die Deficienten-Versorgung",
+        "chapter_number": "678-682",
+        "page_number": "331-335",
+        "children": []
+      }
+    ]
+  }
+]

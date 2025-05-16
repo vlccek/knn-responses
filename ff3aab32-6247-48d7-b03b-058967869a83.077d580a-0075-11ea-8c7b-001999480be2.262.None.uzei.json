@@ -1,0 +1,65 @@
+
+[
+  {
+    "title": "Proslov",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Lesní zákon a předpisy o jeho vykonávání.",
+    "chapter_number": "A",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Lesní zákon z 3. prosince 1852 č. 250 ř.z.",
+        "chapter_number": "I",
+        "page_number": "",
+        "children": [
+          {
+            "title": "O lesním hospodářství",
+            "chapter_number": "Oddíl první",
+            "page_number": "1",
+            "children": []
+          },
+          {
+            "title": "O dopravě plodin lesních",
+            "chapter_number": "Oddíl druhý",
+            "page_number": "13",
+            "children": []
+          },
+          {
+            "title": "O požárech lesních a o škodách hmyzem způsobených",
+            "chapter_number": "Oddíl třetí",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "O službě k ochraně lesů",
+            "chapter_number": "Oddíl čtvrtý",
+            "page_number": "25",
+            "children": []
+          },
+          {
+            "title": "O přestupcích proti bezpečnosti majetku lesního, o úřadech zřízených ku vyšetřování a trestání přestupků těch, jakož i všech ostatních v tomto patentu stanovených přestupků, a o řízení, jehož se při tom šetřiti má",
+            "chapter_number": "Oddíl pátý",
+            "page_number": "27",
+            "children": []
+          },
+          {
+            "title": "o ustanoveních, jak se mají nahražovati škody lesní",
+            "chapter_number": "Oddíl šestý",
+            "page_number": "35",
+            "children": []
+          },
+          {
+            "title": "o odvolání k vyšším stolicím",
+            "chapter_number": "Oddíl sedmý",
+            "page_number": "37",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

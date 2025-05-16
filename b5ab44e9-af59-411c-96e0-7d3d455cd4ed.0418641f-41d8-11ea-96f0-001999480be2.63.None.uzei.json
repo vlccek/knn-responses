@@ -1,0 +1,84 @@
+
+[
+  {
+    "title": "Druhy plodin hospodářských:",
+    "chapter_number": "VII",
+    "page_number": "32",
+    "children": [
+      {
+        "title": "Oves",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Ječmen",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Jará pšenice",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Brambory",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Cukrovka",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Pícní rostliny",
+        "chapter_number": "",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Kostival",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Složení různých hnojiv",
+    "chapter_number": "VIII",
+    "page_number": "40",
+    "children": [
+      {
+        "title": "Tabulka plošných měr",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Situační plánek pro pokus:",
+    "chapter_number": "IX",
+    "page_number": "44",
+    "children": [
+      {
+        "title": "sortovní",
+        "chapter_number": "a)",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "hnojařský",
+        "chapter_number": "b)",
+        "page_number": "50",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,267 @@
+
+[
+  {
+    "title": "Rostliny vápenné",
+    "chapter_number": "1",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Rostliny písečné",
+    "chapter_number": "2",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Pro hlinitou a jílovitou půdu dá se ztěží stanoviti určitá květena",
+    "chapter_number": "3",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Prsť, humus, trouch (Der Humus)",
+    "chapter_number": "4",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Rozdělení půd a jich vliv na vzrůst dřevin",
+    "chapter_number": "VI",
+    "page_number": "50",
+    "children": [
+      {
+        "title": "Půdy nerostné (minerální)",
+        "chapter_number": "A",
+        "page_number": "53",
+        "children": [
+          {
+            "title": "Zemité",
+            "chapter_number": "a",
+            "page_number": "53",
+            "children": [
+              {
+                "title": "Písčité druhy půd",
+                "chapter_number": "I",
+                "page_number": "54",
+                "children": [
+                  {
+                    "title": "Čistá písčitá půda",
+                    "chapter_number": "a) (1)",
+                    "page_number": "57",
+                    "children": []
+                  },
+                  {
+                    "title": "Hlinito-písčitá půda",
+                    "chapter_number": "b) (2)",
+                    "page_number": "57",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Hlinité druhy půd",
+                "chapter_number": "II",
+                "page_number": "58",
+                "children": [
+                  {
+                    "title": "Písčito-hlinitá půda",
+                    "chapter_number": "a) (3)",
+                    "page_number": "60",
+                    "children": []
+                  },
+                  {
+                    "title": "Vlastní hlinitá půda",
+                    "chapter_number": "b) (4)",
+                    "page_number": "60",
+                    "children": []
+                  },
+                  {
+                    "title": "Ulehavá hlinitá či jílovito-hlínitá půda",
+                    "chapter_number": "1",
+                    "page_number": "60",
+                    "children": []
+                  },
+                  {
+                    "title": "Obyčejná hlinitá půda",
+                    "chapter_number": "2",
+                    "page_number": "61",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Jílovité druhy půd",
+                "chapter_number": "III",
+                "page_number": "61",
+                "children": [
+                  {
+                    "title": "Hlinito-jílovitá půda",
+                    "chapter_number": "a) (5)",
+                    "page_number": "65",
+                    "children": []
+                  },
+                  {
+                    "title": "Čistá jílovitá půda",
+                    "chapter_number": "b) (6)",
+                    "page_number": "66",
+                    "children": []
+                  },
+                  {
+                    "title": "Ulehavá jílovitá půda",
+                    "chapter_number": "1",
+                    "page_number": "67",
+                    "children": []
+                  },
+                  {
+                    "title": "Obyčejná jílovitá půda",
+                    "chapter_number": "2",
+                    "page_number": "67",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Vápenité druhy půd",
+                "chapter_number": "IV",
+                "page_number": "67",
+                "children": [
+                  {
+                    "title": "Čistá vápenité půda",
+                    "chapter_number": "a) (7)",
+                    "page_number": "71",
+                    "children": []
+                  },
+                  {
+                    "title": "Jilovito-vápenitá půda",
+                    "chapter_number": "b) (8)",
+                    "page_number": "71",
+                    "children": []
+                  },
+                  {
+                    "title": "Hlinito-vápenitá půda",
+                    "chapter_number": "c) (9)",
+                    "page_number": "72",
+                    "children": []
+                  },
+                  {
+                    "title": "Slinitá půda",
+                    "chapter_number": "d) (10)",
+                    "page_number": "73",
+                    "children": [
+                      {
+                        "title": "Jílovito-slínitá půda",
+                        "chapter_number": "1",
+                        "page_number": "73",
+                        "children": []
+                      },
+                      {
+                        "title": "Hlinito-slínitá půda",
+                        "chapter_number": "2",
+                        "page_number": "74",
+                        "children": []
+                      },
+                      {
+                        "title": "Vápenito-slinitá půda",
+                        "chapter_number": "3",
+                        "page_number": "74",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "title": "Kamenité druhy půd",
+                "chapter_number": "bV)",
+                "page_number": "74",
+                "children": [
+                  {
+                    "title": "Sutovitá půda",
+                    "chapter_number": "a (11)",
+                    "page_number": "75",
+                    "children": []
+                  },
+                  {
+                    "title": "Křemenitá půda",
+                    "chapter_number": "b (12)",
+                    "page_number": "75",
+                    "children": []
+                  },
+                  {
+                    "title": "Velko-kamenitá lesní půda",
+                    "chapter_number": "c) (13)",
+                    "page_number": "77",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Humusové (organické) půdy",
+            "chapter_number": "B. VI",
+            "page_number": "77",
+            "children": [
+              {
+                "title": "Rozlučný, jemný humus",
+                "chapter_number": "a) (14)",
+                "page_number": "79",
+                "children": []
+              },
+              {
+                "title": "Nerozlučný, zuhelnatělý neb kyselý humus",
+                "chapter_number": "6) (15)",
+                "page_number": "80",
+                "children": []
+              },
+              {
+                "title": "Nerozlučné, vláknité látky rostlinné",
+                "chapter_number": "c) (16)",
+                "page_number": "80",
+                "children": [
+                  {
+                    "title": "Bařinatá půda a bařiny",
+                    "chapter_number": "1",
+                    "page_number": "81",
+                    "children": []
+                  },
+                  {
+                    "title": "Rašelinná půda a rašeliny",
+                    "chapter_number": "2",
+                    "page_number": "82",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Krátký přehled „z Lesního půdoznalství“",
+    "chapter_number": null,
+    "page_number": "85",
+    "children": [
+      {
+        "title": "dle druhů půd",
+        "chapter_number": "a",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "dle druhů dřevin",
+        "chapter_number": "6",
+        "page_number": "89",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ukazatel",
+    "chapter_number": null,
+    "page_number": "106",
+    "children": []
+  }
+]

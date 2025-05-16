@@ -1,0 +1,111 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Oddíl I.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Čtyři hlavní druhy početní s čísly celými a desetinnými:",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Sečítání čísel celých a desetinných",
+        "chapter_number": "1",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Odčítání čísel celých a desetinných",
+        "chapter_number": "2",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Násobení čísel celých a desetinných",
+        "chapter_number": "3",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Dělení čísel celých a desetinných",
+        "chapter_number": "4",
+        "page_number": "65",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl II.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Počítání s čísly vícejmennými",
+        "chapter_number": "",
+        "page_number": "94",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl III.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Počítání se zlomky obyčejnými",
+        "chapter_number": "",
+        "page_number": "109",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl IV.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Počty procentové",
+        "chapter_number": "",
+        "page_number": "123",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl V.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Počty úrokové",
+        "chapter_number": "",
+        "page_number": "141",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl VI.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Počet spolkový a směšovací",
+        "chapter_number": "",
+        "page_number": "154",
+        "children": []
+      }
+    ]
+  }
+]

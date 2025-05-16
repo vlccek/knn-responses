@@ -1,0 +1,76 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "/Skalenakis, Karimi, Růžičková, Granec, Hobl, Janečková/",
+    "chapter_number": "I",
+    "page_number": "2",
+    "children": []
+  },
+  {
+    "title": "/Stranka, Růžička, Fuka, J. Němec, Zon-cho, Fospíšil, Musil,\nSirový, Bočan, Jireš, Mertl, K. Němec, Menzel, Schmidt,\nSchorm, Chytilová/",
+    "chapter_number": "II",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "/Stranka, Růžička, Fuka, J. Němec/",
+        "chapter_number": "II.1",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "/Zon-cho, Pospíšil, Musil, Sirový, Ločan, Jireš/",
+        "chapter_number": "II.2",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "/Mertl, K. Němec, Menzel, Schmidt, Schorm, Chytilová/",
+        "chapter_number": "II.3",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "/Klein, Vachek, Sobota, Očenáš, Brchel, Nikolov/",
+        "chapter_number": "II.4",
+        "page_number": "57",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "/Borek, Vihanová, Jakubisko, Šinko, Brezina, Kadlec, Hollitze-\nrová, Cvrček, Kerekes, Maleh, Gunaratna/",
+    "chapter_number": "III.1",
+    "page_number": "74",
+    "children": []
+  },
+  {
+    "title": "/Kubeček, Klos jr., Adler, Tuček, Moravec, Vašulka, Hanák/",
+    "chapter_number": "III.2",
+    "page_number": "90",
+    "children": []
+  },
+  {
+    "title": "Shrnutí",
+    "chapter_number": "",
+    "page_number": "96",
+    "children": []
+  },
+  {
+    "title": "Jmenný rejstřík",
+    "chapter_number": "",
+    "page_number": "102",
+    "children": []
+  },
+  {
+    "title": "Rejstřík filmů",
+    "chapter_number": "",
+    "page_number": "109",
+    "children": []
+  }
+]

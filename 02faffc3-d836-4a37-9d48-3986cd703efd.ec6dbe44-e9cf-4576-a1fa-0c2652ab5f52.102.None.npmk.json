@@ -1,0 +1,243 @@
+
+[
+  {
+    "title": "Podnebí",
+    "chapter_number": "X",
+    "page_number": "52",
+    "children": [
+      {
+        "title": "Pojem podnebí",
+        "chapter_number": "1",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Jak závisí podnebí na zeměpisné šířce",
+        "chapter_number": "2",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Jak závisí podnebí na absolutní výšce",
+        "chapter_number": "3",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Jak závisí podnebí na vzdálenosti moře",
+        "chapter_number": "4",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Stanovení průměrné teploty. Na jaké podnebné okresy Ize děliti mocnářství rakousko-uherské",
+        "chapter_number": "5",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Větry a rozdělení vláhy v naší říši",
+        "chapter_number": "6",
+        "page_number": "56",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Obyvatelstvo",
+    "chapter_number": "I",
+    "page_number": "57",
+    "children": [
+      {
+        "title": "Lidnatost prostá",
+        "chapter_number": "1",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Lidnatost poměrná",
+        "chapter_number": "2",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Národopis",
+        "chapter_number": "3",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Náboženská vyznání",
+        "chapter_number": "4",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Zaměstnání",
+        "chapter_number": "5",
+        "page_number": "61",
+        "children": [
+          {
+            "title": "Zemědělství",
+            "chapter_number": "A",
+            "page_number": "61",
+            "children": []
+          },
+          {
+            "title": "Hornictví",
+            "chapter_number": "B",
+            "page_number": "62",
+            "children": []
+          },
+          {
+            "title": "Průmysl a obchod",
+            "chapter_number": "C",
+            "page_number": "63",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Osvěta",
+        "chapter_number": "6",
+        "page_number": "67",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ustrojí státní",
+    "chapter_number": "II",
+    "page_number": "69",
+    "children": [
+      {
+        "title": "Ústava",
+        "chapter_number": "1",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Správa",
+        "chapter_number": "2",
+        "page_number": "70",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Země v říšské radě zastoupené",
+    "chapter_number": "A",
+    "page_number": "71",
+    "children": [
+      {
+        "title": "Království české",
+        "chapter_number": "1",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Markrabství moravské",
+        "chapter_number": "2",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Vévodství slezské",
+        "chapter_number": "3",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Království haličské",
+        "chapter_number": "4",
+        "page_number": "82",
+        "children": []
+      },
+      {
+        "title": "Vévodství bukovinské",
+        "chapter_number": "5",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Arcivévodství dolnorakouské",
+        "chapter_number": "6",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Arcivévodství hornorakouské",
+        "chapter_number": "7",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Vévodství salcburské",
+        "chapter_number": "8",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Knížecí hrabství tyrolské s Vorarlberskem",
+        "chapter_number": "9",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Vévodství štyrské",
+        "chapter_number": "10",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Vévodství korutanské",
+        "chapter_number": "11",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Vévodství kraňské",
+        "chapter_number": "12",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Přímoří",
+        "chapter_number": "13",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Království dalmatské",
+        "chapter_number": "14",
+        "page_number": "89",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Země koruny uherské",
+    "chapter_number": "B",
+    "page_number": "90",
+    "children": [
+      {
+        "title": "Království uherské s Rjekou",
+        "chapter_number": "1",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Království chorvatskoslavonské",
+        "chapter_number": "2",
+        "page_number": "92",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Země zabrané",
+    "chapter_number": "C",
+    "page_number": "93",
+    "children": []
+  }
+]

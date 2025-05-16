@@ -1,0 +1,40 @@
+
+[
+  {
+    "title": "Zweiter besonderer Theil.",
+    "chapter_number": "",
+    "page_number": "133",
+    "children": [
+      {
+        "title": "Ueber die Unwendung der Karlsbader Wässer",
+        "chapter_number": "I",
+        "page_number": "136",
+        "children": []
+      },
+      {
+        "title": "Ueber die Unwendung der Wasser zu Embs",
+        "chapter_number": "II",
+        "page_number": "249",
+        "children": []
+      },
+      {
+        "title": "Ueber die Anwendung der Wasser zu Marien-bad",
+        "chapter_number": "III",
+        "page_number": "267",
+        "children": []
+      },
+      {
+        "title": "Ueber die Anwendung der Wasser von Franzensbrunnen bei Eger",
+        "chapter_number": "IV",
+        "page_number": "285",
+        "children": []
+      },
+      {
+        "title": "Ueber die Anwendung des Pyrmonter und Spaawassers",
+        "chapter_number": "V",
+        "page_number": "323",
+        "children": []
+      }
+    ]
+  }
+]

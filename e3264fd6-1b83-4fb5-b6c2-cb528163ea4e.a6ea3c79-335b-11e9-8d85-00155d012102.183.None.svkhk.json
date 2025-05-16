@@ -1,0 +1,283 @@
+
+[
+  {
+    "title": "Vzorce Oppolzerovy pro poměry ploch trojúhelníků",
+    "chapter_number": "",
+    "page_number": "59",
+    "children": []
+  },
+  {
+    "title": "Vzorce Gibbsovy",
+    "chapter_number": "",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Vzorce Gaussovy",
+    "chapter_number": "",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Určení poměru mezi sektorem a trojúhelníkem",
+    "chapter_number": "9",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Methoda Gaussova",
+    "chapter_number": "",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "Methoda Hansenova",
+    "chapter_number": "",
+    "page_number": "68",
+    "children": []
+  },
+  {
+    "title": "Vzorce pro parabolu",
+    "chapter_number": "",
+    "page_number": "70",
+    "children": []
+  },
+  {
+    "title": "Vzorec Klinkerfuesův",
+    "chapter_number": "",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Vypočtení elementů ze souřadnic a jich rychlostí",
+    "chapter_number": "10",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Cauchy-ho vzorce",
+    "chapter_number": "11",
+    "page_number": "75",
+    "children": []
+  },
+  {
+    "title": "Základní rovnice určení dráhy",
+    "chapter_number": "12",
+    "page_number": "78",
+    "children": []
+  },
+  {
+    "title": "Tři místa tělesa nebeského leží v největším kruhu",
+    "chapter_number": "",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "Dráhy kruhové",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Gausssova methoda vypočtení dráhy kruhové",
+        "chapter_number": "1",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Jiná methoda k určení dráhy kruhové",
+        "chapter_number": "2",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Další methoda k určení dráhy kruhové",
+        "chapter_number": "3",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Imaginerní řešení při dráze kruhové",
+        "chapter_number": "",
+        "page_number": "92",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dráhy parabolické",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Přehled význačnějších prací o vypočítání dráhy komet",
+        "chapter_number": "",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Kriterium, jež má z jediné polohy komety rozhodnouti, zdali nově objevená",
+        "chapter_number": "",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "kometa jest identickou s kometou očekávanou",
+        "chapter_number": "",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Olbersova methoda k určení dráhy komety",
+        "chapter_number": "",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Princip Olbersů",
+        "chapter_number": "",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Gaussův tvar pro vypočtení drah parabolických",
+        "chapter_number": "",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Besselova definice principu Olbersova",
+        "chapter_number": "",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Carliniho umělý obrat",
+        "chapter_number": "",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Zlepšení dráhy parabolické variací veličiny M",
+        "chapter_number": "",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Jiná methoda zlepšení dráhy parabolické",
+        "chapter_number": "",
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Výminečný případ methody Olbersovy",
+        "chapter_number": "",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Mnohonásobné řesení problemu",
+        "chapter_number": "",
+        "page_number": "117",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dráhy elliptické",
+    "chapter_number": "IV",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Úloha určení dráhy ze tří pozorování",
+        "chapter_number": "",
+        "page_number": "120",
+        "children": []
+      },
+      {
+        "title": "Enckeův tvar methody Gaussovy",
+        "chapter_number": "",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Dvojí řešení dráhy tělesa",
+        "chapter_number": "",
+        "page_number": "131",
+        "children": []
+      },
+      {
+        "title": "Pokračování ve výpočtu dráhy elliptické",
+        "chapter_number": "",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Úprava pozorování pro výpočet",
+        "chapter_number": "",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Methoda Fabritius-ova pro vypočtení dráhy elliptické",
+        "chapter_number": "",
+        "page_number": "148",
+        "children": []
+      },
+      {
+        "title": "Lambertova věta o zakřivení geocentrické dráhy tělesa",
+        "chapter_number": "",
+        "page_number": "150",
+        "children": []
+      },
+      {
+        "title": "Věta Lehmann-Filhés-ova",
+        "chapter_number": "",
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "Gaussova methoda určení dráhy ze čtyr pozorování",
+        "chapter_number": "",
+        "page_number": "154",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Výpočet drah meteorů (létavic)",
+    "chapter_number": "V",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Výpočet souřadnic pravého bodu radiačního ze souřadnic zdánlivého bodu radiačního",
+        "chapter_number": "",
+        "page_number": "164",
+        "children": []
+      },
+      {
+        "title": "Pravá anomalie meteorů pro dobu setkání se jich se zemí",
+        "chapter_number": "",
+        "page_number": "167",
+        "children": []
+      },
+      {
+        "title": "Vypočtení parabolické dráhy z daného bodu radiačního",
+        "chapter_number": "",
+        "page_number": "168",
+        "children": []
+      },
+      {
+        "title": "Vypočtení elliptické dráhy meteorů z daného bodu radiačního",
+        "chapter_number": "",
+        "page_number": "169",
+        "children": []
+      },
+      {
+        "title": "Určení souřadnic bodu radiačního z daných parabolických a elliptických elementů",
+        "chapter_number": "",
+        "page_number": "171",
+        "children": []
+      }
+    ]
+  }
+]

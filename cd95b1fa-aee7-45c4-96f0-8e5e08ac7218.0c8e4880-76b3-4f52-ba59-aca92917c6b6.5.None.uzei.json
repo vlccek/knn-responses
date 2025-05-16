@@ -1,0 +1,259 @@
+
+[
+  {
+    "title": "Kapitál",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "O kapitále základním",
+    "chapter_number": "",
+    "page_number": "2",
+    "children": []
+  },
+  {
+    "title": "Vliv podnebí na úrodnosť a výnosnosť půdy",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Teplota",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Jaký vliv má teplota vzduchu na rostlinstvo?",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Proudění vzduchové",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Vlhkosť a vzduchové srážky",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "O klimatickém položení statku a jaký vliv má podnebí na úrodnosť a výnosnosť statků",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Vliv podnikatele (rolníka) na klimatické poměry",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O pozemcích a jich vlivu na výnosnosť statků",
+    "chapter_number": "II",
+    "page_number": "16",
+    "children": [
+      {
+        "title": "Kterak zjišťuje se jakosť čili úrodnosť půdy?",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Předběžná opatření odhadu pozemků",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Podrobný odhad půdy",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Soustavy roztřiďovací",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Soustava geologická dle Fallou",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Soustava roztřiďovací dle Thaera a Schüblera",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Roztřidění půdy dle Pabsta",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Rozvrh půdy dle Schönleutnera",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Soustava roztřidění pozemků dle Settegasta",
+        "chapter_number": "",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Roztřidění pozemků dle Kraffta",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O zlepšování půdy (melioraci) a jeho vlivu na výnosnosť statku",
+    "chapter_number": "III",
+    "page_number": "54",
+    "children": [
+      {
+        "title": "Vysušování čili odvodnění mokrých půd.",
+        "chapter_number": "",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Povodňování čili zavlažování půdy",
+        "chapter_number": "",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Povážení půdy",
+        "chapter_number": "",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Prohlubování až doposud mělkých půd",
+        "chapter_number": "",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Planění a klučení",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O místní poloze statku a jejím vlivu na výnosnosť jeho",
+    "chapter_number": "IV",
+    "page_number": "59",
+    "children": []
+  },
+  {
+    "title": "Vliv geognostické povahy pozemků na výnosnosť statku",
+    "chapter_number": "V",
+    "page_number": "59",
+    "children": [
+      {
+        "title": "Prahorní půda",
+        "chapter_number": "",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Silurská půda",
+        "chapter_number": "",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Kamenouhelná půda.",
+        "chapter_number": "",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Půda permského červeného pískovce",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Půda kvádrového pískovce, slinitých pískovců a vápenitých opak",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Třetihorní půda",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Půda plutonských útvarů",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Diluvium",
+        "chapter_number": "",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Alluvium",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O vzdálenosti pozemků od stavení hospodářských a jejím vlivu na výnosnosť statku.",
+    "chapter_number": "VI",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Vliv podnikatele (rolníka) na nepříznivé poměry ze vzdálenosti pozemků plynoucí",
+    "chapter_number": "VII",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "O souvislosti rolnické usedlosti a jejím vlivu na výnosnosť",
+    "chapter_number": "VIII",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "O velikosti statku a jejím vlivu na výnosnosť jeho",
+    "chapter_number": "IX",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Je-li volné nakládání s pozemky prospěšno či škodlivo",
+    "chapter_number": "X",
+    "page_number": "73",
+    "children": []
+  }
+]

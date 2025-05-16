@@ -1,0 +1,329 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Stručné dějiny města",
+    "chapter_number": "I.",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Stručné dějiny zámku",
+    "chapter_number": "II.",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Kulturní a historické obrazy veřejného života v Novém Městě n. Metují ve století XVI., XVII., a XVIII.",
+    "chapter_number": "III.",
+    "page_number": "15",
+    "children": [
+      {
+        "title": "Náměstí",
+        "chapter_number": "1.",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Studna",
+        "chapter_number": "2.",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Kašny",
+        "chapter_number": "3.",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Rybníček na rynku",
+        "chapter_number": "4.",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Krámy hrnčířské",
+        "chapter_number": "5.",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Trestní prostředky",
+        "chapter_number": "6.",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Komedie",
+        "chapter_number": "7.",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Rathouz",
+        "chapter_number": "8.",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Škola",
+        "chapter_number": "9.",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Brány",
+        "chapter_number": "10.",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Živnosti řemeslné",
+        "chapter_number": "11.",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Pivovary",
+        "chapter_number": "12.",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Sladovny",
+        "chapter_number": "13.",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Mlýny",
+        "chapter_number": "14.",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Valcha",
+        "chapter_number": "15.",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Šlejferně",
+        "chapter_number": "16.",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Dílny koželužské a jirchářské",
+        "chapter_number": "17.",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Řezníci. Pekaři",
+        "chapter_number": "18.",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Koš k řezání klevetnicím",
+        "chapter_number": "19.",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Jarmarky",
+        "chapter_number": "20.",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Lázně",
+        "chapter_number": "21.",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Chudý špitál",
+        "chapter_number": "22.",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Kostelík svaté Máří Magdaleny",
+        "chapter_number": "23.",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Loreta",
+        "chapter_number": "24.",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Klášter",
+        "chapter_number": "25.",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Dvorec Stubenberský",
+        "chapter_number": "26.",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Dům českobratrský",
+        "chapter_number": "27.",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Rodný dům zakladatele strakovské akademie",
+        "chapter_number": "28.",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Němci v Městě Novém Hradišti nad Metují",
+        "chapter_number": "29.",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Vzhled předměstí",
+        "chapter_number": "30.",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Zahrady",
+        "chapter_number": "31.",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Role. Louky",
+        "chapter_number": "32.",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Vinice",
+        "chapter_number": "33.",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Haltýře",
+        "chapter_number": "34.",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Rybníčky",
+        "chapter_number": "35.",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Rýha",
+        "chapter_number": "36.",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Dvůr Novo-Městský",
+        "chapter_number": "37.",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Obora",
+        "chapter_number": "38.",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Rezek",
+        "chapter_number": "39.",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Jarmark ve Spytě",
+        "chapter_number": "40.",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Koupě tří statků na Bradlich",
+        "chapter_number": "41.",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Šlechtické rodiny v Novém Městě nad Metují",
+        "chapter_number": "42.",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Zřízení obecní",
+        "chapter_number": "43.",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Kůr literácký",
+        "chapter_number": "44",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Dolování na stříbro",
+        "chapter_number": "45.",
+        "page_number": "84",
+        "children": []
+      },
+      {
+        "title": "Kostely a sochy",
+        "chapter_number": "46.",
+        "page_number": "85",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Konfiskace panství Novo-Městského nad Metují",
+    "chapter_number": "IV.",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "Nové Město nad Metují za války třicetileté",
+    "chapter_number": "V.",
+    "page_number": "97",
+    "children": [
+      {
+        "title": "Soužení Nového Města nad Metují skrze lid vojenský",
+        "chapter_number": "A.",
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "Protireformace na Novém Městě nad Metují",
+        "chapter_number": "B.",
+        "page_number": "111",
+        "children": []
+      }
+    ]
+  }
+]

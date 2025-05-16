@@ -1,0 +1,212 @@
+
+[
+  {
+    "title": "Die Käsebereitung.",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Harte und halbharte Käse.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Edamer Käse",
+            "chapter_number": "1",
+            "page_number": "78",
+            "children": []
+          },
+          {
+            "title": "Schachtel-Käse",
+            "chapter_number": "2",
+            "page_number": "81",
+            "children": []
+          },
+          {
+            "title": "Tilsiter Käse",
+            "chapter_number": "3",
+            "page_number": "82",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Weichkäse.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Camembert",
+            "chapter_number": "4",
+            "page_number": "83",
+            "children": []
+          },
+          {
+            "title": "De Brie",
+            "chapter_number": "5",
+            "page_number": "85",
+            "children": []
+          },
+          {
+            "title": "Neufchâtel",
+            "chapter_number": "6",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Pikanter Käse",
+            "chapter_number": "7",
+            "page_number": "90",
+            "children": []
+          },
+          {
+            "title": "Limburger Käse",
+            "chapter_number": "8",
+            "page_number": "90",
+            "children": []
+          },
+          {
+            "title": "Stangen-Käse",
+            "chapter_number": "9",
+            "page_number": "93",
+            "children": []
+          },
+          {
+            "title": "Romatour",
+            "chapter_number": "10",
+            "page_number": "93",
+            "children": []
+          },
+          {
+            "title": "Kümmel-Käse",
+            "chapter_number": "11",
+            "page_number": "94",
+            "children": []
+          },
+          {
+            "title": "Butter-Käschen",
+            "chapter_number": "12",
+            "page_number": "94",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Haus-Käse.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Quarg",
+            "chapter_number": "13",
+            "page_number": "95",
+            "children": []
+          },
+          {
+            "title": "Böhmische Quargel",
+            "chapter_number": "14",
+            "page_number": "97",
+            "children": []
+          },
+          {
+            "title": "Schmierkäse",
+            "chapter_number": "15",
+            "page_number": "98",
+            "children": []
+          },
+          {
+            "title": "Reibkäse",
+            "chapter_number": "16",
+            "page_number": "98",
+            "children": []
+          },
+          {
+            "title": "Buttermilchkäschen.",
+            "chapter_number": "17",
+            "page_number": "98",
+            "children": []
+          },
+          {
+            "title": "Olmüzer Quargel",
+            "chapter_number": "18",
+            "page_number": "99",
+            "children": []
+          },
+          {
+            "title": "Schaf-Käschen",
+            "chapter_number": "19",
+            "page_number": "100",
+            "children": []
+          },
+          {
+            "title": "Ziegen-Käse",
+            "chapter_number": "20",
+            "page_number": "100",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Anhang.",
+    "chapter_number": "Fünfter Abschnitt.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Ueber Milchverwertung.",
+        "chapter_number": "1",
+        "page_number": "101",
+        "children": []
+      },
+      {
+        "title": "Die Molkereigenossenschaften",
+        "chapter_number": "2",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Zusammenstellung der Ausbeute von Milcherzeugnissen",
+        "chapter_number": "3",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "Vergleichung der Thermometerscalen",
+        "chapter_number": "4",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Preise verschiedener milchwirtschaftlicher Bedarfsartikel",
+        "chapter_number": "5",
+        "page_number": "106",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Behandlung des fertigen Käses",
+    "chapter_number": "3",
+    "page_number": "71",
+    "children": []
+  },
+  {
+    "title": "Ueber Molkereiräume für den Kleinbetrieb",
+    "chapter_number": "4",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Die Käsereigeräthe",
+    "chapter_number": "5",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Die Käsefehler",
+    "chapter_number": "6",
+    "page_number": "74",
+    "children": []
+  }
+]

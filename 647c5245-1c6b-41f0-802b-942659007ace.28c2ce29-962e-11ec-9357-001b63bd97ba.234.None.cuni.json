@@ -1,0 +1,157 @@
+
+[
+  {
+    "title": "Ústava",
+    "chapter_number": "II",
+    "page_number": "165",
+    "children": [
+      {
+        "title": "Pobělohorský absolutismus aristokratický",
+        "chapter_number": "A",
+        "page_number": "165",
+        "children": [
+          {
+            "title": "Král",
+            "chapter_number": "§ 62",
+            "page_number": "168",
+            "children": []
+          },
+          {
+            "title": "Knížata a stavovští páni",
+            "chapter_number": "§ 63",
+            "page_number": "170",
+            "children": []
+          },
+          {
+            "title": "Centrální úřady habsburské",
+            "chapter_number": "§ 64",
+            "page_number": "171",
+            "children": []
+          },
+          {
+            "title": "Královská česká dvorská kancelář",
+            "chapter_number": "§ 65",
+            "page_number": "173",
+            "children": []
+          },
+          {
+            "title": "Úředníci královští a stavovští jednotlivých zemí českých",
+            "chapter_number": "§ 66",
+            "page_number": "174",
+            "children": []
+          },
+          {
+            "title": "Správa a finance v zemích",
+            "chapter_number": "§ 67",
+            "page_number": "176",
+            "children": []
+          },
+          {
+            "title": "Sněmy zemské a výbory zemské",
+            "chapter_number": "§ 68",
+            "page_number": "177",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Osvícený a policejní absolutismus",
+        "chapter_number": "B",
+        "page_number": "177",
+        "children": [
+          {
+            "title": "Reformy Marie Terezie",
+            "chapter_number": "§ 69",
+            "page_number": "179",
+            "children": []
+          },
+          {
+            "title": "Reformy Josefa II.",
+            "chapter_number": "§ 70",
+            "page_number": "181",
+            "children": []
+          },
+          {
+            "title": "Restaurace za Leopolda II.",
+            "chapter_number": "§ 71",
+            "page_number": "182",
+            "children": []
+          },
+          {
+            "title": "Absolutismus policejní",
+            "chapter_number": "§ 72",
+            "page_number": "184",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Správa",
+    "chapter_number": "III",
+    "page_number": "186",
+    "children": [
+      {
+        "title": "Krajské zřízení",
+        "chapter_number": "§ 73",
+        "page_number": "186",
+        "children": []
+      },
+      {
+        "title": "Zřízení městské",
+        "chapter_number": "§ 74",
+        "page_number": "187",
+        "children": []
+      },
+      {
+        "title": "Panství a vsi",
+        "chapter_number": "§ 75",
+        "page_number": "189",
+        "children": []
+      },
+      {
+        "title": "Vojenství a styky mezinárodní",
+        "chapter_number": "§ 76",
+        "page_number": "190",
+        "children": []
+      },
+      {
+        "title": "Horní zřízení",
+        "chapter_number": "§ 77",
+        "page_number": "192",
+        "children": []
+      },
+      {
+        "title": "Zřízení finanční",
+        "chapter_number": "§ 78",
+        "page_number": "192",
+        "children": []
+      },
+      {
+        "title": "Zřízení církevní",
+        "chapter_number": "§ 79",
+        "page_number": "197",
+        "children": []
+      },
+      {
+        "title": "Správa školská",
+        "chapter_number": "§ 80",
+        "page_number": "199",
+        "children": []
+      },
+      {
+        "title": "Úřednictvo, policie, censura, svobodné zednářství",
+        "chapter_number": "§ 81",
+        "page_number": "200",
+        "children": []
+      },
+      {
+        "title": "Soudní zřízení",
+        "chapter_number": "§ 82",
+        "page_number": "202",
+        "children": []
+      }
+    ]
+  }
+]

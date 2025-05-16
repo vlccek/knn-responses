@@ -1,0 +1,123 @@
+
+[
+  {
+    "title": "LIBER I.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "De Methodo in studio scientiae naturalis servanda, & de diversis Philosophorum systematis.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Exponitur generatim methodus, & doctrina Newtoni de systemate Mundi",
+            "chapter_number": "CAPUT I",
+            "page_number": "1",
+            "children": []
+          },
+          {
+            "title": "De systematis veterum Philosophorum",
+            "chapter_number": "CAPUT II",
+            "page_number": "32",
+            "children": []
+          },
+          {
+            "title": "De recentioribus ante Cartesium Philosophis",
+            "chapter_number": "CAPUT III",
+            "page_number": "55",
+            "children": []
+          },
+          {
+            "title": "De Principiis Philosophiae Cartesii; de mutationibus inductis ab ejus sectatoribus, & discordibus eorum bodiedum opinionibus",
+            "chapter_number": "CAPUT IV",
+            "page_number": "82",
+            "children": []
+          },
+          {
+            "title": "Non nulla superiorum animadversionum confectaria",
+            "chapter_number": "CAPUT. V",
+            "page_number": "116",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LIBER II.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Theoria Motus, & Mechanicae.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "De Spatio, Tempore, Materia, & Motu",
+            "chapter_number": "CAPUT I",
+            "page_number": "125",
+            "children": []
+          },
+          {
+            "title": "De Legibus motus, & quae inde generatim consequuntur",
+            "chapter_number": "CAPUT II",
+            "page_number": "144",
+            "children": []
+          },
+          {
+            "title": "De Potentiis Mechanicis",
+            "chapter_number": "CAPUT III",
+            "page_number": "134",
+            "children": []
+          },
+          {
+            "title": "De Motu corporum ex impactu",
+            "chapter_number": "CAPUT. IV",
+            "page_number": "226",
+            "children": []
+          },
+          {
+            "title": "De motu projectorum in vacuo ; de cycloide, & motu pendulorum in hac curva",
+            "chapter_number": "CAPUT V",
+            "page_number": "243",
+            "children": []
+          },
+          {
+            "title": "De motu corporum projectorum",
+            "chapter_number": "I",
+            "page_number": "249",
+            "children": []
+          },
+          {
+            "title": "De cycloide, & motu pendulorum in hac curva",
+            "chapter_number": "II",
+            "page_number": "257",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "LIBER III.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Theoria Gravitatis Analytice Demonstratur.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Quid de gravitatis theoria ante Newtonum compertum/fuerit",
+            "chapter_number": "CAPUT I",
+            "page_number": "271",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

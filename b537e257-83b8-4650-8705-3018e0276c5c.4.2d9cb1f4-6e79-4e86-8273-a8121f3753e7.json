@@ -1,0 +1,156 @@
+
+[
+  {
+    "title": "Proslov",
+    "chapter_number": "",
+    "page_number": "V-VIII",
+    "children": []
+  },
+  {
+    "title": "Národnost.",
+    "chapter_number": "Čásť I",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Poloha",
+        "chapter_number": "1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Soused",
+        "chapter_number": "2",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Dějiny",
+        "chapter_number": "3",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Národnost",
+        "chapter_number": "4",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Vzdělanost a zámožnost; kolo-nisace",
+        "chapter_number": "5",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Původnost a síla národnosti",
+        "chapter_number": "6",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Ohniska národního vědomí",
+        "chapter_number": "7",
+        "page_number": "8",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Národnost a jazyk.",
+    "chapter_number": "Čásť II.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Národnost a jazyk",
+        "chapter_number": "8",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Německá jména vlastní",
+        "chapter_number": "9",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Odrodilost",
+        "chapter_number": "10",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Jazyková konkurrence",
+        "chapter_number": "11",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Řeč a život",
+        "chapter_number": "12",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Nová slova původní",
+        "chapter_number": "13",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Slova dle vzorků",
+        "chapter_number": "14",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Slova dle okolností",
+        "chapter_number": "15",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Cizí živly v jazyku",
+        "chapter_number": "16",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Zažívavost jazyka",
+        "chapter_number": "17",
+        "page_number": "18",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zvučnost jazyka.",
+    "chapter_number": "Čásť III.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Hudba v řeči",
+        "chapter_number": "18",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Řeč vázaná a volná",
+        "chapter_number": "19",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Povaha lidu a zvučnost řeči",
+        "chapter_number": "20",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Líc a rub zvučnosti",
+        "chapter_number": "21",
+        "page_number": "23",
+        "children": []
+      }
+    ]
+  }
+]

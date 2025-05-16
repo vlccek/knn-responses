@@ -1,0 +1,249 @@
+
+[
+  {
+    "title": "Přehled říšského celku",
+    "chapter_number": "I.",
+    "page_number": "1.-14.",
+    "children": [
+      {
+        "title": "Poloha a hranice",
+        "chapter_number": "1.",
+        "page_number": "1.",
+        "children": []
+      },
+      {
+        "title": "Cásti a velikost",
+        "chapter_number": "2.",
+        "page_number": "1.-2.",
+        "children": []
+      },
+      {
+        "title": "Půda",
+        "chapter_number": "3.",
+        "page_number": "2.-3.",
+        "children": []
+      },
+      {
+        "title": "Podnebí a rostlinstvo",
+        "chapter_number": "4.",
+        "page_number": "3.-4.",
+        "children": []
+      },
+      {
+        "title": "Živnosti",
+        "chapter_number": "5.",
+        "page_number": "4.-6.",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "6.",
+        "page_number": "6.-7.",
+        "children": []
+      },
+      {
+        "title": "Správa církevní a školství",
+        "chapter_number": "7.",
+        "page_number": "7.-8.",
+        "children": []
+      },
+      {
+        "title": "Ústrojí státní",
+        "chapter_number": "8.",
+        "page_number": "9.-14.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Popis jednotlivých zemí",
+    "chapter_number": "II.",
+    "page_number": "15.-140.",
+    "children": [
+      {
+        "title": "Království a země v říšské radě vídeňské zastoupené",
+        "chapter_number": "A.",
+        "page_number": "15.-92.",
+        "children": [
+          {
+            "title": "Království české",
+            "chapter_number": "1.",
+            "page_number": "15.-36.",
+            "children": []
+          },
+          {
+            "title": "Markrabství moravské",
+            "chapter_number": "2.",
+            "page_number": "36.-47.",
+            "children": []
+          },
+          {
+            "title": "Vévodství slezské",
+            "chapter_number": "3.",
+            "page_number": "47.-51",
+            "children": []
+          },
+          {
+            "title": "Arcivévodství dolnorakouské",
+            "chapter_number": "4.",
+            "page_number": "51.-57.",
+            "children": []
+          },
+          {
+            "title": "hornorakouské",
+            "chapter_number": "5.",
+            "page_number": "58.-61.",
+            "children": []
+          },
+          {
+            "title": "Vévodství salzburské",
+            "chapter_number": "6.",
+            "page_number": "61.-63.",
+            "children": []
+          },
+          {
+            "title": "Knížecí hrabství tyrolské a země Vorarlberg",
+            "chapter_number": "7.",
+            "page_number": "63.-68.",
+            "children": []
+          },
+          {
+            "title": "Vévodství korutanské",
+            "chapter_number": "8.",
+            "page_number": "68.-71.",
+            "children": []
+          },
+          {
+            "title": "štyrské",
+            "chapter_number": "9.",
+            "page_number": "71.-76.",
+            "children": []
+          },
+          {
+            "title": "kraňské",
+            "chapter_number": "10.",
+            "page_number": "76.-79.",
+            "children": []
+          },
+          {
+            "title": "Přímoří",
+            "chapter_number": "11.",
+            "page_number": "79.-83.",
+            "children": []
+          },
+          {
+            "title": "Království dalmatské",
+            "chapter_number": "12.",
+            "page_number": "83.-86.",
+            "children": []
+          },
+          {
+            "title": "haličské",
+            "chapter_number": "13.",
+            "page_number": "86.-90.",
+            "children": []
+          },
+          {
+            "title": "Vévodství bukovinské",
+            "chapter_number": "14.",
+            "page_number": "91.-92.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Země koruny uherské",
+        "chapter_number": "B.",
+        "page_number": "92.-106.",
+        "children": [
+          {
+            "title": "Království uherské",
+            "chapter_number": "1.",
+            "page_number": "92.-103.",
+            "children": []
+          },
+          {
+            "title": "chorvatsko-slavonské",
+            "chapter_number": "2.",
+            "page_number": "103.-106.",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Země obsazené",
+        "chapter_number": "C.",
+        "page_number": "106-110.",
+        "children": [
+          {
+            "title": "Bosna s Hercegovinou",
+            "chapter_number": null,
+            "page_number": "106-110.",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Opakování říšského celku",
+    "chapter_number": "III.",
+    "page_number": "110.-116.",
+    "children": [
+      {
+        "title": "Poloha a hranice",
+        "chapter_number": "1.",
+        "page_number": "110.",
+        "children": []
+      },
+      {
+        "title": "Části a velikost",
+        "chapter_number": "2.",
+        "page_number": "110.",
+        "children": []
+      },
+      {
+        "title": "Půda",
+        "chapter_number": "3.",
+        "page_number": "110.-111.",
+        "children": []
+      },
+      {
+        "title": "Podnebí",
+        "chapter_number": "4.",
+        "page_number": "112.",
+        "children": []
+      },
+      {
+        "title": "Živnosti",
+        "chapter_number": "5.",
+        "page_number": "112.-114.",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "6.",
+        "page_number": "114.-115.",
+        "children": []
+      },
+      {
+        "title": "Náboženství a školství",
+        "chapter_number": "7.",
+        "page_number": "115.",
+        "children": []
+      },
+      {
+        "title": "Ústrojí státní",
+        "chapter_number": "8.",
+        "page_number": "116.",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Tabulky",
+    "chapter_number": null,
+    "page_number": "117.-122.",
+    "children": []
+  }
+]

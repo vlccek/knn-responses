@@ -1,0 +1,280 @@
+
+[
+  {
+    "title": "Stupňování nepravidelné",
+    "chapter_number": "§. 19",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "opisné",
+    "chapter_number": "§. 20",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "Oddíl třetí. Číslovky.",
+    "chapter_number": "",
+    "page_number": "20",
+    "children": [
+      {
+        "title": "Číslovky základné",
+        "chapter_number": "21",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "řadové",
+        "chapter_number": "22",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Opakování (o stupňování a číslovkách)",
+        "chapter_number": "23",
+        "page_number": "21",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl čtvrtý. Zájmena.",
+    "chapter_number": "",
+    "page_number": "22",
+    "children": [
+      {
+        "title": "Zájmena osobná",
+        "chapter_number": "24",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Zájmeno zvratné a přivlastňovací",
+        "chapter_number": "25",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Zájmena ukazovací:",
+        "chapter_number": "26",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Zájmena adjektivná",
+        "chapter_number": "27",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "vztažná",
+        "chapter_number": "28",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "tázací",
+        "chapter_number": "29",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Opakování",
+        "chapter_number": "30",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "O živočiších",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Díl druhý. Sloveso.",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": [
+      {
+        "title": "Oddíl pátý. Esse a složená s esse.",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": [
+          {
+            "title": "Indicativus slovesa esse",
+            "chapter_number": "31",
+            "page_number": "30",
+            "children": []
+          },
+          {
+            "title": "Coniunct., imperat., infin., partic. slovesa esse",
+            "chapter_number": "32",
+            "page_number": "31",
+            "children": []
+          },
+          {
+            "title": "Složená s esse",
+            "chapter_number": "33",
+            "page_number": "32",
+            "children": []
+          },
+          {
+            "title": "Posse",
+            "chapter_number": "34",
+            "page_number": "32",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Oddíl šestý. Čtvero časování.",
+    "chapter_number": "",
+    "page_number": "33",
+    "children": [
+      {
+        "title": "I. Časování prvé.",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": [
+          {
+            "title": "Indic. praes., imperf., futuri activi",
+            "chapter_number": "35",
+            "page_number": "34",
+            "children": []
+          },
+          {
+            "title": "Indic. perf. plqperf., fut. exacti activi",
+            "chapter_number": "36",
+            "page_number": "35",
+            "children": []
+          },
+          {
+            "title": "Coni. praes., imperf., perf., plqperf. activi",
+            "chapter_number": "37",
+            "page_number": "35",
+            "children": []
+          },
+          {
+            "title": "Imperat., infin., partic. activi",
+            "chapter_number": "38",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Lupus et pastores",
+            "chapter_number": "",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Indic. praes., imperf., futuri passivi",
+            "chapter_number": "39",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Indić. perf., plqperf., fut. exacti passivi",
+            "chapter_number": "40",
+            "page_number": "37",
+            "children": []
+          },
+          {
+            "title": "Coni. praes., imperf., perf., plqperf. passivi",
+            "chapter_number": "41",
+            "page_number": "38",
+            "children": []
+          },
+          {
+            "title": "Imperat., infin., partic. passivi",
+            "chapter_number": "42",
+            "page_number": "38",
+            "children": []
+          },
+          {
+            "title": "Equus et asinus",
+            "chapter_number": "",
+            "page_number": "39",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "II. Časování druhé.",
+        "chapter_number": "",
+        "page_number": "39",
+        "children": [
+          {
+            "title": "Indic. praes., imperf., futuri activi",
+            "chapter_number": "43",
+            "page_number": "39",
+            "children": []
+          },
+          {
+            "title": "Indic. perf., plqperf., fut. exacti activi",
+            "chapter_number": "44",
+            "page_number": "40",
+            "children": []
+          },
+          {
+            "title": "Coni. praes., imperf., perf., plqperf. activi",
+            "chapter_number": "45",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "Imperat., infin., partic. activi",
+            "chapter_number": "46",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "Asinus et vulpes",
+            "chapter_number": "",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Indic. praes., imperf., fut. passivi",
+            "chapter_number": "47",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Indic. perf., plqperf., fut. exacti passivi",
+            "chapter_number": "48",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Coni. praes., imperf., perf., plqperf. passivi",
+            "chapter_number": "49",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Imperat., infin., partic. passivi",
+            "chapter_number": "50",
+            "page_number": "44",
+            "children": []
+          },
+          {
+            "title": "Accipiter et columba",
+            "chapter_number": "",
+            "page_number": "44",
+            "children": []
+          },
+          {
+            "title": "Dux ante proelium",
+            "chapter_number": "",
+            "page_number": "44",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

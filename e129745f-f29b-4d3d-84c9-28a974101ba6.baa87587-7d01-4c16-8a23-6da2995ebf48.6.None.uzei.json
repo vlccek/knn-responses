@@ -1,0 +1,179 @@
+
+[
+  {
+    "title": "Obsah prvého dílu.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Předmluva k prvému vydání",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Předmluva k druhému vydání",
+    "chapter_number": "",
+    "page_number": "V",
+    "children": []
+  },
+  {
+    "title": "Úvodní část.",
+    "chapter_number": "A.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Lidské potřeby; hospodaření a hospodářství",
+        "chapter_number": "1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Pojem národního hospodářství čili politické ekonomie",
+        "chapter_number": "2",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Vznik a vývoj národního hospodářství jakožto sociálního spořádání hmotného úkoje lidských potřeb",
+        "chapter_number": "3",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Obsah vědy národního hospodářství",
+        "chapter_number": "4",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Povaha a roztřídění lidských potřeb",
+        "chapter_number": "5",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Ukojování a intensity potřeb; etický a národohospodářský význam jejich",
+        "chapter_number": "6",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Úkojné prostředky. - Statky volné a hospodářské. Tak zvané jmění národní. Kapitál",
+        "chapter_number": "7",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Sociální úprava ukojování potřeb lidských statky hospodářskými",
+        "chapter_number": "8",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Soukromé právo vlastnické, právní posloupnost dědická a ostatní právní úprava hmotných styků lidských",
+        "chapter_number": "9",
+        "page_number": "82",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Problem populační.",
+    "chapter_number": "B.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O výživě lidské vzhledem k zalidnění zemského povrchu",
+        "chapter_number": "10",
+        "page_number": "97",
+        "children": []
+      },
+      {
+        "title": "Malthusova nauka o přelidnění",
+        "chapter_number": "11",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "O plodnosti a úmrtnosti i jak obojích ubývá v zemích západoevropské civilisace",
+        "chapter_number": "12",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Příčiny zmenšené plodnosti v zemích civilisace západoevropské",
+        "chapter_number": "13",
+        "page_number": "126",
+        "children": []
+      },
+      {
+        "title": "Relativní přelidnění; stěhování obyvatelstva do cizích zemí",
+        "chapter_number": "14",
+        "page_number": "143",
+        "children": []
+      },
+      {
+        "title": "Kolonie a kolonisace evropská i mimoevropská",
+        "chapter_number": "15",
+        "page_number": "154",
+        "children": []
+      },
+      {
+        "title": "Koloniální politika. Národohospodářský a jiný sociální význam kolonií",
+        "chapter_number": "16",
+        "page_number": "164",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Nauka o zemědělském (a lesním) těžení.",
+    "chapter_number": "C.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Převaha městského zaměstnání a obyvatelstva proti venkovskému a zemědělskému v zemích civilisace západoevropské",
+        "chapter_number": "17",
+        "page_number": "178",
+        "children": []
+      },
+      {
+        "title": "Vzájemný počet obého pohlaví a vliv stěhování naň. Odlidňování řídce obydlených krajin venkovských stěhováním do hustě osazených okresů průmyslových nebo městských.",
+        "chapter_number": "18",
+        "page_number": "194",
+        "children": []
+      },
+      {
+        "title": "Důsledky zhuštěného osídlení na intensitu zemědělského těžení. Sociální nesnáze (velko-)městského života. - Tíseň bytová. Reforma pozemková.",
+        "chapter_number": "19",
+        "page_number": "204",
+        "children": []
+      },
+      {
+        "title": "O technice zemědělské",
+        "chapter_number": "20",
+        "page_number": "214",
+        "children": []
+      },
+      {
+        "title": "Technika lesní. - Lov a rybářství",
+        "chapter_number": "21",
+        "page_number": "225",
+        "children": []
+      },
+      {
+        "title": "Meliorace a zcelování (komasace). Zemědělské odborné vzdělání. Průmyslové zpracování plodin",
+        "chapter_number": "22",
+        "page_number": "233",
+        "children": []
+      },
+      {
+        "title": "Agrární zřízení. - Poddanství, nevolnictví a sociální nezbytnost jich zrušení. Společenská situace zemědělců podle rozsáhlosti provozů. - Velký střední a malý provoz v zemědělství. Vlastní provoz a pronájem. Zemědělský úvěr. - Zákonná ochrana zemědělského podnikání a zemědělského stavu",
+        "chapter_number": "23",
+        "page_number": "242",
+        "children": []
+      }
+    ]
+  }
+]

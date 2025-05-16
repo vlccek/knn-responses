@@ -1,0 +1,172 @@
+
+[
+  {
+    "title": "Obsah",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Kniha první. O přímkách a rovinách v prostoře.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Část prvá. I. O vzájemné poloze přímek a rovin v prostoře. §. I-VIII",
+    "chapter_number": "",
+    "page_number": "1-9",
+    "children": [
+      {
+        "title": "II. O poloze rovin a přímek k rovinám. §. IX-XI.",
+        "chapter_number": "",
+        "page_number": "10-16",
+        "children": []
+      },
+      {
+        "title": "III. O rozběžkách v prostoře §. XII-XIV.",
+        "chapter_number": "",
+        "page_number": "16-21",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část druhá. O úhelnících tělesných §. XV—XXI.",
+    "chapter_number": "",
+    "page_number": "21–28",
+    "children": []
+  },
+  {
+    "title": "Kniha druhá. O tělesích.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Část prvá. O vlastnostech těles nejjednodušších. §. XXII.",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": [
+      {
+        "title": "O mnohostěnech vůbec. §. XXIII.",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "O hranolu. §. XXIV",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "XXVI. O jehlanu. §. XXVII",
+        "chapter_number": "",
+        "page_number": "32-34",
+        "children": []
+      },
+      {
+        "title": "XXVIII. O hra- natých tělesích pravidelných. §. XXIX.",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "O válci. § XXX-XXXII.",
+        "chapter_number": "",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "O kuželi. §. XXXIII-XXXV.",
+        "chapter_number": "",
+        "page_number": "40-41",
+        "children": []
+      },
+      {
+        "title": "O kouli.",
+        "chapter_number": "",
+        "page_number": "41-42",
+        "children": []
+      },
+      {
+        "title": "§. XXXVI-XL.",
+        "chapter_number": "",
+        "page_number": "43-48",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část druhá. O ploském obsahu povrchu těles.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O povrchu těles hrana- tých. §. XLI-XLIII.",
+        "chapter_number": "",
+        "page_number": "49-52",
+        "children": []
+      },
+      {
+        "title": "O povrchu těles oblých: 1. válce kol- mého, §. XLIV.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "2. kužele kolmého, §. XLV.",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "3. koule. §. XLVI.",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "O povrchu těles podobných. §. XLVII",
+        "chapter_number": "",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "O ploském obsahu trojúhelníků sférických. §. XLVIII.",
+        "chapter_number": "",
+        "page_number": "57",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část třetí. O krychlení těles.",
+    "chapter_number": "",
+    "page_number": "58",
+    "children": [
+      {
+        "title": "I. Porovnávání krychlového obsahu: rovno- běžnostěnů a hranolů vůbec, §. XLIX-LI.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "jehlanů, LII— LIV.",
+        "chapter_number": "",
+        "page_number": "62-66",
+        "children": []
+      },
+      {
+        "title": "těles podobných, §. LV.",
+        "chapter_number": "",
+        "page_number": "69-73",
+        "children": []
+      },
+      {
+        "title": "- II. Vypočítávání obsahu krychlového. § LVI-LXI.",
+        "chapter_number": "",
+        "page_number": "73",
+        "children": []
+      }
+    ]
+  }
+]

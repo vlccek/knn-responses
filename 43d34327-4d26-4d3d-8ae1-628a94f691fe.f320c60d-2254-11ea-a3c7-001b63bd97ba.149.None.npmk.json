@@ -1,0 +1,207 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "§ 1",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Planimetrie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Část prvá. Základní útvary rovinné",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "O přímce",
+            "chapter_number": "I",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "Dvé přímek. Úhel",
+            "chapter_number": "II",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Tři přímky. Přímky rovnoběžné a různoběžné",
+            "chapter_number": "III",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "Souměrnost středová",
+            "chapter_number": "IV",
+            "page_number": "15",
+            "children": []
+          },
+          {
+            "title": "Souměrnost osová",
+            "chapter_number": "V",
+            "page_number": "16",
+            "children": []
+          },
+          {
+            "title": "Kružnice. Místo geometrické",
+            "chapter_number": "VI",
+            "page_number": "18",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Část druhá. Trojúhelník, čtyrúhelník, mnohoúhelník vůbec. Útvary shodné",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Trojúhelník",
+            "chapter_number": "I",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Shodnost a sestrojení trojúhelníků",
+            "chapter_number": "II",
+            "page_number": "34",
+            "children": []
+          },
+          {
+            "title": "Čtyrúhelník",
+            "chapter_number": "III",
+            "page_number": "45",
+            "children": []
+          },
+          {
+            "title": "Mnohoúhelník",
+            "chapter_number": "IV",
+            "page_number": "61",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Část třetí. Kružnice",
+        "chapter_number": "",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Část čtvrtá. Útvary rovné",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Vypočítávání obsahu mnohothelníků",
+            "chapter_number": "I",
+            "page_number": "79",
+            "children": []
+          },
+          {
+            "title": "Véta Pythagorova",
+            "chapter_number": "II",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Proměňování a dělení mnohoúhelníků",
+            "chapter_number": "III",
+            "page_number": "90",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Část pátá. Útvary podobné",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Úměrnost úseček",
+            "chapter_number": "I",
+            "page_number": "95",
+            "children": []
+          },
+          {
+            "title": "Podobnost trojúhelníků",
+            "chapter_number": "II",
+            "page_number": "100",
+            "children": []
+          },
+          {
+            "title": "O některých zvláštních přímkách ve trojúhelníku",
+            "chapter_number": "III",
+            "page_number": "103",
+            "children": []
+          },
+          {
+            "title": "Podobnost mnohoúhelníků",
+            "chapter_number": "IV",
+            "page_number": "105",
+            "children": []
+          },
+          {
+            "title": "O některých úsečkách úměrných v kruhu",
+            "chapter_number": "V",
+            "page_number": "110",
+            "children": []
+          },
+          {
+            "title": "Řešení úloh geometrických užitím podobnosti",
+            "chapter_number": "VI",
+            "page_number": "113",
+            "children": []
+          },
+          {
+            "title": "O užívání algebry v geometrii",
+            "chapter_number": "VII",
+            "page_number": "116",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Část šestá. Obvod pravidelných mnohoúhelníků. Obvod a obsah kruhu",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Obvody pravidelných mnohoúhelníků",
+            "chapter_number": "I",
+            "page_number": "125",
+            "children": []
+          },
+          {
+            "title": "Obvod kruhu",
+            "chapter_number": "II",
+            "page_number": "128",
+            "children": []
+          },
+          {
+            "title": "Obsah kruhu",
+            "chapter_number": "III",
+            "page_number": "133",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Úlohy k opakování",
+        "chapter_number": "",
+        "page_number": "136",
+        "children": []
+      },
+      {
+        "title": "Poznámky historické",
+        "chapter_number": "",
+        "page_number": "141",
+        "children": []
+      }
+    ]
+  }
+]

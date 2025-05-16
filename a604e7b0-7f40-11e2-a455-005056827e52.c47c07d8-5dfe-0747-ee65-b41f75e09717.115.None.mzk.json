@@ -1,0 +1,485 @@
+
+[
+  {
+    "title": "Die Juden in Cyrene und Fes",
+    "chapter_number": "78",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Die Juden in Spanien unter den Westgothen",
+    "chapter_number": "79",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Die Juden in Spanien unter den Arabern",
+    "chapter_number": "80",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Chisdai ben Isak und seine Zeitgenossen",
+    "chapter_number": "81",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Samuel ha-Nagid und sein Sohn Josef",
+    "chapter_number": "82",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Salomo ibn Gabirol. - Bechai ben Josef",
+    "chapter_number": "83",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Das talmudische Studium in Spanien",
+    "chapter_number": "84",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Abraham ben Chija",
+    "chapter_number": "85",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Juda ha-Levi. Moses ibn Esra",
+    "chapter_number": "86",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Abraham Aben Esra",
+    "chapter_number": "87",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Benjamin aus Tudela. Abraham ben David Halevi",
+    "chapter_number": "88",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "Moses Maimonides",
+    "chapter_number": "89",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "Die Schriften des Maimonides",
+    "chapter_number": "90",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Die Juden in der Provence",
+    "chapter_number": "91",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Der Kampf gegen die Philosophie",
+    "chapter_number": "92",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Nachmanides",
+    "chapter_number": "93",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "Juda Alcharisi. Salomo ben Aderet",
+    "chapter_number": "94",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "Ascher ben Jechiel",
+    "chapter_number": "95",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Die jüngere Kabbala",
+    "chapter_number": "96",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Die Juden Spaniens im vierzehnten Jahrhunderte",
+    "chapter_number": "97",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Wissenschaftliche Thätigkeit im vierzehnten Jahrhunderte",
+    "chapter_number": "98",
+    "page_number": "57",
+    "children": []
+  },
+  {
+    "title": "Die Juden Spaniens im fünfzehnten Jahrhunderte",
+    "chapter_number": "99",
+    "page_number": "57",
+    "children": []
+  },
+  {
+    "title": "Vertreibung der Juden aus Spanien",
+    "chapter_number": "100",
+    "page_number": "58",
+    "children": []
+  },
+  {
+    "title": "Rückkehr der Juden nach der Provence",
+    "chapter_number": "101",
+    "page_number": "59",
+    "children": []
+  },
+  {
+    "title": "Die Juden in Portugal",
+    "chapter_number": "102",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "Isak Abravanel",
+    "chapter_number": "103",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "Die Juden im Oriente",
+    "chapter_number": "104",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Die Juden in Italien",
+    "chapter_number": "105",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Die Juden in Frankreich",
+    "chapter_number": "106",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Die geistige Cultur in Frankreich. Gerschom Meor Hagola",
+    "chapter_number": "107",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Salomo ben Isak, genannt Raschi",
+    "chapter_number": "108",
+    "page_number": "64",
+    "children": []
+  },
+  {
+    "title": "Die Tosafisten",
+    "chapter_number": "109",
+    "page_number": "64",
+    "children": []
+  },
+  {
+    "title": "Die Juden in Deutschland",
+    "chapter_number": "110",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Geistige Cultur d. deutschen Juden",
+    "chapter_number": "111",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "Die Juden in England",
+    "chapter_number": "112",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Fünfter Abschnitt.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Die Juden in Desterreich",
+        "chapter_number": "113",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Die Juden in Deutschland",
+        "chapter_number": "114",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Der Proceß gegen den Talmud",
+        "chapter_number": "115",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Die Juden in Italien",
+        "chapter_number": "116",
+        "page_number": "70",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Literaturzustände in Italien",
+    "chapter_number": "117",
+    "page_number": "70",
+    "children": []
+  },
+  {
+    "title": "Die kritische Schule in Italien",
+    "chapter_number": "118",
+    "page_number": "71",
+    "children": []
+  },
+  {
+    "title": "Sonstige literarische Thätigkeit in Italien",
+    "chapter_number": "119",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Die Juden in Polen",
+    "chapter_number": "120",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Geistige Cultur. - Die polnische Schule",
+    "chapter_number": "121",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Die Juden in Holland",
+    "chapter_number": "122",
+    "page_number": "74",
+    "children": []
+  },
+  {
+    "title": "Menasse ben Israel",
+    "chapter_number": "123",
+    "page_number": "76",
+    "children": []
+  },
+  {
+    "title": "Uriel Acosta. Baruch Spinoza",
+    "chapter_number": "124",
+    "page_number": "77",
+    "children": []
+  },
+  {
+    "title": "Literatur und Schriftsteller in Holland",
+    "chapter_number": "125",
+    "page_number": "79",
+    "children": []
+  },
+  {
+    "title": "Die Juden in England.",
+    "chapter_number": "126",
+    "page_number": "79",
+    "children": []
+  },
+  {
+    "title": "Neue Ansiedelungen",
+    "chapter_number": "127",
+    "page_number": "80",
+    "children": []
+  },
+  {
+    "title": "Die Juden in der Türkei",
+    "chapter_number": "128",
+    "page_number": "80",
+    "children": []
+  },
+  {
+    "title": "Geistige Cultur der Juden in der Türkei",
+    "chapter_number": "129",
+    "page_number": "81",
+    "children": []
+  },
+  {
+    "title": "David Rubeni. Salomo Malchu",
+    "chapter_number": "130",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "Sabbatai Zebi",
+    "chapter_number": "131",
+    "page_number": "84",
+    "children": []
+  },
+  {
+    "title": "Sechster Abschnitt.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Die äußere Lage der europäschen Juden im achtzehnten Jahrhundert",
+        "chapter_number": "132",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Die Juden in Desterreich. Kaiser Josef II.",
+        "chapter_number": "133",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Die geistige Cultur. Rabbi-nische Schulen",
+        "chapter_number": "134",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Jonathan Eibeschiz",
+        "chapter_number": "135",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Jüdische Literatur im achtzehnten Jahrhunderte",
+        "chapter_number": "136",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Moses Mendelssohn",
+        "chapter_number": "137",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Die Schriften Mendelssohn's",
+        "chapter_number": "138",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Gelehrte Zeitgenossen u. Schüler Mendelssohn's",
+        "chapter_number": "139",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Emanzipation der Juden im neunzehnten Jahrhunderte",
+        "chapter_number": "140",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Die Juden in Deutschland",
+        "chapter_number": "141",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Die Juden in Desterreich",
+        "chapter_number": "142",
+        "page_number": "97",
+        "children": []
+      },
+      {
+        "title": "Die Juden in Afrika",
+        "chapter_number": "143",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Die Falascha's in Abessynien",
+        "chapter_number": "144",
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "Sir Moses Montefiore. Adalbert Cremieux",
+        "chapter_number": "145",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Die Familie Rothschild",
+        "chapter_number": "146",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Die Juden in Asien",
+        "chapter_number": "147",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Die Juden in Amerika.",
+        "chapter_number": "148",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Die Juden in Australien",
+        "chapter_number": "149",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "Palästina",
+        "chapter_number": "150",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Kulturzustand der Juden im neunzehnten Jahrhunderte",
+        "chapter_number": "151",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Unterrichtswesen",
+        "chapter_number": "152",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Der öffentliche Gottesdienst",
+        "chapter_number": "153",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Reformbestrebungen",
+        "chapter_number": "154",
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Neuere jüdische Literatur",
+        "chapter_number": "155",
+        "page_number": "109",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,109 @@
+
+[
+  {
+    "title": "Třídění půdy",
+    "chapter_number": "VI",
+    "page_number": "48",
+    "children": [
+      {
+        "title": "Třídění půd dle součástek:",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Půdy písčité",
+            "chapter_number": "",
+            "page_number": "49",
+            "children": []
+          },
+          {
+            "title": "Půdy jílovité",
+            "chapter_number": "",
+            "page_number": "50",
+            "children": []
+          },
+          {
+            "title": "Půdy hlinité",
+            "chapter_number": "",
+            "page_number": "51",
+            "children": []
+          },
+          {
+            "title": "Půdy slínovité",
+            "chapter_number": "",
+            "page_number": "52",
+            "children": []
+          },
+          {
+            "title": "Půdy trouchovité a vápenaté",
+            "chapter_number": "",
+            "page_number": "53",
+            "children": []
+          },
+          {
+            "title": "Půdy železité, hořečnato-slínovité, sádrovité a solné",
+            "chapter_number": "",
+            "page_number": "53",
+            "children": []
+          },
+          {
+            "title": "Půdy štěrkovité a kamenité",
+            "chapter_number": "",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Třídění půd dle původu:",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Půdy prvotné",
+            "chapter_number": "",
+            "page_number": "54",
+            "children": []
+          },
+          {
+            "title": "Půdy naplavené",
+            "chapter_number": "",
+            "page_number": "55",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Třídění půd dle spůsobu užitku",
+        "chapter_number": "",
+        "page_number": "55",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Mechanický a chemický rozbor půdy",
+    "chapter_number": "VII",
+    "page_number": "56",
+    "children": [
+      {
+        "title": "Rozbor mechanický",
+        "chapter_number": "",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Rozbor chemický",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Struktura půdy",
+    "chapter_number": "VIII",
+    "page_number": "69",
+    "children": []
+  }
+]

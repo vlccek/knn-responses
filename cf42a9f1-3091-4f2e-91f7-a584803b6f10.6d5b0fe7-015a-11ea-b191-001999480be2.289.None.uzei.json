@@ -1,0 +1,58 @@
+
+[
+  {
+    "title": "Dluh trvalý čili založený",
+    "chapter_number": "B",
+    "page_number": "255",
+    "children": []
+  },
+  {
+    "title": "Formy jeho",
+    "chapter_number": "§ 4",
+    "page_number": "255",
+    "children": []
+  },
+  {
+    "title": "Provádění zápůjček veřejných",
+    "chapter_number": "§ 5",
+    "page_number": "261",
+    "children": []
+  },
+  {
+    "title": "Splácení dluhů veřejných",
+    "chapter_number": "§ 6",
+    "page_number": "263",
+    "children": []
+  },
+  {
+    "title": "Redukce úroková",
+    "chapter_number": "§ 7",
+    "page_number": "265",
+    "children": []
+  },
+  {
+    "title": "Dluh či daň?",
+    "chapter_number": "§ 8",
+    "page_number": "267",
+    "children": []
+  },
+  {
+    "title": "O příjmech složitých státních útvarů a samosprávných svazků ve státě",
+    "chapter_number": "Dodatek",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Příjmy složitých státních útvarů",
+        "chapter_number": "§ 1. I",
+        "page_number": "273",
+        "children": []
+      },
+      {
+        "title": "Příjmy samosprávných těles",
+        "chapter_number": "§ 2. II",
+        "page_number": "275",
+        "children": []
+      }
+    ]
+  }
+]

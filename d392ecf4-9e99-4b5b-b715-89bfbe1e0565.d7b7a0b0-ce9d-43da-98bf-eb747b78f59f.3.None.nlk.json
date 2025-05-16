@@ -1,0 +1,177 @@
+
+[
+  {
+    "title": "Našim odběratelům",
+    "chapter_number": "",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Vysvětlivky",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ČSSR",
+        "chapter_number": "I",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Právní sbírky",
+            "chapter_number": "",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Časopisy",
+            "chapter_number": "",
+            "page_number": "30",
+            "children": []
+          },
+          {
+            "title": "Knihy",
+            "chapter_number": "",
+            "page_number": "44",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zahraničí",
+        "chapter_number": "II",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Dominikánská republika",
+            "chapter_number": "",
+            "page_number": "47",
+            "children": []
+          },
+          {
+            "title": "Francie",
+            "chapter_number": "",
+            "page_number": "49",
+            "children": []
+          },
+          {
+            "title": "Itálie",
+            "chapter_number": "",
+            "page_number": "53",
+            "children": []
+          },
+          {
+            "title": "Jižní Afrika",
+            "chapter_number": "",
+            "page_number": "57",
+            "children": []
+          },
+          {
+            "title": "Kanada",
+            "chapter_number": "",
+            "page_number": "60",
+            "children": []
+          },
+          {
+            "title": "Madarsko",
+            "chapter_number": "",
+            "page_number": "70",
+            "children": []
+          },
+          {
+            "title": "NSR",
+            "chapter_number": "",
+            "page_number": "75",
+            "children": []
+          },
+          {
+            "title": "Nigérie",
+            "chapter_number": "",
+            "page_number": "85",
+            "children": []
+          },
+          {
+            "title": "Portugalsko",
+            "chapter_number": "",
+            "page_number": "86",
+            "children": []
+          },
+          {
+            "title": "Rakousko",
+            "chapter_number": "",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "USA",
+            "chapter_number": "",
+            "page_number": "92",
+            "children": []
+          },
+          {
+            "title": "Velká Británie",
+            "chapter_number": "",
+            "page_number": "95",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Mezinárodní organizace",
+        "chapter_number": "III",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Světová zdravotnická organizace",
+            "chapter_number": "",
+            "page_number": "97",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "států",
+        "chapter_number": "",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "jmenný",
+        "chapter_number": "",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "věcný",
+        "chapter_number": "",
+        "page_number": "106",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Informační služby",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Státního ústavu pro zdravotnickou dokumentační a knihovnickou službu",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

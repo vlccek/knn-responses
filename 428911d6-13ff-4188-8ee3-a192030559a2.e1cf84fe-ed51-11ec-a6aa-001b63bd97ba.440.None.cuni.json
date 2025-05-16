@@ -1,0 +1,224 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Zákon směnečný",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Oddíl prvý: O směnečné způsobilosti",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Oddíl druhý: O směnkách cizích",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Náležitosti cizí směnky",
+        "chapter_number": "I",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Výstavce (trasát)",
+        "chapter_number": "II",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Rubopis (indosament, žiro)",
+        "chapter_number": "III",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Předložení ku přijetí (presentace k akceptu)",
+        "chapter_number": "IV",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Přijetí (akcept)",
+        "chapter_number": "V",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Postih (regres) zajišťovací",
+        "chapter_number": "VI",
+        "page_number": "7",
+        "children": [
+          {
+            "title": "pro nepřijetí",
+            "chapter_number": "1",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "pro příjemcovu nejistotu",
+            "chapter_number": "2",
+            "page_number": "8",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Splnění směnečného závazku",
+        "chapter_number": "VII",
+        "page_number": "9",
+        "children": [
+          {
+            "title": "Den dospělosti",
+            "chapter_number": "1",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Placení",
+            "chapter_number": "2",
+            "page_number": "12",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Postih (regres) pro neplacení",
+        "chapter_number": "VIII",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Směnečná intervence",
+        "chapter_number": "IX",
+        "page_number": "16",
+        "children": [
+          {
+            "title": "Přijetí pro čest",
+            "chapter_number": "1",
+            "page_number": "16",
+            "children": []
+          },
+          {
+            "title": "Zaplacení pro čest",
+            "chapter_number": "2",
+            "page_number": "17",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Směnečné rukojemství (aval)",
+        "chapter_number": "X",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Násobení směnky (duplikáty a kopie)",
+        "chapter_number": "XI",
+        "page_number": "19",
+        "children": [
+          {
+            "title": "Směnečné stejnopisy (duplikáty)",
+            "chapter_number": "1",
+            "page_number": "19",
+            "children": []
+          },
+          {
+            "title": "Směnečné opisy (kopie)",
+            "chapter_number": "2",
+            "page_number": "21",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Směnky ztracené nebo zničené",
+        "chapter_number": "XII",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Směnky falešné",
+        "chapter_number": "XIII",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Směnečné promlčení",
+        "chapter_number": "XIV",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Práva směnečného věřitele",
+        "chapter_number": "XV",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Mezinárodní právo směnečné",
+        "chapter_number": "XVI",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Osvědčení (protest)",
+        "chapter_number": "XVII",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Místo a čas ku presentaci a k jiným úkonům ve směnečném styku",
+        "chapter_number": "XVIII",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Vadné podpisy",
+        "chapter_number": "XIX",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Podpis zástupcem",
+        "chapter_number": "XX",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl třetí: O směnkách vlastních",
+    "chapter_number": "",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Oddíl čtvrtý: Závěrečná ustanovení",
+    "chapter_number": "",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Rejstřík",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Obsah",
+    "chapter_number": "",
+    "page_number": "36",
+    "children": []
+  }
+]

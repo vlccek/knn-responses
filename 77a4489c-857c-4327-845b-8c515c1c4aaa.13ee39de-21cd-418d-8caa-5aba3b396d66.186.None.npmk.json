@@ -1,0 +1,131 @@
+
+[
+  {
+    "title": "Vodstvo a jeho význam pro obchod",
+    "chapter_number": "3",
+    "page_number": "98",
+    "children": []
+  },
+  {
+    "title": "Podnebí",
+    "chapter_number": "4",
+    "page_number": "102",
+    "children": []
+  },
+  {
+    "title": "Obyvatelstvo",
+    "chapter_number": "5",
+    "page_number": "103",
+    "children": []
+  },
+  {
+    "title": "Státní zřízení",
+    "chapter_number": "6",
+    "page_number": "106",
+    "children": []
+  },
+  {
+    "title": "Zemědělství",
+    "chapter_number": "7",
+    "page_number": "107",
+    "children": []
+  },
+  {
+    "title": "Chov dobytka",
+    "chapter_number": "8",
+    "page_number": "111",
+    "children": []
+  },
+  {
+    "title": "Těžba nerostů",
+    "chapter_number": "9",
+    "page_number": "114",
+    "children": []
+  },
+  {
+    "title": "Průmysl a řemeslö",
+    "chapter_number": "10",
+    "page_number": "117",
+    "children": []
+  },
+  {
+    "title": "Obchod a dopravní potřeby",
+    "chapter_number": "11",
+    "page_number": "130",
+    "children": []
+  },
+  {
+    "title": "Místopis",
+    "chapter_number": "12",
+    "page_number": "144",
+    "children": []
+  },
+  {
+    "title": "Světová statistika",
+    "chapter_number": "",
+    "page_number": "156",
+    "children": []
+  },
+  {
+    "title": "Přehled světové dopravy a světového obchodu:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Světová námořní plavba",
+        "chapter_number": "A",
+        "page_number": "172",
+        "children": []
+      },
+      {
+        "title": "Světové železniční trati",
+        "chapter_number": "B",
+        "page_number": "174",
+        "children": []
+      },
+      {
+        "title": "Světové telegrafické spojení",
+        "chapter_number": "C",
+        "page_number": "175",
+        "children": []
+      },
+      {
+        "title": "Světový poštovní spolek",
+        "chapter_number": "D",
+        "page_number": "175",
+        "children": []
+      },
+      {
+        "title": "Doprava vzduchem",
+        "chapter_number": "E",
+        "page_number": "176",
+        "children": []
+      },
+      {
+        "title": "Světový obchod",
+        "chapter_number": "L",
+        "page_number": "177",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O zařízení a upotřebení jízdních řádů",
+        "chapter_number": "I",
+        "page_number": "178",
+        "children": []
+      },
+      {
+        "title": "Cestovní pokyny",
+        "chapter_number": "II",
+        "page_number": "181",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,65 @@
+
+[
+  {
+    "title": "Obsah",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Původ a domov ječmene",
+        "chapter_number": "I",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Zeměpisné rozšíření ječmene",
+        "chapter_number": "II",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Rozměr pěstování a obchod s ječmenem",
+        "chapter_number": "III",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Rostlinopis ječmene",
+        "chapter_number": "IV",
+        "page_number": "9",
+        "children": [
+          {
+            "title": "Hordeum vulgare L. (ječmen obecný)",
+            "chapter_number": "A",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "Hordeum distichum L. (ječmen dvouřadový)",
+            "chapter_number": "B",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Hordeum hexastichum L. (ječ. šestiřadový)",
+            "chapter_number": "C",
+            "page_number": "17",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Životní podmínky ječmene",
+        "chapter_number": "V",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Užitek ječmene",
+        "chapter_number": "VI",
+        "page_number": "36",
+        "children": []
+      }
+    ]
+  }
+]

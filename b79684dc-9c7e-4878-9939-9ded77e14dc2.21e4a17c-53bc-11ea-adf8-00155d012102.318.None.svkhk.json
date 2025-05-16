@@ -1,0 +1,52 @@
+
+[
+  {
+    "title": "Obraz psychologický",
+    "chapter_number": "II",
+    "page_number": "265-276",
+    "children": []
+  },
+  {
+    "title": "Obraz sociologický",
+    "chapter_number": "III",
+    "page_number": "277-286",
+    "children": [
+      {
+        "title": "Literatura",
+        "chapter_number": "",
+        "page_number": "287-288",
+        "children": []
+      },
+      {
+        "title": "Zeyerova korrespondence tištěná. Netištěná",
+        "chapter_number": "",
+        "page_number": "289-290",
+        "children": []
+      },
+      {
+        "title": "Poděkování",
+        "chapter_number": "",
+        "page_number": "290",
+        "children": []
+      },
+      {
+        "title": "Ukazatel jmen",
+        "chapter_number": "",
+        "page_number": "291-296",
+        "children": []
+      },
+      {
+        "title": "Chronologický seznam prací Zeyerových",
+        "chapter_number": "",
+        "page_number": "297-302",
+        "children": []
+      },
+      {
+        "title": "Opravy a dodatky",
+        "chapter_number": "",
+        "page_number": "302",
+        "children": []
+      }
+    ]
+  }
+]

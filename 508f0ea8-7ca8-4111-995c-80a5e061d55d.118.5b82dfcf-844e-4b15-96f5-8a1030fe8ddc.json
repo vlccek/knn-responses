@@ -1,0 +1,64 @@
+
+[
+  {
+    "title": "Literatura",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Úvod. Pojem poručenství",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "§ 1. O nezletilosti",
+    "chapter_number": "§ 1",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "§ 2. O povolání k poručenství",
+    "chapter_number": "§ 2",
+    "page_number": "22",
+    "children": [
+      {
+        "title": "I. Důvody povolání k poručenství",
+        "chapter_number": "I",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "II. Nastoupení poručenství",
+        "chapter_number": "II",
+        "page_number": "43",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "§ 3. O vedení poručenství",
+    "chapter_number": "§ 3",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "§ 4. O zakončení poručenství",
+    "chapter_number": "§ 4",
+    "page_number": "81",
+    "children": []
+  },
+  {
+    "title": "§ 5. O dozoru vrchnoporučenském",
+    "chapter_number": "§ 5",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "Závěr. Původ poručenství",
+    "chapter_number": "",
+    "page_number": "111",
+    "children": []
+  }
+]

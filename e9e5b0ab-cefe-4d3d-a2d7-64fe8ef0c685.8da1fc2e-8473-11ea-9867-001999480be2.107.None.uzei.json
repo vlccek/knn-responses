@@ -1,0 +1,203 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Ovzduší",
+    "chapter_number": "A",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Povšechné příčiny zjevů povětrnostních",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Činitelé podnební",
+    "chapter_number": "B",
+    "page_number": "13",
+    "children": [
+      {
+        "title": "Světlo",
+        "chapter_number": "I",
+        "page_number": "13",
+        "children": [
+          {
+            "title": "Účinky světla na rostlinstvo",
+            "chapter_number": "1",
+            "page_number": "19",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Teplo",
+        "chapter_number": "II",
+        "page_number": "23",
+        "children": [
+          {
+            "title": "Zdroje tepla",
+            "chapter_number": "1",
+            "page_number": "23",
+            "children": []
+          },
+          {
+            "title": "Denní a roční postup tepla",
+            "chapter_number": "2",
+            "page_number": "26",
+            "children": []
+          },
+          {
+            "title": "Postup tepla v půdě a ve vodě",
+            "chapter_number": "3",
+            "page_number": "29",
+            "children": []
+          },
+          {
+            "title": "Účinky tepla na rostlinstvo v různých zeměpisných šířkách",
+            "chapter_number": "4",
+            "page_number": "31",
+            "children": []
+          },
+          {
+            "title": "Stanovení míry tepelné, jíž rostliny ku vývoji svému potřebují",
+            "chapter_number": "5",
+            "page_number": "34",
+            "children": []
+          },
+          {
+            "title": "Účinky fysikální výšky na teplotu a rostlinstvo",
+            "chapter_number": "6",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Účinky zeměpisné délky na teplotu",
+            "chapter_number": "7",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Zpětné účinky vegetace na teplotu ovzduší",
+            "chapter_number": "8",
+            "page_number": "40",
+            "children": []
+          },
+          {
+            "title": "Účinky různé míry tepla na rostlinstvo",
+            "chapter_number": "9",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "Kterak lze dle poměrů tepelných posouditi možnosť pěstby kult. rostlin",
+            "chapter_number": "10",
+            "page_number": "49",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Vlhkosť vzdušná",
+        "chapter_number": "III",
+        "page_number": "50",
+        "children": [
+          {
+            "title": "Které okolnosti účinkují na míru roční srážky v některé krajině",
+            "chapter_number": "1",
+            "page_number": "58",
+            "children": []
+          },
+          {
+            "title": "Význam vlhkosti a srážek ovzdušných pro rostlinstvo",
+            "chapter_number": "2",
+            "page_number": "61",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O tlaku vzduchovém",
+        "chapter_number": "IV",
+        "page_number": "67",
+        "children": [
+          {
+            "title": "O větrech",
+            "chapter_number": "1",
+            "page_number": "73",
+            "children": []
+          },
+          {
+            "title": "Účinky větrů na rostlinstvo",
+            "chapter_number": "2",
+            "page_number": "79",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Učinky povětrnosti na rostlinstvo",
+        "chapter_number": "V",
+        "page_number": "82",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Podnebí",
+    "chapter_number": "C",
+    "page_number": "85",
+    "children": [
+      {
+        "title": "Poloha místní",
+        "chapter_number": "1",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Roztřídění podnebí se stanoviska lesnického",
+        "chapter_number": "2",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Klimatické poměry v Čechách",
+        "chapter_number": "3",
+        "page_number": "95",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O stanovisku lesních porostů",
+    "chapter_number": "D",
+    "page_number": "98",
+    "children": [
+      {
+        "title": "Hodnota stanoviska",
+        "chapter_number": "1",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Požadavky dřevin a druhů kultur vůči stanovisku",
+        "chapter_number": "2",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Kterak se posuzuje hodnota stanoviska",
+        "chapter_number": "3",
+        "page_number": "101",
+        "children": []
+      }
+    ]
+  }
+]

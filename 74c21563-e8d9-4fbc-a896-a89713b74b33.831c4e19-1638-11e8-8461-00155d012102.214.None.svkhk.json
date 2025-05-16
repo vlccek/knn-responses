@@ -1,0 +1,542 @@
+
+[
+  {
+    "title": "Nerostopis",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Část všeobecná",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "O tvaru nerostů",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Přehled důležitějších krystalů",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "O vlastnostech fysikalních",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Štípatelnost",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Lom",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Tvrdost",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Hustota",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Barva",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Lesk",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Průhlednost",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Vlastnosti elektrické a magnetické",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Vlastnosti lučebné či chemické",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Zkoušení nerostů cestou suchou",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Zkoušení nerostů v nádobách uza- vřených",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Zkoušení nerostů v nádobách ote- vřených",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Zkoušení nerostů na uhli",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Zkoušení nerostů v drátku plati- novém",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Zkoušení nerostů cestou mokrou",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Zkoušení nerostů vodou",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Zkoušení nerostů kyselinami",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Část zvláštní",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": [
+          {
+            "title": "I. Prvky",
+            "chapter_number": "",
+            "page_number": "30",
+            "children": [
+              {
+                "title": "Prvky kovové",
+                "chapter_number": "",
+                "page_number": "30",
+                "children": []
+              },
+              {
+                "title": "Prvky nekovové",
+                "chapter_number": "",
+                "page_number": "44",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "II. Sloučeniny podvojné",
+            "chapter_number": "",
+            "page_number": "51",
+            "children": [
+              {
+                "title": "Kysličníky",
+                "chapter_number": "",
+                "page_number": "51",
+                "children": []
+              },
+              {
+                "title": "Kysličníky bezvodé",
+                "chapter_number": "",
+                "page_number": "51",
+                "children": []
+              },
+              {
+                "title": "Kysličníky vodnaté",
+                "chapter_number": "",
+                "page_number": "63",
+                "children": []
+              },
+              {
+                "title": "Sirníky",
+                "chapter_number": "",
+                "page_number": "67",
+                "children": []
+              },
+              {
+                "title": "Sirníky jednoduché",
+                "chapter_number": "",
+                "page_number": "67",
+                "children": []
+              },
+              {
+                "title": "Sirníky složené",
+                "chapter_number": "",
+                "page_number": "75",
+                "children": []
+              },
+              {
+                "title": "Arseniky",
+                "chapter_number": "",
+                "page_number": "80",
+                "children": []
+              },
+              {
+                "title": "Chloridy a fluoridy",
+                "chapter_number": "",
+                "page_number": "80",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "III. Sloučeniny potrojné",
+            "chapter_number": "",
+            "page_number": "86",
+            "children": [
+              {
+                "title": "Sirany",
+                "chapter_number": "",
+                "page_number": "87",
+                "children": []
+              },
+              {
+                "title": "Sírany bezvodé",
+                "chapter_number": "",
+                "page_number": "87",
+                "children": []
+              },
+              {
+                "title": "Sírany vodnaté",
+                "chapter_number": "",
+                "page_number": "88",
+                "children": []
+              },
+              {
+                "title": "Dusičnany",
+                "chapter_number": "",
+                "page_number": "94",
+                "children": []
+              },
+              {
+                "title": "Fosforečnany",
+                "chapter_number": "",
+                "page_number": "95",
+                "children": []
+              },
+              {
+                "title": "Uhličitany",
+                "chapter_number": "",
+                "page_number": "97",
+                "children": []
+              },
+              {
+                "title": "Uhličitany bezvodé",
+                "chapter_number": "",
+                "page_number": "97",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Uhličitany vodnaté",
+    "chapter_number": "",
+    "page_number": "106",
+    "children": []
+  },
+  {
+    "title": "Křemičitany",
+    "chapter_number": "",
+    "page_number": "108",
+    "children": []
+  },
+  {
+    "title": "Křemičitany bezvodé",
+    "chapter_number": "",
+    "page_number": "108",
+    "children": []
+  },
+  {
+    "title": "Křemičitany vodnaté",
+    "chapter_number": "",
+    "page_number": "118",
+    "children": []
+  },
+  {
+    "title": "IV. Nerosty původu rostlinného",
+    "chapter_number": "",
+    "page_number": "125",
+    "children": []
+  },
+  {
+    "title": "Zeměznalectví",
+    "chapter_number": "",
+    "page_number": "131",
+    "children": []
+  },
+  {
+    "title": "O vzduchu",
+    "chapter_number": "",
+    "page_number": "131",
+    "children": []
+  },
+  {
+    "title": "O vodě",
+    "chapter_number": "",
+    "page_number": "134",
+    "children": []
+  },
+  {
+    "title": "O vodě měkké",
+    "chapter_number": "",
+    "page_number": "135",
+    "children": []
+  },
+  {
+    "title": "O vodě tvrdé",
+    "chapter_number": "",
+    "page_number": "135",
+    "children": []
+  },
+  {
+    "title": "O vodě mořské",
+    "chapter_number": "",
+    "page_number": "136",
+    "children": []
+  },
+  {
+    "title": "O vodě mechanicky vázané",
+    "chapter_number": "",
+    "page_number": "138",
+    "children": []
+  },
+  {
+    "title": "O vodě lučebně vázané",
+    "chapter_number": "",
+    "page_number": "139",
+    "children": []
+  },
+  {
+    "title": "Účinky vody",
+    "chapter_number": "",
+    "page_number": "140",
+    "children": []
+  },
+  {
+    "title": "Mechanické účinky vody",
+    "chapter_number": "",
+    "page_number": "140",
+    "children": []
+  },
+  {
+    "title": "Q chemickém účinku vody",
+    "chapter_number": "",
+    "page_number": "145",
+    "children": []
+  },
+  {
+    "title": "Činnost sopek",
+    "chapter_number": "",
+    "page_number": "144",
+    "children": []
+  },
+  {
+    "title": "O horninách",
+    "chapter_number": "",
+    "page_number": "145",
+    "children": []
+  },
+  {
+    "title": "Horniny jednoduché",
+    "chapter_number": "",
+    "page_number": "145",
+    "children": []
+  },
+  {
+    "title": "Horniny smišené, balvanité",
+    "chapter_number": "",
+    "page_number": "146",
+    "children": []
+  },
+  {
+    "title": "Horniny vrstevnaté",
+    "chapter_number": "",
+    "page_number": "156",
+    "children": []
+  },
+  {
+    "title": "Horniny úlomkovité",
+    "chapter_number": "",
+    "page_number": "157",
+    "children": []
+  },
+  {
+    "title": "O zkamenėlinách",
+    "chapter_number": "",
+    "page_number": "160",
+    "children": []
+  },
+  {
+    "title": "Geologie",
+    "chapter_number": "",
+    "page_number": "162",
+    "children": []
+  },
+  {
+    "title": "Stáří hornin",
+    "chapter_number": "",
+    "page_number": "162",
+    "children": []
+  },
+  {
+    "title": "Přehled hornin",
+    "chapter_number": "",
+    "page_number": "163",
+    "children": []
+  },
+  {
+    "title": "Prahory",
+    "chapter_number": "",
+    "page_number": "163",
+    "children": []
+  },
+  {
+    "title": "Útvar Laurentinský",
+    "chapter_number": "",
+    "page_number": "164",
+    "children": []
+  },
+  {
+    "title": "Útvar huronský",
+    "chapter_number": "",
+    "page_number": "164",
+    "children": []
+  },
+  {
+    "title": "Prvohory",
+    "chapter_number": "",
+    "page_number": "165",
+    "children": []
+  },
+  {
+    "title": "Útvar kambrický",
+    "chapter_number": "",
+    "page_number": "166",
+    "children": []
+  },
+  {
+    "title": "Útvar sílurský",
+    "chapter_number": "",
+    "page_number": "167",
+    "children": []
+  },
+  {
+    "title": "Útvar devonský",
+    "chapter_number": "",
+    "page_number": "170",
+    "children": []
+  },
+  {
+    "title": "Útvar kamenouhelný",
+    "chapter_number": "",
+    "page_number": "174",
+    "children": []
+  },
+  {
+    "title": "Útvar permský",
+    "chapter_number": "",
+    "page_number": "178",
+    "children": []
+  },
+  {
+    "title": "Druhohory",
+    "chapter_number": "",
+    "page_number": "182",
+    "children": []
+  },
+  {
+    "title": "Útvar kamenosolný čili triasový",
+    "chapter_number": "",
+    "page_number": "182",
+    "children": []
+  },
+  {
+    "title": "Útvar jurský",
+    "chapter_number": "",
+    "page_number": "184",
+    "children": []
+  },
+  {
+    "title": "Útvar křídový",
+    "chapter_number": "",
+    "page_number": "190",
+    "children": []
+  },
+  {
+    "title": "Třetihory",
+    "chapter_number": "",
+    "page_number": "194",
+    "children": []
+  },
+  {
+    "title": "Útvar třetihorní",
+    "chapter_number": "",
+    "page_number": "195",
+    "children": []
+  },
+  {
+    "title": "Čtvrtohory",
+    "chapter_number": "",
+    "page_number": "199",
+    "children": []
+  },
+  {
+    "title": "Dilivium",
+    "chapter_number": "",
+    "page_number": "200",
+    "children": []
+  },
+  {
+    "title": "Alluvium",
+    "chapter_number": "",
+    "page_number": "201",
+    "children": []
+  },
+  {
+    "title": "O složení zeměkoule",
+    "chapter_number": "",
+    "page_number": "205",
+    "children": []
+  },
+  {
+    "title": "O vzniku země",
+    "chapter_number": "",
+    "page_number": "205",
+    "children": []
+  }
+]

@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "K situaci.",
+    "chapter_number": "I",
+    "page_number": ""
+  },
+  {
+    "title": "Co jest sociální boj.",
+    "chapter_number": "II",
+    "page_number": ""
+  },
+  {
+    "title": "Drobné stávky a naplněné pokladny.",
+    "chapter_number": "III",
+    "page_number": ""
+  },
+  {
+    "title": "Co jest všeobecná stávka.",
+    "chapter_number": "IV",
+    "page_number": ""
+  },
+  {
+    "title": "Námitky.",
+    "chapter_number": "V",
+    "page_number": ""
+  },
+  {
+    "title": "Přímá akce:",
+    "chapter_number": "VI",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Co jest přímá akce.",
+        "chapter_number": "1",
+        "page_number": ""
+      },
+      {
+        "title": "Uvarování se malé stávky.",
+        "chapter_number": "2",
+        "page_number": ""
+      },
+      {
+        "title": "Boykot. Sabot. Passivní resistence.",
+        "chapter_number": "3",
+        "page_number": ""
+      },
+      {
+        "title": "Přímá akce jako průpravní účel k budoucí volné společnosti.",
+        "chapter_number": "4",
+        "page_number": ""
+      },
+      {
+        "title": "Přímá akce proti militarismu.",
+        "chapter_number": "5",
+        "page_number": ""
+      }
+    ]
+  },
+  {
+    "title": "Politická stávka hromadná nebo hospodářská stávka všeobecná?",
+    "chapter_number": "VII",
+    "page_number": ""
+  },
+  {
+    "title": "Konečný závěr.",
+    "chapter_number": "VIII",
+    "page_number": ""
+  }
+]

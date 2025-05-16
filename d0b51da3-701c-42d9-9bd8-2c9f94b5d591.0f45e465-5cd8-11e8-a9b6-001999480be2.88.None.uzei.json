@@ -1,0 +1,112 @@
+
+[
+  {
+    "title": "Allgemeine Bestimmungen",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Besondere Bestimmungen",
+    "chapter_number": "",
+    "page_number": "19",
+    "children": [
+      {
+        "title": "Getreide",
+        "chapter_number": "I",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Mehl, Mahlprodukte und Rollgerste",
+        "chapter_number": "II",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Malz",
+        "chapter_number": "III",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Hülsenfrüchte",
+        "chapter_number": "IV",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Delsaaten",
+        "chapter_number": "V",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Kleesaaten",
+        "chapter_number": "VI",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Zuckerrübensamen",
+        "chapter_number": "VII",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Brod",
+        "chapter_number": "VIII",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Hopfen",
+        "chapter_number": "IX",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Gedörrtes Obst",
+        "chapter_number": "X",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Heu und Stroh",
+        "chapter_number": "XI",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Stärfe",
+        "chapter_number": "XII",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Tierische Fette",
+        "chapter_number": "XIII",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Preßhefe",
+        "chapter_number": "XIV",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Getrocknete Cichorienwurzel",
+        "chapter_number": "XV",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Kartoffel",
+        "chapter_number": "XVI",
+        "page_number": "65",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,226 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "VI-VII",
+    "children": [
+      {
+        "title": "Zeměpisná poloha",
+        "chapter_number": "1",
+        "page_number": "I-II",
+        "children": []
+      },
+      {
+        "title": "Pochod slunce a jeho vrcholení",
+        "chapter_number": "2",
+        "page_number": "II-V",
+        "children": []
+      },
+      {
+        "title": "Pásy zemské a počasí",
+        "chapter_number": "3",
+        "page_number": "V-VI",
+        "children": []
+      },
+      {
+        "title": "Podnebí a jeho působení na přírodu a člověka",
+        "chapter_number": "4",
+        "page_number": "VI-VII",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Míry",
+    "chapter_number": "",
+    "page_number": "VIII",
+    "children": []
+  },
+  {
+    "title": "Asie",
+    "chapter_number": "",
+    "page_number": "1-33",
+    "children": [
+      {
+        "title": "Přehled všeobecný",
+        "chapter_number": "I",
+        "page_number": "1-7",
+        "children": []
+      },
+      {
+        "title": "Země asijské",
+        "chapter_number": "II",
+        "page_number": "7-32",
+        "children": [
+          {
+            "title": "Kavkazsko",
+            "chapter_number": "1",
+            "page_number": "7-8",
+            "children": []
+          },
+          {
+            "title": "Turecké země",
+            "chapter_number": "2",
+            "page_number": "8-13",
+            "children": []
+          },
+          {
+            "title": "Arabie",
+            "chapter_number": "3",
+            "page_number": "13-14",
+            "children": []
+          },
+          {
+            "title": "Iran",
+            "chapter_number": "4",
+            "page_number": "14-17",
+            "children": []
+          },
+          {
+            "title": "Přední Indie",
+            "chapter_number": "5",
+            "page_number": "17-20",
+            "children": []
+          },
+          {
+            "title": "Zadní Indie",
+            "chapter_number": "6",
+            "page_number": "20-21",
+            "children": []
+          },
+          {
+            "title": "Ostrovní Indie",
+            "chapter_number": "7",
+            "page_number": "21-23",
+            "children": []
+          },
+          {
+            "title": "Čína",
+            "chapter_number": "8",
+            "page_number": "23-28",
+            "children": []
+          },
+          {
+            "title": "Japonsko a Korea",
+            "chapter_number": "9",
+            "page_number": "28-29",
+            "children": []
+          },
+          {
+            "title": "Ruské země",
+            "chapter_number": "19",
+            "page_number": "29-32",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Afrika",
+    "chapter_number": "",
+    "page_number": "33-50",
+    "children": [
+      {
+        "title": "Přehled všeobecný",
+        "chapter_number": "I",
+        "page_number": "33-39",
+        "children": []
+      },
+      {
+        "title": "Země africké",
+        "chapter_number": "II",
+        "page_number": "39-49",
+        "children": [
+          {
+            "title": "Egypt",
+            "chapter_number": "1",
+            "page_number": "39-42",
+            "children": []
+          },
+          {
+            "title": "Berbersko",
+            "chapter_number": "2",
+            "page_number": "42-43",
+            "children": []
+          },
+          {
+            "title": "Sahara",
+            "chapter_number": "3",
+            "page_number": "43-45",
+            "children": []
+          },
+          {
+            "title": "Sudan",
+            "chapter_number": "4",
+            "page_number": "45-46",
+            "children": []
+          },
+          {
+            "title": "Afrika od Sudanu na východ",
+            "chapter_number": "5",
+            "page_number": "46-47",
+            "children": []
+          },
+          {
+            "title": "Jižní Afrika",
+            "chapter_number": "6",
+            "page_number": "47-49",
+            "children": []
+          },
+          {
+            "title": "Ostrovy",
+            "chapter_number": "7",
+            "page_number": "49",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Evropa",
+    "chapter_number": "",
+    "page_number": "50-85",
+    "children": [
+      {
+        "title": "Přehled všeobecný",
+        "chapter_number": "I",
+        "page_number": "50-56",
+        "children": []
+      },
+      {
+        "title": "Země evropské",
+        "chapter_number": "II",
+        "page_number": "56-85",
+        "children": [
+          {
+            "title": "Půlostrov Balkánský",
+            "chapter_number": "1",
+            "page_number": "56-65",
+            "children": []
+          },
+          {
+            "title": "Půlostrov Apenninský (Italie)",
+            "chapter_number": "2",
+            "page_number": "65-74",
+            "children": []
+          },
+          {
+            "title": "Půlostrov Pyrenejský",
+            "chapter_number": "3",
+            "page_number": "74-81",
+            "children": []
+          },
+          {
+            "title": "Britské ostrovy",
+            "chapter_number": "4",
+            "page_number": "81-85",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

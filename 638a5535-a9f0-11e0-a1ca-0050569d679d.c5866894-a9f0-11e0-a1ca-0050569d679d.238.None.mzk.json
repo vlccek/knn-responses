@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "Všeobecný pohled.",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Přehled zeměpisný a přírodopisný",
+        "chapter_number": "1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Osazování krajiny.",
+        "chapter_number": "2",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Ochrana hranic zemských a kraje.",
+        "chapter_number": "3",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "4",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Způsob života",
+        "chapter_number": "5",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Obecní záležitosti.",
+        "chapter_number": "6",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Živnosti",
+        "chapter_number": "7",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Farni osady a školy",
+        "chapter_number": "8",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Úřady",
+        "chapter_number": "9",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Zdravotnictví a vojenství",
+        "chapter_number": "10",
+        "page_number": "60",
+        "children": []
+      }
+    ]
+  }
+]

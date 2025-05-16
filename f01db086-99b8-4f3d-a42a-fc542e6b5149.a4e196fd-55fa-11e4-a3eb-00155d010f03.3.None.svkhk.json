@@ -1,0 +1,238 @@
+
+[
+  {
+    "title": "Privilegia městská",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Privilegia města Jičína",
+        "chapter_number": "A",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Privilegia městyse Brandýsa nad Orlicí",
+        "chapter_number": "B",
+        "page_number": "38",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Knihy městské, poddaných obcí a vrchnostenské",
+    "chapter_number": "II",
+    "page_number": "40",
+    "children": [
+      {
+        "title": "Knihy městské",
+        "chapter_number": "A",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Knihy vsí poddaných",
+        "chapter_number": "B",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Knihy a větší akta vrchnost. úřadů",
+        "chapter_number": "C",
+        "page_number": "43",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Listiny právní veřejné, soukromé, listiny a akta různého obsahu",
+    "chapter_number": "III",
+    "page_number": "45",
+    "children": [
+      {
+        "title": "Mandáty, dekréty, manifesty, jednání sněmovní, rozsudky soudu nad appell. atd.",
+        "chapter_number": "A",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Listiny a akta týkající se Jičína, Železnice atd.",
+        "chapter_number": "B",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Duchovenské záležitosti",
+        "chapter_number": null,
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Soukromé právní listiny (smlouvy kupní a svatební, kšafty atd)",
+        "chapter_number": "C",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Listy rodné, zachovací, propustné atd.",
+        "chapter_number": "D",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Kvitance, potvrzenky, kontrib. knížky",
+        "chapter_number": "E",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Varia",
+        "chapter_number": "F",
+        "page_number": "82",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Cechovní privilegia, pořádky, knihy, listy výučné atd.",
+    "chapter_number": "IV",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "Knihy, akta a listiny někdejšího archivu jesuitského a kartuziánského.",
+    "chapter_number": "V",
+    "page_number": "91",
+    "children": [
+      {
+        "title": "Archiv jesuitský",
+        "chapter_number": "A",
+        "page_number": "91",
+        "children": [
+          {
+            "title": "Knihy",
+            "chapter_number": "I",
+            "page_number": "92",
+            "children": []
+          },
+          {
+            "title": "Listiny a akta",
+            "chapter_number": "II",
+            "page_number": "93",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Archiv kartuziánský",
+        "chapter_number": "B",
+        "page_number": "96",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Spolkové památky novější doby",
+    "chapter_number": "VI",
+    "page_number": "97",
+    "children": []
+  },
+  {
+    "title": "Materialie k dějinám Jičína a okolí",
+    "chapter_number": "VII",
+    "page_number": "100",
+    "children": []
+  },
+  {
+    "title": "Knihy psané",
+    "chapter_number": "VIII",
+    "page_number": "102",
+    "children": [
+      {
+        "title": "Modlitby",
+        "chapter_number": null,
+        "page_number": "104",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Obrazy, fotografie a pohlednice",
+    "chapter_number": "IX",
+    "page_number": "105",
+    "children": []
+  },
+  {
+    "title": "Zeměpisné a dějep. atlasy, mapy, plány a diagramy",
+    "chapter_number": "X",
+    "page_number": "108",
+    "children": []
+  },
+  {
+    "title": "Knihovna",
+    "chapter_number": "XI",
+    "page_number": "110",
+    "children": [
+      {
+        "title": "Periodická díla",
+        "chapter_number": "A",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Knihy náboženského obsahu",
+        "chapter_number": "B",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Dějepis",
+        "chapter_number": "C",
+        "page_number": "118",
+        "children": []
+      },
+      {
+        "title": "Zeměpis, statistika, cestopisy",
+        "chapter_number": "D",
+        "page_number": "123",
+        "children": []
+      },
+      {
+        "title": "Právnická a politická díla",
+        "chapter_number": "E",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "Mathematika a technologie",
+        "chapter_number": "F",
+        "page_number": "125",
+        "children": []
+      },
+      {
+        "title": "Přírodověda, hospodářství, lékařství",
+        "chapter_number": "G",
+        "page_number": "126",
+        "children": []
+      },
+      {
+        "title": "Jazykověda",
+        "chapter_number": "H",
+        "page_number": "127",
+        "children": []
+      },
+      {
+        "title": "Knihy poučné a zábavné různého obsahu",
+        "chapter_number": "J",
+        "page_number": "128",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatky",
+    "chapter_number": null,
+    "page_number": "130",
+    "children": []
+  }
+]

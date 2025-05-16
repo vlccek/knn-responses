@@ -1,0 +1,97 @@
+
+[
+  {
+    "title": "Práce jarní.",
+    "chapter_number": "",
+    "page_number": "" ,
+    "children": [
+      {
+        "title": "Březen — duben",
+        "chapter_number": "A",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Konec dubna — květen",
+        "chapter_number": "B",
+        "page_number": "59",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Práce letni.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Červen — červenec",
+        "chapter_number": "C",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Srpen",
+        "chapter_number": "D",
+        "page_number": "63",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Podzimní práce.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Září",
+        "chapter_number": "E",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Říjen — začátek listopadu",
+        "chapter_number": "F",
+        "page_number": "64",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Práce zimní.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Prosinec — leden",
+        "chapter_number": "G",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Únor — březen",
+        "chapter_number": "H",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Práce štěpařské, které možno za každé doby roční vykonávati",
+        "chapter_number": "I",
+        "page_number": "67",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "",
+    "page_number": "68",
+    "children": []
+  },
+  {
+    "title": "Vzor zápisníku",
+    "chapter_number": "",
+    "page_number": "73",
+    "children": []
+  }
+]

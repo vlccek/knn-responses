@@ -1,0 +1,51 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "1",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "2",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Jak přispějeme ku rozmnožení ptactva",
+    "chapter_number": "3",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "Čím prospívají hospodáři jednotlivé druhy ptáků a čím mohou mu škoditi?",
+    "chapter_number": "4",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "O tahu ptáků",
+    "chapter_number": "5",
+    "page_number": "76",
+    "children": []
+  },
+  {
+    "title": "O příchodu ptáků stěhovavých",
+    "chapter_number": "6",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "Ptáci ve svém domově",
+    "chapter_number": "7",
+    "page_number": "86",
+    "children": []
+  },
+  {
+    "title": "Seznam ptáků v Čechách pozorovaných",
+    "chapter_number": "8",
+    "page_number": "92",
+    "children": []
+  }
+]

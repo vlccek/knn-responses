@@ -1,0 +1,340 @@
+
+[
+  {
+    "title": "Chov zvířat domácích.",
+    "chapter_number": "1",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Všeobecné zásady chovu zvířat",
+        "chapter_number": "A",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Součástky těla živočišného",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Proměna potravy v těle živočišném",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Pice",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Krmeni",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Plemenitba",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "O podrobném chovu zvířat",
+        "chapter_number": "B",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Skot",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Zákon o licentování býků",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Ovce či brav",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Koza",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Kůň",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Podpora chovu koní",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Dobytek vepřový",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Ochranná ustanovení zákonná k omezení podvodů při koupi a prodeji a k zamezení nakažlivých nemocí dobytčích",
+        "chapter_number": "",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Chov králíků",
+        "chapter_number": "",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Drůbežnictví",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Chov slepic",
+        "chapter_number": "",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Krocan",
+        "chapter_number": "",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Perlička",
+        "chapter_number": "",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Páv",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Husa",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Kachna",
+        "chapter_number": "",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Chov holubů",
+        "chapter_number": "",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Rybářství",
+        "chapter_number": "",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Rybnikářství",
+        "chapter_number": "A",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Kapr",
+        "chapter_number": "",
+        "page_number": "93",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Štika",
+    "chapter_number": "",
+    "page_number": "98",
+    "children": []
+  },
+  {
+    "title": "Candát",
+    "chapter_number": "",
+    "page_number": "99",
+    "children": []
+  },
+  {
+    "title": "Umělý chov a ochrana ryb",
+    "chapter_number": "B",
+    "page_number": "100",
+    "children": []
+  },
+  {
+    "title": "ve vodách proudících",
+    "chapter_number": "",
+    "page_number": "100",
+    "children": []
+  },
+  {
+    "title": "Pstruh",
+    "chapter_number": "",
+    "page_number": "101",
+    "children": []
+  },
+  {
+    "title": "Losos",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Ochrana ryb",
+    "chapter_number": "",
+    "page_number": "103",
+    "children": []
+  },
+  {
+    "title": "Chov raků",
+    "chapter_number": "",
+    "page_number": "104",
+    "children": []
+  },
+  {
+    "title": "Včelařství",
+    "chapter_number": "",
+    "page_number": "106",
+    "children": []
+  },
+  {
+    "title": "Ochrana a zákony o včelaření",
+    "chapter_number": "",
+    "page_number": "132",
+    "children": []
+  },
+  {
+    "title": "Hedvábnictví",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Jiné zákony a zřízení zemědělská.",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Ochrana polního majetku",
+    "chapter_number": "",
+    "page_number": "133",
+    "children": []
+  },
+  {
+    "title": "O majetku a pychu polním",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Zákon o hubení škodlivého hmyzu",
+    "chapter_number": "",
+    "page_number": "134",
+    "children": []
+  },
+  {
+    "title": "Ochrana užitečných zvířat",
+    "chapter_number": "",
+    "page_number": "135",
+    "children": []
+  },
+  {
+    "title": "Zákon o hubení kokotice",
+    "chapter_number": "",
+    "page_number": "137",
+    "children": []
+  },
+  {
+    "title": "Zákon proti révokazu.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Opatření proti mandelince bramborové",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Zákon o myslivosti",
+    "chapter_number": "",
+    "page_number": "138",
+    "children": []
+  },
+  {
+    "title": "Ochrana lesů",
+    "chapter_number": "",
+    "page_number": "139",
+    "children": []
+  },
+  {
+    "title": "O vysazování stromů kolem silnic",
+    "chapter_number": "",
+    "page_number": "140",
+    "children": []
+  },
+  {
+    "title": "Zákon o zvelebení zemědělství stavbami vodními",
+    "chapter_number": "",
+    "page_number": "141",
+    "children": []
+  },
+  {
+    "title": "Osvobození od daně pozemkové",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Scelování pozemků",
+    "chapter_number": "",
+    "page_number": "142",
+    "children": []
+  },
+  {
+    "title": "Úřady zemědělské",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Hospodářské školství",
+    "chapter_number": "",
+    "page_number": "143",
+    "children": []
+  },
+  {
+    "title": "Školní zahrada.",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": []
+  }
+]

@@ -1,0 +1,58 @@
+
+[
+  {
+    "title": "Kapitola úvodní",
+    "chapter_number": "I",
+    "page_number": "1--2",
+    "children": []
+  },
+  {
+    "title": "Pojem »psychologie dítěte«; jeho obsah a rozsah",
+    "chapter_number": "II",
+    "page_number": "3-14",
+    "children": []
+  },
+  {
+    "title": "Methodika psychologie dětské",
+    "chapter_number": "III",
+    "page_number": "15-33",
+    "children": []
+  },
+  {
+    "title": "Systematika dětské psychologie",
+    "chapter_number": "IV",
+    "page_number": "34-39",
+    "children": []
+  },
+  {
+    "title": "Cena a cíl dětské psychologie",
+    "chapter_number": "V",
+    "page_number": "40-50",
+    "children": []
+  },
+  {
+    "title": "Dějiny paedopsychologie",
+    "chapter_number": "VI",
+    "page_number": "51-72",
+    "children": [
+      {
+        "title": "Vývoj paedopsychologie v Evropě.",
+        "chapter_number": "A",
+        "page_number": "52-60",
+        "children": []
+      },
+      {
+        "title": "Pěstění studia psychologie dětské v Americe.",
+        "chapter_number": "B",
+        "page_number": "60 - 65",
+        "children": []
+      },
+      {
+        "title": "Česká literatura paedopsychologická.",
+        "chapter_number": "C",
+        "page_number": "66-72",
+        "children": []
+      }
+    ]
+  }
+]

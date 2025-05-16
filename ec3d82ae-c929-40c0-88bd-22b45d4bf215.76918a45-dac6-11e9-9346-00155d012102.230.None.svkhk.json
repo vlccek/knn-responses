@@ -1,0 +1,53 @@
+
+[
+  {
+    "title": "Pomocné prostředky",
+    "chapter_number": "§ 2",
+    "page_number": "162-185",
+    "children": []
+  },
+  {
+    "title": "Otázka řemeslnická",
+    "chapter_number": "Hlava třetí",
+    "page_number": "185-202",
+    "children": [
+      {
+        "title": "Podstata a příčiny bídy řemeslnické",
+        "chapter_number": "§ 1",
+        "page_number": "185-194",
+        "children": []
+      },
+      {
+        "title": "Jak řešiti otázku řemeslnickou",
+        "chapter_number": "§ 2",
+        "page_number": "194-202",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Tíseň stavu obchodního",
+    "chapter_number": "Hlava čtvrtá",
+    "page_number": "202-210",
+    "children": [
+      {
+        "title": "Podstata a příčiny její",
+        "chapter_number": "§ 1",
+        "page_number": "202-207",
+        "children": []
+      },
+      {
+        "title": "Pomocné prostředky",
+        "chapter_number": "§ 2",
+        "page_number": "207-210",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ukazovatel věcný i jmenný",
+    "chapter_number": "",
+    "page_number": "211-218",
+    "children": []
+  }
+]

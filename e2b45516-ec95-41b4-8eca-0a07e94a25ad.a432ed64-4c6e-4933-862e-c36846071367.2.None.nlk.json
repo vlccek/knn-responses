@@ -1,0 +1,133 @@
+
+[
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ČSSR",
+        "chapter_number": "I",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Právní sbírky",
+            "chapter_number": "",
+            "page_number": "553",
+            "children": []
+          },
+          {
+            "title": "Časopisy",
+            "chapter_number": "",
+            "page_number": "583",
+            "children": []
+          },
+          {
+            "title": "Knihy",
+            "chapter_number": "",
+            "page_number": "599",
+            "children": []
+          },
+          {
+            "title": "Různé",
+            "chapter_number": "",
+            "page_number": "602",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zahraničí",
+        "chapter_number": "II",
+        "page_number": "",
+        "children": [
+          {
+            "title": "NDR",
+            "chapter_number": "",
+            "page_number": "603",
+            "children": []
+          },
+          {
+            "title": "NSR",
+            "chapter_number": "",
+            "page_number": "607",
+            "children": []
+          },
+          {
+            "title": "Norsko",
+            "chapter_number": "",
+            "page_number": "614",
+            "children": []
+          },
+          {
+            "title": "Řecko",
+            "chapter_number": "",
+            "page_number": "617",
+            "children": []
+          },
+          {
+            "title": "SSSR",
+            "chapter_number": "",
+            "page_number": "618",
+            "children": []
+          },
+          {
+            "title": "Španělsko",
+            "chapter_number": "",
+            "page_number": "622",
+            "children": []
+          },
+          {
+            "title": "Švýcarsko",
+            "chapter_number": "",
+            "page_number": "624",
+            "children": []
+          },
+          {
+            "title": "Tunisko",
+            "chapter_number": "",
+            "page_number": "627",
+            "children": []
+          },
+          {
+            "title": "USA",
+            "chapter_number": "",
+            "page_number": "628",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "států",
+        "chapter_number": "",
+        "page_number": "640",
+        "children": []
+      },
+      {
+        "title": "jmenný",
+        "chapter_number": "",
+        "page_number": "641",
+        "children": []
+      },
+      {
+        "title": "věcný",
+        "chapter_number": "",
+        "page_number": "644",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Informační služby",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  }
+]

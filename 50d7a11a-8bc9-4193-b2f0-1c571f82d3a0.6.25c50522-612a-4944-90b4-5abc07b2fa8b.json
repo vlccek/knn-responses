@@ -1,0 +1,176 @@
+
+[
+  {
+    "title": "Koordinaten.",
+    "chapter_number": "I. Abschnitt",
+    "page_number": "5",
+    "children": [
+      {
+        "title": "Das rechtwinklige dreiachsige Koordinatensystem",
+        "chapter_number": "§ 1",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Ortsgleichung",
+        "chapter_number": "§ 2",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Der Strahl durch 0.",
+        "chapter_number": "§ 3",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Zwei Strahlen",
+        "chapter_number": "4",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Zwei Punkte und ihre Verbindungsgerade",
+        "chapter_number": "§ 5",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Die Ebene",
+        "chapter_number": "§ 6",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Die allgemeine Form der Gleichung der Ebene",
+        "chapter_number": "§ 7",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Gerade u. Ebene, Ebene u. Ebene, Gerade u. Gerade",
+        "chapter_number": "§ 8",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Die gerade Linie in Linienkoordinaten",
+        "chapter_number": "§ 9",
+        "page_number": "35",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Das Dualitätsprinzip.",
+    "chapter_number": "II. Abschnitt",
+    "page_number": "44",
+    "children": [
+      {
+        "title": "Der Ebenenbüschel",
+        "chapter_number": "§ 10",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Die Gleichung des Punktes in Ebenenkoordinaten",
+        "chapter_number": "§ 11",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Die Punktreihe",
+        "chapter_number": "§ 12",
+        "page_number": "57",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Koordinatentransformation.",
+    "chapter_number": "III. Abschnitt",
+    "page_number": "59",
+    "children": [
+      {
+        "title": "Drehung",
+        "chapter_number": "§ 13",
+        "page_number": "64",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Kugel.",
+    "chapter_number": "IV. Abschnitt",
+    "page_number": "73",
+    "children": [
+      {
+        "title": "Die Gleichung der Kugel. Potenzsatz.",
+        "chapter_number": "14",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Tangentialebene, Polarebene",
+        "chapter_number": "15",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Kugel und Kugel, Kugelkomplex, Kugelschar.",
+        "chapter_number": "16",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Die Inversion",
+        "chapter_number": "§ 17",
+        "page_number": "91",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Flächen zweiten Grades und zweiter Klasse in allgemeiner Behandlung.",
+    "chapter_number": "V. Abschnitt",
+    "page_number": "95",
+    "children": [
+      {
+        "title": "Die homogene Gleichung zweiten Grades mit vier Variabeln",
+        "chapter_number": "§ 18",
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "Polare",
+        "chapter_number": "19",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Das Tangential-Element",
+        "chapter_number": "20",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Pol und Polare",
+        "chapter_number": "21",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Geradlinige Quadrics",
+        "chapter_number": "22",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Die Reyeschen Achsen",
+        "chapter_number": "§ 23",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

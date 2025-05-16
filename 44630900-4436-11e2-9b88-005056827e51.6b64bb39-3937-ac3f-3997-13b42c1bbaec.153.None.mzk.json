@@ -1,0 +1,126 @@
+
+[
+  {
+    "title": "Rechts- u. Staatswissenschaften:",
+    "chapter_number": "XVII",
+    "page_number": "28",
+    "children": [
+      {
+        "title": "Handels- u. Wechselrecht",
+        "chapter_number": "a",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Nationalökonomie",
+        "chapter_number": "b",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Statistik",
+        "chapter_number": "c",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Rechts- u. Staatwissenschaften überhaupt",
+        "chapter_number": "d",
+        "page_number": "30",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Sammelwerke",
+    "chapter_number": "XVIII",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Technologie, chemische u. mechanische",
+    "chapter_number": "XIX",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Werke sonstigen Inhaltes:",
+    "chapter_number": "XX",
+    "page_number": "32",
+    "children": [
+      {
+        "title": "Belletristik",
+        "chapter_number": "a",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Berichte über Ausstellungen, Commissionen, Versammlungen",
+        "chapter_number": "b",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Bücherkunde, Bücherkataloge",
+        "chapter_number": "c",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Heilkunde und Hilfswissenschaften",
+        "chapter_number": "d",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Kriegswissenschaften",
+        "chapter_number": "e",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Philosophie",
+        "chapter_number": "f",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Sprachwissenschaft u. Schreibkunde",
+        "chapter_number": "g",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Unterrichtswesen u. Erziehungskunde",
+        "chapter_number": "h",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Varia",
+        "chapter_number": "i",
+        "page_number": "35",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zeitschriften u. periodische Werke:",
+    "chapter_number": "XXI",
+    "page_number": "35",
+    "children": [
+      {
+        "title": "Eingegangene oder aufgegebene",
+        "chapter_number": "a",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Gegenwärtig noch gehaltene",
+        "chapter_number": "b",
+        "page_number": "35",
+        "children": []
+      }
+    ]
+  }
+]

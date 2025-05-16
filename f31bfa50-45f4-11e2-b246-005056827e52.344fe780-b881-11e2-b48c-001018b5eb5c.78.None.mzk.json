@@ -1,0 +1,193 @@
+
+[
+  {
+    "title": "Pojem výroby",
+    "chapter_number": "1",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Problémy produkce",
+    "chapter_number": "2",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Činitelé výroby",
+    "chapter_number": "3",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Práce",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Pojem a druhy práce",
+        "chapter_number": "4",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Množství a jakost národní práce, pracovní nálada a hodnocení práce",
+        "chapter_number": "5",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Soustavy pracovní",
+        "chapter_number": "6",
+        "page_number": "16",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kapitál",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Pojem kapitálu (kapitál výrobní a kapitál výdělkový či těžebný)",
+        "chapter_number": "7",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Druhy kapitálu",
+        "chapter_number": "8",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Hospodářský význam kapitálu",
+        "chapter_number": "9",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Vznik a zánik kapitálu",
+        "chapter_number": "10",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Hospodářská organisace výroby",
+        "chapter_number": "11",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hospodářská organisace práce",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Pojem a druhy dělby práce",
+        "chapter_number": "12",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Podmínky a účinky dělby práce",
+        "chapter_number": "13",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Sdružování práce a národní dělba práce",
+        "chapter_number": "14",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Hospodářská organisace kapitálu jako aktivního činitele výroby",
+        "chapter_number": "15",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Hospodářský význam strojů ve výrobě",
+        "chapter_number": "16",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Kapitál jako pasivní činitel výroby",
+        "chapter_number": "17",
+        "page_number": "40",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Subjekty výrobní organisace",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Pojem a podstata podnikatelství",
+        "chapter_number": "18",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Dnešní tvary podniků. Podniky jednotlivců a podniky společné",
+        "chapter_number": "19",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Tvary kapitalistické čili t. zv. obchodní společnosti",
+        "chapter_number": "20",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Tvary akapitalistické a smíšené, družstva svépomocná",
+        "chapter_number": "21",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Podniky soukromé a veřejné a podniky smíšeněveřejné",
+        "chapter_number": "22",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Podniky malé a velké",
+        "chapter_number": "23",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Význam podnikatelství po stránce hospodářské a sociální",
+        "chapter_number": "24",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Soutěž ve výrobě a monopoly",
+        "chapter_number": "25",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Kartely, ringy a trusty",
+        "chapter_number": "26",
+        "page_number": "73",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Literatura",
+    "chapter_number": "",
+    "page_number": "76",
+    "children": []
+  }
+]

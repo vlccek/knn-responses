@@ -1,0 +1,77 @@
+
+[
+  {
+    "title": "ÚVOD",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "PŮSOBENÍ MYŠLENEK",
+    "chapter_number": "II",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "ZAPUZOVÁNÍ A OVLÁDÁNÍ MYŠLENEK",
+    "chapter_number": "III",
+    "page_number": "22",
+    "children": [
+      {
+        "title": "Porozumění",
+        "chapter_number": "1",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Odhodlání",
+        "chapter_number": "2",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Soustředěnost",
+        "chapter_number": "3",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Oduševnění",
+        "chapter_number": "4",
+        "page_number": "28",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "MEDITACE",
+    "chapter_number": "IV",
+    "page_number": "31",
+    "children": [
+      {
+        "title": "Rovnováha",
+        "chapter_number": "1",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Odpoutaost",
+        "chapter_number": "2",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Naplnění",
+        "chapter_number": "3",
+        "page_number": "41",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "SLOVO ZÁVĚREČNÍ",
+    "chapter_number": "V",
+    "page_number": "44",
+    "children": []
+  }
+]

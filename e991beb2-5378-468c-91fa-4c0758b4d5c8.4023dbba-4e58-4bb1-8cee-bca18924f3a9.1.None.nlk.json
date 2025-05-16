@@ -1,0 +1,90 @@
+
+[
+  {
+    "title": "Obsah",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Editorial: Biologika v dermatovenerologii",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Dermatologie",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Doporučení Evropského dermatologického fóra pro celkovou léčbu psoriázy - důležité informace a komentář",
+            "chapter_number": "",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Komorbidity psoriázy",
+            "chapter_number": "",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "Vliv psoriázy na psychický stav pacienta",
+            "chapter_number": "",
+            "page_number": "17",
+            "children": []
+          },
+          {
+            "title": "Dlouhodobá úspěšná terapie chronické psoriázy adalimumabem - kazuistika",
+            "chapter_number": "",
+            "page_number": "23",
+            "children": []
+          },
+          {
+            "title": "Rituximab (MabThera), biologická liečba ochorení skupiny pemfigus refraktérnych na imunosupresívnu a imunomodulačnú terapiu",
+            "chapter_number": "",
+            "page_number": "34",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Gastroenterologie",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Alergická reakcia na infliximab s následnou úspešnou liečbou Crohnovej choroby adalimumabom - kazuistika",
+            "chapter_number": "",
+            "page_number": "29",
+            "children": []
+          },
+          {
+            "title": "Algoritmus cílené léčby u nemocných s metastatickým karcinomem ledviny",
+            "chapter_number": "",
+            "page_number": "40",
+            "children": []
+          },
+          {
+            "title": "Seznam revmatologických center zaměřených na léčbu revmatoidní artritidy",
+            "chapter_number": "",
+            "page_number": "49",
+            "children": []
+          },
+          {
+            "title": "Seznam dermatologických center zaměřených na léčbu lupénky",
+            "chapter_number": "",
+            "page_number": "51",
+            "children": []
+          },
+          {
+            "title": "Seznam gastroenterologických center zaměřených na léčbu IBD",
+            "chapter_number": "",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

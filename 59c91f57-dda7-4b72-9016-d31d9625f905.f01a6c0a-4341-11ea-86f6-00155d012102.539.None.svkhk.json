@@ -1,0 +1,220 @@
+
+[
+  {
+    "title": "Ze zástupců mystického synthetismu",
+    "chapter_number": "d",
+    "page_number": "495-504",
+    "children": [
+      {
+        "title": "Z Antonína Sovy",
+        "chapter_number": "1",
+        "page_number": "495-498",
+        "children": [
+          {
+            "title": "Z realistických slok (Reconvalescentka). 2. Z Květů intimních nálad (Pustý mlýn). 3.-4. Z vybouřených smutků II. (Europa! Šly Touhy a Naděje). 5. Z Údolí nového království (K novému člověčenstvu). 6. Ze Tří zpěvů dnešků a zítřků (VII).",
+            "chapter_number": "1",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Z Otakara Březiny",
+        "chapter_number": "2",
+        "page_number": "498-504",
+        "children": [
+          {
+            "title": "Z tajemných dálek (Moje matka). 2.-3. Svítání na západě (Žalm ke cti nejvyššího jména. Víno silných). 4. Z Rukou (Kolozpěv srdcí).",
+            "chapter_number": "1",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Ze zástupců moderní prósy zábavné",
+    "chapter_number": "β",
+    "page_number": "504-523",
+    "children": [
+      {
+        "title": "Ze zástupců starších (přechodních)",
+        "chapter_number": "I",
+        "page_number": "504-507",
+        "children": [
+          {
+            "title": "Z Václava Kosmáka",
+            "chapter_number": "1",
+            "page_number": "504-507",
+            "children": [
+              {
+                "title": "Z Kukátek (Osamělý kvítek).",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ukázky ze zástupců novějších směru realistického",
+        "chapter_number": "II",
+        "page_number": "507-513",
+        "children": [
+          {
+            "title": "Ze zástupců všímajících si hlavně lidu venkovského",
+            "chapter_number": "a",
+            "page_number": "507-511",
+            "children": [
+              {
+                "title": "Z Karla Václava Raise",
+                "chapter_number": "1",
+                "page_number": "507-508",
+                "children": [
+                  {
+                    "title": "Vyňatek z Pulpánů.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Z Josefa Holečka",
+                "chapter_number": "2",
+                "page_number": "508-510",
+                "children": [
+                  {
+                    "title": "Vyňatek z Práhnutí (nová část »Našich«).",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "Z Terézy Novákové",
+                "chapter_number": "3",
+                "page_number": "510-511",
+                "children": [
+                  {
+                    "title": "Vyňatek z Jiřího Šmatlána.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Ze zástupců všímajících si lidu městského",
+            "chapter_number": "b",
+            "page_number": "511-513",
+            "children": [
+              {
+                "title": "Z Ignáta Herrmanna",
+                "chapter_number": "",
+                "page_number": "511-513",
+                "children": [
+                  {
+                    "title": "Vyňatek z črty Smlouva Pánů Škabrouta a Rysa a její zánik.",
+                    "chapter_number": "",
+                    "page_number": "",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Ukázky ze zástupců směru realistického nejnovějších",
+        "chapter_number": "III",
+        "page_number": "513-523",
+        "children": [
+          {
+            "title": "Z Viléma Mrštíka",
+            "chapter_number": "1",
+            "page_number": "513-514",
+            "children": [
+              {
+                "title": "Z knihy Zlatá nit. Fragmenty (Vlaštovky).",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Z Františka Xavera Svobody",
+            "chapter_number": "2",
+            "page_number": "514-516",
+            "children": [
+              {
+                "title": "Vyňatek z románu Rozkvět.",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Z Matěje Anastasie Šimáčka",
+            "chapter_number": "3",
+            "page_number": "516-518",
+            "children": [
+              {
+                "title": "Vyňatek z obrázku U řezaček.",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Z Josefa Karla Šlejhara",
+            "chapter_number": "4",
+            "page_number": "518-520",
+            "children": [
+              {
+                "title": "Komedie.",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Z Růženy Svobodové",
+            "chapter_number": "5",
+            "page_number": "520-523",
+            "children": [
+              {
+                "title": "Z Černých myslivců (Rána).",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Omyly",
+    "chapter_number": "",
+    "page_number": "524-525",
+    "children": []
+  },
+  {
+    "title": "Obsah",
+    "chapter_number": "",
+    "page_number": "526-540",
+    "children": []
+  }
+]

@@ -1,0 +1,89 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Erklärung der abgekürzten Autornamen",
+    "chapter_number": "",
+    "page_number": "IX",
+    "children": []
+  },
+  {
+    "title": "Erklärung sonstiger Zeichen und Erklärungen",
+    "chapter_number": "",
+    "page_number": "XI",
+    "children": []
+  },
+  {
+    "title": "Analytische Tabelle zur Bestimmung der Pflanzenfamilien",
+    "chapter_number": "",
+    "page_number": "XII",
+    "children": []
+  },
+  {
+    "title": "Spezieller Teil:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Pteridophyta. Farpflanzen",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Gymnospermae. Nacktsamige",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Monocotyledoneae. Einkeimblättrige",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Dicotyledoneae. Zweikeimblättrige",
+        "chapter_number": "",
+        "page_number": "130",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Anhang:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "1. Übersicht der Pflanzenformationen des Gebietes",
+        "chapter_number": "1",
+        "page_number": "538",
+        "children": []
+      },
+      {
+        "title": "2. Die geographische Verbreitung unserer Pflanzen",
+        "chapter_number": "2",
+        "page_number": "546",
+        "children": []
+      },
+      {
+        "title": "Verzeichnis der deutschen Namen.",
+        "chapter_number": "",
+        "page_number": "548",
+        "children": []
+      },
+      {
+        "title": "Verzeichnis der wissenschaftlichen Pflanzennamen",
+        "chapter_number": "",
+        "page_number": "554",
+        "children": []
+      }
+    ]
+  }
+]

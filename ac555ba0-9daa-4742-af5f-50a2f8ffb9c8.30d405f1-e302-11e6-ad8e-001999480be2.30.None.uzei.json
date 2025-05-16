@@ -1,0 +1,71 @@
+
+[
+  {
+    "title": "Význam plevele v hospodářství polním a lučním",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Jak plevel se množí",
+    "chapter_number": "II",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Škody, jež plevel působí",
+    "chapter_number": "III",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Hubení plevele",
+    "chapter_number": "IV",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "Hubení plevele lučního",
+        "chapter_number": "a",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Hubení plevele polního",
+        "chapter_number": "b",
+        "page_number": "12",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kokotice, pýr a bodlák",
+    "chapter_number": "V",
+    "page_number": "17",
+    "children": [
+      {
+        "title": "Kokotice",
+        "chapter_number": "a",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Pýr",
+        "chapter_number": "b",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Bodlák",
+        "chapter_number": "c",
+        "page_number": "23",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hubení plevele společným úsilím rolníkův",
+    "chapter_number": "VI",
+    "page_number": "24",
+    "children": []
+  }
+]

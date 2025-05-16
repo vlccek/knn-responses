@@ -1,0 +1,283 @@
+
+[
+  {
+    "title": "Hlava prvá.",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Úvod do mikroskopie pivovarské",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Popis mikroskopu",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "O mikroskopování vůbec",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Mikroskopické zkoumání kvasnic zvlášť",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hlava druhá.",
+    "chapter_number": "",
+    "page_number": "12",
+    "children": [
+      {
+        "title": "Všeobecná úvaha o kvasidlech vůbec",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hlava třetí.",
+    "chapter_number": "",
+    "page_number": "15",
+    "children": [
+      {
+        "title": "Roztřídění kvasidel a popis jednotlivých řádů a druhů",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "I. Kvasnice lihové (Saccharomyces-Mayen, Ascomycetes-Nägeli. Schlauch-\npilze; Sprosspilze)",
+        "chapter_number": "I",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Kvasnice pivni. (Saccharomyces cerevisiae. - Mayen)",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Kvasnice vinné. (Saccharomyces ellipsoideus. - Rees)",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Kvasnice vinné II. (Saccharomyces ellipsoideus II. Hansen)",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Kvasnice kuželovité. (Saccharomyces exiguus. - Rees)",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Kvasnice Pasteurovy I. (Saccharomyces Pastorianus I. - Rees)",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Kvasnice Pasteurovy II. (Saccharomyces Pastorianus II. - Rees)",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Kvasnice Pasteurovy III. (Saccharomyces Pastorianus III. - Hansen)",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Kvasnice citronovité č. bradavkovité (Saccharomyces apiculatus. - Rees)",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Kvasnice skupené. (Saccharomyces conglomeratus. - Rees)",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Kvasnice Reesovy. (Saccharomyces Reesii)",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Saccharomyces minor Engel",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Kvasnice sýrovité. (Levure caséeuse. - Pasteur)",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Saccharomyces Mycoderma. - Rees",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Dodatek k řádu Saccharomyces (Torula)",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "II. Plísně. (Schimmelpilze)",
+        "chapter_number": "II",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Obyčejná plíseň štětcová. (Penicillium glaucum. Penicillium crustaceum - Lk)",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Plíseň mléčná. (Oidium lactis)",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Plíseň sivá. (Eurotium Aspergillus glaucus)",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Plíseň šedá. (Botrytis cinerea. Botrytis acinorum)",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Plíseň obecná. (Mucor mucedo)",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Plíseň černá. (Mucor racemosus)",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Plíseň Mucor circinelloides",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Plíseň klesalka šedivá (Mucor stolonifer. Rhizopus nigricans)",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Snůratka sklepní",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "III. Kvasinky. (Bacteriae. Schizomycetes. - Nägeli. - Spaltpilze.)",
+        "chapter_number": "III",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Kvasinky octové. (Mycoderma aceti. Essigsäurebacterien)",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Kvasinky kyseliny mléčné. (Milchsäurebacterien. Bacterium acidi lactici (Zopf)",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Sarcina",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Kvasidio kyseliny máselné. (Clostridium butyricum)",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Organismy kvašení sliznatého. (Micrococcus uvae. - Cohn)",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Kvasidlo chleba černého čili žitného. (Bacillus panificans)",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Kvasinky dextranové. (Leuconostoc mesenteroides)",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Kvasinky vodní. (Crenothrix Kühniana)",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Kvasinky hnilobné",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hlava čtvrtá.",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": [
+      {
+        "title": "Výsledky a úspěchy vědeckých prací mikroskopických v praksi pivovarské",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,313 @@
+
+[
+  {
+    "title": "Všeobecná část.",
+    "chapter_number": "A",
+    "page_number": "Str.",
+    "children": [
+      {
+        "title": "Zeměpisná šířka a délka",
+        "chapter_number": "1",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Jak vznikla země",
+        "chapter_number": "2",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Jak vznikly hory a roviny.",
+        "chapter_number": "3",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Čím jsou důležity ráz povr-chu zemského a složení země pro člověka",
+        "chapter_number": "4",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Co nám vyprávějí mapy",
+        "chapter_number": "5",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Pohyb vzduchu na země-kouli",
+        "chapter_number": "6",
+        "page_number": "11",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Popisná část.",
+    "chapter_number": "B",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Všeobecný přehled Asie",
+        "chapter_number": null,
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Ruská Asie.",
+        "chapter_number": "I",
+        "page_number": "20",
+        "children": [
+          {
+            "title": "Kavkazsko",
+            "chapter_number": "1",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "Ruská Střední Asie",
+            "chapter_number": "2",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Sibiř",
+            "chapter_number": "3",
+            "page_number": "23",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Vysoká a Východní Asie",
+        "chapter_number": "II",
+        "page_number": "27",
+        "children": [
+          {
+            "title": "Čínská říše",
+            "chapter_number": "1",
+            "page_number": "27",
+            "children": []
+          },
+          {
+            "title": "Japan",
+            "chapter_number": "2",
+            "page_number": "34",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Jižní Asie",
+        "chapter_number": "III",
+        "page_number": "36",
+        "children": [
+          {
+            "title": "Východoindické souostroví.",
+            "chapter_number": "1",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Zadní Indie",
+            "chapter_number": "2",
+            "page_number": "38",
+            "children": []
+          },
+          {
+            "title": "Přední Indie",
+            "chapter_number": "3",
+            "page_number": "39",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Přední Asie",
+        "chapter_number": "IV",
+        "page_number": "43",
+        "children": [
+          {
+            "title": "Iranské země",
+            "chapter_number": "1",
+            "page_number": "46",
+            "children": []
+          },
+          {
+            "title": "Osmanská říše",
+            "chapter_number": "2",
+            "page_number": "47",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Afrika. I. Přehled.",
+        "chapter_number": null,
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vysoká Afrika.",
+    "chapter_number": "II",
+    "page_number": "52",
+    "children": [
+      {
+        "title": "Jižní Afrika",
+        "chapter_number": "1",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Vysočina Východoafrická",
+        "chapter_number": "2",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Vysočina Habešská s pobřežím",
+        "chapter_number": "3",
+        "page_number": "54",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Nízká Airika.",
+    "chapter_number": "III",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Úvodí Konga s pobř. dolno-guinejským.",
+        "chapter_number": "1",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Sudan",
+        "chapter_number": "2",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Sahara",
+        "chapter_number": "3",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Nilské země",
+        "chapter_number": "4",
+        "page_number": "59",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Atlasské země.",
+    "chapter_number": "IV",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Africké ostrovy.",
+    "chapter_number": "V",
+    "page_number": "64",
+    "children": []
+  },
+  {
+    "title": "Evropa. I. Všeobecný přehled.",
+    "chapter_number": null,
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Jižní Evropa.",
+    "chapter_number": "II",
+    "page_number": "71",
+    "children": [
+      {
+        "title": "Poloostrov Balkánský",
+        "chapter_number": null,
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Království Řecké",
+        "chapter_number": null,
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Osmanská říše",
+        "chapter_number": null,
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Království Bulharské",
+        "chapter_number": null,
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Království Srbské",
+        "chapter_number": null,
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Království Černohorské",
+        "chapter_number": null,
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Království Rumunské",
+        "chapter_number": null,
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Poloostrov Apenninský, Království Italské",
+        "chapter_number": null,
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Poloostrov Pyrenejský",
+        "chapter_number": null,
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Království Španělské",
+        "chapter_number": null,
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Republika Portugalská",
+        "chapter_number": null,
+        "page_number": "91",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Západní Evropa.",
+    "chapter_number": "III",
+    "page_number": "91",
+    "children": [
+      {
+        "title": "Spojené království Vel. Britannie a Irska",
+        "chapter_number": null,
+        "page_number": "91",
+        "children": []
+      }
+    ]
+  }
+]

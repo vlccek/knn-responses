@@ -1,0 +1,33 @@
+
+[
+  {
+    "title": "Čistění (seč čisticí)",
+    "chapter_number": "1",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Probirka (seč probírací)",
+    "chapter_number": "2",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Prosvětlení (seč prosvětlujíci)",
+    "chapter_number": "3",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Okleštění (seč vyvětvovací)",
+    "chapter_number": "4",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "Vyklízení (seč vvklizovací)",
+    "chapter_number": "5",
+    "page_number": "18",
+    "children": []
+  }
+]

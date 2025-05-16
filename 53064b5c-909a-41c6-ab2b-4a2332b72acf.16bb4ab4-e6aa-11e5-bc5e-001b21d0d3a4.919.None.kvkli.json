@@ -1,0 +1,533 @@
+
+[
+  {
+    "title": "Rathaus in Reichenberg, Titelbild",
+    "chapter_number": "1",
+    "page_number": "1"
+  },
+  {
+    "title": "Ruine Hammerstein (Neißeschling.)",
+    "chapter_number": "2",
+    "page_number": "10"
+  },
+  {
+    "title": "Die Schwarze Neiße w. d. Hochw.",
+    "chapter_number": "3",
+    "page_number": "17"
+  },
+  {
+    "title": "Das Katharinberger Tal",
+    "chapter_number": "4",
+    "page_number": "20"
+  },
+  {
+    "title": "Das Christophsgrunder Tal",
+    "chapter_number": "5",
+    "page_number": "24"
+  },
+  {
+    "title": "Der Drachenstein (Ans. v. Nord.)",
+    "chapter_number": "6",
+    "page_number": "33"
+  },
+  {
+    "title": "Engtal des Görsbaches",
+    "chapter_number": "7",
+    "page_number": "41"
+  },
+  {
+    "title": "Wärme- und Dunstdruck-Tabelle",
+    "chapter_number": "8",
+    "page_number": "48"
+  },
+  {
+    "title": "Die Kirche in Christophsgrund",
+    "chapter_number": "9",
+    "page_number": "117"
+  },
+  {
+    "title": "Schafwollwarenfabrik der Firma Josef Zimmermann in Habendorf",
+    "chapter_number": "10",
+    "page_number": "271"
+  },
+  {
+    "title": "Feintuchfabrik der Firma J. I. Salomon in Katharinberg",
+    "chapter_number": "11",
+    "page_number": "279"
+  },
+  {
+    "title": "Wollwarenfabrik der Firma Joh. Liebieg & Ko. in Reichenberg",
+    "chapter_number": "12",
+    "page_number": "283"
+  },
+  {
+    "title": "Wollwarenfabrik der Firma",
+    "chapter_number": "13",
+    "page_number": ""
+  },
+  {
+    "title": "Blaschka & Ko. in Liebenau.",
+    "chapter_number": "14",
+    "page_number": "286"
+  },
+  {
+    "title": "Schafwollwarenfabrik der Firma Fr. Schmitt in Böhm. Aicha",
+    "chapter_number": "14",
+    "page_number": "289"
+  },
+  {
+    "title": "Fabrik der Firma A. Schwab in Hammerstein-Machendorf",
+    "chapter_number": "15",
+    "page_number": "297"
+  },
+  {
+    "title": "Teppich- u. Deckenfabrik d. Firma Ig. Ginzkey in Maffersdorf",
+    "chapter_number": "16",
+    "page_number": "301"
+  },
+  {
+    "title": "Bierbrauerei Maffersdorf",
+    "chapter_number": "17",
+    "page_number": "320"
+  },
+  {
+    "title": "Der Jägerhaustunnel",
+    "chapter_number": "18",
+    "page_number": "358"
+  },
+  {
+    "title": "Reichenberg im Jahre 1763",
+    "chapter_number": "19",
+    "page_number": "388"
+  },
+  {
+    "title": "Villenviertel in Reichenberg",
+    "chapter_number": "20",
+    "page_number": "554"
+  },
+  {
+    "title": "Gesamtansicht von Voigtsbach",
+    "chapter_number": "21",
+    "page_number": "623"
+  },
+  {
+    "title": "Hochaltar in der Schloßkapelle",
+    "chapter_number": "22",
+    "page_number": "708"
+  },
+  {
+    "title": "Ruine Hammerstein i. J. 1763",
+    "chapter_number": "23",
+    "page_number": "715"
+  },
+  {
+    "title": "Das Schloß Grafenstein",
+    "chapter_number": "24",
+    "page_number": "736"
+  },
+  {
+    "title": "Schloß Böhm. Aicha v. d. Brande",
+    "chapter_number": "25",
+    "page_number": "760"
+  },
+{
+"title": "Blockwandhaus südl. d. Jeschkens",
+"chapter_number": "11",
+"page_number": "123"
+},
+{
+"title": "Schmerzensfestprozession i. J.1745",
+"chapter_number": "12",
+"page_number": "190"
+},
+{
+"title": "Altstädter Volksschule, Reichenberg",
+"chapter_number": "13",
+"page_number": "192"
+},
+{
+"title": "Schüßenhaus in Reichenberg",
+"chapter_number": "14",
+"page_number": "193"
+},
+{
+"title": "Fahnenweihe d. Reichenb. Schüßenk.",
+"chapter_number": "15",
+"page_number": "194"
+},
+{
+"title": "Das alte Rathaus in Reichenberg",
+"chapter_number": "16",
+"page_number": "195"
+},
+{
+"title": "Drachenstein (Ansicht von Süden)",
+"chapter_number": "17",
+"page_number": "207"
+},
+{
+"title": "Teufelssiz bei Christianstal",
+"chapter_number": "18",
+"page_number": "209"
+},
+{
+"title": "Reitstein bei Katharinberg",
+"chapter_number": "19",
+"page_number": "212"
+},
+{
+"title": "Dornstfelsen bei Grenzendorf.",
+"chapter_number": "20",
+"page_number": "213"
+},
+{
+"title": "Ruine Hammerstein i. J. 1902.",
+"chapter_number": "21",
+"page_number": "217"
+},
+{
+"title": "Lager d. Reichenb. Nationalgarde",
+"chapter_number": "22",
+"page_number": "222"
+},
+{
+"title": "Jos. Müller-Denkmal, Reichenberg.",
+"chapter_number": "23",
+"page_number": "223"
+},
+{
+"title": "Turnhalle d. D. T.-V., Reichenberg",
+"chapter_number": "24",
+"page_number": "226"
+},
+{
+"title": "Jahn-Denkmal in Friedrichswald",
+"chapter_number": "25",
+"page_number": "227"
+},
+{
+"title": "Gondelteich in Reichenberg",
+"chapter_number": "26",
+"page_number": "245"
+},
+{
+"title": "Johann v. Liebieg",
+"chapter_number": "27",
+"page_number": "284"
+},
+{
+"title": "Konrad Blaschka.",
+"chapter_number": "28",
+"page_number": "286"
+},
+{
+"title": "Franz v. Liebieg",
+"chapter_number": "29",
+"page_number": "287"
+},
+{
+"title": "Franz Ritter von Schmitt",
+"chapter_number": "30",
+"page_number": "289"
+},
+{
+"title": "S. S. Neumann",
+"chapter_number": "31",
+"page_number": "290"
+},
+{
+"title": "Josef Herzig",
+"chapter_number": "32",
+"page_number": "296"
+},
+{
+"title": "Adolf Schwab",
+"chapter_number": "33",
+"page_number": "298"
+},
+{
+"title": "Ignaz Ginzkey d. Aeltere",
+"chapter_number": "34",
+"page_number": "302"
+},
+{
+"title": "Ignaz Ginzkey d. Jüngere",
+"chapter_number": "35",
+"page_number": "303"
+},
+{
+"title": "Leopold Joh. Riedel",
+"chapter_number": "36",
+"page_number": "308"
+},
+{
+"title": "Christianstal vor dem Brande",
+"chapter_number": "37",
+"page_number": "310"
+},
+{
+"title": "Station Langenbruck-Hermannstal",
+"chapter_number": "38",
+"page_number": "353"
+},
+{
+"title": "Eisenbahnviadukt bei Machendorf",
+"chapter_number": "39",
+"page_number": "354"
+},
+{
+"title": "Reichenberger Sparkasse",
+"chapter_number": "40",
+"page_number": "371"
+},
+{
+"title": "Karl Herzig",
+"chapter_number": "41",
+"page_number": "372"
+},
+{
+"title": "Filiale der k. f. priv. österr. Kredit- Anstalt für Handel und Gewerbe",
+"chapter_number": "42",
+"page_number": "374"
+},
+{
+"title": "Amtsgebäude der Filiale der k. f. priv. Unionbank in Reichenberg.",
+"chapter_number": "43",
+"page_number": "375"
+},
+{
+"title": "Privatgelda. d. J. 1848, 1849,1866",
+"chapter_number": "44",
+"page_number": "384"
+},
+{
+"title": "Adolf Schmidt",
+"chapter_number": "45",
+"page_number": "391"
+},
+{
+"title": "Handelskammer-Gebäude",
+"chapter_number": "46",
+"page_number": "392"
+},
+{
+"title": "Ferd. v. Liebieg",
+"chapter_number": "47",
+"page_number": "394"
+},
+{
+"title": "Nordb. Gewerbemus., Reichenberg",
+"chapter_number": "48",
+"page_number": "396"
+},
+{
+"title": "Melchior von Rädern",
+"chapter_number": "49",
+"page_number": "441"
+},
+{
+"title": "Christian Philipp v. Clam-Gallas",
+"chapter_number": "50",
+"page_number": "446"
+},
+{
+"title": "Staatsgewerbeschule, Reichenberg",
+"chapter_number": "51",
+"page_number": "465"
+},
+{
+"title": "K. k. Fachschule f. Weberei,",
+"chapter_number": "52",
+"page_number": "474"
+},
+{
+"title": "Wilhelm Gärtner",
+"chapter_number": "53",
+"page_number": "501"
+},
+{
+"title": "Wilhelm Siegmund.",
+"chapter_number": "54",
+"page_number": "509"
+},
+{
+"title": "Dr. Heinrich Hlasiwez",
+"chapter_number": "55",
+"page_number": "515"
+},
+{
+"title": "Reichenberger Stadttheater",
+"chapter_number": "56",
+"page_number": "533"
+},
+{
+"title": "Josef Proksch.",
+"chapter_number": "57",
+"page_number": "537"
+},
+{
+"title": "Josef Ritter v. Führich",
+"chapter_number": "58",
+"page_number": "545"
+},
+{
+"title": "Mariensäule in Reichenberg",
+"chapter_number": "59",
+"page_number": "547"
+},
+{
+"title": "Deutsches Haus in Reichenberg",
+"chapter_number": "60",
+"page_number": "553"
+},
+{
+"title": "Kaiser Josef-Denkmal, Reichenberg",
+"chapter_number": "61",
+"page_number": "560"
+},
+{
+"title": "Deutsche Volksschule in Bösching",
+"chapter_number": "62",
+"page_number": "562"
+},
+{
+"title": "Neues Versorgungshaus, Reichenb,",
+"chapter_number": "63",
+"page_number": "583"
+},
+{
+"title": "Neues städt. Waisenhaus,",
+"chapter_number": "64",
+"page_number": "584"
+},
+{
+"title": "Ferienkolonie in Christianstal",
+"chapter_number": "65",
+"page_number": "606"
+},
+{
+"title": "Schlußsteinleg. d. Stefans-Hosp.",
+"chapter_number": "66",
+"page_number": "609"
+},
+{
+"title": "Stefans-Hospital in Reichenberg",
+"chapter_number": "67",
+"page_number": "610"
+},
+{
+"title": "Augenheilanstalt d. Stefans-Hosp.",
+"chapter_number": "68",
+"page_number": "611"
+},
+{
+"title": "Privat-Heilanstalt d. Dr. M. Brey",
+"chapter_number": "69",
+"page_number": "614"
+},
+{
+"title": "Kaiser Franz Josef-Bad, Reichenb.",
+"chapter_number": "70",
+"page_number": "619"
+},
+{
+"title": "Massersdorfer Sauerbrunn",
+"chapter_number": "71",
+"page_number": "621"
+},
+{
+"title": "Bad Zur Wartburg in Ketten",
+"chapter_number": "72",
+"page_number": "622"
+},
+{
+"title": "Wappen d. Freiherren v. Biberstein",
+"chapter_number": "73",
+"page_number": "686"
+},
+{
+"title": "Rädern",
+"chapter_number": "74",
+"page_number": "692"
+},
+{
+"title": "Katharina v. Rädern",
+"chapter_number": "75",
+"page_number": "694"
+},
+{
+"title": "Wappen d. Herzogs A. v. Waldstein",
+"chapter_number": "76",
+"page_number": "696"
+},
+{
+"title": "der Grafen Gallas",
+"chapter_number": "77",
+"page_number": "703"
+},
+{
+"title": "Clam",
+"chapter_number": "78",
+"page_number": "705"
+},
+{
+"title": "Das Schloß Reichenberg",
+"chapter_number": "79",
+"page_number": "706"
+},
+{
+"title": "Schloßkapelle in Reichenberg",
+"chapter_number": "80",
+"page_number": "708"
+},
+{
+"title": "Heistern'sches Wappen",
+"chapter_number": "81",
+"page_number": "722"
+},
+{
+"title": "Jansen'sches",
+"chapter_number": "82",
+"page_number": "722"
+},
+{
+"title": "Die Burgruine Roynungen",
+"chapter_number": "83",
+"page_number": "738"
+},
+{
+"title": "Fürstlich Rohan'sches Wappen",
+"chapter_number": "84",
+"page_number": "759"
+},
+{
+"title": "Erstürmungd.Reichenb. Rathauses",
+"chapter_number": "85",
+"page_number": "794"
+},
+{
+"title": "Kriegerdenkmal in Liebenan",
+"chapter_number": "86",
+"page_number": "841"
+},
+{
+"title": "Franz von Panz-Denkmal",
+"chapter_number": "87",
+"page_number": "842"
+},
+{
+"title": "Kriegerdenkmal in Kratzau",
+"chapter_number": "88",
+"page_number": "843"
+},
+{
+"title": "Kaiser Nikolaus in Reichenberg",
+"chapter_number": "89",
+"page_number": "850"
+},
+{
+"title": "Erzherzog Stephan in Reichenberg",
+"chapter_number": "90",
+"page_number": "851"
+}
+]

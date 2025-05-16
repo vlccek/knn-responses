@@ -1,0 +1,119 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Seznam knihoven",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Univerzální knihovny",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Speciální knihovny",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Společenské vědy a umění",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Přírodní vědy",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Lékařství",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Zemědělství",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Technika",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Univerzální",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Geologie, hydrologie a těžba rud",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Chemie a chemická zařízení",
+        "chapter_number": "",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Strojírenství a těžký průmysl",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Elektrotechnika a energetika",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Textilní průmysl",
+        "chapter_number": "",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Stavebnictví",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Ostatní průmyslová odvětví",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rejstřík samostatných knihoven a institucí",
+    "chapter_number": "",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Předmětový rejstřík",
+    "chapter_number": "",
+    "page_number": "57",
+    "children": []
+  }
+]

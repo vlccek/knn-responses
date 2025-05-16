@@ -1,0 +1,94 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "1",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Organisace a finanční prostředky komitétu",
+    "chapter_number": "2",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Objem súčastnění",
+    "chapter_number": "3",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Zprávy posuzovacích odborů:",
+    "chapter_number": "4",
+    "page_number": "12",
+    "children": [
+      {
+        "title": "Zvířata",
+        "chapter_number": "5",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Stroje a nářadí",
+        "chapter_number": "6",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Rozličné předměty",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Výsledky obchodní vůbec a zvlášť",
+    "chapter_number": "7",
+    "page_number": "35",
+    "children": []
+  },
+  {
+    "title": "Loterie a dojení o závod",
+    "chapter_number": "8",
+    "page_number": "36",
+    "children": []
+  },
+  {
+    "title": "Dražba",
+    "chapter_number": "9",
+    "page_number": "38",
+    "children": []
+  },
+  {
+    "title": "Odborné přednášky",
+    "chapter_number": "10",
+    "page_number": "38",
+    "children": []
+  },
+  {
+    "title": "Kniha plemenní (stadní tabulky)",
+    "chapter_number": "11",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "K závěrku",
+    "chapter_number": "12",
+    "page_number": "41",
+    "children": []
+  },
+  {
+    "title": "Příloha A.",
+    "chapter_number": "",
+    "page_number": "44",
+    "children": []
+  },
+  {
+    "title": "Příloha B.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  }
+]

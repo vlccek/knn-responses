@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "III-VI",
+    "children": []
+  },
+  {
+    "title": "Burg Pürglitz",
+    "chapter_number": "",
+    "page_number": "I--2",
+    "children": []
+  },
+  {
+    "title": "Historische Übersicht",
+    "chapter_number": "I",
+    "page_number": "3-14",
+    "children": []
+  },
+  {
+    "title": "Baugeschichte",
+    "chapter_number": "II",
+    "page_number": "15-26",
+    "children": []
+  },
+  {
+    "title": "Beschreibung der Bauwerke",
+    "chapter_number": "III",
+    "page_number": "27",
+    "children": [
+      {
+        "title": "Disposition",
+        "chapter_number": "a",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "das Äußere",
+        "chapter_number": "b",
+        "page_number": "27-66",
+        "children": []
+      },
+      {
+        "title": "das Innere",
+        "chapter_number": "c",
+        "page_number": "66-107",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Bibliothek",
+    "chapter_number": "",
+    "page_number": "107-119",
+    "children": []
+  },
+  {
+    "title": "Gemälde und Reliefs",
+    "chapter_number": "",
+    "page_number": "119-144",
+    "children": []
+  },
+  {
+    "title": "Sammlungen",
+    "chapter_number": "",
+    "page_number": "144-150",
+    "children": []
+  }
+]

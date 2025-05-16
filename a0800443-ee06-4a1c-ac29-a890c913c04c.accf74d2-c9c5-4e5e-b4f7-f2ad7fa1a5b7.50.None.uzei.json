@@ -1,0 +1,91 @@
+
+[
+  {
+    "title": "Dějinný význam zlidovění půdy",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Družstevní provozování zemědělství",
+    "chapter_number": "II",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Zkušenosti družstev konsumních",
+        "chapter_number": "1",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Zkušenosti družstev pro vlastní výrobu zemědělskou",
+        "chapter_number": "2",
+        "page_number": "11",
+        "children": [
+          {
+            "title": "družstva pro společné hospodaření",
+            "chapter_number": "a",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "družstva pro hospodaření rozdělené",
+            "chapter_number": "b",
+            "page_number": "15",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Přímá účast zemědělských družstev při zlidovění půdy",
+    "chapter_number": "III",
+    "page_number": "29",
+    "children": [
+      {
+        "title": "Účast Kampeliček",
+        "chapter_number": "1",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Účast drdužstev výrobních a j.",
+        "chapter_number": "2",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Účast družstev strojních",
+        "chapter_number": "3",
+        "page_number": "32",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Důsledky zlidovění půdy pro družstva zemědělská",
+    "chapter_number": "IV",
+    "page_number": "34",
+    "children": [
+      {
+        "title": "Kampeličky",
+        "chapter_number": "1",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Družstva nákupní, prodejní, výrobní a pomocná",
+        "chapter_number": "2",
+        "page_number": "36",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Smysl družstevního podnikání",
+    "chapter_number": "V",
+    "page_number": "42",
+    "children": []
+  }
+]

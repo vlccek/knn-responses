@@ -1,0 +1,126 @@
+
+[
+  {
+    "title": "Skutečné podnebí zemědílů.",
+    "chapter_number": "",
+    "page_number": "VII",
+    "children": [
+      {
+        "title": "Podnebí a plodiny Evropy",
+        "chapter_number": "§. 54",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Podnebí a plodiny Asie",
+        "chapter_number": "§. 55",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Podnebí a plodiny Afriky",
+        "chapter_number": "§. 56",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Podnebí a plodiny Ameriky",
+        "chapter_number": "§. 57",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Podnebí a plodiny Australie",
+        "chapter_number": "§. 58",
+        "page_number": "92",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Člověk.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Ráz a vliv jeho",
+        "chapter_number": "§. 59",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Plemena lidská.",
+        "chapter_number": "§. 60",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Vzájemné poměry jejich",
+        "chapter_number": "§. 61",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Poměry vzdělání",
+        "chapter_number": "§. 62",
+        "page_number": "97",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zeměpis občanský.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Evropa.",
+        "chapter_number": "§. 63",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Evropa celkem.",
+        "chapter_number": "§. 64",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Evropská velměsta",
+        "chapter_number": "§. 65",
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Asie",
+        "chapter_number": "§. 66",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Afrika",
+        "chapter_number": "§. 67",
+        "page_number": "112",
+        "children": []
+      },
+      {
+        "title": "Amerika",
+        "chapter_number": "§. 68",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Australie",
+        "chapter_number": "§. 69",
+        "page_number": "115",
+        "children": []
+      },
+      {
+        "title": "Přehled držav vůbec",
+        "chapter_number": "§. 70",
+        "page_number": "115",
+        "children": []
+      }
+    ]
+  }
+]

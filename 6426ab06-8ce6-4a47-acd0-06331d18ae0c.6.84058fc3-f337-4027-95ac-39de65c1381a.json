@@ -1,0 +1,34 @@
+
+[
+  {
+    "title": "O životě a činnosti Ednarda Weyra:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O životě Eduarda Weyra. Napsal K. Petr.",
+        "chapter_number": "I",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "O Weyrové činnosti v mathem. analysi a algebře. Napsal K. Petr",
+        "chapter_number": "II",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "O Weyrové činnosti v geometrii. Napsal J. Sobotka",
+        "chapter_number": "III",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Chronologický seznam publikací Ed. Weyra. Sestavil K. Petr",
+        "chapter_number": "IV",
+        "page_number": "53",
+        "children": []
+      }
+    ]
+  }
+]

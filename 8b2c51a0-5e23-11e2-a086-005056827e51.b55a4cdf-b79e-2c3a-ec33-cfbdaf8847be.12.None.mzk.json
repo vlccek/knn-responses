@@ -1,0 +1,127 @@
+
+[
+  {
+    "title": "Všeobecné materiály",
+    "chapter_number": "1",
+    "page_number": "165",
+    "children": []
+  },
+  {
+    "title": "Příroda. Přírodní vědy",
+    "chapter_number": "2",
+    "page_number": "166",
+    "children": []
+  },
+  {
+    "title": "Dějiny a národopis",
+    "chapter_number": "3",
+    "page_number": "167",
+    "children": [
+      {
+        "title": "Dějiny",
+        "chapter_number": "3.1",
+        "page_number": "167",
+        "children": [
+          {
+            "title": "Celkové práce",
+            "chapter_number": "3.1.1",
+            "page_number": "167",
+            "children": []
+          },
+          {
+            "title": "Období do r. 1848",
+            "chapter_number": "3.1.2",
+            "page_number": "168",
+            "children": []
+          },
+          {
+            "title": "Období po r. 1848",
+            "chapter_number": "3.1.3",
+            "page_number": "170",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Národopis",
+        "chapter_number": "3.2",
+        "page_number": "171",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Politický a veřejný život. Sociální a zdravotní péče",
+    "chapter_number": "4",
+    "page_number": "172",
+    "children": []
+  },
+  {
+    "title": "Hospodářský život",
+    "chapter_number": "5",
+    "page_number": "173",
+    "children": [
+      {
+        "title": "Všeobecně",
+        "chapter_number": "5.1",
+        "page_number": "173",
+        "children": []
+      },
+      {
+        "title": "Průmysl",
+        "chapter_number": "5.2",
+        "page_number": "174",
+        "children": []
+      },
+      {
+        "title": "Zemědělství",
+        "chapter_number": "5.3",
+        "page_number": "176",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kulturní život",
+    "chapter_number": "6",
+    "page_number": "177",
+    "children": [
+      {
+        "title": "Školství",
+        "chapter_number": "6.1",
+        "page_number": "177",
+        "children": []
+      },
+      {
+        "title": "Hvězdárna, knihovny, muzeum",
+        "chapter_number": "6.2",
+        "page_number": "180",
+        "children": []
+      },
+      {
+        "title": "Jazyk. Literatura. Tisk",
+        "chapter_number": "6.3",
+        "page_number": "182",
+        "children": []
+      },
+      {
+        "title": "Umění",
+        "chapter_number": "6.4",
+        "page_number": "185",
+        "children": []
+      },
+      {
+        "title": "Tělovýchova",
+        "chapter_number": "6.5",
+        "page_number": "190",
+        "children": []
+      },
+      {
+        "title": "Zájmová činnost",
+        "chapter_number": "6.6",
+        "page_number": "192",
+        "children": []
+      }
+    ]
+  }
+]

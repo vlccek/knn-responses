@@ -1,0 +1,240 @@
+
+[
+  {
+    "title": "Bájky",
+    "chapter_number": "I",
+    "page_number": "137",
+    "children": []
+  },
+  {
+    "title": "Průpovědi, anekdoty, krátké příběhy",
+    "chapter_number": "II",
+    "page_number": "140",
+    "children": []
+  },
+  {
+    "title": "Delší články souvislé:",
+    "chapter_number": "III",
+    "page_number": "145",
+    "children": [
+      {
+        "title": "Návrh Aristeidův po bitvě Salamínské",
+        "chapter_number": "1",
+        "page_number": "146",
+        "children": []
+      },
+      {
+        "title": "Příběhové předcházející bitvu Platajskou",
+        "chapter_number": "2",
+        "page_number": "149",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Malé výňatky básnické",
+    "chapter_number": "IV",
+    "page_number": "152-173",
+    "children": []
+  },
+  {
+    "title": "Úlohy z bájesloví pro opakovací cvičení v tvarosloví.",
+    "chapter_number": "",
+    "page_number": "174",
+    "children": [
+      {
+        "title": "O původu všehomíra, bohův a lidí I-V.",
+        "chapter_number": "",
+        "page_number": "178",
+        "children": []
+      },
+      {
+        "title": "O Meleagrovi a příbuzných jeho VI., VII.",
+        "chapter_number": "",
+        "page_number": "179",
+        "children": []
+      },
+      {
+        "title": "O potomcích Aiolových VIII., IX.",
+        "chapter_number": "",
+        "page_number": "181",
+        "children": []
+      },
+      {
+        "title": "O Argonautech X-XV.",
+        "chapter_number": "",
+        "page_number": "185",
+        "children": []
+      },
+      {
+        "title": "O Perseovi a předcích jeho XVI-XIX.",
+        "chapter_number": "",
+        "page_number": "188",
+        "children": []
+      },
+      {
+        "title": "O Hérakleovi XX-XXIX.",
+        "chapter_number": "",
+        "page_number": "195",
+        "children": []
+      },
+      {
+        "title": "O Kadmovi a jeho potomcich XXX-XXXIV.",
+        "chapter_number": "",
+        "page_number": "214",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Úlohy syntaktické:",
+    "chapter_number": "",
+    "page_number": "219",
+    "children": [
+      {
+        "title": "(O žvatlavosti)",
+        "chapter_number": "I",
+        "page_number": "221",
+        "children": []
+      },
+      {
+        "title": "(O soše Dia Olympijského)",
+        "chapter_number": "II",
+        "page_number": "233",
+        "children": []
+      },
+      {
+        "title": "(Úsudek Alexandrův o vodosrázech po Tigrétě)",
+        "chapter_number": "III",
+        "page_number": "239",
+        "children": []
+      },
+      {
+        "title": "(Themistokles a Pausanias)",
+        "chapter_number": "IV",
+        "page_number": "256",
+        "children": []
+      },
+      {
+        "title": "(Želva a zajíc)",
+        "chapter_number": "V",
+        "page_number": "257",
+        "children": []
+      },
+      {
+        "title": "(Jak se děl ostrakismos)",
+        "chapter_number": "VI",
+        "page_number": "266",
+        "children": []
+      },
+      {
+        "title": "(O Semiramidině hrobce)",
+        "chapter_number": "VII",
+        "page_number": "267",
+        "children": []
+      },
+      {
+        "title": "(Alexander a matka Dareiova)",
+        "chapter_number": "VIII",
+        "page_number": "268",
+        "children": []
+      },
+      {
+        "title": "(Liška a lišky)",
+        "chapter_number": "IX",
+        "page_number": "269",
+        "children": []
+      },
+      {
+        "title": "(Vlídnosť Artaxerxova)",
+        "chapter_number": "X",
+        "page_number": "273",
+        "children": []
+      },
+      {
+        "title": "(Osud zlaté trojnožky)",
+        "chapter_number": "XI",
+        "page_number": "274",
+        "children": []
+      },
+      {
+        "title": "(Hádka o přednosť mezi Athéňany a Tegejany u Plataj)",
+        "chapter_number": "XII",
+        "page_number": "275",
+        "children": []
+      },
+      {
+        "title": "(C. Julius Caesar a mořští loupežníci)",
+        "chapter_number": "XIII",
+        "page_number": "276",
+        "children": []
+      },
+      {
+        "title": "(Účinek elegie Solónovy)",
+        "chapter_number": "XIV",
+        "page_number": "277",
+        "children": []
+      },
+      {
+        "title": "(Kýros a Kroisos)",
+        "chapter_number": "XV",
+        "page_number": "278",
+        "children": []
+      },
+      {
+        "title": "(Stésichorova bájka a Himeřané)",
+        "chapter_number": "XVI",
+        "page_number": "279",
+        "children": []
+      },
+      {
+        "title": "(Sparťané s Leónidou vyzývají obce Héllenské k výpravě)",
+        "chapter_number": "XVII",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "(Themistoklés a Aristeides před bitvou u Salamíny)",
+        "chapter_number": "XVIII",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "(Themistokleův tajný plán o lodstvu Hellénském)",
+        "chapter_number": "XIX",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "(Themistokleův útěk do Asie).",
+        "chapter_number": "XX",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "(Alexander Vel. a jeho lékař Filippos)",
+        "chapter_number": "XXI",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "(Aríon delfínem zachráněn).",
+        "chapter_number": "XXII",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "(Aeg. král Sethón pomocí myší zachráněn).",
+        "chapter_number": "XXIII",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Slovníček",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  }
+]

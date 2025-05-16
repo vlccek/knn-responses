@@ -1,0 +1,78 @@
+
+[
+  {
+    "title": "Allgemeiner Theil.",
+    "chapter_number": "I.",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Definition der wichtigsten Begriffe zum Studium von Thonwaaren",
+        "chapter_number": "1.",
+        "page_number": "7",
+        "children": [
+          {
+            "title": "Stoff und Technik",
+            "chapter_number": "a)",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Form und Verzierung",
+            "chapter_number": "b)",
+            "page_number": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Kurzer Abriss einer Geschichte der Thonwaaren-Industrie mit vornehmlicher Berücksichtigung der ausgestellten Gegenstände",
+        "chapter_number": "2.",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Zeittabelle für Thonwaaren-Industrie",
+        "chapter_number": "3.",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Verzeichniss der im mährischen Gewerbe-Museum vorhandenen Werke über Thonwaaren",
+        "chapter_number": "4.",
+        "page_number": "24",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Wegweiser.",
+    "chapter_number": "II.",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Einleitung",
+        "chapter_number": "1.",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Die wichtigsten Stücke der Sammlung, die sich durch Schönheit, Seltenheit oder Kostbarkeit auszeichnen",
+        "chapter_number": "2.",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Vertheilung der Ausstellungsgegenstände",
+        "chapter_number": "3.",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Keramische Special-Ausstellung",
+        "chapter_number": "4.",
+        "page_number": "38",
+        "children": []
+      }
+    ]
+  }
+]

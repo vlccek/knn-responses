@@ -1,0 +1,113 @@
+
+[
+  {
+    "title": "O vlastnostech půdy a jejím vzdělávání",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "O zacházení s hnojem chlévským doma i na poli",
+    "chapter_number": "II",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "O významu a používání strojených hnojiv",
+    "chapter_number": "III",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Pěstování hospodářských rostlin",
+    "chapter_number": "IV",
+    "page_number": "49",
+    "children": [
+      {
+        "title": "Stébelniny",
+        "chapter_number": "a",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Rostliny olejné",
+        "chapter_number": "b",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "Luštěniny",
+        "chapter_number": "c",
+        "page_number": "82",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pěstování rostlin pícních",
+    "chapter_number": "V",
+    "page_number": "92",
+    "children": []
+  },
+  {
+    "title": "Pěstování rostlin bulevnatých",
+    "chapter_number": "VI",
+    "page_number": "103",
+    "children": [
+      {
+        "title": "Pěstování řepy cukrovky",
+        "chapter_number": "1",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Pěstování krmné řepy",
+        "chapter_number": "2",
+        "page_number": "116",
+        "children": []
+      },
+      {
+        "title": "Pěstování bramborů",
+        "chapter_number": "3",
+        "page_number": "117",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O soustavě osevní",
+    "chapter_number": "VII",
+    "page_number": "123",
+    "children": []
+  },
+  {
+    "title": "Chov skotu hovězího",
+    "chapter_number": "VIII",
+    "page_number": "130",
+    "children": []
+  },
+  {
+    "title": "O hledění a zvelebování luk",
+    "chapter_number": "IX",
+    "page_number": "148",
+    "children": []
+  },
+  {
+    "title": "O melioraci mokrých pozemků (polí a luk)",
+    "chapter_number": "X",
+    "page_number": "154",
+    "children": []
+  },
+  {
+    "title": "O povšechné stránce polního hospodářství",
+    "chapter_number": "XI",
+    "page_number": "161",
+    "children": []
+  },
+  {
+    "title": "O důležitosti stavu rolnického",
+    "chapter_number": "XII",
+    "page_number": "171",
+    "children": []
+  }
+]

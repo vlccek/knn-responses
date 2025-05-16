@@ -1,0 +1,640 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Referenti",
+    "chapter_number": "",
+    "page_number": "IV",
+    "children": []
+  },
+  {
+    "title": "Vysvětlení zkratek",
+    "chapter_number": "",
+    "page_number": "IV",
+    "children": []
+  },
+  {
+    "title": "Seznam umělců",
+    "chapter_number": "",
+    "page_number": "VI",
+    "children": []
+  },
+  {
+    "title": "Seznam vystavovatelů",
+    "chapter_number": "",
+    "page_number": "VIII",
+    "children": []
+  },
+  {
+    "title": "I. oddíl. České ryjectví středověké",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "II. oddíl XVI. století",
+    "chapter_number": "",
+    "page_number": "2",
+    "children": []
+  },
+  {
+    "title": "III. XVII. století",
+    "chapter_number": "",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "IV. XVIII. století",
+    "chapter_number": "",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "V. XIX. století",
+    "chapter_number": "",
+    "page_number": "25",
+    "children": []
+  },
+  {
+    "title": "VI. XX. století",
+    "chapter_number": "",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "VII. Ražebny",
+    "chapter_number": "",
+    "page_number": "68",
+    "children": []
+  },
+  {
+    "title": "VIII. Literatura",
+    "chapter_number": "",
+    "page_number": "71",
+    "children": []
+  },
+  {
+    "title": "PŘEHLED TABULEK",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Tabulka I. a II. Zvětšené obrazy denárů",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Tabulka III.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "1. Umělec 16. stol.",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "1. Wolf Sturz",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "2. týž umělec",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "1. K. Mergental",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "2. L. Neufarer",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "5. týž umělec",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Tabulka IV.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "10. Cunth Wels",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "11. týž",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "12. týž",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "4. Welsova škola",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "11. taktéž",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "7. Mik. Milič",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "4. Nezjištěný",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "1. Jan Klement",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "5. Kr. Maler",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "1. a 2. Š. Passe",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "2. Mistr H. R.",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Tabulka V.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "5. Jan Buchheim",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "6. K. Öffinger",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "5. J. Kittel",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "2. F. H. Müller",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "5. Mistr IN",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "10. Mistr GA",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "6. J. Vestner",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Tabulka VI.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "1. Pražský mistr",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "6. F. Altomonte",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "1. Český mistr",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "2. D. Z. Dockler",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "1. Český mistr",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "1. J. Holzhäser",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Tabulka VII.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "12. A. Guillemard",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "44. F. Stuckhart",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "1. J. Lauffenböck",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "1. K. Guillemard",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "53. V. Seidan",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "3. J. Tautenhayn",
+        "chapter_number": "",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "15. Václav Kříž",
+        "chapter_number": "",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "5. Karel Pátek",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "17. K. Abraham",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Tabulka VIII.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "3. J. Tautenhayn",
+        "chapter_number": "",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Jos. V. Myslbek",
+        "chapter_number": "",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "1. Karel Srb",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "14. Jos. Goldschmid",
+        "chapter_number": "",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "V. R. Smolík",
+        "chapter_number": "",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "A. Poláček 1. A",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Legionář G. 2. A.",
+        "chapter_number": "",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Italský rytec 3. A.",
+        "chapter_number": "",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Tabulka IX.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "5. Jer. Dietrich",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "6. týž umělec",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "6. Cunth Wels",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "6. Nezjištěný",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "11. Nezjištěný",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Tabulka X.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "1. Italský mistr",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "1. Pražský mistr",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "11. A. Guillemard",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "17. F. Stuckhart",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "1. J. Šimánek",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Tabulka XI.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Prof. St. Sucharda",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Tabulka XII.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Prof. O. Španiel",
+        "chapter_number": "",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Tabulka XIII.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Prof. Boh. Kafka",
+        "chapter_number": "",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Tabulka XIV.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Stino Paukert",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Tabulka XV.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Josef Šejnost",
+        "chapter_number": "",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Tabulka XVI.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Jan Čejka",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Tabulka XVII.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Richard Placht",
+        "chapter_number": "",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Jan Štursa",
+        "chapter_number": "",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Frant. Zuska",
+        "chapter_number": "",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Tabulka XVIII.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Alex. Leisek",
+        "chapter_number": "",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Prof. A. Mára",
+        "chapter_number": "",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "J. V. Dušek",
+        "chapter_number": "",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Jaromír Mára",
+        "chapter_number": "",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Karel Špánek",
+        "chapter_number": "",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Tabulka XIX.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Mincovna pražská",
+        "chapter_number": "",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Tabulka XX.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Mincovna kremnická",
+        "chapter_number": "",
+        "page_number": "69",
+        "children": []
+      }
+    ]
+  }
+]

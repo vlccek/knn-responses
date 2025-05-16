@@ -1,0 +1,251 @@
+
+[
+  {
+    "title": "Rejstřík",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Logaritmy Briggsovy neb obyčejné čísel od 1 do 11009 pětimístné",
+    "chapter_number": "I",
+    "page_number": "III-IV",
+    "children": [
+      {
+        "title": "Tabulka k převodu log brig v 1 nat a naopak",
+        "chapter_number": "",
+        "page_number": "1-23",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Briggsovy logaritmy pětimístné goniometrických funkcí úhlů od 0º do 90° po 1' rostoucích",
+    "chapter_number": "II",
+    "page_number": "25-70"
+  },
+  {
+    "title": "Logaritmy Briggsovy pětimístné goniometrických funkcí úhlů od 0° do 7º aneb 830 do 90° po 10 vteřinách rostoucích",
+    "chapter_number": "III",
+    "page_number": "71-85",
+    "children": [
+      {
+        "title": "Arcus (délka oblouku poloměru r=1) úhlů od 0°-180°,0′-60′ a 0\"-60\"",
+        "chapter_number": "",
+        "page_number": "86",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hodnoty goniometrických funkcí úhlů od 0 do 90° po 10' rostoucích a sinu, arcu, tangenty úhlů od 0 do 4º po 1' rostoucích",
+    "chapter_number": "IV",
+    "page_number": "87-93",
+    "children": [
+      {
+        "title": "Délka tětivy, výška oblouku a obsah úseče kruhu o poloměru r=1 pro středové úhly od 0º do 180°",
+        "chapter_number": "",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Poloměry vepsané a opsané kružnice, strana a obsah pravidelných n-úhelníků pro n=3-12, 15, 16, 18, 20, 24",
+        "chapter_number": "",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Převod minut a vteřin na stupně",
+        "chapter_number": "",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Převod stupňů na sta vteřin, minut na desítky vteřin a míry úhlové na míru časovou",
+        "chapter_number": "",
+        "page_number": "96",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přirozené či Napierovy logaritmy čísel od 1 do 1109",
+    "chapter_number": "V",
+    "page_number": "97-99"
+  },
+  {
+    "title": "Tabulky složitého úrokování pro procenta p=1, 1, 1, 2, 2, 3, 31, 3, 3, 4, 4, 5 a pro počet období n=1-50",
+    "chapter_number": "VI",
+    "page_number": "100-115",
+    "children": [
+      {
+        "title": "Mocniny úročitelů qn",
+        "chapter_number": "",
+        "page_number": "100-101",
+        "children": []
+      },
+      {
+        "title": "Mocniny odúročitelů q-n",
+        "chapter_number": "",
+        "page_number": "102-103",
+        "children": []
+      },
+      {
+        "title": "Střadatelé Qn",
+        "chapter_number": "",
+        "page_number": "104-105",
+        "children": []
+      },
+      {
+        "title": "Zásobitelé Rn",
+        "chapter_number": "",
+        "page_number": "106-107",
+        "children": []
+      },
+      {
+        "title": "Umořovatelé Un",
+        "chapter_number": "",
+        "page_number": "108-109",
+        "children": []
+      },
+      {
+        "title": "Procento úmoru u, je-li doba úmoru n",
+        "chapter_number": "",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Doba úmoru n, je-li procento úmoru u, a převod procent předlhůtních v polhůtní",
+        "chapter_number": "",
+        "page_number": "111",
+        "children": []
+      },
+      {
+        "title": "Doba, za niž se jistina stane x-násobnou",
+        "chapter_number": "",
+        "page_number": "112",
+        "children": []
+      },
+      {
+        "title": "Briggsovy desetimistné logaritmy úročitelů pro p=0-7",
+        "chapter_number": "",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Tabulka úmrtnosti (rakouská) mužů a hodnoty doživot. důchodů",
+        "chapter_number": "",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Tabulka úmrtnosti (rakouská) žen a hodnoty doživot. důchodů",
+        "chapter_number": "",
+        "page_number": "115",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Mocniny, odmocniny a součiny",
+    "chapter_number": "VII",
+    "page_number": "116-128",
+    "children": [
+      {
+        "title": "Čtverce čísel od 1-1000",
+        "chapter_number": "",
+        "page_number": "116-117",
+        "children": []
+      },
+      {
+        "title": "Mocniny čísel 2, 3, 5, jejich hodnoty převrácené a mocniny čísla 10 těmito hodnotami umocněného",
+        "chapter_number": "",
+        "page_number": "118",
+        "children": []
+      },
+      {
+        "title": "Trojmoc, druhá a třetí odmocnina, převrácená hodnota, obvod a obsah kruhu, je-li průměr = n, průměr kruhu, je-li obvod = n, pro čísla n = 1-350",
+        "chapter_number": "",
+        "page_number": "119-125",
+        "children": []
+      },
+      {
+        "title": "Mocniny čísla e",
+        "chapter_number": "",
+        "page_number": "126",
+        "children": []
+      },
+      {
+        "title": "Binomické součinitelé, faktoriály a jejich logaritmy",
+        "chapter_number": "",
+        "page_number": "127",
+        "children": []
+      },
+      {
+        "title": "Převod stupňů šedesátinných v setinné a naopak",
+        "chapter_number": "",
+        "page_number": "128",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Astronomické tabulky",
+    "chapter_number": "VIII",
+    "page_number": "129-144"
+  },
+  {
+    "title": "Tabulky fysikální a chemické",
+    "chapter_number": "IX",
+    "page_number": "145-184"
+  },
+  {
+    "title": "Důležitější veličiny fysikální",
+    "chapter_number": "X",
+    "page_number": "185",
+    "children": [
+      {
+        "title": "Různá čísla",
+        "chapter_number": "",
+        "page_number": "186",
+        "children": []
+      },
+      {
+        "title": "Prvočísla a jejich logaritmy",
+        "chapter_number": "",
+        "page_number": "187",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Čtyrmístné hodnoty goniometrických funkcí úhlů od 0º do 90° po 10' rostoucích",
+    "chapter_number": "XI",
+    "page_number": "188-189",
+    "children": [
+      {
+        "title": "Antilogaritmy (čísla) čtyrmístné k logaritmům Briggsovým mantis od 0000 do 9999",
+        "chapter_number": "",
+        "page_number": "190-191",
+        "children": []
+      },
+      {
+        "title": "Logaritmy Briggsovy čtyrmístné goniometrických funkcí úhlů od 0º do 90° po 10' rostoucích a hodnoty S, T",
+        "chapter_number": "",
+        "page_number": "192-193",
+        "children": []
+      },
+      {
+        "title": "Logaritmy Briggsovy čtyrmístné čísel od 1 do 1109",
+        "chapter_number": "",
+        "page_number": "194-195",
+        "children": []
+      },
+      {
+        "title": "Vysvětlení",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

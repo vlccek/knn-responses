@@ -1,0 +1,53 @@
+
+[
+  {
+    "title": "O dobrich Skutkov",
+    "chapter_number": "KAPITOLA III",
+    "page_number": "59",
+    "children": [
+      {
+        "title": "O poslednich štirech Vecach",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": [
+          {
+            "title": "O Smrti",
+            "chapter_number": "§. 1",
+            "page_number": "63",
+            "children": []
+          },
+          {
+            "title": "O Súdu",
+            "chapter_number": "§. 2",
+            "page_number": "63",
+            "children": []
+          },
+          {
+            "title": "O Nebe",
+            "chapter_number": "§. 3",
+            "page_number": "64",
+            "children": []
+          },
+          {
+            "title": "O Pekle",
+            "chapter_number": "§. 4",
+            "page_number": "64",
+            "children": []
+          },
+          {
+            "title": "O Očistcu",
+            "chapter_number": "§. 5",
+            "page_number": "65",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Pridavek",
+        "chapter_number": "",
+        "page_number": "65",
+        "children": []
+      }
+    ]
+  }
+]

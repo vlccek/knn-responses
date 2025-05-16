@@ -1,0 +1,121 @@
+
+[
+  {
+    "title": "Vysoké školy",
+    "chapter_number": "§. 4.",
+    "page_number": "147",
+    "children": []
+  },
+  {
+    "title": "Odborné školy",
+    "chapter_number": "§. 5.",
+    "page_number": "148",
+    "children": []
+  },
+  {
+    "title": "Spolky pro vyšší vzdělání",
+    "chapter_number": "§. 6.",
+    "page_number": "150",
+    "children": []
+  },
+  {
+    "title": "Ústavy k opatření zdraví a bezpečnosti.",
+    "chapter_number": "C.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Ústavy dobročinné ve prospěch chudoby a ústavy zaopatřovací",
+        "chapter_number": "",
+        "page_number": "151",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Statistika morálnosti.",
+    "chapter_number": "D.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Zločiny a přečiny",
+        "chapter_number": "",
+        "page_number": "153",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hlava pátá.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Ústroj státní.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Zřízení státní říše",
+            "chapter_number": "§. 1.",
+            "page_number": "155",
+            "children": []
+          },
+          {
+            "title": "Společná vláda a delegace v říši rakousko-uherské",
+            "chapter_number": "§. 2.",
+            "page_number": "157",
+            "children": []
+          },
+          {
+            "title": "Zřízení a správa státní v zemích koruny uherské",
+            "chapter_number": "§. 3.",
+            "page_number": "160",
+            "children": []
+          },
+          {
+            "title": "Zřízení státní v zemích rakouských",
+            "chapter_number": "§. 4.",
+            "page_number": "164",
+            "children": []
+          },
+          {
+            "title": "Správa státní v zemích rakouských",
+            "chapter_number": "§. 5.",
+            "page_number": "166",
+            "children": []
+          },
+          {
+            "title": "Vojsko a válečné lodstvo",
+            "chapter_number": "§. 6.",
+            "page_number": "168",
+            "children": []
+          },
+          {
+            "title": "Státní hospodářství",
+            "chapter_number": "§. 7.",
+            "page_number": "169",
+            "children": []
+          },
+          {
+            "title": "Daně a příjmy státní",
+            "chapter_number": "A.",
+            "page_number": "170",
+            "children": []
+          },
+          {
+            "title": "Státní vydaje a dluhy",
+            "chapter_number": "B.",
+            "page_number": "170",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Hlavní města jednotlivých korunních zemí",
+    "chapter_number": "",
+    "page_number": "172",
+    "children": []
+  }
+]

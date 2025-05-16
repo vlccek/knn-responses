@@ -1,0 +1,136 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Část všeobecná",
+    "chapter_number": "",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Část speciální",
+    "chapter_number": "",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Prvoci. - Protozoa",
+    "chapter_number": "",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Láčkovci. - Cnidaria",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Hlísti ploší. - Plathelmintes",
+    "chapter_number": "",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Červi kroužkovití. - Annelida",
+    "chapter_number": "",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "Členovci. - Arthropoda",
+    "chapter_number": "",
+    "page_number": "51",
+    "children": [
+      {
+        "title": "Pavoukovití. - Airachnoida",
+        "chapter_number": "I",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Stonožky. - Myrapoda",
+        "chapter_number": "II",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Hmyz. - Insecta",
+        "chapter_number": "III",
+        "page_number": "59",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Měkkýši. - Mollusca",
+    "chapter_number": "",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Ostnokožci. - Echinodermata",
+    "chapter_number": "",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Ryby. - Pisces",
+    "chapter_number": "",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Obojživelníci. - Amphibia",
+    "chapter_number": "",
+    "page_number": "82",
+    "children": []
+  },
+  {
+    "title": "Hadi. - Ophidia",
+    "chapter_number": "",
+    "page_number": "86",
+    "children": []
+  },
+  {
+    "title": "Jedovatí hadi. - Thanatophipia",
+    "chapter_number": "",
+    "page_number": "89",
+    "children": []
+  },
+  {
+    "title": "Hadi rýhozubí. - Proteroghypha",
+    "chapter_number": "",
+    "page_number": "89",
+    "children": []
+  },
+  {
+    "title": "Hadi dutozubí. - Solenoglypha",
+    "chapter_number": "",
+    "page_number": "92",
+    "children": []
+  },
+  {
+    "title": "Therapie (léčení) uštknutí",
+    "chapter_number": "",
+    "page_number": "111",
+    "children": []
+  },
+  {
+    "title": "Ještěrky. - Sauria",
+    "chapter_number": "",
+    "page_number": "114",
+    "children": []
+  },
+  {
+    "title": "Ssavci. - Mammalia",
+    "chapter_number": "",
+    "page_number": "115",
+    "children": []
+  }
+]

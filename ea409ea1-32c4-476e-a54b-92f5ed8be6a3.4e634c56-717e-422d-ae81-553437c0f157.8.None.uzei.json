@@ -1,0 +1,225 @@
+
+[
+  {
+    "title": "Úvodem",
+    "chapter_number": "I",
+    "page_number": "9*",
+    "children": [
+      {
+        "title": "Poznámky o hodnotě publikovaných výsledků za Čechy",
+        "chapter_number": "1",
+        "page_number": "10*",
+        "children": []
+      },
+      {
+        "title": "Plocha zemědělských závodů a plochy netvořící zemědělské závody",
+        "chapter_number": "2",
+        "page_number": "12*",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Počet zemědělských závodů",
+    "chapter_number": "II",
+    "page_number": "13*",
+    "children": [
+      {
+        "title": "Rozdělení závodů do jednotlivých velikostních skupin",
+        "chapter_number": "1",
+        "page_number": "13*",
+        "children": []
+      },
+      {
+        "title": "Srovnání počtu závodů s výsledky rakouské závodové statistiky z r. 1902",
+        "chapter_number": "2",
+        "page_number": "14*",
+        "children": []
+      },
+      {
+        "title": "Srovnání s daty statistiky závodů zemědělských podle stavu z května 1921",
+        "chapter_number": "3",
+        "page_number": "16*",
+        "children": []
+      },
+      {
+        "title": "Počet závodů v jednotlivých přirozených zemědělských krajinách podle velikostních skupin",
+        "chapter_number": "4",
+        "page_number": "19*",
+        "children": []
+      },
+      {
+        "title": "Vztah mezi počtem a celkovou výměrou závodů v jednotlivých přirozených zeměděl-ských krajinách",
+        "chapter_number": "5",
+        "page_number": "22*",
+        "children": []
+      },
+      {
+        "title": "Vztah mezi počtem závodů a výměrou zemědělské půdy závodů v jednotlivých okresech",
+        "chapter_number": "6",
+        "page_number": "23*",
+        "children": []
+      },
+      {
+        "title": "Počet velkých závodů s výměrou přes 500 ha",
+        "chapter_number": "7",
+        "page_number": "27*",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Úhrnná výměra zemědělských závodů",
+    "chapter_number": "III",
+    "page_number": "27*",
+    "children": [
+      {
+        "title": "Úhrnná výměra závodů podle jednotlivých velikostních skupin",
+        "chapter_number": "1",
+        "page_number": "27*",
+        "children": []
+      },
+      {
+        "title": "Zemědělská půda závodů podle jednotlivých velikostních skupin",
+        "chapter_number": "2",
+        "page_number": "27*",
+        "children": []
+      },
+      {
+        "title": "Průměrná velikost závodů v jednotlivých velikostních skupinách",
+        "chapter_number": "3",
+        "page_number": "28*",
+        "children": []
+      },
+      {
+        "title": "Srovnání výměry zemědělské půdy závodů z r. 1930 s daty z náhradního sčítání země-dělských závodů v r. 1921",
+        "chapter_number": "4",
+        "page_number": "28*",
+        "children": []
+      },
+      {
+        "title": "Úhrnná výměra závodů v jednotlivých velikostních skupinách podle přirozených země-dělských krajin",
+        "chapter_number": "5",
+        "page_number": "29*",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kultury zemědělských závodů",
+    "chapter_number": "IV",
+    "page_number": "30*",
+    "children": [
+      {
+        "title": "Podíl jednotlivých druhů kultur na úhrnné výměře zemědělských závodů",
+        "chapter_number": "1",
+        "page_number": "30*",
+        "children": []
+      },
+      {
+        "title": "Vzájemný poměr jednotlivých druhů kultur",
+        "chapter_number": "2",
+        "page_number": "32*",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Plodiny na orné půdě zemědělských závodů",
+    "chapter_number": "V",
+    "page_number": "32*",
+    "children": [
+      {
+        "title": "Jednotlivé skupiny plodin",
+        "chapter_number": "1",
+        "page_number": "32*",
+        "children": []
+      },
+      {
+        "title": "Některé z hlavních nebo důležitých druhů plodin",
+        "chapter_number": "2",
+        "page_number": "34*",
+        "children": []
+      },
+      {
+        "title": "Rozšíření některých důležitých druhů plodin v okresech",
+        "chapter_number": "3",
+        "page_number": "36*",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hospodářské zvířectvo",
+    "chapter_number": "VI",
+    "page_number": "37*",
+    "children": [
+      {
+        "title": "Všeobecné poznámky",
+        "chapter_number": "1",
+        "page_number": "37*",
+        "children": []
+      },
+      {
+        "title": "Hospodářské zvířectvo chované v závodech i mimo zemědělské závody",
+        "chapter_number": "2",
+        "page_number": "41*",
+        "children": []
+      },
+      {
+        "title": "Koně",
+        "chapter_number": "3",
+        "page_number": "41*",
+        "children": []
+      },
+      {
+        "title": "Skot",
+        "chapter_number": "4",
+        "page_number": "43*",
+        "children": []
+      },
+      {
+        "title": "Vepři",
+        "chapter_number": "5",
+        "page_number": "45*",
+        "children": []
+      },
+      {
+        "title": "Ovce",
+        "chapter_number": "6",
+        "page_number": "46*",
+        "children": []
+      },
+      {
+        "title": "Kozy",
+        "chapter_number": "7",
+        "page_number": "47*",
+        "children": []
+      },
+      {
+        "title": "Drůbež dohromady",
+        "chapter_number": "8",
+        "page_number": "48*",
+        "children": []
+      },
+      {
+        "title": "Kohouti a slepice",
+        "chapter_number": "9",
+        "page_number": "50*",
+        "children": []
+      },
+      {
+        "title": "Houseři a husy, kačeři a kachny",
+        "chapter_number": "10",
+        "page_number": "51*",
+        "children": []
+      },
+      {
+        "title": "Krocani a krůty, perličky",
+        "chapter_number": "11",
+        "page_number": "52*",
+        "children": []
+      }
+    ]
+  }
+]

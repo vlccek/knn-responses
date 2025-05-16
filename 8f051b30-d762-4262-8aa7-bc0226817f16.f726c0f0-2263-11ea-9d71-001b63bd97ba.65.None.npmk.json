@@ -1,0 +1,84 @@
+
+[
+  {
+    "title": "Mnohoúhelníky.",
+    "chapter_number": "Část šestá",
+    "page_number": "43",
+    "children": [
+      {
+        "title": "Mnohoúhelník",
+        "chapter_number": "26",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Vnitřní a vnější úhly mnohoúhelníku",
+        "chapter_number": "27",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Úhly v kruhu",
+        "chapter_number": "28",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Sestrojení pravidelných mnohoúhelníků do kružnice.",
+        "chapter_number": "29",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Sestrojení pravidelných mnohoúhelníků, je-li dána jejich strana",
+        "chapter_number": "30",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Shodnost mnohoúhelníků",
+        "chapter_number": "31",
+        "page_number": "50",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Souměrnost.",
+    "chapter_number": "Část sedmá",
+    "page_number": "52",
+    "children": [
+      {
+        "title": "Souměrnost - symmetrie.",
+        "chapter_number": "32",
+        "page_number": "52",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Útvary kružnici vepsané neb opsané.",
+    "chapter_number": "Část osmá",
+    "page_number": "54",
+    "children": [
+      {
+        "title": "Tětivy kružnice",
+        "chapter_number": "33",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Vzájemná poloha přímky a kružnice",
+        "chapter_number": "34",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Vzájemná poloha dvou kružnic",
+        "chapter_number": "35",
+        "page_number": "57",
+        "children": []
+      }
+    ]
+  }
+]

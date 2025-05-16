@@ -1,0 +1,453 @@
+
+[
+  {
+    "title": "Úvod.",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Mravní zákon základem společenského zřízení",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Rodina",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Obec a občané",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Stát.",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Historický vývoj českého státu.",
+    "chapter_number": "",
+    "page_number": "8",
+    "children": [
+      {
+        "title": "Český stát historický",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Boj za české státní právo",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ústava republiky Československé.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Forma státní a základní zákon ústavní",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Ústavní listina Československé republiky.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "I. Všeobecná ustanovení",
+    "chapter_number": "",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "II. Moc zákonodárná.",
+    "chapter_number": "",
+    "page_number": "19",
+    "children": [
+      {
+        "title": "Složení Národního shromáždění",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Řád volební do Národního shromáždění.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "1. Volební kraje",
+            "chapter_number": "",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "2. Právo volební a volitelnosti",
+            "chapter_number": "",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "3. Volební komise",
+            "chapter_number": "",
+            "page_number": "21",
+            "children": []
+          },
+          {
+            "title": "4. Přípravné řízení volební",
+            "chapter_number": "",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "5. Volba",
+            "chapter_number": "",
+            "page_number": "23",
+            "children": []
+          },
+          {
+            "title": "6. Prohlášení výsledku volby a přikázání mandátů",
+            "chapter_number": "",
+            "page_number": "24",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Vykonávání mandátů. Práva a povinnosti členů Národního shromáždění",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Pravomoc poslanecké sněmovny a senátu",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Jednací řád sněmoven Národního shromáždění",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Vznik zákonů",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Důležité zákony republiky Československé",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Výbor Národního shromáždění",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Ústavní soud",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Volební soud",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "III. Moc vládní a výkonná.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "President republiky",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Vláda",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Ministerstva",
+        "chapter_number": "",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Nižší správní úřady župní a okresní",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": [
+          {
+            "title": "a) Župní zastupitelstva",
+            "chapter_number": "",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "b) Jednání župního zastupitelstva",
+            "chapter_number": "",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "c) Župní výbor a župní komise.",
+            "chapter_number": "",
+            "page_number": "42",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "d) Působnost župního zastupitelstva",
+    "chapter_number": "",
+    "page_number": "42",
+    "children": []
+  },
+  {
+    "title": "e) Župní správa Slovenska a Podkarpatské Rusi",
+    "chapter_number": "",
+    "page_number": "44",
+    "children": []
+  },
+  {
+    "title": "f) Župní svazy.",
+    "chapter_number": "",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Správa okresní",
+    "chapter_number": "",
+    "page_number": "45",
+    "children": [
+      {
+        "title": "a) Okresní výbor",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "b) Jednání a působnost okres. výboru",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "IV. Moc soudcovská",
+    "chapter_number": "",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "V. Práva a svobody, jakož i povinnosti občanské.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "a) Práva a svobody",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "b) Povinnosti a ctnosti občanské",
+        "chapter_number": "",
+        "page_number": "54",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "VI. Ochrana menšin národních, náboženských a rasových",
+    "chapter_number": "",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Kontrola moci výkonné. Nejvyšší správní soud",
+    "chapter_number": "",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Samospráva obcí",
+    "chapter_number": "",
+    "page_number": "56",
+    "children": [
+      {
+        "title": "a) Volební řád do obcí",
+        "chapter_number": "",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "b) Působnost obecního zastupitelstva a obecní rady",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Organisace správního a společenského státního zřízení.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Státní finance",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "a) Státní hospodářství",
+        "chapter_number": "",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "b) Daně",
+        "chapter_number": "",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "c) Poplatky, taxy, cla, monopoly",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "d) Mincovnictví, státovky a bankovky, valuta",
+        "chapter_number": "",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "e) Cedulová banka",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Školství a národní osvěta",
+    "chapter_number": "",
+    "page_number": "64",
+    "children": []
+  },
+  {
+    "title": "Zřízení církevní",
+    "chapter_number": "",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "Národní obrana",
+    "chapter_number": "",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Národní hospodářství",
+    "chapter_number": "",
+    "page_number": "68",
+    "children": [
+      {
+        "title": "1. Zemědělské rady a hospodářská družstva. Úřad pozemkový",
+        "chapter_number": "",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "2. Živnostenské rady, úřady a společenstva",
+        "chapter_number": "",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "3. Obchodní a živnostenské komory",
+        "chapter_number": "",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "4. Bursy, banky a spořitelny",
+        "chapter_number": "",
+        "page_number": "71",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dopravnictví",
+    "chapter_number": "",
+    "page_number": "71",
+    "children": []
+  },
+  {
+    "title": "Péče o zdravotnictví",
+    "chapter_number": "",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Péče sociální",
+    "chapter_number": "",
+    "page_number": "74",
+    "children": []
+  },
+  {
+    "title": "Socialism",
+    "chapter_number": "",
+    "page_number": "76",
+    "children": []
+  },
+  {
+    "title": "Demokracie",
+    "chapter_number": "",
+    "page_number": "77",
+    "children": []
+  },
+  {
+    "title": "Právo mezinárodní",
+    "chapter_number": "",
+    "page_number": "79",
+    "children": []
+  }
+]

@@ -1,0 +1,54 @@
+
+[
+  {
+    "title": "INHALT",
+    "chapter_number": "",
+    "page_number": "V",
+    "children": [
+      {
+        "title": "Übersetzung der Tabellenköpfe, Legenden und Anmerkungen",
+        "chapter_number": "",
+        "page_number": "VI",
+        "children": []
+      },
+      {
+        "title": "Abschnitt A. Zahl, Boden und landwirtschaftliche Nutztiere der landwirtschaftlichen Betriebe, in der Gliederung nach Größengruppen auf Grund des Ausmaßes ihres landwirtschaftlichen Bodens.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Tab. 1. Zahl und Boden der landwirtschaftlichen Betriebe (nach natürlichen landwirtschaftlichen Gebieten)",
+            "chapter_number": "",
+            "page_number": "2",
+            "children": []
+          },
+          {
+            "title": "Tab. 2. Landwirtschaftliche Nutztiere der landwirtschaftlichen Betriebe (nach natürlichen landwirtschaftlichen Gebieten)",
+            "chapter_number": "",
+            "page_number": "16",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Abschnitt B. Zahl, Boden und landwirtschaftliche Nutztiere der landwirtschaftlichen Betriebe, in der Gliederung nach Größengruppen auf Grund des Ausmaßes ihres gesamten und gleichzeitig ihres landwirtschaftlichen Bodens.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Tab. 1. Zahl, Boden und landwirtschaftliche Nutztiere der landwirtschaftlichen Betriebe in Grundzahlen (nach Produktionsgebieten)",
+            "chapter_number": "",
+            "page_number": "24",
+            "children": []
+          },
+          {
+            "title": "Tab. 2. Zahl, Boden und landwirtschaftliche Nutztiere der landwirtschaftlichen Betriebe in Verhältniszahlen (nach Produktionsgebieten)",
+            "chapter_number": "",
+            "page_number": "60",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,276 @@
+
+[
+  {
+    "title": "Nemoci jícnu.",
+    "chapter_number": "IV",
+    "page_number": "602",
+    "children": [
+      {
+        "title": "Rozšíření jícnu, divertikel",
+        "chapter_number": "",
+        "page_number": "602",
+        "children": []
+      },
+      {
+        "title": "Súžení jícnu",
+        "chapter_number": "",
+        "page_number": "605",
+        "children": []
+      },
+      {
+        "title": "Katarrh jícnový",
+        "chapter_number": "",
+        "page_number": "609",
+        "children": []
+      },
+      {
+        "title": "Flegmonosní zánět jícnu",
+        "chapter_number": "",
+        "page_number": "611",
+        "children": []
+      },
+      {
+        "title": "Rakovina jícnová",
+        "chapter_number": "",
+        "page_number": "616",
+        "children": []
+      },
+      {
+        "title": "Cizí tělesa v jícnu",
+        "chapter_number": "",
+        "page_number": "620",
+        "children": []
+      },
+      {
+        "title": "Křeč jícnová",
+        "chapter_number": "",
+        "page_number": "623",
+        "children": []
+      },
+      {
+        "title": "Obrna jícnu",
+        "chapter_number": "",
+        "page_number": "625",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Nemoci žaludkové.",
+    "chapter_number": "V",
+    "page_number": "627",
+    "children": [
+      {
+        "title": "Bolestivosť žaludková",
+        "chapter_number": "",
+        "page_number": "627",
+        "children": []
+      },
+      {
+        "title": "Dávení",
+        "chapter_number": "",
+        "page_number": "631",
+        "children": []
+      },
+      {
+        "title": "Krvácení žaludkové",
+        "chapter_number": "",
+        "page_number": "643",
+        "children": []
+      },
+      {
+        "title": "Nechutenství a hladovosť",
+        "chapter_number": "",
+        "page_number": "649",
+        "children": []
+      },
+      {
+        "title": "Nestravnosť.",
+        "chapter_number": "",
+        "page_number": "654",
+        "children": []
+      },
+      {
+        "title": "Plynnatosť žaludku a střeva",
+        "chapter_number": "",
+        "page_number": "662",
+        "children": []
+      },
+      {
+        "title": "Dyspepsie anatomické a funkcionelní",
+        "chapter_number": "",
+        "page_number": "672",
+        "children": []
+      },
+      {
+        "title": "Prudký katarrh žaludku",
+        "chapter_number": "",
+        "page_number": "727",
+        "children": []
+      },
+      {
+        "title": "Vleklý katarrh žaludku",
+        "chapter_number": "",
+        "page_number": "733",
+        "children": []
+      },
+      {
+        "title": "Flegmonosní zánět a hlíza žaludeční",
+        "chapter_number": "",
+        "page_number": "744",
+        "children": []
+      },
+      {
+        "title": "Toxický zánět žaludku",
+        "chapter_number": "",
+        "page_number": "746",
+        "children": []
+      },
+      {
+        "title": "Haemorrhagické erose žaludkové",
+        "chapter_number": "",
+        "page_number": "750",
+        "children": []
+      },
+      {
+        "title": "Zžíravý vřed žaludkový",
+        "chapter_number": "",
+        "page_number": "751",
+        "children": []
+      },
+      {
+        "title": "Rakovina žaludku",
+        "chapter_number": "",
+        "page_number": "769",
+        "children": []
+      },
+      {
+        "title": "Súžení kardie.",
+        "chapter_number": "",
+        "page_number": "785",
+        "children": []
+      },
+      {
+        "title": "Súžení vrátníku.",
+        "chapter_number": "",
+        "page_number": "787",
+        "children": []
+      },
+      {
+        "title": "Rozšíření žaludku",
+        "chapter_number": "",
+        "page_number": "790",
+        "children": []
+      },
+      {
+        "title": "Perforace a píštěle žaludkové",
+        "chapter_number": "",
+        "page_number": "804",
+        "children": []
+      },
+      {
+        "title": "Neurosy žaludkové",
+        "chapter_number": "",
+        "page_number": "809",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Nemoci střeva.",
+    "chapter_number": "VI",
+    "page_number": "831",
+    "children": [
+      {
+        "title": "Zácpa",
+        "chapter_number": "",
+        "page_number": "831",
+        "children": []
+      },
+      {
+        "title": "Průjem",
+        "chapter_number": "",
+        "page_number": "845",
+        "children": []
+      },
+      {
+        "title": "Krvácení střevní",
+        "chapter_number": "",
+        "page_number": "858",
+        "children": []
+      },
+      {
+        "title": "Prudký katarrh střevní",
+        "chapter_number": "",
+        "page_number": "863",
+        "children": []
+      },
+      {
+        "title": "Vleklý katarrh střevní",
+        "chapter_number": "",
+        "page_number": "879",
+        "children": []
+      },
+      {
+        "title": "Perityflitis",
+        "chapter_number": "",
+        "page_number": "889",
+        "children": []
+      },
+      {
+        "title": "Zánět flegmonosní kolem konečníku",
+        "chapter_number": "",
+        "page_number": "903",
+        "children": []
+      },
+      {
+        "title": "Zžíravý vřed dvanáctníku",
+        "chapter_number": "",
+        "page_number": "907",
+        "children": []
+      },
+      {
+        "title": "Tuberkulosa střevní",
+        "chapter_number": "",
+        "page_number": "909",
+        "children": []
+      },
+      {
+        "title": "Rakovina střevní",
+        "chapter_number": "",
+        "page_number": "919",
+        "children": []
+      },
+      {
+        "title": "Haemorrhoidy",
+        "chapter_number": "",
+        "page_number": "927",
+        "children": []
+      },
+      {
+        "title": "Perforace střevní",
+        "chapter_number": "",
+        "page_number": "932",
+        "children": []
+      },
+      {
+        "title": "Súžení a neprůchodnosť střeva",
+        "chapter_number": "",
+        "page_number": "938",
+        "children": []
+      },
+      {
+        "title": "Hlístové střevní",
+        "chapter_number": "",
+        "page_number": "962",
+        "children": []
+      },
+      {
+        "title": "Neurosy střevní.",
+        "chapter_number": "",
+        "page_number": "977",
+        "children": []
+      }
+    ]
+  }
+]

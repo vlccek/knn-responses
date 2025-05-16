@@ -1,0 +1,71 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Verzeichnis von Büchern, welche in den wichtigsten pädagogischen Richtungen\nauf die Jugend unsrer Volks- und Bürgerschulen bildend einzuwirken\ngeeignet sind",
+    "chapter_number": "I",
+    "page_number": "15",
+    "children": [
+      {
+        "title": "Für das Kindesalter",
+        "chapter_number": "A",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Für das mittlere und höhere Jugendalter",
+        "chapter_number": "B",
+        "page_number": "21",
+        "children": [
+          {
+            "title": "Märchen, Sagen, Fabeln, Parabeln, Räthsel u. s. w.",
+            "chapter_number": "a",
+            "page_number": "21",
+            "children": []
+          },
+          {
+            "title": "Erzählungen u. s. w.",
+            "chapter_number": "b",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Geschichte, Biographien u. f. w.",
+            "chapter_number": "c",
+            "page_number": "35",
+            "children": []
+          },
+          {
+            "title": "Geographie, Reisebeschreibungen u. s. w.",
+            "chapter_number": "d",
+            "page_number": "39",
+            "children": []
+          },
+          {
+            "title": "Naturlehre, Naturgeschichte, Technologie u. f. w.",
+            "chapter_number": "e",
+            "page_number": "40",
+            "children": []
+          },
+          {
+            "title": "Anhang: Zur Einführung in die deutsche Literatur",
+            "chapter_number": "f",
+            "page_number": "43",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Verzeichnis von Büchern, welche in den wichtigsten pädagogischen Rich-\ntungen auf die Jugend unsrer Volks- und Bürgerschulen schädlich ein-\nzuwirken geeignet sind",
+    "chapter_number": "II",
+    "page_number": "47",
+    "children": []
+  }
+]

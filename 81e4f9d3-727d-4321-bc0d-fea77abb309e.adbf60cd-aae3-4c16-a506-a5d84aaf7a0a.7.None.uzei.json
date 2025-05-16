@@ -1,0 +1,118 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Význam pastevnictví pro severovýchodní Moravu",
+    "chapter_number": "I",
+    "page_number": "7"
+  },
+  {
+    "title": "Přirozené poměry",
+    "chapter_number": "II",
+    "page_number": "20"
+  },
+  {
+    "title": "Pastviny severovýchodní Moravy a jich hospodářská úprava",
+    "chapter_number": "III",
+    "page_number": "22"
+  },
+  {
+    "title": "Upravení pastvin obecních",
+    "chapter_number": "IV",
+    "page_number": "26",
+    "children": [
+      {
+        "title": "Vigantice",
+        "chapter_number": "a",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Hutisko",
+        "chapter_number": "b",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Solanec",
+        "chapter_number": "c",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Lhota u Choryně",
+        "chapter_number": "d",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Juřinka",
+        "chapter_number": "e",
+        "page_number": "34",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Upravování pastvin soukromých",
+    "chapter_number": "V",
+    "page_number": "36"
+  },
+  {
+    "title": "Pastevní hospodářství a družstevní pastviny",
+    "chapter_number": "VI",
+    "page_number": "39",
+    "children": [
+      {
+        "title": "Tylovice u Rožnova",
+        "chapter_number": "a",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Jasená u Vizovic",
+        "chapter_number": "b",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Těchlov u Vizovic",
+        "chapter_number": "c",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Nový dvůr",
+        "chapter_number": "d",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Velký Lukov",
+        "chapter_number": "e",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Zemědělské podniky, na nichž mají býti založena pastevní hospodářství:",
+        "chapter_number": "f",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Valašské Meziřičí, (Manský Dvůr) a Vystrkov",
+    "chapter_number": "1",
+    "page_number": "56"
+  },
+  {
+    "title": "Hradisko u Rožnova p. R.",
+    "chapter_number": "2",
+    "page_number": "60"
+  }
+]

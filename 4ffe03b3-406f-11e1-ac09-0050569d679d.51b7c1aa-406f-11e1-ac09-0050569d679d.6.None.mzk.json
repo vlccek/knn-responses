@@ -1,0 +1,141 @@
+
+[
+  {
+    "title": "Die Luft und das Athmen",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Der Luftdruck und das Barometer",
+    "chapter_number": "II",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Die Luftpumpe",
+    "chapter_number": "III",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Das Wasser und das Schwimmen",
+    "chapter_number": "IV",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Die Luftschifffahrt und das Fliegen",
+    "chapter_number": "V",
+    "page_number": "41",
+    "children": []
+  },
+  {
+    "title": "Der Schwerpunkt, das Gewicht und die Wage",
+    "chapter_number": "VI",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Das Gesetz der Beharrung und die Schwungkraft",
+    "chapter_number": "VII",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Die Wärme und ihre Wirkungen",
+    "chapter_number": "VIII",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "Das Thermometer",
+    "chapter_number": "IX",
+    "page_number": "68",
+    "children": []
+  },
+  {
+    "title": "Das Feuer und seine Verwendung zur Beleuchtung und Heizung",
+    "chapter_number": "X",
+    "page_number": "71",
+    "children": []
+  },
+  {
+    "title": "Das Kochen und Verdunsten",
+    "chapter_number": "XI",
+    "page_number": "82",
+    "children": []
+  },
+  {
+    "title": "Die Winde und die Wassermeteore",
+    "chapter_number": "XII",
+    "page_number": "87",
+    "children": []
+  },
+  {
+    "title": "Die Dampftkraft und die Dampfmaschinen",
+    "chapter_number": "XIII",
+    "page_number": "96",
+    "children": []
+  },
+  {
+    "title": "Der Schall und das Hören",
+    "chapter_number": "XIV",
+    "page_number": "101",
+    "children": []
+  },
+  {
+    "title": "Das Licht und das Sehen",
+    "chapter_number": "XV",
+    "page_number": "118",
+    "children": []
+  },
+  {
+    "title": "Das Mikroskop und das Fernrohr",
+    "chapter_number": "XVI",
+    "page_number": "142",
+    "children": []
+  },
+  {
+    "title": "Die Photographie",
+    "chapter_number": "XVII",
+    "page_number": "149",
+    "children": []
+  },
+  {
+    "title": "Der Regenbogen und andere Lichtmeteore",
+    "chapter_number": "XVIII",
+    "page_number": "151",
+    "children": []
+  },
+  {
+    "title": "Der Magnetismus",
+    "chapter_number": "XIX",
+    "page_number": "159",
+    "children": []
+  },
+  {
+    "title": "Die Elektrisirmaschine",
+    "chapter_number": "XX",
+    "page_number": "165",
+    "children": []
+  },
+  {
+    "title": "Das Gewitter und die Blitzableiter",
+    "chapter_number": "XXI",
+    "page_number": "174",
+    "children": []
+  },
+  {
+    "title": "Der Galvanismus und die Galvanoplastik",
+    "chapter_number": "XXII",
+    "page_number": "178",
+    "children": []
+  },
+  {
+    "title": "Der Elektromagnetismus und die Telegrafie",
+    "chapter_number": "XXIII",
+    "page_number": "187",
+    "children": []
+  }
+]

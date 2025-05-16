@@ -1,0 +1,120 @@
+
+[
+  {
+    "title": "Úvodem",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Veřejné knihovny obecní.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Zákon o veřejných knihovnách obecních",
+        "chapter_number": "I",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Nařízení o veřejných knihovnách obecních",
+        "chapter_number": "II",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Slovo k seznamu",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Seznam knih vhodných do obecních knihoven",
+        "chapter_number": "III",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Knihy zábavné",
+            "chapter_number": "1",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Básně",
+            "chapter_number": "2",
+            "page_number": "57",
+            "children": []
+          },
+          {
+            "title": "Divadelní hry",
+            "chapter_number": "3",
+            "page_number": "61",
+            "children": []
+          },
+          {
+            "title": "Knihy poučné",
+            "chapter_number": "4",
+            "page_number": "64",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Návrh úředního knihovního a čítárenského řádu",
+        "chapter_number": "IV",
+        "page_number": "88",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přídavek: Důležité zákony a nařízení o lidové výchově česko-slovenské.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O propůjčování místností školních",
+        "chapter_number": "I",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Zákon o organisaci lidových kursů občanské výchovy",
+        "chapter_number": "II",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Instrukce k zákonu o organisaci lidových kursů občanské výchovy",
+        "chapter_number": "III",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Organisace lidových kursů občanské výchovy pro národnostní menšiny",
+        "chapter_number": "IV",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "O přípravě přednášejících pro lidové kursy občanské výchovy",
+        "chapter_number": "V",
+        "page_number": "97",
+        "children": []
+      },
+      {
+        "title": "O organisaci lidových škol",
+        "chapter_number": "VI",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Vzdělavací kursy venkovské",
+        "chapter_number": "VII",
+        "page_number": "100",
+        "children": []
+      }
+    ]
+  }
+]

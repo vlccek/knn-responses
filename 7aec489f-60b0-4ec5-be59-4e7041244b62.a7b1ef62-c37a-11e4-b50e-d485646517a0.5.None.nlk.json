@@ -1,0 +1,647 @@
+
+[
+  {
+    "title": "Olomoucká:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Schůze výborová",
+        "chapter_number": "",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Valná hromada 21. VIII. 1901",
+        "chapter_number": "",
+        "page_number": "207",
+        "children": []
+      },
+      {
+        "title": "(mimoř.) 9. IX. 1901",
+        "chapter_number": "",
+        "page_number": "245",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Severních Čech:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Valná hromada 25. IX. 1901",
+        "chapter_number": "",
+        "page_number": "246",
+        "children": []
+      },
+      {
+        "title": "Výborová schůze 4. IX. 1901",
+        "chapter_number": "",
+        "page_number": "219",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Slezská:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Valná hromada 26. IX. 1901.",
+        "chapter_number": "",
+        "page_number": "247, 302",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Slovácká:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Pátá valná hromada 13. VII. 1901",
+        "chapter_number": "",
+        "page_number": "147, 179",
+        "children": []
+      },
+      {
+        "title": "První výborová schůze 4. IX. 1901.",
+        "chapter_number": "",
+        "page_number": "219",
+        "children": []
+      },
+      {
+        "title": "Druhá",
+        "chapter_number": "",
+        "page_number": "259",
+        "children": []
+      },
+      {
+        "title": "Třetí",
+        "chapter_number": "",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "",
+        "chapter_number": "",
+        "page_number": "259",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Táborská:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Valná hromada 12. X. 1901",
+        "chapter_number": "",
+        "page_number": "259",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Valašská:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Schůze mimořádná 3. XI. 1901",
+        "chapter_number": "",
+        "page_number": "271",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Západomoravská:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Výborová schůze 14. IX. 1901",
+        "chapter_number": "",
+        "page_number": "260",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zprávy.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bilzův rozmach",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Club der Praktiker des Vereines deutscher Aerzte",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "»Čas\", denník strany lidové",
+        "chapter_number": "",
+        "page_number": "7, 192",
+        "children": []
+      },
+      {
+        "title": "Česká sekce lékařské komory pro království České",
+        "chapter_number": "",
+        "page_number": "231",
+        "children": []
+      },
+      {
+        "title": "Čtenářům »Věstníka«",
+        "chapter_number": "",
+        "page_number": "247",
+        "children": []
+      },
+      {
+        "title": "Dělnického nemocenského pojišťování německého statis-",
+        "chapter_number": "",
+        "page_number": "180",
+        "children": []
+      },
+      {
+        "title": "tika za rok 1899",
+        "chapter_number": "",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Do nemocenské pokladny při Ú. J. Č. L",
+        "chapter_number": "",
+        "page_number": "219, 231, 247, 260, 272, 287",
+        "children": []
+      },
+      {
+        "title": "Dozor státní nad byty",
+        "chapter_number": "",
+        "page_number": "164",
+        "children": []
+      },
+      {
+        "title": "Druhý instrukční kurs pro úřední lékaře",
+        "chapter_number": "",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "Francouzské ministerstvo vnitra",
+        "chapter_number": "",
+        "page_number": "304",
+        "children": []
+      },
+      {
+        "title": "Fušerství",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Gisela, spolek pro výbavu dívek.",
+        "chapter_number": "",
+        "page_number": "272",
+        "children": []
+      },
+      {
+        "title": "Hlas staršího kolegy",
+        "chapter_number": "",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Hrozící lékařská stávka",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Inserát v České Politice",
+        "chapter_number": "",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Jak se o nás píše",
+        "chapter_number": "",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Jiný dopis",
+        "chapter_number": "",
+        "page_number": "303",
+        "children": []
+      },
+      {
+        "title": "Kolegům obvodním lékařům moravským! Zasláno",
+        "chapter_number": "",
+        "page_number": "164",
+        "children": []
+      },
+      {
+        "title": "Kolegům obvodním a obecním lékařům",
+        "chapter_number": "",
+        "page_number": "207",
+        "children": []
+      },
+      {
+        "title": "Konference rodičů zvláštní",
+        "chapter_number": "",
+        "page_number": "111",
+        "children": []
+      },
+      {
+        "title": "K »ukázce z naší autonomie«",
+        "chapter_number": "",
+        "page_number": "82",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ku schůzi o sociálním časopisu",
+    "chapter_number": "",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "Lékařům českým na uváženou",
+    "chapter_number": "",
+    "page_number": "81",
+    "children": []
+  },
+  {
+    "title": "Lékařské stávky v Německu",
+    "chapter_number": "",
+    "page_number": "104",
+    "children": []
+  },
+  {
+    "title": "Letošní letní valná hromada Ú. J. Č. L.",
+    "chapter_number": "",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Magistrát města Moskvy",
+    "chapter_number": "",
+    "page_number": "272",
+    "children": []
+  },
+  {
+    "title": "Mezinárodní sjezd lékařský v Madridu",
+    "chapter_number": "",
+    "page_number": "245",
+    "children": []
+  },
+  {
+    "title": "Mistrovské pokladny",
+    "chapter_number": "",
+    "page_number": "164",
+    "children": []
+  },
+  {
+    "title": "Nářek v Israeli",
+    "chapter_number": "",
+    "page_number": "191",
+    "children": []
+  },
+  {
+    "title": "Návrh",
+    "chapter_number": "",
+    "page_number": "119",
+    "children": []
+  },
+  {
+    "title": "Německá společnost pro lidové lázně",
+    "chapter_number": "",
+    "page_number": "288",
+    "children": []
+  },
+  {
+    "title": "Nestejnoměrnost rozdělení samosprávných okresů na",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "obvody",
+    "chapter_number": "",
+    "page_number": "247",
+    "children": []
+  },
+  {
+    "title": "Obdrželi jsme dopis",
+    "chapter_number": "",
+    "page_number": "247, 303",
+    "children": []
+  },
+  {
+    "title": "Okresní nemocenská pokladna ve Strakonicích",
+    "chapter_number": "",
+    "page_number": "220",
+    "children": []
+  },
+  {
+    "title": "O nemocničních lékařích",
+    "chapter_number": "",
+    "page_number": "96",
+    "children": []
+  },
+  {
+    "title": "O poměrech pražských okresních lékařů",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Oprava",
+    "chapter_number": "",
+    "page_number": "220",
+    "children": []
+  },
+  {
+    "title": "Otázka časové reformy všeob. veř. nemocnic",
+    "chapter_number": "",
+    "page_number": "207",
+    "children": []
+  },
+  {
+    "title": "O způsobu, jakým se domáhají správcové veřejných ne-",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "mocnic zlepšení hmotných svých poměrů",
+    "chapter_number": "",
+    "page_number": "147",
+    "children": []
+  },
+  {
+    "title": "Pijáctví",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Poučování učitelstva o hygieně",
+    "chapter_number": "",
+    "page_number": "111",
+    "children": []
+  },
+  {
+    "title": "Práce dětí v továrnách a živnostech",
+    "chapter_number": "",
+    "page_number": "119",
+    "children": []
+  },
+  {
+    "title": "Právo lidu",
+    "chapter_number": "",
+    "page_number": "31, 104",
+    "children": []
+  },
+  {
+    "title": "Pražská obec",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Pro domácnost a hospodářství",
+    "chapter_number": "",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "První instrukční kurs pro úřední lékaře",
+    "chapter_number": "",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "Předsednictvo České Obce Sokolské",
+    "chapter_number": "",
+    "page_number": "272",
+    "children": []
+  },
+  {
+    "title": "Při sněmovních letošních volbách",
+    "chapter_number": "",
+    "page_number": "287",
+    "children": []
+  },
+  {
+    "title": "Rakouská průmyslová rada",
+    "chapter_number": "",
+    "page_number": "260",
+    "children": []
+  },
+  {
+    "title": "Sjezd rakouských komor",
+    "chapter_number": "",
+    "page_number": "132",
+    "children": []
+  },
+  {
+    "title": "Sjezd rakouských měst.",
+    "chapter_number": "",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Slezská lékařská knihovna",
+    "chapter_number": "",
+    "page_number": "148",
+    "children": []
+  },
+  {
+    "title": "Spalování mrtvol",
+    "chapter_number": "",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Školní děti a pití piva v Holandsku",
+    "chapter_number": "",
+    "page_number": "119",
+    "children": []
+  },
+  {
+    "title": "Školní děti nemocné",
+    "chapter_number": "",
+    "page_number": "119",
+    "children": []
+  },
+  {
+    "title": "Školních dětí zuby",
+    "chapter_number": "",
+    "page_number": "232",
+    "children": []
+  },
+  {
+    "title": "Školní lékaře",
+    "chapter_number": "",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Tuberkulosním lidem",
+    "chapter_number": "",
+    "page_number": "287",
+    "children": []
+  },
+  {
+    "title": "Třináctá letní valná hromada Ú. J. Č. L",
+    "chapter_number": "",
+    "page_number": "111, 118",
+    "children": []
+  },
+  {
+    "title": "Účastníkům valné hromady na Zbraslavi",
+    "chapter_number": "",
+    "page_number": "220",
+    "children": []
+  },
+  {
+    "title": "Uherské ministerstvo vnitra",
+    "chapter_number": "",
+    "page_number": "260",
+    "children": []
+  },
+  {
+    "title": "Ukázka z naší autonomie.",
+    "chapter_number": "",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "Upravení platů nemocničních lékařů ve Štýrsku",
+    "chapter_number": "",
+    "page_number": "303",
+    "children": []
+  },
+  {
+    "title": "Úřední rychlost zemského výboru",
+    "chapter_number": "",
+    "page_number": "192",
+    "children": []
+  },
+  {
+    "title": "Virchow Rudolf",
+    "chapter_number": "",
+    "page_number": "247",
+    "children": []
+  },
+  {
+    "title": "V Národ. Listech« provolání",
+    "chapter_number": "",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "V Němcích zuří boj mezi lékárnami a nemocenskými",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "pokladnami",
+    "chapter_number": "",
+    "page_number": "180",
+    "children": []
+  },
+  {
+    "title": "V panské sněmovně rakouské.",
+    "chapter_number": "",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "V Paříži ustavila se liga proti plyvání",
+    "chapter_number": "",
+    "page_number": "260",
+    "children": []
+  },
+  {
+    "title": "Ve schůzi berlínské lékařské společnosti",
+    "chapter_number": "",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Ve vídeňské městské radě",
+    "chapter_number": "",
+    "page_number": "287",
+    "children": []
+  },
+  {
+    "title": "Ve Vídni zakládají spolek zdravotnický",
+    "chapter_number": "",
+    "page_number": "247",
+    "children": []
+  },
+  {
+    "title": "Volby a lékaři",
+    "chapter_number": "",
+    "page_number": "132",
+    "children": []
+  },
+  {
+    "title": "Všecky kolegy",
+    "chapter_number": "",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "Výslužné lékařů všeobecných nemocnic v Čechách",
+    "chapter_number": "",
+    "page_number": "303",
+    "children": []
+  },
+  {
+    "title": "Zajímavá čísla",
+    "chapter_number": "",
+    "page_number": "148",
+    "children": []
+  },
+  {
+    "title": "Z Francie",
+    "chapter_number": "",
+    "page_number": "103",
+    "children": []
+  },
+  {
+    "title": "Z Hamburku",
+    "chapter_number": "",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Z lékařských komor",
+    "chapter_number": "",
+    "page_number": "287",
+    "children": []
+  },
+  {
+    "title": "Z Moravy",
+    "chapter_number": "",
+    "page_number": "260",
+    "children": []
+  }
+]

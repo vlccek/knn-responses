@@ -1,0 +1,210 @@
+
+[
+  {
+    "title": "Cvičení mluvnická a mluvní.",
+    "chapter_number": "1",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Věta oznamovací",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Věta tázací",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Věta rozkazovací",
+        "chapter_number": "",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Podmět. Podstatná jména",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Rod podstatných jmen",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Číslo podstatných jmen",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Podmět není pronesen zvláštním slovem",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Přísudek je vyjádřen podstatným jménem",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Přídavná jména určitá trojího zakončení",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Rod přídavných jmen",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Přídavná jména určitá jednoho zakončení",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Číslo přídavných jmen",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Sloveso",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Osoba a číslo sloves",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Časy sloves",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Cvičení opakovací",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Přívlastek",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Věta oznamovací, tázací, rozkazovací",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Cvičení pravopisná.",
+    "chapter_number": "II",
+    "page_number": "24",
+    "children": [
+      {
+        "title": "Krátké a dlouhé samohlásky",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Tvrdé souhlásky",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Měkké souhlásky",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Slabiky di, ti, ni",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Slabiky dě, tě, ně",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Slabiky bě, pě, vě, mě",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Obojetné souhlásky",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Tvrdé y po obojetných souhláskách ve slabikách vnitřních",
+        "chapter_number": "",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Souhlásky b, d, đ, h, v, z, ž na konci slabik",
+        "chapter_number": "",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Dělení slov",
+        "chapter_number": "",
+        "page_number": "39",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Cvičení slohová.",
+    "chapter_number": "III",
+    "page_number": "40",
+    "children": [
+      {
+        "title": "Popisy",
+        "chapter_number": "",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Vypravování",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Dopisy",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      }
+    ]
+  }
+]

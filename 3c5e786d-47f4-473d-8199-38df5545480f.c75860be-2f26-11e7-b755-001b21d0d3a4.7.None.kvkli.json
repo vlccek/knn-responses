@@ -1,0 +1,109 @@
+
+[
+  {
+    "title": "Amtsführung",
+    "chapter_number": "IV",
+    "page_number": "224-236",
+    "children": [
+      {
+        "title": "Dienstweg",
+        "chapter_number": "1",
+        "page_number": "224-225",
+        "children": []
+      },
+      {
+        "title": "Amtsstellen der Sudetendeutschen Partei",
+        "chapter_number": "2",
+        "page_number": "226-235",
+        "children": []
+      },
+      {
+        "title": "Mandatsträger der Sudetendeutschen Partei",
+        "chapter_number": "3",
+        "page_number": "236",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Disziplinar, Beschwerde- und Ehrenordnung der Sudetendeutschen Partei",
+    "chapter_number": "V",
+    "page_number": "237-286",
+    "children": [
+      {
+        "title": "Disziplinarordnung",
+        "chapter_number": "1",
+        "page_number": "237-243",
+        "children": [
+          {
+            "title": "Disziplinarſtrafen",
+            "chapter_number": "A",
+            "page_number": "237",
+            "children": []
+          },
+          {
+            "title": "Handhabung der Disziplinargewalt",
+            "chapter_number": "B",
+            "page_number": "238-240",
+            "children": []
+          },
+          {
+            "title": "Bekanntgabe der Strafen",
+            "chapter_number": "C",
+            "page_number": "241-243",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Beschwerdeordnung",
+        "chapter_number": "2",
+        "page_number": "244-252",
+        "children": []
+      },
+      {
+        "title": "Ehrenordnung",
+        "chapter_number": "3",
+        "page_number": "253-286",
+        "children": [
+          {
+            "title": "Zuständigkeit der Ehrenschiedsgerichte",
+            "chapter_number": "A",
+            "page_number": "253-255",
+            "children": []
+          },
+          {
+            "title": "Errichtung und Zusammensehung der Kreis-Chrenschiedsgerichte",
+            "chapter_number": "B",
+            "page_number": "256-260",
+            "children": []
+          },
+          {
+            "title": "Das Ehrenſchiedsverfahren",
+            "chapter_number": "C",
+            "page_number": "261-276",
+            "children": []
+          },
+          {
+            "title": "Wiederaufnahme des Verfahrens",
+            "chapter_number": "D",
+            "page_number": "277",
+            "children": []
+          },
+          {
+            "title": "Berufung gegen einen Schiedsspruch",
+            "chapter_number": "E",
+            "page_number": "278-280",
+            "children": []
+          },
+          {
+            "title": "Das „Oberste Ehrenſchiedsgericht der Sudetendeutschen Partei\"",
+            "chapter_number": "F",
+            "page_number": "281-286",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

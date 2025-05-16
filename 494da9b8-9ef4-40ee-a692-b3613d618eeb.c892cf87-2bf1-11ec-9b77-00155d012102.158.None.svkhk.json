@@ -1,0 +1,292 @@
+
+[
+  {
+    "title": "oddělení. Úsudek.",
+    "chapter_number": "III",
+    "page_number": ""
+  },
+  {
+    "title": "Co jest úsudek",
+    "chapter_number": "§ 50",
+    "page_number": "60",
+    "children": [
+      {
+        "title": "O důsledku.",
+        "chapter_number": "a)",
+        "page_number": ""
+      }
+    ]
+  },
+  {
+    "title": "Důsledky logického čtverce",
+    "chapter_number": "§ 51",
+    "page_number": "61"
+  },
+  {
+    "title": "Důsledky z obratu soudů",
+    "chapter_number": "§ 52",
+    "page_number": "64"
+  },
+  {
+    "title": "Důsledky z rovnomocnosti a obměny",
+    "chapter_number": "§ 53",
+    "page_number": "65"
+  },
+  {
+    "title": "Obrat a obměna soudů hypothetických",
+    "chapter_number": "§ 54",
+    "page_number": "66"
+  },
+  {
+    "title": "Úsudek ve smysle užším.",
+    "chapter_number": "b)",
+    "page_number": ""
+  },
+  {
+    "title": "Rozdělení úsudků",
+    "chapter_number": "§ 55",
+    "page_number": "68"
+  },
+  {
+    "title": "Syllogismus",
+    "chapter_number": "§ 56",
+    "page_number": "69"
+  },
+  {
+    "title": "Figura I.",
+    "chapter_number": "§ 57",
+    "page_number": "71"
+  },
+  {
+    "title": "Figura II.",
+    "chapter_number": "§ 58",
+    "page_number": "73"
+  },
+  {
+    "title": "Figura III. a IV.",
+    "chapter_number": "§ 59",
+    "page_number": "76"
+  },
+  {
+    "title": "Význam syllogismu pro myšlení. Enthymemata",
+    "chapter_number": "§ 60",
+    "page_number": "78"
+  },
+  {
+    "title": "Syllogismus hypothetický a kategoricko-hypothetický",
+    "chapter_number": "§ 61",
+    "page_number": "79"
+  },
+  {
+    "title": "Úsudek hypothetický a lématický",
+    "chapter_number": "§ 62",
+    "page_number": "81"
+  },
+  {
+    "title": "Úsudek disjunktivný",
+    "chapter_number": "§ 63",
+    "page_number": "83"
+  },
+  {
+    "title": "Usudek složený. Polysyllogismus.",
+    "chapter_number": "§ 64",
+    "page_number": "84"
+  },
+  {
+    "title": "Sorites a epicheiréma.",
+    "chapter_number": "§ 65",
+    "page_number": "86"
+  },
+  {
+    "title": "Úsudky pravděpodobnosti",
+    "chapter_number": "§ 66",
+    "page_number": ""
+  },
+  {
+    "title": "Indukce. Úsudek kausálný",
+    "chapter_number": "§ 67",
+    "page_number": "88"
+  },
+  {
+    "title": "Pravidla indukce.",
+    "chapter_number": "§ 68",
+    "page_number": "91"
+  },
+  {
+    "title": "Úsudek z analogie",
+    "chapter_number": "§ 69",
+    "page_number": "94"
+  },
+  {
+    "title": "Část vědoslovná.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Potřeba soustavnosti. Věda",
+    "chapter_number": "§ 70",
+    "page_number": "96",
+    "children": [
+      {
+        "title": "Systematika.",
+        "chapter_number": "a)",
+        "page_number": ""
+      }
+    ]
+  },
+  {
+    "title": "Požadavky vědecké soustavy",
+    "chapter_number": "§ 71",
+    "page_number": "97"
+  },
+  {
+    "title": "Pojem definice.",
+    "chapter_number": "§ 72",
+    "page_number": "97"
+  },
+  {
+    "title": "Druhy definic",
+    "chapter_number": "§ 73",
+    "page_number": "98"
+  },
+  {
+    "title": "Pojmy nevyměřitelné",
+    "chapter_number": "§ 74",
+    "page_number": "101"
+  },
+  {
+    "title": "Správnost definice",
+    "chapter_number": "§ 75",
+    "page_number": "102"
+  },
+  {
+    "title": "Obdoby definice",
+    "chapter_number": "§ 76",
+    "page_number": "104"
+  },
+  {
+    "title": "Rozdělení",
+    "chapter_number": "§ 77",
+    "page_number": "107"
+  },
+  {
+    "title": "O dělidle",
+    "chapter_number": "§ 78",
+    "page_number": "108"
+  },
+  {
+    "title": "Rozdělení souběžná a poddělení",
+    "chapter_number": "§ 79",
+    "page_number": "109"
+  },
+  {
+    "title": "Správnost dělení.",
+    "chapter_number": "§ 80",
+    "page_number": "110"
+  },
+  {
+    "title": "Roztřídění",
+    "chapter_number": "§ 81",
+    "page_number": "111"
+  },
+  {
+    "title": "O důkaze. Argumentum ad hominem, axioma, postulat",
+    "chapter_number": "§ 82",
+    "page_number": "113"
+  },
+  {
+    "title": "Důkaz progressivný a regressivný.",
+    "chapter_number": "§ 83",
+    "page_number": "115"
+  },
+  {
+    "title": "Důkaz nepřímý",
+    "chapter_number": "§ 84",
+    "page_number": "117"
+  },
+  {
+    "title": "O vyvrácení",
+    "chapter_number": "§ 85",
+    "page_number": "118"
+  },
+  {
+    "title": "O správnosti důkazu",
+    "chapter_number": "§ 86",
+    "page_number": "119"
+  },
+  {
+    "title": "Paralogismy a sofismata",
+    "chapter_number": "§ 87",
+    "page_number": "123"
+  },
+  {
+    "title": "Třídění věd.",
+    "chapter_number": "b)",
+    "page_number": ""
+  },
+  {
+    "title": "Potřeba třídění",
+    "chapter_number": "§ 88",
+    "page_number": "125"
+  },
+  {
+    "title": "Vědy abstraktní a konkretní; theoritické a praktické",
+    "chapter_number": "§ 89",
+    "page_number": "126"
+  },
+  {
+    "title": "Význam stupnice věd",
+    "chapter_number": "§ 90",
+    "page_number": "129"
+  },
+  {
+    "title": "Heuristika.",
+    "chapter_number": "c)",
+    "page_number": ""
+  },
+  {
+    "title": "Zákon vědecký. Methoda",
+    "chapter_number": "§ 91",
+    "page_number": "131"
+  },
+  {
+    "title": "Dedukce a indukce",
+    "chapter_number": "§ 92",
+    "page_number": "132"
+  },
+  {
+    "title": "Hypothesa a theorie",
+    "chapter_number": "§ 93",
+    "page_number": "135"
+  },
+  {
+    "title": "Methody k stanovení hypothes. Pozorování",
+    "chapter_number": "§ 94",
+    "page_number": "138"
+  },
+  {
+    "title": "Experiment",
+    "chapter_number": "§ 95",
+    "page_number": "140"
+  },
+  {
+    "title": "Methoda srovnávací",
+    "chapter_number": "§ 96",
+    "page_number": "143"
+  },
+  {
+    "title": "Methoda statistická.",
+    "chapter_number": "§ 97",
+    "page_number": "146"
+  },
+  {
+    "title": "Dodatek.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Přehled dějin logiky",
+    "chapter_number": "§ 98",
+    "page_number": "148"
+  }
+]

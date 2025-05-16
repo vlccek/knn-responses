@@ -1,0 +1,199 @@
+
+[
+  {
+    "title": "Dein Besik.",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Alle für einen, einer für alle!",
+        "chapter_number": "1",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Das Handwerkszeug",
+        "chapter_number": "2",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Eine Predigt für die „Wasserbauern\"",
+        "chapter_number": "3",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "„Der Stückelbauer\" oder „Wie aus einem zerrissenen ein — ganzer Bauer werden kann\"",
+        "chapter_number": "4",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Du sollst stehlen!",
+        "chapter_number": "5",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Das Wirtschaftsblut",
+        "chapter_number": "6",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Vom Tropfen zum Strom",
+        "chapter_number": "7",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Wer schreibt, der bleibt",
+        "chapter_number": "8",
+        "page_number": "45",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pflug und Düngersack.",
+    "chapter_number": "II",
+    "page_number": "55",
+    "children": [
+      {
+        "title": "Der Luftbauer",
+        "chapter_number": "9",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Am Ackern erkennt man den Wackern!",
+        "chapter_number": "10",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Hinter dem Erntewagen",
+        "chapter_number": "11",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Sperr' die Düngerdefraudanten ein!",
+        "chapter_number": "12",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Des Bauern Klingelbeutel",
+        "chapter_number": "13",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Vom Hungerleiden wird keiner satt",
+        "chapter_number": "14",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Trau, schau, wem! (Eine Predigt über die Kunstdünger-moral)",
+        "chapter_number": "15",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Das Dukatenbrünnlein",
+        "chapter_number": "16",
+        "page_number": "101",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Überleg' dir's!",
+    "chapter_number": "III",
+    "page_number": "111",
+    "children": [
+      {
+        "title": "Das Pflanzentheater",
+        "chapter_number": "17",
+        "page_number": "111",
+        "children": []
+      },
+      {
+        "title": "Eine Bergpredigt",
+        "chapter_number": "18",
+        "page_number": "118",
+        "children": []
+      },
+      {
+        "title": "Eine Kellerpredigt. Etwas vom Zukunftsweinbau",
+        "chapter_number": "19",
+        "page_number": "126",
+        "children": []
+      },
+      {
+        "title": "Die Bauernfresser",
+        "chapter_number": "20",
+        "page_number": "133",
+        "children": []
+      },
+      {
+        "title": "Es ist schon zu dumm",
+        "chapter_number": "21",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Erst wäg's, dann wag's",
+        "chapter_number": "22",
+        "page_number": "146",
+        "children": []
+      },
+      {
+        "title": "Die Milchkreuzer",
+        "chapter_number": "23",
+        "page_number": "151",
+        "children": []
+      },
+      {
+        "title": "Vom guten und vielen Obste",
+        "chapter_number": "24",
+        "page_number": "158",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Das Stallevangelium.",
+    "chapter_number": "IV",
+    "page_number": "167",
+    "children": [
+      {
+        "title": "Das Auge des Herrn mästet das Vieh",
+        "chapter_number": "25",
+        "page_number": "167",
+        "children": []
+      },
+      {
+        "title": "Bäuerliche Tierquäler",
+        "chapter_number": "26",
+        "page_number": "172",
+        "children": []
+      },
+      {
+        "title": "Ein altes Übel",
+        "chapter_number": "27",
+        "page_number": "179",
+        "children": []
+      },
+      {
+        "title": "So geht's nicht",
+        "chapter_number": "28",
+        "page_number": "184",
+        "children": []
+      }
+    ]
+  }
+]

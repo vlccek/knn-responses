@@ -1,0 +1,34 @@
+
+[
+  {
+    "title": "Durchführung der Aufgaben",
+    "chapter_number": "Note 6",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Durch einen Punkt im Raume eine Ebene senkrecht zu einer Geraden zu führen. (Benützung der schiefen Projekzion).",
+        "chapter_number": "1",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Eine Gerade auf eine Ebene zu projiziren",
+        "chapter_number": "2",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Eine Ebene mit einer in ihr liegenden Geraden in die Bildebene umzulegen",
+        "chapter_number": "3",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Die Axen einer Ellipse zu bestimmen, als welche sich ein Kreis projizirt, der in einer bestimmten Ebene liegt",
+        "chapter_number": "4",
+        "page_number": "106",
+        "children": []
+      }
+    ]
+  }
+]

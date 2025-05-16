@@ -1,0 +1,149 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Historický místopis panství Miličeveského",
+    "chapter_number": "",
+    "page_number": "16",
+    "children": [
+      {
+        "title": "osady Březky",
+        "chapter_number": "A.",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Cidliny",
+        "chapter_number": "B.",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Doubravice",
+        "chapter_number": "C.",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Peklovsi",
+        "chapter_number": "D.",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "obce Lhoty Bradlecké",
+        "chapter_number": "E.",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "panství Radim-Peckovského",
+        "chapter_number": "",
+        "page_number": "97",
+        "children": []
+      },
+      {
+        "title": "obce Kyjů",
+        "chapter_number": "F.",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Ploučnice",
+        "chapter_number": "G.",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Žďáru",
+        "chapter_number": "H.",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "osady Oujezdců",
+        "chapter_number": "I.",
+        "page_number": "151",
+        "children": []
+      },
+      {
+        "title": "obce Syřenova",
+        "chapter_number": "J.",
+        "page_number": "163",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "ABECEDNÍ SEZNAM DRŽITELŮ USEDLOSTÍ:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ve Březce",
+        "chapter_number": "A.",
+        "page_number": "187",
+        "children": []
+      },
+      {
+        "title": "v Cidlině",
+        "chapter_number": "B.",
+        "page_number": "187",
+        "children": []
+      },
+      {
+        "title": "v Doubravici",
+        "chapter_number": "C.",
+        "page_number": "188",
+        "children": []
+      },
+      {
+        "title": "v Peklovsi",
+        "chapter_number": "D.",
+        "page_number": "188",
+        "children": []
+      },
+      {
+        "title": "ve Lhotě Bradlecké",
+        "chapter_number": "E.",
+        "page_number": "189",
+        "children": []
+      },
+      {
+        "title": "v Kyjích",
+        "chapter_number": "F.",
+        "page_number": "190",
+        "children": []
+      },
+      {
+        "title": "na Ploučnici",
+        "chapter_number": "G.",
+        "page_number": "191",
+        "children": []
+      },
+      {
+        "title": "na Žďáře",
+        "chapter_number": "H.",
+        "page_number": "192",
+        "children": []
+      },
+      {
+        "title": "v Oujezdcích",
+        "chapter_number": "I.",
+        "page_number": "193",
+        "children": []
+      },
+      {
+        "title": "v Syřenově",
+        "chapter_number": "J.",
+        "page_number": "193",
+        "children": []
+      }
+    ]
+  }
+]

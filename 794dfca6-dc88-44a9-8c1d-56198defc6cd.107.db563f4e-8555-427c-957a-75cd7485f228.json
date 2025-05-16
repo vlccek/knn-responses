@@ -1,0 +1,207 @@
+
+[
+  {
+    "title": "Úvod všeobecný",
+    "chapter_number": "§ 1",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "O novějších názorech geodetických",
+    "chapter_number": "§ 2",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Poznámky mathematické",
+    "chapter_number": "§ 3",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Řešení sférických trojúhelníků v specielních případech",
+    "chapter_number": "§ 4",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "Pseudosférické trojúhelníky",
+    "chapter_number": "§ 5",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "Příklad počtu sférického trojúhelníku dle Legendreovy věty",
+    "chapter_number": "§ 6",
+    "page_number": "20",
+    "children": []
+  },
+  {
+    "title": "Příklad sférického trojúhelníku dle methody additamentů",
+    "chapter_number": "§ 7",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Sférické souřadnice",
+    "chapter_number": "§ 8",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Příklad pro souřadnice Soldnerovy",
+    "chapter_number": "§ 9",
+    "page_number": "28",
+    "children": []
+  },
+  {
+    "title": "Theorie geodetické křivky",
+    "chapter_number": "§ 10",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "O geometrii na ploše libovolné",
+    "chapter_number": "§ 11",
+    "page_number": "35",
+    "children": []
+  },
+  {
+    "title": "Trojúhelníky geodetické",
+    "chapter_number": "§ 12",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "Příklad trojúhelníka geodetického",
+    "chapter_number": "§ 13",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "O hlavním problému geodetickém",
+    "chapter_number": "§ 14",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Sestavení vzorců pro methodu Besselovu",
+    "chapter_number": "§ 15",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Azimut na ellipsoidu",
+    "chapter_number": "§ 16",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "O změnách vzhledem k rozdílné výšce bodů",
+    "chapter_number": "§ 17",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "O geometrickém stanovení tvaru zemského",
+    "chapter_number": "§ 18",
+    "page_number": "58",
+    "children": []
+  },
+  {
+    "title": "Základy theorie funkcí komplexních veličin",
+    "chapter_number": "§ 19",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Gaussova theorie zobrazení",
+    "chapter_number": "§ 20",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "Zobrazení ellipsoidu na kouli",
+    "chapter_number": "§ 21",
+    "page_number": "70",
+    "children": []
+  },
+  {
+    "title": "Příklad konformního zobrazení",
+    "chapter_number": "§ 22",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Zobrazení perspektivní",
+    "chapter_number": "§ 23",
+    "page_number": "74",
+    "children": []
+  },
+  {
+    "title": "Zobrazení aequivalentní",
+    "chapter_number": "§ 24",
+    "page_number": "77",
+    "children": []
+  },
+  {
+    "title": "O tvaru země",
+    "chapter_number": "§ 25",
+    "page_number": "79",
+    "children": []
+  },
+  {
+    "title": "Theorem Bruhnsův",
+    "chapter_number": "§ 26",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "O stanovení geoidu",
+    "chapter_number": "§ 27",
+    "page_number": "84",
+    "children": []
+  },
+  {
+    "title": "O odchylce směru tížnice",
+    "chapter_number": "§ 28",
+    "page_number": "88",
+    "children": []
+  },
+  {
+    "title": "O vlivu měsíce a slunce na směr tížnice",
+    "chapter_number": "§ 29",
+    "page_number": "93",
+    "children": []
+  },
+  {
+    "title": "O vlivu změn gravitace na geometrické nivellování",
+    "chapter_number": "§ 30",
+    "page_number": "94",
+    "children": []
+  },
+  {
+    "title": "O nivellování na geoidu",
+    "chapter_number": "§ 31",
+    "page_number": "97",
+    "children": []
+  },
+  {
+    "title": "O sférické chybě nivellační",
+    "chapter_number": "§ 32",
+    "page_number": "101",
+    "children": []
+  },
+  {
+    "title": "Astronomické stanovení tvaru zemského",
+    "chapter_number": "§ 33",
+    "page_number": "102",
+    "children": []
+  },
+  {
+    "title": "Opravy",
+    "chapter_number": "",
+    "page_number": "105",
+    "children": []
+  }
+]

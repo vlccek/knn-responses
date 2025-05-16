@@ -1,0 +1,88 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Zeměpisná poloha, hranice, velikost a počet obyvatelstva",
+    "chapter_number": "1",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Povrch půdy",
+    "chapter_number": "2",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Vodstvo",
+    "chapter_number": "3",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Horniny",
+    "chapter_number": "4",
+    "page_number": "14",
+    "children": []
+  },
+  {
+    "title": "Obyvatelstvo",
+    "chapter_number": "5",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "Živnosti",
+    "chapter_number": "6",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Silnice, železnice, pošty, telegrafy a telefony",
+    "chapter_number": "7",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Správa politická",
+    "chapter_number": "8",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Správa obecní",
+    "chapter_number": "9",
+    "page_number": "23",
+    "children": [
+      {
+        "title": "Okres Meziříčský",
+        "chapter_number": "I",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Rožnovský",
+        "chapter_number": "II",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Vsacký",
+        "chapter_number": "III",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek: Přehledy",
+    "chapter_number": "",
+    "page_number": "69",
+    "children": []
+  }
+]

@@ -1,0 +1,200 @@
+
+[
+  {
+    "title": "Geschlossene und geöffnete Fechtart",
+    "chapter_number": "",
+    "page_number": "71",
+    "children": []
+  },
+  {
+    "title": "Zerstreute Fechtart",
+    "chapter_number": "",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Avant- und Arrieregarden-Gefecht",
+    "chapter_number": "",
+    "page_number": "74",
+    "children": []
+  },
+  {
+    "title": "Allgemeine Bestimmungen für die Verwendung der bei größeren Infanteriekörpern zugetheilten Kavallerie",
+    "chapter_number": "§. 16",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "Allgemeine Bestimmungen für die Verwendung der bei größeren Truppenkörpern eingetheilten Batterien",
+    "chapter_number": "§. 17",
+    "page_number": "77",
+    "children": [
+      {
+        "title": "Im Allgemeinen",
+        "chapter_number": "A.",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Plazirung",
+            "chapter_number": "I.",
+            "page_number": "79",
+            "children": []
+          },
+          {
+            "title": "Lebhaftigkeit des Feuers",
+            "chapter_number": "II.",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Einklang der Bewegungen",
+            "chapter_number": "III.",
+            "page_number": "80",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "In der Offensive",
+        "chapter_number": "B.",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Geschütze der Avantgarde",
+            "chapter_number": "I.",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Batterien des Gros",
+            "chapter_number": "II.",
+            "page_number": "82",
+            "children": [
+              {
+                "title": "Brigade-Batterien",
+                "chapter_number": "a.",
+                "page_number": null,
+                "children": []
+              },
+              {
+                "title": "Reserve-Batterien",
+                "chapter_number": "b.",
+                "page_number": "84",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "In der Defensive",
+        "chapter_number": "C.",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Während des Rückmarsches",
+        "chapter_number": "D.",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Geschütz-Bedeckung",
+        "chapter_number": "E.",
+        "page_number": "85",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Empfang eines Höheren",
+    "chapter_number": "§. 18",
+    "page_number": "86",
+    "children": []
+  },
+  {
+    "title": "Defilirung",
+    "chapter_number": "§. 19",
+    "page_number": "89",
+    "children": []
+  },
+  {
+    "title": "General-Decharge",
+    "chapter_number": "§. 20",
+    "page_number": "90",
+    "children": []
+  },
+  {
+    "title": "Richtungen",
+    "chapter_number": "§. 21",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "Benehmen der Musikbanden und der Tambure beim Manövriren mit größeren Truppenkörpern",
+    "chapter_number": "§. 22",
+    "page_number": "93",
+    "children": []
+  },
+  {
+    "title": "Schlußbemerkungen",
+    "chapter_number": "",
+    "page_number": "94",
+    "children": []
+  },
+  {
+    "title": "Beispielsweise Andeutungen für taktische Manöver.",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Vertheidigungs-Manöver",
+        "chapter_number": "I.",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Angriffs-Manöver",
+        "chapter_number": "II.",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Vertheidigungs-Manöver",
+        "chapter_number": "III.",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Angriffs-Manöver",
+        "chapter_number": "IV.",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Vertheidigungs-Manöver",
+        "chapter_number": "V.",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Angriffs-Manöver",
+        "chapter_number": "VI.",
+        "page_number": "116",
+        "children": []
+      },
+      {
+        "title": "Vertheidigungs-Manöver",
+        "chapter_number": "VII.",
+        "page_number": "118",
+        "children": []
+      },
+      {
+        "title": "Angriffs-Manöver",
+        "chapter_number": "V.",
+        "page_number": "120",
+        "children": []
+      }
+    ]
+  }
+]

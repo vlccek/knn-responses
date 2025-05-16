@@ -1,0 +1,132 @@
+
+[
+  {
+    "title": "De observandis decretis Concilii provincialis",
+    "chapter_number": "Chapter I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "De emittenda fidei professione",
+    "chapter_number": "Chapter II",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "De anniversario electionis Summi Pontificis",
+    "chapter_number": "Chapter III",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "De Collationibus Cleri",
+    "chapter_number": "Chapter IV",
+    "page_number": "6",
+    "children": [
+      {
+        "title": "Instructio de habendis Collationibus Cleri",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "De spiritualibus Cleri exercitiis",
+    "chapter_number": "Chapter V",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "De vestitu clericorum",
+    "chapter_number": "Chapter VI",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "De ludimagistrorum Seminariis et sacris exercitiis",
+    "chapter_number": "Chapter VII",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "De cura juventutis in fabricis occupatæ",
+    "chapter_number": "Chapter VIII",
+    "page_number": "14",
+    "children": []
+  },
+  {
+    "title": "De societatibus Literatorum",
+    "chapter_number": "Chapter IX",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "De sacris missionibus",
+    "chapter_number": "Chapter X",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "De cultu Sanctissimi Sacramenti",
+    "chapter_number": "Chapter XI",
+    "page_number": "21",
+    "children": [
+      {
+        "title": "Instructio synodalis de Cultu Ss. Sacramenti",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "De casibus Episcopali Absolutioni reservatis",
+    "chapter_number": "Chapter XII",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "De promovendo ecclesiarum decore",
+    "chapter_number": "Chapter XIII",
+    "page_number": "50",
+    "children": [
+      {
+        "title": "Instructio de munere Episcopalium fabricæ ecclesiasticæ Conservatorum",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "De judicio ecclesiastico pro causis Cleri contentiosis",
+    "chapter_number": "Chapter XIV",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "De concursu parochiali",
+    "chapter_number": "Chapter XV",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "De congrua Cleri sustentatione",
+    "chapter_number": "Chapter XVI",
+    "page_number": "58",
+    "children": []
+  },
+  {
+    "title": "De testamentis Clericorum",
+    "chapter_number": "Chapter XVII",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "De observandis synodalibus Statutis",
+    "chapter_number": "Chapter XVIII",
+    "page_number": "65",
+    "children": []
+  }
+]

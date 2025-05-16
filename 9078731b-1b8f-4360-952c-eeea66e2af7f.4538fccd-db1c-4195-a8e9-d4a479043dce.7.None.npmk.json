@@ -1,0 +1,232 @@
+
+[
+  {
+    "title": "Povrch asijské pevniny",
+    "chapter_number": "§ 34",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Řeky a jezera v Asii",
+    "chapter_number": "§ 35",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "Podnebí Asie",
+    "chapter_number": "§ 36",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Afrika",
+    "chapter_number": "",
+    "page_number": "57",
+    "children": [
+      {
+        "title": "Hranice a členy",
+        "chapter_number": "§ 37",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Povrch a vodstvo afrických ostrovů",
+        "chapter_number": "§ 38",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Povrch africké pevniny",
+        "chapter_number": "§ 39",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Řeky a jezera africké pevniny",
+        "chapter_number": "§ 40",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Podnebí v Africe",
+        "chapter_number": "§ 41",
+        "page_number": "61",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Amerika",
+    "chapter_number": "",
+    "page_number": "62",
+    "children": [
+      {
+        "title": "Členy a rozdělení Ameriky",
+        "chapter_number": "§ 42",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Povrch a vodstvo amerických ostrovů",
+        "chapter_number": "§ 43",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Kordillery",
+        "chapter_number": "§ 44",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Povrch ostatní Ameriky Severní",
+        "chapter_number": "§ 45",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Řeky a jezera Ameriky Severní",
+        "chapter_number": "§ 46",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Ostatní povrch Ameriky Jižní",
+        "chapter_number": "§ 47",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Řeky a jezera Ameriky Jižní",
+        "chapter_number": "§ 48",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Podnebí americké",
+        "chapter_number": "§ 49",
+        "page_number": "68",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Australie",
+    "chapter_number": "",
+    "page_number": "69",
+    "children": [
+      {
+        "title": "Hranice a členy",
+        "chapter_number": "§ 50",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Povrch a vodstvo australských ostrovů",
+        "chapter_number": "§ 51",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Povrch a vodstvo australské pevniny",
+        "chapter_number": "§ 52",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Podnebí australské",
+        "chapter_number": "§ 53",
+        "page_number": "71",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl III.",
+    "chapter_number": "",
+    "page_number": "72",
+    "children": [
+      {
+        "title": "Zakladové zeměpisu politického",
+        "chapter_number": "",
+        "page_number": "72",
+        "children": [
+          {
+            "title": "O člověku, národech a zaměstnáních",
+            "chapter_number": "§ 54",
+            "page_number": "72",
+            "children": []
+          },
+          {
+            "title": "Náboženství",
+            "chapter_number": "§ 55",
+            "page_number": "75",
+            "children": []
+          },
+          {
+            "title": "O státech a lidnatosti",
+            "chapter_number": "§ 56",
+            "page_number": "76",
+            "children": []
+          },
+          {
+            "title": "Státy evropské",
+            "chapter_number": "§ 57",
+            "page_number": "77",
+            "children": []
+          },
+          {
+            "title": "Státy a osady asijské",
+            "chapter_number": "§ 58",
+            "page_number": "84",
+            "children": []
+          },
+          {
+            "title": "Státy a državy africké",
+            "chapter_number": "§ 59",
+            "page_number": "86",
+            "children": []
+          },
+          {
+            "title": "Státy a državy americké",
+            "chapter_number": "§ 60",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Državy australské",
+            "chapter_number": "§ 61",
+            "page_number": "90",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Oddíl IV.",
+    "chapter_number": "",
+    "page_number": "91",
+    "children": [
+      {
+        "title": "Dodatek k zeměpisu mathematickému",
+        "chapter_number": "",
+        "page_number": "91",
+        "children": [
+          {
+            "title": "Myšlené čáry na obloze nebeské",
+            "chapter_number": "§ 62",
+            "page_number": "91",
+            "children": []
+          },
+          {
+            "title": "Dráhy sluneční průběhem roku nad obzorem různých zeměpisných šířek",
+            "chapter_number": "§ 63",
+            "page_number": "92",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

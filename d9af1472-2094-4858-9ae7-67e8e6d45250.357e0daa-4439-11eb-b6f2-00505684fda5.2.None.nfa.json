@@ -1,0 +1,86 @@
+
+[
+  {
+    "title": "OBSAH",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "1"
+  },
+  {
+    "title": "Chronologické rejstříky:",
+    "chapter_number": "",
+    "page_number": "" ,
+    "children": [
+      {
+        "title": "ruská kinem. 1908-17",
+        "chapter_number": "",
+        "page_number": "15"
+      },
+      {
+        "title": "sovětská kinem. 1918-72",
+        "chapter_number": "",
+        "page_number": "22"
+      }
+    ]
+  },
+  {
+    "title": "Rejstříky původních názvů:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ruská kinem. 1908-17",
+        "chapter_number": "",
+        "page_number": "90"
+      },
+      {
+        "title": "sovětská kinem. 1918-72",
+        "chapter_number": "",
+        "page_number": "97"
+      }
+    ]
+  },
+  {
+    "title": "Rejstříky českých názvů:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ruská kinem. 1908-17",
+        "chapter_number": "",
+        "page_number": "160"
+      },
+      {
+        "title": "sovětská kinem. 1918-72",
+        "chapter_number": "",
+        "page_number": "165"
+      }
+    ]
+  },
+  {
+    "title": "Stručné charakteristiky jednotlivých titulů:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ruská kinem. 1908-17",
+        "chapter_number": "",
+        "page_number": "219"
+      },
+      {
+        "title": "sovětská kinem. 1918-72",
+        "chapter_number": "",
+        "page_number": "232"
+      }
+    ]
+  },
+  {
+    "title": "Zkratky států podle FIAF",
+    "chapter_number": "",
+    "page_number": "394"
+  }
+]

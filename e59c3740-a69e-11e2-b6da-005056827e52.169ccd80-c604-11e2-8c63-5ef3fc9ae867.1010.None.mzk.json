@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Seznam literatury",
+    "chapter_number": "I. ČÁST",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Seznam nalezišť a popis nerostů",
+    "chapter_number": "II. ČÁST",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "Seznam nerostů a výčet nalezišť",
+    "chapter_number": "III. ČÁST",
+    "page_number": "885",
+    "children": []
+  },
+  {
+    "title": "Rejstřík nalezišť a nerostů",
+    "chapter_number": "IV. ČÁST",
+    "page_number": "975",
+    "children": [
+      {
+        "title": "Rejstřík českých obcí",
+        "chapter_number": "a)",
+        "page_number": "976",
+        "children": []
+      },
+      {
+        "title": "Rejstřík německých obcí",
+        "chapter_number": "b)",
+        "page_number": "988",
+        "children": []
+      },
+      {
+        "title": "Rejstřík nerostů",
+        "chapter_number": "c)",
+        "page_number": "1001",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Literaturverzeichnis",
+    "chapter_number": "I. TEIL",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Verzeichnis der Fundorte und Beschreibung der Minerale",
+    "chapter_number": "II. TEIL",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "Verzeichnis der Minerale und Aufzählung der Fundorte",
+    "chapter_number": "III. TEIL",
+    "page_number": "885",
+    "children": []
+  },
+  {
+    "title": "Register der Fundorte und der Minerale",
+    "chapter_number": "IV. TEIL",
+    "page_number": "975",
+    "children": [
+      {
+        "title": "Register der čechischen Gemeinden",
+        "chapter_number": "a)",
+        "page_number": "976",
+        "children": []
+      },
+      {
+        "title": "Register der deutschen Gemeinden",
+        "chapter_number": "b)",
+        "page_number": "988",
+        "children": []
+      },
+      {
+        "title": "Register der Minerale",
+        "chapter_number": "c)",
+        "page_number": "1001",
+        "children": []
+      }
+    ]
+  }
+]

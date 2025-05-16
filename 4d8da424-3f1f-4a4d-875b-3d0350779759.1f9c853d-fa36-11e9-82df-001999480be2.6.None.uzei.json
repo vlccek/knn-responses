@@ -1,0 +1,202 @@
+
+[
+  {
+    "title": "Mineralogie.",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Oddíl I. Znakoslovi čili terminologie.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Tvarosloví-morfologie",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Krystaly",
+                "chapter_number": "",
+                "page_number": "2",
+                "children": []
+              },
+              {
+                "title": "Krystalografie",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Kostka čili krychle",
+                "chapter_number": "",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Souměrnost krystalů",
+                "chapter_number": "",
+                "page_number": "7",
+                "children": []
+              },
+              {
+                "title": "Určení polohy plochy pomocí os",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Soustava krychlová.",
+                "chapter_number": "",
+                "page_number": "25",
+                "children": []
+              },
+              {
+                "title": "Soustava čtverečná.",
+                "chapter_number": "",
+                "page_number": "32",
+                "children": []
+              },
+              {
+                "title": "Soustava šesterečná",
+                "chapter_number": "",
+                "page_number": "42",
+                "children": []
+              },
+              {
+                "title": "Soustava kosočtverečná",
+                "chapter_number": "",
+                "page_number": "47",
+                "children": []
+              },
+              {
+                "title": "Soustava jednoklonná.",
+                "chapter_number": "",
+                "page_number": "50",
+                "children": []
+              },
+              {
+                "title": "Soustava trojklonná",
+                "chapter_number": "",
+                "page_number": "55",
+                "children": []
+              },
+              {
+                "title": "Silozpytná část nerostopisu",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Silozpytné vlastnosti nerostů",
+                "chapter_number": "",
+                "page_number": "59",
+                "children": []
+              },
+              {
+                "title": "Optické úkazy",
+                "chapter_number": "",
+                "page_number": "68",
+                "children": []
+              },
+              {
+                "title": "Tepelné, elektrické a magnetické vlastnosti nerostů",
+                "chapter_number": "",
+                "page_number": "70",
+                "children": []
+              },
+              {
+                "title": "Chemie nerostů.",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "Lučebné vlastnosti nerostů",
+                "chapter_number": "",
+                "page_number": "74",
+                "children": []
+              },
+              {
+                "title": "O vztahu mezi lučebnými a morfologickými vlastnostmi",
+                "chapter_number": "",
+                "page_number": "76",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Oddíl II. Naleziště a vznik nerostů",
+        "chapter_number": "",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Oddíl III. Rozdělení a popis nerostů",
+        "chapter_number": "",
+        "page_number": "80",
+        "children": [
+          {
+            "title": "I. Třída. Prvky",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "A. Prvky nekovové",
+                "chapter_number": "",
+                "page_number": "87",
+                "children": []
+              },
+              {
+                "title": "B. Prvky kovové",
+                "chapter_number": "",
+                "page_number": "",
+                "children": [
+                  {
+                    "title": "a) Kovy kruché",
+                    "chapter_number": "",
+                    "page_number": "88",
+                    "children": []
+                  },
+                  {
+                    "title": "b) Kovy kujné",
+                    "chapter_number": "",
+                    "page_number": "100",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "II. Třída. Sloučeniny halogenní",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "A. Jednoduché sloučeniny halové",
+                "chapter_number": "",
+                "page_number": "106",
+                "children": []
+              },
+              {
+                "title": "B. Složené sloučeniny halové",
+                "chapter_number": "",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "C. Sloučeniny halové s kysličníky a se solemi kyslíkatými",
+                "chapter_number": "",
+                "page_number": "107",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,277 @@
+
+[
+  {
+    "title": "Hlava třetí. Řešení různých úloh.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "1. Určení zdánlivého zastavení a zpětného pohybu (retrogradace) planet",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "2. O drahách měsíců planet vzhledem k slunci.",
+        "chapter_number": "",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "3. Výpočet rovnice časové",
+        "chapter_number": "",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "4. Vztah mezi sluneční parallaxou a hmotou zemskou",
+        "chapter_number": "",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "5. Fáse měsíce.",
+        "chapter_number": "",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "6. Tvar a poloha dráhy trabantů",
+        "chapter_number": "",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "7. Prsten Saturnův",
+        "chapter_number": "",
+        "page_number": "76",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hlava čtvrtá. Numerická differentiace a integrace.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Vzorce interpolační",
+        "chapter_number": "",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Mechanické differencování",
+        "chapter_number": "",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Numerické určení integrálu funkcí.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "A. Integrály jednoduché",
+            "chapter_number": "",
+            "page_number": "96",
+            "children": []
+          },
+          {
+            "title": "B. Integrály dvojité",
+            "chapter_number": "",
+            "page_number": "108",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Příbližné určení integrálu",
+        "chapter_number": "",
+        "page_number": "117",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hlava pátá. Speciálné perturbace",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Relativní pohyb planety vzhledem k slunci",
+        "chapter_number": "",
+        "page_number": "120",
+        "children": []
+      },
+      {
+        "title": "Rovnice pohybu planety rušené.",
+        "chapter_number": "",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Sféra působnosti planety",
+        "chapter_number": "",
+        "page_number": "122",
+        "children": []
+      },
+      {
+        "title": "Theorém Tisserandův",
+        "chapter_number": "",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "Bond-Encke-ova methoda pro výpočet speciálných perturbací pravo-úhlých souřadnic",
+        "chapter_number": "",
+        "page_number": "127",
+        "children": []
+      },
+      {
+        "title": "Nepřímý počet dle Encke-a",
+        "chapter_number": "",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Methoda Oppolzerova",
+        "chapter_number": "",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Výpočet souřadnic",
+        "chapter_number": "",
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Přechod k novým oskulujícím elementům",
+        "chapter_number": "",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Methoda první.",
+        "chapter_number": "",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Methoda druhá",
+        "chapter_number": "",
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "Speciálné poruchy v souřadnicích polárních",
+        "chapter_number": "",
+        "page_number": "154",
+        "children": []
+      },
+      {
+        "title": "Methoda Brünnowova",
+        "chapter_number": "",
+        "page_number": "157",
+        "children": []
+      },
+      {
+        "title": "Methoda Hansen-Tietjen-Oppolzerova",
+        "chapter_number": "",
+        "page_number": "160",
+        "children": []
+      },
+      {
+        "title": "Nepřímý počet",
+        "chapter_number": "",
+        "page_number": "165",
+        "children": []
+      },
+      {
+        "title": "Methoda Tietjenova",
+        "chapter_number": "",
+        "page_number": "166",
+        "children": []
+      },
+      {
+        "title": "Výpočet rušivých sil",
+        "chapter_number": "",
+        "page_number": "166",
+        "children": []
+      },
+      {
+        "title": "Výpočet přesné efemeridy",
+        "chapter_number": "",
+        "page_number": "170",
+        "children": []
+      },
+      {
+        "title": "Přechod k novým oskulujícím elementům",
+        "chapter_number": "",
+        "page_number": "172",
+        "children": []
+      },
+      {
+        "title": "Methoda první",
+        "chapter_number": "",
+        "page_number": "172",
+        "children": []
+      },
+      {
+        "title": "Methoda druhá",
+        "chapter_number": "",
+        "page_number": "180",
+        "children": []
+      },
+      {
+        "title": "Návod k výpočtu perturbac",
+        "chapter_number": "",
+        "page_number": "182",
+        "children": []
+      },
+      {
+        "title": "Odvození perturbac, béře-li se ohled pouze na první mocniny rušivých sil. Methoda Laplace-ova",
+        "chapter_number": "",
+        "page_number": "187",
+        "children": []
+      },
+      {
+        "title": "Variace konstant.",
+        "chapter_number": "",
+        "page_number": "191",
+        "children": []
+      },
+      {
+        "title": "Variace elementů a variace souřadnic tělesa rušeného",
+        "chapter_number": "",
+        "page_number": "194",
+        "children": []
+      },
+      {
+        "title": "Oppolzerovo odvození vzorců pro variace elementů",
+        "chapter_number": "",
+        "page_number": "194",
+        "children": []
+      },
+      {
+        "title": "Výpočet sil rušivých a souřadnic",
+        "chapter_number": "",
+        "page_number": "207",
+        "children": []
+      },
+      {
+        "title": "Převedení perturbac, jež se vztahují na ekliptiku, na rovník",
+        "chapter_number": "",
+        "page_number": "209",
+        "children": []
+      },
+      {
+        "title": "Návod pro praktický výpočet variac elementů",
+        "chapter_number": "",
+        "page_number": "213",
+        "children": []
+      }
+    ]
+  }
+]

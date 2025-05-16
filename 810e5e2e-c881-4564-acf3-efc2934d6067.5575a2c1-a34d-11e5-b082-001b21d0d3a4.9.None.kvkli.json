@@ -1,0 +1,228 @@
+
+[
+  {
+    "title": "Wladislaw II., persönlicher König.",
+    "chapter_number": "34",
+    "page_number": "79",
+    "children": []
+  },
+  {
+    "title": "Soběslaw II., der Bauernfürst",
+    "chapter_number": "35",
+    "page_number": "84",
+    "children": []
+  },
+  {
+    "title": "Friedrich und seine Nachfolger.",
+    "chapter_number": "36",
+    "page_number": "85",
+    "children": []
+  },
+  {
+    "title": "Böhmen ein erbliches Königreich unter den Přemysliden.",
+    "chapter_number": "Drittes Hauptstück",
+    "page_number": "89",
+    "children": [
+      {
+        "title": "Přemysl Ottokar I.",
+        "chapter_number": "37",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Wenzel I., der Einäugige",
+        "chapter_number": "38",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Přemysl Ottokar II.",
+        "chapter_number": "39",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Böhmen ohne König.",
+        "chapter_number": "40",
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Wenzel II.",
+        "chapter_number": "41. a)",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Wenzel III.",
+        "chapter_number": "41. b)",
+        "page_number": "116",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Böhmen unter Königen aus verschiedenen Häusern.",
+    "chapter_number": "Viertes Hauptstuck",
+    "page_number": "119",
+    "children": [
+      {
+        "title": "Rudolf I. von Österreich. - Heinrich von Kärnthen",
+        "chapter_number": "42",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "Johann",
+        "chapter_number": "43",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "Karl I. (IV.)",
+        "chapter_number": "44",
+        "page_number": "154",
+        "children": []
+      },
+      {
+        "title": "Wenzel IV.",
+        "chapter_number": "45",
+        "page_number": "175",
+        "children": []
+      },
+      {
+        "title": "Siegmund",
+        "chapter_number": "46",
+        "page_number": "176",
+        "children": []
+      },
+      {
+        "title": "Albrecht",
+        "chapter_number": "47",
+        "page_number": "181",
+        "children": []
+      },
+      {
+        "title": "Böhmen unter Statthaltern",
+        "chapter_number": "48",
+        "page_number": "184",
+        "children": []
+      },
+      {
+        "title": "Ladislaus",
+        "chapter_number": "49",
+        "page_number": "189",
+        "children": []
+      },
+      {
+        "title": "Georg von Poděbrad",
+        "chapter_number": "50",
+        "page_number": "196",
+        "children": []
+      },
+      {
+        "title": "Wladislaw IV.",
+        "chapter_number": "51",
+        "page_number": "201",
+        "children": []
+      },
+      {
+        "title": "Ludwig",
+        "chapter_number": "52",
+        "page_number": "207",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Böhmen unter dem Hause Habsburg mit Österreich vereinigt.",
+    "chapter_number": "Fünftes Hauptstück",
+    "page_number": "208",
+    "children": [
+      {
+        "title": "Ferdinand 1.",
+        "chapter_number": "53",
+        "page_number": "215",
+        "children": []
+      },
+      {
+        "title": "Maximilian",
+        "chapter_number": "54",
+        "page_number": "219",
+        "children": []
+      },
+      {
+        "title": "Rudolf II.",
+        "chapter_number": "55",
+        "page_number": "251",
+        "children": []
+      },
+      {
+        "title": "Mathias",
+        "chapter_number": "56",
+        "page_number": "257",
+        "children": []
+      },
+      {
+        "title": "Ferdinand II.",
+        "chapter_number": "57",
+        "page_number": "261",
+        "children": []
+      },
+      {
+        "title": "Ferdinand III.",
+        "chapter_number": "58",
+        "page_number": "262",
+        "children": []
+      },
+      {
+        "title": "Leopold I.",
+        "chapter_number": "59. a)",
+        "page_number": "264",
+        "children": []
+      },
+      {
+        "title": "Josef I.",
+        "chapter_number": "59. b)",
+        "page_number": "278",
+        "children": []
+      },
+      {
+        "title": "Karl II. (VI.)",
+        "chapter_number": "60",
+        "page_number": "281",
+        "children": []
+      },
+      {
+        "title": "Maria Theresia",
+        "chapter_number": "61",
+        "page_number": "283",
+        "children": []
+      },
+      {
+        "title": "Josef II.",
+        "chapter_number": "62",
+        "page_number": "289",
+        "children": []
+      },
+      {
+        "title": "Leopold II.",
+        "chapter_number": "63",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Franz I.",
+        "chapter_number": "64",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Ferdinand V.",
+        "chapter_number": "65",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

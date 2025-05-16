@@ -1,0 +1,53 @@
+
+[
+  {
+    "title": "List of Tables",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Difference between BAW-implied and OTC volatilities",
+    "chapter_number": "I",
+    "page_number": "27"
+  },
+  {
+    "title": "Distances between BAW volatilities implied by calls and puts with common strikes",
+    "chapter_number": "II",
+    "page_number": "27"
+  },
+  {
+    "title": "BAW volatility: Put-call parity property",
+    "chapter_number": "III",
+    "page_number": "27"
+  },
+  {
+    "title": "List of Figures",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Difference between OTC and CME implied volatility (ATMF, BAW adjusted)",
+    "chapter_number": "1",
+    "page_number": "28"
+  },
+  {
+    "title": "A-space smiles: Natural spline for CME and Malz quadratic extrapolation for OTC",
+    "chapter_number": "2",
+    "page_number": "29"
+  },
+  {
+    "title": "CME and OTC implied distributions",
+    "chapter_number": "3",
+    "page_number": "30"
+  },
+  {
+    "title": "Comparison of methods for OTC smiles",
+    "chapter_number": "4",
+    "page_number": "31"
+  },
+  {
+    "title": "Fit of generalised delta smiles",
+    "chapter_number": "5",
+    "page_number": "32"
+  }
+]

@@ -1,0 +1,168 @@
+
+[
+  {
+    "title": "Co je filosofie:",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Úvody do filosofie",
+        "chapter_number": "1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Pojem a definice filosofie",
+        "chapter_number": "2",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Methody filosofie",
+        "chapter_number": "3",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Rozdělení filosofie",
+        "chapter_number": "4",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Literatura",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Noetika:",
+    "chapter_number": "II",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "Noetika (jinak kritika poznání, theorie poznání, gnoseologie i epistemologie",
+        "chapter_number": "1",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Pravda osobní a neosobní",
+        "chapter_number": "2",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Pravda přímá a nepřímá",
+        "chapter_number": "3",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Subjektivismus a objektivismus",
+        "chapter_number": "4",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Absolutnost a relativita pravdy",
+        "chapter_number": "5",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Vliv methody na theorii poznání",
+        "chapter_number": "6",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Apriorismus a aposteriorismus",
+        "chapter_number": "7",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Realismus, fenomenalismus a idealismus (konscientialismus)",
+        "chapter_number": "8",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Poznání a život",
+        "chapter_number": "9",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Literatura",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Filosofie dějin:",
+    "chapter_number": "III",
+    "page_number": "28",
+    "children": [
+      {
+        "title": "Pojem filosofie dějin",
+        "chapter_number": "1",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Filosofie dějin a historikové",
+        "chapter_number": "2",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Romantismus a historie. Windelband a Rickert",
+        "chapter_number": "3",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Historické kategorie",
+        "chapter_number": "4",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Historické zákony",
+        "chapter_number": "5",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Historické zákony a smysl dějinného vývoje",
+        "chapter_number": "6",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Poměr subjektu a objektu v dějinném vývoji",
+        "chapter_number": "7",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Formulace historických zákonů",
+        "chapter_number": "8",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Filosofie našich dějin. Masaryk a Pekař",
+        "chapter_number": "9",
+        "page_number": "38",
+        "children": []
+      }
+    ]
+  }
+]

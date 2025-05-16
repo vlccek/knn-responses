@@ -1,0 +1,64 @@
+
+[
+  {
+    "title": "Die Ruhrkrankheit",
+    "chapter_number": "3",
+    "page_number": "94",
+    "children": []
+  },
+  {
+    "title": "Die kontagiöse Faulbrut",
+    "chapter_number": "4",
+    "page_number": "95",
+    "children": []
+  },
+  {
+    "title": "Die Bienen-Cholera",
+    "chapter_number": "5",
+    "page_number": "97",
+    "children": []
+  },
+  {
+    "title": "Die Bienenfeinde",
+    "chapter_number": "6. 7",
+    "page_number": "97-99",
+    "children": []
+  },
+  {
+    "title": "Die Ausnűzung der Vienenprodukte",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Scheidung und Sortirung der Bienenerzeugnisse",
+        "chapter_number": "1. 2",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Die Seimung des Honigs",
+        "chapter_number": "3",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Die Gewinnung des Wachses",
+        "chapter_number": "4",
+        "page_number": "104",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ersaz- und Nothfütterungen der Bienen",
+    "chapter_number": "",
+    "page_number": "106",
+    "children": []
+  },
+  {
+    "title": "der Gewächse, welche den Bienen vorzügliche Sammelstoffe liefern; alphabetisch nach der botanischen Nomenklatur",
+    "chapter_number": "",
+    "page_number": "109",
+    "children": []
+  }
+]

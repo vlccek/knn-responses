@@ -1,0 +1,114 @@
+
+[
+  {
+    "title": "Aufgaben über den Punkt, die Gerade und die Ebene",
+    "chapter_number": "IV",
+    "page_number": "285",
+    "children": []
+  },
+  {
+    "title": "Senkrechte Stellung einer Geraden gegen eine Ebene",
+    "chapter_number": "V",
+    "page_number": "290",
+    "children": []
+  },
+  {
+    "title": "Bestimmung der Schnittlinie zweier Ebenen",
+    "chapter_number": "VI",
+    "page_number": "292",
+    "children": []
+  },
+  {
+    "title": "Theorie der Theilungspunkte",
+    "chapter_number": "VII",
+    "page_number": "293",
+    "children": []
+  },
+  {
+    "title": "Hilfs-Constructionen bei beschränkter Grösse der Zeichnungsfläche",
+    "chapter_number": "VIII",
+    "page_number": "296",
+    "children": []
+  },
+  {
+    "title": "Perspectivische Darstellung gegebener Polygone",
+    "chapter_number": "IX",
+    "page_number": "300",
+    "children": []
+  },
+  {
+    "title": "Perspectivische Darstellung krummer Linien",
+    "chapter_number": "X",
+    "page_number": "305",
+    "children": []
+  },
+  {
+    "title": "Perspectivische Darstellung eckiger Körper",
+    "chapter_number": "XI",
+    "page_number": "307",
+    "children": [
+      {
+        "title": "Perspective einer Pyramide",
+        "chapter_number": "a",
+        "page_number": "307",
+        "children": []
+      },
+      {
+        "title": "Perspective eines Prisma",
+        "chapter_number": "b",
+        "page_number": "308",
+        "children": []
+      },
+      {
+        "title": "Perspective zusammengesetzter eckiger Objecte",
+        "chapter_number": "c",
+        "page_number": "309",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Perspectivische Darstellung krummflächiger Körper",
+    "chapter_number": "XII",
+    "page_number": "310",
+    "children": [
+      {
+        "title": "Perspective eines Kegels",
+        "chapter_number": "a",
+        "page_number": "310",
+        "children": []
+      },
+      {
+        "title": "Perspective eines Cylinders",
+        "chapter_number": "b",
+        "page_number": "311",
+        "children": []
+      },
+      {
+        "title": "Perspective einer Rotationsfläche",
+        "chapter_number": "c",
+        "page_number": "312",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Construction der Schatten",
+    "chapter_number": "Zweites Kapitel",
+    "page_number": "316",
+    "children": [
+      {
+        "title": "Parallele Leleuchtung",
+        "chapter_number": "A",
+        "page_number": "316",
+        "children": []
+      },
+      {
+        "title": "Centrale Beleuchtung",
+        "chapter_number": "B",
+        "page_number": "323",
+        "children": []
+      }
+    ]
+  }
+]

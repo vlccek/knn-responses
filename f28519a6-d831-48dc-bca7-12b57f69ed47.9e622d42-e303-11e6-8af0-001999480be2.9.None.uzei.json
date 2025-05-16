@@ -1,0 +1,133 @@
+
+[
+  {
+    "title": "Plemenitba skotu",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Výběr plemeniva",
+        "chapter_number": "1",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Páření plemeniva",
+        "chapter_number": "2",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Březnost a porod",
+        "chapter_number": "3",
+        "page_number": "31",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Výživa skotu",
+    "chapter_number": "II",
+    "page_number": "48",
+    "children": [
+      {
+        "title": "Živiny",
+        "chapter_number": "1",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Krmiva",
+        "chapter_number": "2",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Příprava krmiv",
+        "chapter_number": "3",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Krmení",
+        "chapter_number": "4",
+        "page_number": "97",
+        "children": [
+          {
+            "title": "Výchov skotu a krmení mladých zvířat",
+            "chapter_number": "",
+            "page_number": "97",
+            "children": []
+          },
+          {
+            "title": "Výživa skotu na pastvě",
+            "chapter_number": "",
+            "page_number": "110",
+            "children": []
+          },
+          {
+            "title": "Letní krmení stájové",
+            "chapter_number": "",
+            "page_number": "118",
+            "children": []
+          },
+          {
+            "title": "Krmení zimní",
+            "chapter_number": "",
+            "page_number": "121",
+            "children": []
+          },
+          {
+            "title": "Krmení dojnic",
+            "chapter_number": "",
+            "page_number": "122",
+            "children": []
+          },
+          {
+            "title": "Výživa skotu dělného",
+            "chapter_number": "",
+            "page_number": "139",
+            "children": []
+          },
+          {
+            "title": "Krmení skotu žírného",
+            "chapter_number": "",
+            "page_number": "144",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Opatrování skotu",
+    "chapter_number": "III",
+    "page_number": "157",
+    "children": []
+  },
+  {
+    "title": "Užitky skotu",
+    "chapter_number": "I",
+    "page_number": "180",
+    "children": [
+      {
+        "title": "Mlékaření",
+        "chapter_number": "1",
+        "page_number": "281",
+        "children": []
+      },
+      {
+        "title": "Užitky z chovu skotu tažného",
+        "chapter_number": "2",
+        "page_number": "191",
+        "children": []
+      },
+      {
+        "title": "Užitky ze skotu žírného",
+        "chapter_number": "3",
+        "page_number": "203",
+        "children": []
+      }
+    ]
+  }
+]

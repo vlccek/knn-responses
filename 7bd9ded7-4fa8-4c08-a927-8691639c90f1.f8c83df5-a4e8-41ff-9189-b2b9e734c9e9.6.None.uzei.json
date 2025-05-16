@@ -1,0 +1,142 @@
+
+[
+  {
+    "title": "PRVÁ ČÁST",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "NAUKA O HOSPODÁŘSKÝCH POMĚRECH.",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": [
+          {
+            "title": "Poměry přírodní.",
+            "chapter_number": "I.",
+            "page_number": "3",
+            "children": [
+              {
+                "title": "Podnebí.",
+                "chapter_number": "1.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Půda.",
+                "chapter_number": "2.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Místní poloha (sklon).",
+                "chapter_number": "3.",
+                "page_number": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Poměry národohospodářské.",
+            "chapter_number": "II.",
+            "page_number": "3",
+            "children": [
+              {
+                "title": "Velikost hospodářství.",
+                "chapter_number": "1.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Vnitřní poloha pozemků",
+                "chapter_number": "2.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Poloha hospodářství vzhledem k poměrům národohospodářským.",
+                "chapter_number": "3.",
+                "page_number": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Poměry právní.",
+            "chapter_number": "III.",
+            "page_number": "3",
+            "children": [
+              {
+                "title": "Dřívější poměry patrimoniální.",
+                "chapter_number": "1.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Dnešní zajištění majetku pozemkového",
+                "chapter_number": "2.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Právo honební.",
+                "chapter_number": "3.",
+                "page_number": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Poměry práce.",
+            "chapter_number": "IV.",
+            "page_number": "3",
+            "children": [
+              {
+                "title": "Rozdělení práce.",
+                "chapter_number": "1.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Práce ruční.",
+                "chapter_number": "2.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Práce potažní.",
+                "chapter_number": "3.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Práce strojová.",
+                "chapter_number": "4.",
+                "page_number": "3",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Poměry kapitálu.",
+            "chapter_number": "V.",
+            "page_number": "3",
+            "children": [
+              {
+                "title": "Rozdělení kapitálu v hospodářství uloženého.",
+                "chapter_number": "1.",
+                "page_number": "3",
+                "children": []
+              },
+              {
+                "title": "Úvěr.",
+                "chapter_number": "2.",
+                "page_number": "3",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

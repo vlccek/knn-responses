@@ -1,0 +1,69 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "1",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "O fasi",
+    "chapter_number": "2",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Vzájemné působení různých fasí",
+    "chapter_number": "3",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "Operační postupy",
+    "chapter_number": "4",
+    "page_number": "24",
+    "children": []
+  },
+  {
+    "title": "Zvláštní poloha reakční sítě ve fasovém simplexu. Prvky a sloučeniny",
+    "chapter_number": "5",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Zvláštní tvary sítě reakční",
+    "chapter_number": "6",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "Pořádek operací",
+    "chapter_number": "7",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Stanovení prvků a sloučenin při velkém počtu fasí",
+    "chapter_number": "8",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Z vratnost chemických reakcí",
+    "chapter_number": "9",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Dodatek: Vážkové a jakostné variace původních látek",
+    "chapter_number": "10",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Závěr",
+    "chapter_number": "11",
+    "page_number": "69",
+    "children": []
+  }
+]

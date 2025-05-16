@@ -1,0 +1,59 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Společenské třídy",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Socialní poměry",
+    "chapter_number": "II",
+    "page_number": "5",
+    "children": [
+      {
+        "title": "Dělníci",
+        "chapter_number": "A",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Podnikatelé",
+        "chapter_number": "B",
+        "page_number": "16",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Příčiny",
+    "chapter_number": "III",
+    "page_number": "17",
+    "children": [
+      {
+        "title": "Parní stroj",
+        "chapter_number": "1",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Individualní výroba",
+        "chapter_number": "2",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Uzdravující prostředek",
+    "chapter_number": "IV",
+    "page_number": "35",
+    "children": []
+  }
+]

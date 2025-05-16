@@ -1,0 +1,40 @@
+
+[
+  {
+    "title": "Bemerkungen zur Formensammlung",
+    "chapter_number": "IV",
+    "page_number": "81",
+    "children": []
+  },
+  {
+    "title": "Vertheilung des Unterrichtsstoffes auf die ersten vier Klassen der Volksschule",
+    "chapter_number": "V",
+    "page_number": "84",
+    "children": [
+      {
+        "title": "Klasse",
+        "chapter_number": "I",
+        "page_number": "84",
+        "children": []
+      },
+      {
+        "title": "Klasse",
+        "chapter_number": "II",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Klasse",
+        "chapter_number": "III",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Klasse",
+        "chapter_number": "IV",
+        "page_number": "87",
+        "children": []
+      }
+    ]
+  }
+]

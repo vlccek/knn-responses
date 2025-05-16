@@ -1,0 +1,126 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Dravci",
+    "chapter_number": "I",
+    "page_number": "6",
+    "children": [
+      {
+        "title": "Dravci denní",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Supové",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Orlové",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Dravci noční neb sovy",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vrabcovití",
+    "chapter_number": "II",
+    "page_number": "12",
+    "children": [
+      {
+        "title": "Krkavci",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Vrabci",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Zpěváci",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Šplhavci",
+    "chapter_number": "III",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Kuroviti",
+    "chapter_number": "IV",
+    "page_number": "23",
+    "children": [
+      {
+        "title": "Kury domácí",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Kury polní",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Kury lesní",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Kury vodní",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Holubi",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Pštrosové",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Bahní",
+    "chapter_number": "V",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Vodní",
+    "chapter_number": "VI",
+    "page_number": "32",
+    "children": []
+  }
+]

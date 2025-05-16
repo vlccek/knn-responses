@@ -1,0 +1,63 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Mravnost a mravouka",
+    "chapter_number": "II",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Mravouka - toť životospráva",
+    "chapter_number": "III",
+    "page_number": "20",
+    "children": []
+  },
+  {
+    "title": "Škola a život občanský",
+    "chapter_number": "IV",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Nauka občanská východiskem nauky mravní",
+    "chapter_number": "V",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Sjednocení obou nauk",
+    "chapter_number": "VI",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Mravouka a náboženství",
+    "chapter_number": "VII",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Methodické poznámky",
+    "chapter_number": "VIII",
+    "page_number": "78",
+    "children": []
+  },
+  {
+    "title": "Vyučovací osnova",
+    "chapter_number": "IX",
+    "page_number": "97",
+    "children": []
+  },
+  {
+    "title": "Doslov",
+    "chapter_number": "X",
+    "page_number": "112",
+    "children": []
+  }
+]

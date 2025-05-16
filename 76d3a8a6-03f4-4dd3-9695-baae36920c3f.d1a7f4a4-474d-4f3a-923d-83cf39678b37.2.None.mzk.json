@@ -1,0 +1,71 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Dopisy Bedřicha Smetany a dra Ludevita Procházky",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Dodatky:",
+    "chapter_number": "",
+    "page_number": "105",
+    "children": [
+      {
+        "title": "Dopisy nakladatele Hugo Pohle",
+        "chapter_number": "I",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Smlouvas B. Pollinim.",
+        "chapter_number": "II",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Kritiky o hamburské premiéře »Dvou vdov«",
+        "chapter_number": "III",
+        "page_number": "116",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "PŘÍLOHY:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Podobizna Bedřicha Smetany (fotogr. V. Glatter v Litomyšli 18. září 1880).",
+        "chapter_number": "1",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Podobizna dra Ludevíta Procházky z počátku let osmdesátých (fotogr. H. Fiedler v Praze).",
+        "chapter_number": "2",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Rukopis Bedřicha Smetany (vysvědčení Lud. Procházkovi z 5. června 1869).",
+        "chapter_number": "3",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Rukopis dra Lud. Procházky (text přikomponovaný Smetanou r. 1882 do » Dvou vdov«).",
+        "chapter_number": "4",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

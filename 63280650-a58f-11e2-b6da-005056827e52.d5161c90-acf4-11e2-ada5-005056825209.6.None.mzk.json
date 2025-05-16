@@ -1,0 +1,149 @@
+
+[
+  {
+    "title": "Stiftungsbrief",
+    "chapter_number": "1",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Statuten",
+    "chapter_number": "2",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Verwaltung, Correspondenten",
+    "chapter_number": "3",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Stifter, Mitglieder",
+    "chapter_number": "4",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Entwicklungsgeschichte",
+    "chapter_number": "5",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "Wirksamkeit.",
+    "chapter_number": "6",
+    "page_number": "25",
+    "children": [
+      {
+        "title": "Vorlesungen",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Publicationen",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Gypsabgüsse",
+        "chapter_number": "",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Specialausstellungen",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Wanderausstellungen",
+        "chapter_number": "",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Fachschule",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Baugeschichte",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Baubeschreibung von Regierungsrath Prof. J. G. Schoen",
+    "chapter_number": "7",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "System der Sammlungen",
+    "chapter_number": "8",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "System der Bibliothek",
+    "chapter_number": "9",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Anhang:",
+    "chapter_number": "10",
+    "page_number": "77",
+    "children": [
+      {
+        "title": "Bestimmungen über Besuch und Benützung der Sammlungen",
+        "chapter_number": "",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Bestimmungen über die Benützung der Bibliothek",
+        "chapter_number": "",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Bestimmungen über die Betheiligung Fremder an den Ausstellungen des Museums",
+        "chapter_number": "",
+        "page_number": "82",
+        "children": []
+      },
+      {
+        "title": "Eigenthum des Museums",
+        "chapter_number": "",
+        "page_number": "84",
+        "children": []
+      },
+      {
+        "title": "Besuch der Sammlungen",
+        "chapter_number": "",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Besuch der Bibliothek",
+        "chapter_number": "",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Verzeichniss der dem Baufonde zugeflossenen Beiträge",
+        "chapter_number": "",
+        "page_number": "86",
+        "children": []
+      }
+    ]
+  }
+]

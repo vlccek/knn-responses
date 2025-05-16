@@ -1,0 +1,100 @@
+
+[
+  {
+    "title": "Připomenutí spisovatelovo",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Jádro",
+    "chapter_number": "I.",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Vychování",
+    "chapter_number": "II.",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Ve školách",
+    "chapter_number": "III.",
+    "page_number": "38",
+    "children": []
+  },
+  {
+    "title": "V učitelském úřadě",
+    "chapter_number": "IV.",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Rodinný život, badání",
+    "chapter_number": "V.",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Cesty",
+    "chapter_number": "VI.",
+    "page_number": "127",
+    "children": []
+  },
+  {
+    "title": "Plody předešlého",
+    "chapter_number": "VII.",
+    "page_number": "152",
+    "children": [
+      {
+        "title": "Hrady",
+        "chapter_number": "",
+        "page_number": "156",
+        "children": []
+      },
+      {
+        "title": "Rakousko-uherské mocnářství",
+        "chapter_number": "",
+        "page_number": "166",
+        "children": []
+      },
+      {
+        "title": "Spis o hubení lidu v 15. stol. v Kr. společnosti nauk",
+        "chapter_number": "",
+        "page_number": "188",
+        "children": []
+      },
+      {
+        "title": "Rovnání archivů",
+        "chapter_number": "",
+        "page_number": "189",
+        "children": []
+      },
+      {
+        "title": "Soupis všech věcí",
+        "chapter_number": "",
+        "page_number": "214",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ve výslužbě",
+    "chapter_number": "VIII.",
+    "page_number": "227",
+    "children": []
+  },
+  {
+    "title": "Vývod rodu Sedláčkova",
+    "chapter_number": "",
+    "page_number": "238",
+    "children": []
+  },
+  {
+    "title": "Rejstřík",
+    "chapter_number": "",
+    "page_number": "239",
+    "children": []
+  }
+]

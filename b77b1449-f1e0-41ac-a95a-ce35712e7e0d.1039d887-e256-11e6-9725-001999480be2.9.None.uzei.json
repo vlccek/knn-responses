@@ -1,0 +1,119 @@
+
+[
+  {
+    "title": "O úpravě země a nářadí",
+    "chapter_number": "1",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Nářadí ruční",
+        "chapter_number": "A",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Pluhy, nářadí zápřežné",
+        "chapter_number": "B",
+        "page_number": "4",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Části pluhu",
+    "chapter_number": "2",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Předek pluhův",
+    "chapter_number": "3",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "Jaké tažné síly vyžadují pluhy",
+    "chapter_number": "4",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "Způsoby pluhův",
+    "chapter_number": "5",
+    "page_number": "17",
+    "children": [
+      {
+        "title": "Pluhy zem obracející",
+        "chapter_number": "1",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Pluhy hlavně zem kypřící",
+        "chapter_number": "2",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Pluhy přihrnovací č. kopčidla",
+        "chapter_number": "3",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Pluhy parní",
+        "chapter_number": "4",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Háky",
+        "chapter_number": "5",
+        "page_number": "46",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O orbě",
+    "chapter_number": "C",
+    "page_number": null,
+    "children": []
+  },
+  {
+    "title": "Kdy má se orati",
+    "chapter_number": "6",
+    "page_number": null,
+    "children": []
+  },
+  {
+    "title": "Hloubka a šířka brázdy",
+    "chapter_number": "7",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Hluboká orba",
+    "chapter_number": "8",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Úprava povrchu ornice",
+    "chapter_number": "9",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "O úpravě země do hrůbkův",
+    "chapter_number": "10",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Kdy nutno orbu opětovati",
+    "chapter_number": "11",
+    "page_number": "55",
+    "children": []
+  }
+]

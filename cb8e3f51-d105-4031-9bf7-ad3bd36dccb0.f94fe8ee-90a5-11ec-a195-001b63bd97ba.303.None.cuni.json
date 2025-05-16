@@ -1,0 +1,47 @@
+
+[
+  {
+    "title": "ČÁST II.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "O jinakých předpisech, které ustanovují o povinnosti k náhradě škody.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "O ručení železnic za ublížení na těle a usmrcení způsobené událostmi při provozování",
+    "chapter_number": "§ 99",
+    "page_number": "285"
+  },
+  {
+    "title": "O ručení za škodu způsobenou provozováním automobilů",
+    "chapter_number": "100",
+    "page_number": "289"
+  },
+  {
+    "title": "O modifikaci nároku na náhradu škody předpisy o úrazovém pojištění",
+    "chapter_number": "101",
+    "page_number": "293"
+  },
+  {
+    "title": "Jinaká ustanovení o povinnosti k náhradě škody",
+    "chapter_number": "102",
+    "page_number": "294",
+    "children": [
+      {
+        "title": "Speciální předpisy o ručení za škodu způsobenou jinými osobami",
+        "chapter_number": "A",
+        "page_number": "294",
+        "children": []
+      },
+      {
+        "title": "Rozmanité předpisy",
+        "chapter_number": "B",
+        "page_number": "294",
+        "children": []
+      }
+    ]
+  }
+]

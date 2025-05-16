@@ -1,0 +1,147 @@
+
+[
+  {
+    "title": "Věci živnostensko-technické",
+    "chapter_number": "Díl VII.",
+    "page_number": "775-781 b",
+    "children": [
+      {
+        "title": "Živnostenský řád",
+        "chapter_number": "A.",
+        "page_number": "775-781 b",
+        "children": []
+      },
+      {
+        "title": "Stavební živnosti",
+        "chapter_number": "B.",
+        "page_number": "782-784",
+        "children": [
+          {
+            "title": "Všeobecné předpisy",
+            "chapter_number": "I.",
+            "page_number": "782-784",
+            "children": []
+          },
+          {
+            "title": "Průkaz způsobilosti",
+            "chapter_number": "II.",
+            "page_number": "785-800",
+            "children": []
+          },
+          {
+            "title": "Neoprávněné provozování",
+            "chapter_number": "III.",
+            "page_number": "801-804",
+            "children": []
+          },
+          {
+            "title": "Různé předpisy",
+            "chapter_number": "IV.",
+            "page_number": "805-808",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Živnostenské a průmyslové provozovny v Čechách, na Moravě a ve Slezsku",
+        "chapter_number": "C.",
+        "page_number": "809-813 a",
+        "children": [
+          {
+            "title": "Řízení",
+            "chapter_number": "I.",
+            "page_number": "809-813 a",
+            "children": []
+          },
+          {
+            "title": "Předpisy o jednotlivých provozovnách",
+            "chapter_number": "II.",
+            "page_number": "814-826",
+            "children": []
+          },
+          {
+            "title": "Ochrana života a zdraví dělníků v provozovnách",
+            "chapter_number": "III.",
+            "page_number": "827-829",
+            "children": [
+              {
+                "title": "Všeobecné předpisy",
+                "chapter_number": "a)",
+                "page_number": "827-829",
+                "children": []
+              },
+              {
+                "title": "Zvláštní předpisy o některých provozovnách",
+                "chapter_number": "b)",
+                "page_number": "830-841",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Živnostenská inspekce v Čechách, na Moravě a ve Slezsku",
+        "chapter_number": "D.",
+        "page_number": "842-849",
+        "children": []
+      },
+      {
+        "title": "Živnostenské a průmyslové provozovny, ochrana zaměstnanců živnostenských a továrenských proti úrazu a živnostenský dozor na Slovensku a Podkarpatské Rusi",
+        "chapter_number": "E.",
+        "page_number": "850-853 i",
+        "children": []
+      },
+      {
+        "title": "Výbušné látky a minerální oleje",
+        "chapter_number": "F.",
+        "page_number": "854-874 a",
+        "children": [
+          {
+            "title": "Výroba výbušných látek, obchod jimi, jich používání a doprava",
+            "chapter_number": "I.",
+            "page_number": "854-874 a",
+            "children": []
+          },
+          {
+            "title": "Skladiště výbušných látek",
+            "chapter_number": "II.",
+            "page_number": "875-876",
+            "children": [
+              {
+                "title": "Mírová skladiště dynamitu",
+                "chapter_number": "a)",
+                "page_number": "875-876",
+                "children": []
+              },
+              {
+                "title": "Podzemní skladiště třaskavin",
+                "chapter_number": "b)",
+                "page_number": "877-882",
+                "children": []
+              },
+              {
+                "title": "Prodejní skladiště prachu",
+                "chapter_number": "c)",
+                "page_number": "883",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Minerální oleje",
+            "chapter_number": "III.",
+            "page_number": "884-891 a",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Patenty",
+        "chapter_number": "G.",
+        "page_number": "892-910",
+        "children": []
+      }
+    ]
+  }
+]

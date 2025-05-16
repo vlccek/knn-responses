@@ -1,0 +1,315 @@
+
+[
+  {
+    "title": "Měření a přejímání pozemků.",
+    "chapter_number": "B",
+    "page_number": "90",
+    "children": [
+      {
+        "title": "Přejímání pozemků jednoduchými přístroji",
+        "chapter_number": "8",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Přejímání plochy obmezené křivými čarami",
+        "chapter_number": "9",
+        "page_number": "91",
+        "children": []
+      },
+      {
+        "title": "Přejímání křivých čar břehů, příkopů, silnic a pod.",
+        "chapter_number": "10",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Přejímání budov, dvorů, zahrad a pod.",
+        "chapter_number": "11",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Měřický stolek",
+        "chapter_number": "12",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Přístroje k stolku měřickému potřebné",
+        "chapter_number": "13",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Jak přejímáme vodorovný průmět úhlu na poli vytknutého",
+        "chapter_number": "14",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Přejímání pozemku z jednoho stanoviska",
+        "chapter_number": "15",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Přejímání pozemku ze dvou stanovisek",
+        "chapter_number": "16",
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "Přejímání pozemku ze stanovisek na obvodu",
+        "chapter_number": "17",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Dělení pozemků a rovnání křivých mezí",
+        "chapter_number": "18",
+        "page_number": "101",
+        "children": []
+      },
+      {
+        "title": "Dělení pozemků nestejné bonity. Scelování",
+        "chapter_number": "19",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "Kreslení situačních plánů",
+        "chapter_number": "20",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Obkreslování, zmenšování a zvětšování polohorysů",
+        "chapter_number": "21",
+        "page_number": "108",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Svahoměrství.",
+    "chapter_number": "Část II.",
+    "page_number": "111",
+    "children": [
+      {
+        "title": "Měření výšky jednotlivých předmětů.",
+        "chapter_number": "A.",
+        "page_number": "111",
+        "children": [
+          {
+            "title": "Nepřímé měření výšky",
+            "chapter_number": "2",
+            "page_number": "112",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Měření svahu neboli nivelování.",
+        "chapter_number": "B.",
+        "page_number": "112",
+        "children": [
+          {
+            "title": "Co jest nivelování?",
+            "chapter_number": "3",
+            "page_number": "113",
+            "children": []
+          },
+          {
+            "title": "Co jest spád prostý a poměrný?",
+            "chapter_number": "4",
+            "page_number": "114",
+            "children": []
+          },
+          {
+            "title": "Přístroje svahoměrné (Stroje nivelační)",
+            "chapter_number": "5",
+            "page_number": "115",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Nivelování libelou n. krokvicí",
+        "chapter_number": "6",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "strojem z konce",
+        "chapter_number": "7",
+        "page_number": "125",
+        "children": []
+      },
+      {
+        "title": "ze středu",
+        "chapter_number": "8",
+        "page_number": "126",
+        "children": []
+      },
+      {
+        "title": "Připojení jedné nivelace ke druhé.",
+        "chapter_number": "9",
+        "page_number": "128",
+        "children": []
+      },
+      {
+        "title": "Zřízení vodorovné cesty",
+        "chapter_number": "10",
+        "page_number": "129",
+        "children": []
+      },
+      {
+        "title": "Srovnání neboli planování pozemku",
+        "chapter_number": "11",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Srovnání pozemku ve směru šikmém",
+        "chapter_number": "12",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Zřízení cesty stejnoměrně sloupající",
+        "chapter_number": "13",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "O vrstevnicích a plánu vrstevnicovém.",
+        "chapter_number": "14",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "Vytyčení vrstevnic na poli",
+        "chapter_number": "15",
+        "page_number": "133",
+        "children": []
+      },
+      {
+        "title": "Sestrojování vrstevnic na základě sítě čtvercové",
+        "chapter_number": "16",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Sestrojování vrstevnic na základě příčných průřezů.",
+        "chapter_number": "17",
+        "page_number": "136",
+        "children": []
+      },
+      {
+        "title": "Řešení některých úloh na základě svahorysu",
+        "chapter_number": "18",
+        "page_number": "138",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Odvodňování pozemků.",
+    "chapter_number": "I.",
+    "page_number": "143",
+    "children": [
+      {
+        "title": "Trubkování neboli drenáž. Soustavy drenů.",
+        "chapter_number": "1",
+        "page_number": "143",
+        "children": []
+      },
+      {
+        "title": "Hloubka a vzdálenost drenů",
+        "chapter_number": "2",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "Hloubka drenů",
+        "chapter_number": "3",
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "Vzdálenost drenů",
+        "chapter_number": "4",
+        "page_number": "146",
+        "children": []
+      },
+      {
+        "title": "Spád drenů",
+        "chapter_number": "5",
+        "page_number": "148",
+        "children": []
+      },
+      {
+        "title": "Stavba malé drenáže",
+        "chapter_number": "6",
+        "page_number": "149",
+        "children": []
+      },
+      {
+        "title": "Náklad drenáže",
+        "chapter_number": "7",
+        "page_number": "149",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zavodňování pozemků.",
+    "chapter_number": "II.",
+    "page_number": "158",
+    "children": [
+      {
+        "title": "Účinek a množství vody při zavodňování",
+        "chapter_number": "8",
+        "page_number": "158",
+        "children": []
+      },
+      {
+        "title": "Způsoby zavodňování",
+        "chapter_number": "9",
+        "page_number": "159",
+        "children": []
+      },
+      {
+        "title": "Provedení, náklad a ošetřování stavby zavodňovací",
+        "chapter_number": "10",
+        "page_number": "164",
+        "children": []
+      },
+      {
+        "title": "Stavba strouhy",
+        "chapter_number": "11",
+        "page_number": "166",
+        "children": []
+      },
+      {
+        "title": "Náklad strouhy",
+        "chapter_number": "12",
+        "page_number": "173",
+        "children": []
+      },
+      {
+        "title": "Rychlost a množství vody tekoucí ve strouze",
+        "chapter_number": "13",
+        "page_number": "174",
+        "children": []
+      },
+      {
+        "title": "Úprava vodstva a meliorace půdy",
+        "chapter_number": "14",
+        "page_number": "176",
+        "children": []
+      }
+    ]
+  }
+]

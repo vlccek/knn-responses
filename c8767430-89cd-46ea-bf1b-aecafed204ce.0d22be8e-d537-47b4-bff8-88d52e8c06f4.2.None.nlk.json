@@ -1,0 +1,72 @@
+
+[
+  {
+    "title": "Biologická léčba",
+    "chapter_number": "",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Revmatologie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Biologická léčba revmatoidní artritidy v České republice",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Komentář ke studii PROWD Efekt časného nasazení anti-TNF faktoru adalimumabu na prevenci ztráty zaměstnání u pacientů s časnou revmatoidní artritidou",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Biologická léčba u ankylozující spondylitidy",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Biologická léčba revmatických zánětlivých artropatií - shrnutí poznatků z ACR 2008",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dermatologie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "17. kongres EADV v Paříži – aktuální stav a novinky v terapii psoriázy",
+        "chapter_number": "",
+        "page_number": "37",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Gastroenterologie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Biologická terapie extraintestinálních manifestací idiopatických střevních zánětů",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Správa zo 4. kongresu ECCO 2009 v Hamburgu",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": []
+      }
+    ]
+  }
+]

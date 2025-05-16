@@ -1,0 +1,51 @@
+
+[
+  {
+    "title": "Einleitung",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Das Programm. (1861)",
+    "chapter_number": "II",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Der Reichsrath und der Exodus. (1861-1863)",
+    "chapter_number": "III",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Die Allianz mit dem historischen Adel. (1863-1867)",
+    "chapter_number": "IV",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Cisleithanische Verfassung und böhm. Staatsrecht. (1867-1869)",
+    "chapter_number": "V",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Die gescheiterten Ausgleichsversuche. (1870, 1871)",
+    "chapter_number": "VI",
+    "page_number": "24",
+    "children": []
+  },
+  {
+    "title": "Die Blüthe der Abstinenz. (1872-1877)",
+    "chapter_number": "VII",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Anfänge einer Wendung. (1878)",
+    "chapter_number": "VIII",
+    "page_number": "42",
+    "children": []
+  }
+]

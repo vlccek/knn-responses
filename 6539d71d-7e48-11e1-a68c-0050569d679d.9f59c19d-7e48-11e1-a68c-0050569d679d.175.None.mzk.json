@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "Školní modlitba",
+    "chapter_number": "VII",
+    "page_number": "127",
+    "children": []
+  },
+  {
+    "title": "Přípravné učení věcné",
+    "chapter_number": "VIII",
+    "page_number": "129",
+    "children": [
+      {
+        "title": "Školní světnice",
+        "chapter_number": "1",
+        "page_number": "129",
+        "children": []
+      },
+      {
+        "title": "Obraz sv. kříže",
+        "chapter_number": "2",
+        "page_number": "142",
+        "children": []
+      },
+      {
+        "title": "Obraz císaře pána",
+        "chapter_number": "3",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "Školní nářadí",
+        "chapter_number": "4",
+        "page_number": "148",
+        "children": []
+      },
+      {
+        "title": "Školní věci",
+        "chapter_number": "5",
+        "page_number": "153",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Domácnosť",
+    "chapter_number": "IX",
+    "page_number": "156",
+    "children": []
+  },
+  {
+    "title": "Rodina",
+    "chapter_number": "X",
+    "page_number": "159",
+    "children": []
+  },
+  {
+    "title": "Sousedé, obec",
+    "chapter_number": "XI",
+    "page_number": "165",
+    "children": []
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "",
+    "page_number": "169",
+    "children": []
+  }
+]

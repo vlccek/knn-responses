@@ -1,0 +1,125 @@
+
+[
+  {
+    "title": "Poloha a velikost",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Tvářnost povrchu",
+    "chapter_number": "",
+    "page_number": "2",
+    "children": []
+  },
+  {
+    "title": "Vodstvo",
+    "chapter_number": "",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Podnebí",
+    "chapter_number": "",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "Obyvatelstvo",
+    "chapter_number": "",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "Náboženství",
+    "chapter_number": "",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Vzdělanost",
+    "chapter_number": "",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "Ústava a správa",
+    "chapter_number": "",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Místopis: Čechy",
+    "chapter_number": "",
+    "page_number": "28",
+    "children": [
+      {
+        "title": "Morava",
+        "chapter_number": "",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Slezsko",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Slovensko",
+        "chapter_number": "",
+        "page_number": "53",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Poměry hospodářské:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Zemědělství",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Chov dobytka",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Hornictví",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Průmysl",
+        "chapter_number": "",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "Doprava",
+        "chapter_number": "",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Úslavy a zařízení na podporu obchodu",
+        "chapter_number": "",
+        "page_number": "104",
+        "children": []
+      },
+      {
+        "title": "Tržba zahraniční",
+        "chapter_number": "",
+        "page_number": "108",
+        "children": []
+      }
+    ]
+  }
+]

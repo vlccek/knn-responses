@@ -1,0 +1,447 @@
+
+[
+  {
+    "title": "Stadtbezirk Reichenberg",
+    "chapter_number": "A",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Stadtgemeinde Reichenberg",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Besonderer Teil",
+    "chapter_number": "B",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Gemeinden des Gerichtsbezirkes Reichenberg-Land",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Gemeinde Neu-Paulsdorf",
+            "chapter_number": "1",
+            "page_number": "97",
+            "children": []
+          },
+          {
+            "title": "Gem. Alt-Paulsdorf",
+            "chapter_number": "2",
+            "page_number": "109",
+            "children": []
+          },
+          {
+            "title": "Rosental I. Teil",
+            "chapter_number": "3",
+            "page_number": "113",
+            "children": []
+          },
+          {
+            "title": "Franzendorf",
+            "chapter_number": "4",
+            "page_number": "121",
+            "children": []
+          },
+          {
+            "title": "Johannestal",
+            "chapter_number": "5",
+            "page_number": "130",
+            "children": []
+          },
+          {
+            "title": "Ober-Rosental",
+            "chapter_number": "6",
+            "page_number": "143",
+            "children": []
+          },
+          {
+            "title": "Marktgem. Röchliz",
+            "chapter_number": "7",
+            "page_number": "148",
+            "children": []
+          },
+          {
+            "title": "Gem. Harzdorf (Alt- u. Neu-H.)",
+            "chapter_number": "8",
+            "page_number": "166",
+            "children": []
+          },
+          {
+            "title": "Nuppersdorf",
+            "chapter_number": "9",
+            "page_number": "183",
+            "children": []
+          },
+          {
+            "title": "Katharinberg",
+            "chapter_number": "10",
+            "page_number": "204",
+            "children": []
+          },
+          {
+            "title": "Alt-Habendorf(Alt-u. Neu=)",
+            "chapter_number": "11",
+            "page_number": "214",
+            "children": []
+          },
+          {
+            "title": "Schwarau",
+            "chapter_number": "12",
+            "page_number": "238",
+            "children": []
+          },
+          {
+            "title": "Schönborn",
+            "chapter_number": "13",
+            "page_number": "242",
+            "children": []
+          },
+          {
+            "title": "Ratschendorf",
+            "chapter_number": "14",
+            "page_number": "249",
+            "children": []
+          },
+          {
+            "title": "Voigtsbach (mit Görsbach)",
+            "chapter_number": "15",
+            "page_number": "257",
+            "children": []
+          },
+          {
+            "title": "Rudolfstal",
+            "chapter_number": "16",
+            "page_number": "275",
+            "children": []
+          },
+          {
+            "title": "Friedrichswald (mit Neu-wiese und Christianstal)",
+            "chapter_number": "17",
+            "page_number": "288",
+            "children": []
+          },
+          {
+            "title": "Grenzendorf",
+            "chapter_number": "18",
+            "page_number": "319",
+            "children": []
+          },
+          {
+            "title": "Kunnersdorf",
+            "chapter_number": "19",
+            "page_number": "335",
+            "children": []
+          },
+          {
+            "title": "Marktgem. Maffersdorf",
+            "chapter_number": "20",
+            "page_number": "342",
+            "children": []
+          },
+          {
+            "title": "Gem. Hermannstal (m. Kohlstatt)",
+            "chapter_number": "21",
+            "page_number": "372",
+            "children": []
+          },
+          {
+            "title": "Pelkowiz (mit Radonowiz, Nidwaldiz, Mohelka, Stir-bon, Heiligenkreuz, Jestřaby)",
+            "chapter_number": "22",
+            "page_number": "386",
+            "children": []
+          },
+          {
+            "title": "Stadtgem. Liebenau",
+            "chapter_number": "23",
+            "page_number": "391",
+            "children": []
+          },
+          {
+            "title": "Gem. Saskal (mit Burschin und Deutsch-Scharingen)",
+            "chapter_number": "24",
+            "page_number": "419",
+            "children": []
+          },
+          {
+            "title": "Gem. Langenbruck",
+            "chapter_number": "25",
+            "page_number": "422",
+            "children": []
+          },
+          {
+            "title": "Jaberlich",
+            "chapter_number": "26",
+            "page_number": "437",
+            "children": []
+          },
+          {
+            "title": "Schimsdorf",
+            "chapter_number": "27",
+            "page_number": "442",
+            "children": []
+          },
+          {
+            "title": "Münkendorf",
+            "chapter_number": "28",
+            "page_number": "447",
+            "children": []
+          },
+          {
+            "title": "Lubokei",
+            "chapter_number": "29",
+            "page_number": "449",
+            "children": []
+          },
+          {
+            "title": "Heinersdorf",
+            "chapter_number": "30",
+            "page_number": "451",
+            "children": []
+          },
+          {
+            "title": "Dörfel",
+            "chapter_number": "31",
+            "page_number": "455",
+            "children": []
+          },
+          {
+            "title": "Cichicht",
+            "chapter_number": "32",
+            "page_number": "463",
+            "children": []
+          },
+          {
+            "title": "Ober-Hanichen",
+            "chapter_number": "33",
+            "page_number": "467",
+            "children": []
+          },
+          {
+            "title": "Nieder-Hanichen",
+            "chapter_number": "34",
+            "page_number": "474",
+            "children": []
+          },
+          {
+            "title": "Karolinsfeld",
+            "chapter_number": "35",
+            "page_number": "480",
+            "children": []
+          },
+          {
+            "title": "Berzdorf",
+            "chapter_number": "36",
+            "page_number": "482",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Gemeinden des Gerichtsbezirkes Krakau",
+    "chapter_number": "C",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Gem. Ober-Berzdorf",
+        "chapter_number": "1",
+        "page_number": "485",
+        "children": []
+      },
+      {
+        "title": "Machendorf (mit Friedrichs-hain und Karlswald)",
+        "chapter_number": "2",
+        "page_number": "489",
+        "children": []
+      },
+      {
+        "title": "Christophsgrund",
+        "chapter_number": "3",
+        "page_number": "497",
+        "children": []
+      },
+      {
+        "title": "Neuland",
+        "chapter_number": "4",
+        "page_number": "509",
+        "children": []
+      },
+      {
+        "title": "Engelsberg (m. Eckersbach)",
+        "chapter_number": "5",
+        "page_number": "513",
+        "children": []
+      },
+      {
+        "title": "Stadtgem. Krayau",
+        "chapter_number": "6",
+        "page_number": "518",
+        "children": []
+      },
+      {
+        "title": "Gem. Ober-Krazau",
+        "chapter_number": "7",
+        "page_number": "562",
+        "children": []
+      },
+      {
+        "title": "Unter-Krazau",
+        "chapter_number": "8",
+        "page_number": "566",
+        "children": []
+      },
+      {
+        "title": "Weißkirchen (m. Frauenberg und Bäckenhain)",
+        "chapter_number": "9",
+        "page_number": "568",
+        "children": []
+      },
+      {
+        "title": "Nieder-Berzdorf",
+        "chapter_number": "10",
+        "page_number": "577",
+        "children": []
+      },
+      {
+        "title": "Ketten",
+        "chapter_number": "11",
+        "page_number": "581",
+        "children": []
+      },
+      {
+        "title": "Grafenstein",
+        "chapter_number": "12",
+        "page_number": "587",
+        "children": []
+      },
+      {
+        "title": "Stadtgem. Grottau",
+        "chapter_number": "13",
+        "page_number": "592",
+        "children": []
+      },
+      {
+        "title": "Gem. Dönis",
+        "chapter_number": "14",
+        "page_number": "617",
+        "children": []
+      },
+      {
+        "title": "Görsdorf",
+        "chapter_number": "15",
+        "page_number": "620",
+        "children": []
+      },
+      {
+        "title": "Ullersdorf",
+        "chapter_number": "16",
+        "page_number": "625",
+        "children": []
+      },
+      {
+        "title": "Wezwalde",
+        "chapter_number": "17",
+        "page_number": "628",
+        "children": []
+      },
+      {
+        "title": "Ober-Wittig",
+        "chapter_number": "18",
+        "page_number": "638",
+        "children": []
+      },
+      {
+        "title": "Nieder-Wittig",
+        "chapter_number": "19",
+        "page_number": "649",
+        "children": []
+      },
+      {
+        "title": "Neundorf",
+        "chapter_number": "20",
+        "page_number": "654",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Anhang",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Die dem Landschulbezirke Reichenberg zugeteilten Ortschaften des Turnauer Bezirkes",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Stadtgemeinde Böhm.-Aicha",
+        "chapter_number": "1",
+        "page_number": "676",
+        "children": []
+      },
+      {
+        "title": "Gemeinde Bösching",
+        "chapter_number": "2",
+        "page_number": "699",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Verzeichnis der Textbilder",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Theaterplay i. Reichenberg i. J. 1864",
+        "chapter_number": "1",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Erzdekanalkirche, Reichenberg",
+        "chapter_number": "2",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Kreuzkirche, Reichenberg",
+        "chapter_number": "3",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "St. Vinzenz v. Paul-Kirche, Reichbg.",
+        "chapter_number": "4",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Protestantische Kirche, Reichenberg",
+        "chapter_number": "5",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Ansicht von der Lerchenfeldbrücke auf den Altstädter Plaz",
+        "chapter_number": "6",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Schloß Reichenberg",
+        "chapter_number": "7",
+        "page_number": "48",
+        "children": []
+      }
+    ]
+  }
+]

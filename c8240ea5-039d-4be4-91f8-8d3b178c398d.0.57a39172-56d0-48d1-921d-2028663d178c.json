@@ -1,0 +1,100 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Pravidla popisu:",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Co jest prvotisk",
+        "chapter_number": "§ 1",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Poměr popisu prvotisků k popisu tisků vůbec",
+        "chapter_number": "§ 2",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Části popisu prvotisku",
+        "chapter_number": "§ 3",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Popis úplný a zkrácený",
+        "chapter_number": "§ 4",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Knihopisný záznam",
+        "chapter_number": "§ 5",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Kolace čili srovnání",
+        "chapter_number": "§ 6",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Textový popis",
+        "chapter_number": "§ 7",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Knihovnická poznámka",
+        "chapter_number": "§ 8",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Lístky odkazové",
+        "chapter_number": "§ 9",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Řadění lístků",
+        "chapter_number": "§ 10",
+        "page_number": "19",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Příklady: I. Popis úplný i s odkazy",
+    "chapter_number": "",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "II. Popis zkrácený i s odkazem",
+    "chapter_number": "",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Příloha: Seznam katalogů prvotisků knihoven českosloven-ských",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Ukazatel",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": []
+  }
+]

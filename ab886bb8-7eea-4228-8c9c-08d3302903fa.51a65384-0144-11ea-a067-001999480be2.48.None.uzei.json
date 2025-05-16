@@ -1,0 +1,109 @@
+
+[
+  {
+    "title": "Ošetřování, čistota, desinfekce vemene",
+    "chapter_number": "I.",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Čištění a desinfekce ochořelého vemene",
+    "chapter_number": "H.",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Choroby vemene",
+    "chapter_number": "III.",
+    "page_number": "14",
+    "children": [
+      {
+        "title": "Povrchní zánět, otok vemene, ústřel",
+        "chapter_number": "1.",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Katarrh vemene",
+        "chapter_number": "2.",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Vleklý katarrhalický zánět vemene",
+        "chapter_number": "3.",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Zánět dužniny vemene",
+        "chapter_number": "4.",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Tuberkulosní zánět vemene",
+        "chapter_number": "5.",
+        "page_number": "23",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Léčení nemoci vemene",
+    "chapter_number": "IV.",
+    "page_number": "24",
+    "children": [
+      {
+        "title": "Nástroje, jichž používáme k plnění vemene",
+        "chapter_number": "A.",
+        "page_number": "31",
+        "children": [
+          {
+            "title": "Strukové cévky",
+            "chapter_number": "1.",
+            "page_number": "31",
+            "children": []
+          },
+          {
+            "title": "Přístroje k vystřikování",
+            "chapter_number": "2.",
+            "page_number": "33",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Léčiva ku plnění vemene",
+        "chapter_number": "B.",
+        "page_number": "42",
+        "children": [
+          {
+            "title": "Léky účinkující místně",
+            "chapter_number": "1.",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Léky působící mimo vemene",
+            "chapter_number": "2.",
+            "page_number": "42",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Masáž",
+    "chapter_number": "V.",
+    "page_number": "44",
+    "children": []
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "",
+    "page_number": "45",
+    "children": []
+  }
+]

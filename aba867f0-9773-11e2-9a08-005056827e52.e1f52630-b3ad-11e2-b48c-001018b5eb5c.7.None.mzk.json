@@ -1,0 +1,368 @@
+
+[
+  {
+    "title": "Die peninsularen Gebirgssysteme Europas.",
+    "chapter_number": "III",
+    "page_number": "91",
+    "children": [
+      {
+        "title": "Das pyrenäisch-iberische Halbinselsystem Fluss- und Thalbildung der hesperischen Halbinsel",
+        "chapter_number": "1",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Das apenninische oder italische Gebirgssystem Fluss- und Thalbildung der apenninischen Halbinsel",
+        "chapter_number": "2",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Das illyrisch-griechische oder Balkansystem Fluss - und Thalbildung der Balkan-Halbinsel",
+        "chapter_number": "3",
+        "page_number": "95",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die isolierten peninsularen Gebirgssysteme.",
+    "chapter_number": "IV",
+    "page_number": "96",
+    "children": [
+      {
+        "title": "Das taurische oder krim'sche",
+        "chapter_number": "1",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Das bretonische",
+        "chapter_number": "2",
+        "page_number": "97",
+        "children": []
+      },
+      {
+        "title": "Das skandinavische",
+        "chapter_number": "3",
+        "page_number": "97",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die insularen Gebirgssysteme Europa's.",
+    "chapter_number": "V",
+    "page_number": "98",
+    "children": [
+      {
+        "title": "Großbritannien",
+        "chapter_number": "1",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Irland",
+        "chapter_number": "2",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Flüsse und Thäler, Seen und Kanäle Großbritanniens",
+        "chapter_number": null,
+        "page_number": "99",
+        "children": []
+      },
+      {
+        "title": "Das isländische",
+        "chapter_number": "3",
+        "page_number": "100",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Der Ural und Kaukasus als Gränzgebirge Curopa's",
+    "chapter_number": "VI",
+    "page_number": "100",
+    "children": [
+      {
+        "title": "Fluss- und Thalbilduug",
+        "chapter_number": null,
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Die sarmatische Tiefebene",
+        "chapter_number": null,
+        "page_number": "101",
+        "children": []
+      },
+      {
+        "title": "Seen und Kanäle der sarmatischen Ebene",
+        "chapter_number": null,
+        "page_number": "102",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Gebirgs = und Flusssysteme Asiens.",
+    "chapter_number": null,
+    "page_number": null,
+    "children": [
+      {
+        "title": "Ost, Nord - und Süd-Asien",
+        "chapter_number": "a",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Die Tiefländer Hinter-Asiens",
+        "chapter_number": null,
+        "page_number": "109",
+        "children": []
+      },
+      {
+        "title": "Die Flusssysteme Hinter-Asiens",
+        "chapter_number": null,
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Vorder-Asien.",
+        "chapter_number": "b",
+        "page_number": "116",
+        "children": []
+      },
+      {
+        "title": "Flüsse und Seen Vorder-Asiens",
+        "chapter_number": null,
+        "page_number": "119",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Gebirgs- und Flusssysteme Afrikas",
+    "chapter_number": null,
+    "page_number": null,
+    "children": [
+      {
+        "title": "Nord-Afrika",
+        "chapter_number": "A",
+        "page_number": "122",
+        "children": []
+      },
+      {
+        "title": "Süd-Afrika",
+        "chapter_number": "B",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "Flusssysteme und Seen Afrikas",
+        "chapter_number": null,
+        "page_number": "125",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Gebirgs- und Slusssysteme Amerika's",
+    "chapter_number": null,
+    "page_number": null,
+    "children": [
+      {
+        "title": "Nordamerika.",
+        "chapter_number": "A",
+        "page_number": "128",
+        "children": []
+      },
+      {
+        "title": "Flusssysteme",
+        "chapter_number": null,
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Südamerika",
+        "chapter_number": "B",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Flusssysteme",
+        "chapter_number": null,
+        "page_number": "137",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Gebirgs = und Slusssysteme Australiens",
+    "chapter_number": null,
+    "page_number": "140",
+    "children": []
+  },
+  {
+    "title": "Zur Physik der festen Bestandtheile der Erde.",
+    "chapter_number": null,
+    "page_number": null,
+    "children": [
+      {
+        "title": "Das Erdinnere",
+        "chapter_number": "I",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Die Vulkansysteme Europas und Afrikas",
+        "chapter_number": null,
+        "page_number": "143",
+        "children": []
+      },
+      {
+        "title": "Die Vulkansysteme Asiens",
+        "chapter_number": null,
+        "page_number": "143",
+        "children": []
+      },
+      {
+        "title": "Der amerikanische Vulkangürtel",
+        "chapter_number": null,
+        "page_number": "146",
+        "children": []
+      },
+      {
+        "title": "Die Erdrinde",
+        "chapter_number": "II",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Die Gesteinsarten",
+        "chapter_number": null,
+        "page_number": "148",
+        "children": []
+      },
+      {
+        "title": "Die geographische Vertheilung der fossilen Kohlen",
+        "chapter_number": null,
+        "page_number": "152",
+        "children": []
+      },
+      {
+        "title": "Die Metalle und ihre Verbreitung",
+        "chapter_number": null,
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "Bildung der Erde",
+        "chapter_number": "III",
+        "page_number": "154",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zur Physik der tropfbar-flüssigen Bestandtheile der Erde.",
+    "chapter_number": null,
+    "page_number": null,
+    "children": [
+      {
+        "title": "Die Meere.",
+        "chapter_number": "A",
+        "page_number": "156",
+        "children": []
+      },
+      {
+        "title": "Der Meeresboden",
+        "chapter_number": null,
+        "page_number": "157",
+        "children": []
+      },
+      {
+        "title": "Das Meerwasser.",
+        "chapter_number": null,
+        "page_number": "159",
+        "children": []
+      },
+      {
+        "title": "Bewegung des Meeres",
+        "chapter_number": null,
+        "page_number": "161",
+        "children": []
+      },
+      {
+        "title": "Die Wellenbewegung",
+        "chapter_number": null,
+        "page_number": "163",
+        "children": []
+      },
+      {
+        "title": "Die Gewässer des Landes",
+        "chapter_number": "B",
+        "page_number": "165",
+        "children": []
+      },
+      {
+        "title": "Zur Physik der Flüsse",
+        "chapter_number": null,
+        "page_number": "168",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die elastisch-flüssigen Bestandtheile der Erde",
+    "chapter_number": null,
+    "page_number": null,
+    "children": []
+  },
+  {
+    "title": "Dte Lufterscheinungen, Meteore.",
+    "chapter_number": null,
+    "page_number": "173",
+    "children": [
+      {
+        "title": "Die wässerigen oder Hydrometeore",
+        "chapter_number": "1",
+        "page_number": "176",
+        "children": []
+      },
+      {
+        "title": "Die elektrischen",
+        "chapter_number": "2",
+        "page_number": "177",
+        "children": []
+      },
+      {
+        "title": "Die magnetischen",
+        "chapter_number": "3",
+        "page_number": "177",
+        "children": []
+      },
+      {
+        "title": "Die optischen",
+        "chapter_number": "4",
+        "page_number": "179",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Geographische Verbreitung der Pflanzen und Thiere.",
+    "chapter_number": null,
+    "page_number": null,
+    "children": [
+      {
+        "title": "Phytoogeographie (Pflanzengeographie)",
+        "chapter_number": "A",
+        "page_number": "180",
+        "children": []
+      }
+    ]
+  }
+]

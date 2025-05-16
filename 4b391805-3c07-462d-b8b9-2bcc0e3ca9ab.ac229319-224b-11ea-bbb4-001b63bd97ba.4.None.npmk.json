@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "Smíšené příklady k opakování",
+    "chapter_number": "Oddíl I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Mocnění a odmocňování",
+    "chapter_number": "Oddíl II",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "Dvojmocnění",
+        "chapter_number": "1",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Oddvojmocňování",
+        "chapter_number": "2",
+        "page_number": "19",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Počet procentový",
+    "chapter_number": "Oddíl III. I",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Počet úrokový",
+    "chapter_number": "II",
+    "page_number": "31",
+    "children": [
+      {
+        "title": "Vypočítávání úroku",
+        "chapter_number": "1",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Vypočítávání procenta",
+        "chapter_number": "2",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Vypočítávání jistiny",
+        "chapter_number": "3",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Vypočítávání doby",
+        "chapter_number": "4",
+        "page_number": "46",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Počet diskontový a rabattový",
+    "chapter_number": "Oddíl IV",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Počet lhůtový",
+    "chapter_number": "Oddíl V",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "Počet spolkový",
+    "chapter_number": "Oddíl VI",
+    "page_number": "59",
+    "children": []
+  },
+  {
+    "title": "Počty průměrné a směšovací",
+    "chapter_number": "Oddíl VII",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Smíšené příklady k opakování",
+    "chapter_number": "Oddíl VIII",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Míry, váhy a peníze",
+    "chapter_number": "Oddíl IX",
+    "page_number": null,
+    "children": []
+  }
+]

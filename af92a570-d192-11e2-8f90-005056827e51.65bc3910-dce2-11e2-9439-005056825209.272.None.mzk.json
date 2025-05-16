@@ -1,0 +1,83 @@
+
+[
+  {
+    "title": "Počátky",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Studování",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Vysoké Mýto. Počátek a konec",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Skuteč",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Hradec Králové, Studování na učitele",
+        "chapter_number": "",
+        "page_number": "72",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vesnice",
+    "chapter_number": "III",
+    "page_number": "100",
+    "children": []
+  },
+  {
+    "title": "Menšiny",
+    "chapter_number": "IV",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Z Moravy do Slezska",
+        "chapter_number": "",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "Ve Slezsku",
+        "chapter_number": "",
+        "page_number": "156",
+        "children": []
+      },
+      {
+        "title": "Další cesta menšinami",
+        "chapter_number": "",
+        "page_number": "167",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Po prvé v Brně",
+    "chapter_number": "V",
+    "page_number": "182",
+    "children": []
+  },
+  {
+    "title": "Brno za války světové",
+    "chapter_number": "VI",
+    "page_number": "214",
+    "children": []
+  },
+  {
+    "title": "Rejstřík jmenný",
+    "chapter_number": "",
+    "page_number": "261",
+    "children": []
+  }
+]

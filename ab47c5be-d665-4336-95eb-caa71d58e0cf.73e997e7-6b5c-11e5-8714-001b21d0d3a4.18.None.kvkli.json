@@ -1,0 +1,112 @@
+
+[
+  {
+    "title": "Kaufverträge ohne Lossage",
+    "chapter_number": "(Nr. 1, 23, 24, 27, 30, 32, 35, 45, 47, 48, 50, 51, 53, 59, 69, 70, 83, 84, 86, 93, 97, 101, 111, 115, 118, 122, 124, 125, 127, 132, 137, 141, 147, 157, 159, 166, 169, 170, 171, 172, 174, 179, 181, 182, 198)",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Kaufverträge mit Lossage",
+    "chapter_number": "(Nr. 22, 25, 67, 68, 87, 90, 98, 109, 113, 121, 126, 140, 150, 151, 155, 160, 177, 189, 194)",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "Zeugnis vor dem Rat über einen von einem andern getätigten Verkauf samt Lossage",
+    "chapter_number": "(Nr. 17)",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Verleihung von Baustätten",
+    "chapter_number": "(Nr. 39, 40, 41, 42, 44, 46, 79, 81, 82)",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Genehmigung des Rats zum Verkauf von Baustätten",
+    "chapter_number": "(Nr. 43, 80)",
+    "page_number": "2",
+    "children": []
+  },
+  {
+    "title": "Tauschverträge",
+    "chapter_number": "(Nr. 58, 139, 152, 154)",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Ablösung von Erbgeldern durch den Besizer der Liegenschaft",
+    "chapter_number": "(Nr. 4, 6, 8, 72, 77, 85, 95, 102, 116, 128, 130, 133, 136, 142, 148, 173, 185, 186, 187, 197)",
+    "page_number": "20",
+    "children": []
+  },
+  {
+    "title": "Abtretung von Erbgeldern",
+    "chapter_number": "(Nr. 10, 61, 62, 88, 91, 117, 158, 168)",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Vergleich über eine strittige Liegenschaft",
+    "chapter_number": "(Nr. 37)",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Übergabe von Vermögensdritteilen",
+    "chapter_number": "(Nr. 31)",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Übergaben unter Ehegatten von Todes wegen",
+    "chapter_number": "(Nr. 33, 34, 36, 165)",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Sicherstellung von Erbteilen der Kinder nach dem verstorbenen Elternteil durch den überlebenden Elternteil",
+    "chapter_number": "(Nr. 11, 129, 193)",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Sicherstellung von Mündelgut durch den Vormund",
+    "chapter_number": "(Nr. 13)",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Lossagen",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "betreffend Kaufpreisforderungen",
+        "chapter_number": "a) (Nr. 14, 15, 52, 54, 60, 63, 74, 75, 76, 78, 92, 94, 100, 104, 105, 106, 107, 110, 119, 138)",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "betreffend Erbteile",
+        "chapter_number": "b) (Nr. 9, 16, 19, 20, 26, 64, 71, 96, 99, 112, 114, 145, 146, 156, 167, 175, 176, 180, 190, 191, 195)",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "betreffend Erbteil und Lohn",
+        "chapter_number": "c) (Nr. 38)",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "betreffend erworbene Erbgelder",
+        "chapter_number": "d) (Nr. 89, 103)",
+        "page_number": "2",
+        "children": []
+      }
+    ]
+  }
+]

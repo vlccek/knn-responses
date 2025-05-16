@@ -1,0 +1,212 @@
+
+[
+  {
+    "title": "Vysvětlivky",
+    "chapter_number": "",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ČSSR",
+        "chapter_number": "I",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Právní sbírky",
+            "chapter_number": "",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "Časopisy",
+            "chapter_number": "",
+            "page_number": "73",
+            "children": []
+          },
+          {
+            "title": "Knihy",
+            "chapter_number": "",
+            "page_number": "105",
+            "children": []
+          },
+          {
+            "title": "Různé",
+            "chapter_number": "",
+            "page_number": "111",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zahraničí",
+        "chapter_number": "II",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Belgie",
+            "chapter_number": "",
+            "page_number": "114",
+            "children": []
+          },
+          {
+            "title": "Brazílie",
+            "chapter_number": "",
+            "page_number": "116",
+            "children": []
+          },
+          {
+            "title": "Británie",
+            "chapter_number": "",
+            "page_number": "118",
+            "children": []
+          },
+          {
+            "title": "Egypt",
+            "chapter_number": "",
+            "page_number": "120",
+            "children": []
+          },
+          {
+            "title": "Hongkong",
+            "chapter_number": "",
+            "page_number": "120",
+            "children": []
+          },
+          {
+            "title": "Chile",
+            "chapter_number": "",
+            "page_number": "121",
+            "children": []
+          },
+          {
+            "title": "Irsko",
+            "chapter_number": "",
+            "page_number": "122",
+            "children": []
+          },
+          {
+            "title": "Jugoslávie",
+            "chapter_number": "",
+            "page_number": "123",
+            "children": []
+          },
+          {
+            "title": "Mexiko",
+            "chapter_number": "",
+            "page_number": "128",
+            "children": []
+          },
+          {
+            "title": "NDR",
+            "chapter_number": "",
+            "page_number": "129",
+            "children": []
+          },
+          {
+            "title": "NSR",
+            "chapter_number": "",
+            "page_number": "141",
+            "children": []
+          },
+          {
+            "title": "Nový Zéland",
+            "chapter_number": "",
+            "page_number": "152",
+            "children": []
+          },
+          {
+            "title": "Polsko",
+            "chapter_number": "",
+            "page_number": "153",
+            "children": []
+          },
+          {
+            "title": "SSSR",
+            "chapter_number": "",
+            "page_number": "161",
+            "children": []
+          },
+          {
+            "title": "Švédsko",
+            "chapter_number": "",
+            "page_number": "169",
+            "children": []
+          },
+          {
+            "title": "Švýcarsko",
+            "chapter_number": "",
+            "page_number": "175",
+            "children": []
+          },
+          {
+            "title": "Tanzanie",
+            "chapter_number": "",
+            "page_number": "178",
+            "children": []
+          },
+          {
+            "title": "USA",
+            "chapter_number": "",
+            "page_number": "179",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Mezinárodní organizace",
+        "chapter_number": "III",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Evropská rada",
+            "chapter_number": "",
+            "page_number": "185",
+            "children": []
+          },
+          {
+            "title": "Evropské hospodářské společenství",
+            "chapter_number": "",
+            "page_number": "187",
+            "children": []
+          },
+          {
+            "title": "Světová zdravotnická organizace",
+            "chapter_number": "",
+            "page_number": "188",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "států",
+        "chapter_number": "",
+        "page_number": "194",
+        "children": []
+      },
+      {
+        "title": "jmenný",
+        "chapter_number": "",
+        "page_number": "196",
+        "children": []
+      },
+      {
+        "title": "věcný",
+        "chapter_number": "",
+        "page_number": "202",
+        "children": []
+      }
+    ]
+  }
+]

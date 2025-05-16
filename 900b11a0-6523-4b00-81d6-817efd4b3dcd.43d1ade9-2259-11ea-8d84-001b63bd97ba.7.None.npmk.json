@@ -1,0 +1,242 @@
+
+[
+  {
+    "title": "O číslech obecných",
+    "chapter_number": "Část I.",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Čtyři základné výkony čili druhy početní s obecnými čísly pouhými.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Sčítání",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Odčítání",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Násobení",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Dělení",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O číslech vztažných",
+    "chapter_number": "Část II.",
+    "page_number": "8",
+    "children": [
+      {
+        "title": "Čtyři základné výkony početní se zvláštními čísly vztažnými.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Sčítání",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Odčítání",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Násobení",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Dělení",
+        "chapter_number": "",
+        "page_number": "19",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O vztažných číslech obecných.",
+    "chapter_number": "Část III.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Jednočlenné a mnohočlenné obecné výrazy",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Čtyři základné výkony početní s obecnými čísly vztažnými čili výrazy algebraickými.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Sčítání",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Slučování obecných výrazů vztažných",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Odčítání",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Násobení",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Dělení",
+        "chapter_number": "",
+        "page_number": "36",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O mocnostech a odmocninách.",
+    "chapter_number": "Čásť IV.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Lomené výrazy obecné.",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Sčítání a odčítání zlomkův obecných",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Násobení a dělení zlomkův obecných",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      },
+       {
+        "title": "O znameních mocností",
+        "chapter_number": "",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Umocnění součinu, podílu a mocnosti",
+        "chapter_number": "",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "O odmocninách vůbec",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Násobení, dělení a umocňování odmocnin",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Zdvojmocňování dvojčlenů",
+        "chapter_number": "",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Ztrojmocňování dvojčlenů",
+        "chapter_number": "",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Zdvojmocňování mnohočlenných obecných výrazů",
+        "chapter_number": "",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Zdvojmocňování čísel soustavy desetní.",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Stanovení druhé odmocniny čísel soustavy desetní",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Ztrojmocňování mnohočlenných výrazův obecných",
+        "chapter_number": "",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Ztrojmocňování čísel soustavy desetní",
+        "chapter_number": "",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Stanovení třetí odmocniny čísel soustavy desetní",
+        "chapter_number": "",
+        "page_number": "76",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Skladna",
+    "chapter_number": "Část V.",
+    "page_number": "86",
+    "children": [
+      {
+        "title": "Přestavování",
+        "chapter_number": "",
+        "page_number": "87",
+        "children": []
+      },
+      {
+        "title": "Sestavování",
+        "chapter_number": "",
+        "page_number": "89",
+        "children": []
+      }
+    ]
+  }
+]

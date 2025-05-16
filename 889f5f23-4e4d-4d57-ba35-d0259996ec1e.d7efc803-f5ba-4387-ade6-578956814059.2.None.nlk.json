@@ -1,0 +1,175 @@
+
+[
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "ČSSR",
+    "chapter_number": "I",
+    "page_number": "" ,
+    "children": [
+      {
+        "title": "Právní sbírky",
+        "chapter_number": "",
+        "page_number": "485",
+        "children": []
+      },
+      {
+        "title": "Časopisy",
+        "chapter_number": "",
+        "page_number": "545",
+        "children": []
+      },
+      {
+        "title": "Knihy",
+        "chapter_number": "",
+        "page_number": "576",
+        "children": []
+      },
+      {
+        "title": "Různé",
+        "chapter_number": "",
+        "page_number": "581",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zahraničí",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Británie",
+        "chapter_number": "",
+        "page_number": "583",
+        "children": []
+      },
+      {
+        "title": "Francie",
+        "chapter_number": "",
+        "page_number": "587",
+        "children": []
+      },
+      {
+        "title": "Itálie",
+        "chapter_number": "",
+        "page_number": "594",
+        "children": []
+      },
+      {
+        "title": "Korea (KLDR)",
+        "chapter_number": "",
+        "page_number": "595",
+        "children": []
+      },
+      {
+        "title": "NDR",
+        "chapter_number": "",
+        "page_number": "596",
+        "children": []
+      },
+      {
+        "title": "NSR",
+        "chapter_number": "",
+        "page_number": "606",
+        "children": []
+      },
+      {
+        "title": "Polsko",
+        "chapter_number": "",
+        "page_number": "622",
+        "children": []
+      },
+      {
+        "title": "Rakousko",
+        "chapter_number": "",
+        "page_number": "625",
+        "children": []
+      },
+      {
+        "title": "Rumunsko",
+        "chapter_number": "",
+        "page_number": "627",
+        "children": []
+      },
+      {
+        "title": "SSSR",
+        "chapter_number": "",
+        "page_number": "628",
+        "children": []
+      },
+      {
+        "title": "Švédsko",
+        "chapter_number": "",
+        "page_number": "634",
+        "children": []
+      },
+      {
+        "title": "Švýcarsko",
+        "chapter_number": "",
+        "page_number": "637",
+        "children": []
+      },
+      {
+        "title": "Uruguay",
+        "chapter_number": "",
+        "page_number": "639",
+        "children": []
+      },
+      {
+        "title": "USA",
+        "chapter_number": "",
+        "page_number": "641",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Mezinárodní organizace",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Mezinárodní organizace práce",
+        "chapter_number": "",
+        "page_number": "651",
+        "children": []
+      },
+      {
+        "title": "Organizace spojených národů",
+        "chapter_number": "",
+        "page_number": "652",
+        "children": []
+      },
+      {
+        "title": "Světová zdravotnická organizace",
+        "chapter_number": "",
+        "page_number": "653",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "států",
+    "chapter_number": "",
+    "page_number": "667"
+  },
+  {
+    "title": "jmenný",
+    "chapter_number": "",
+    "page_number": "669"
+  },
+  {
+    "title": "věcný",
+    "chapter_number": "",
+    "page_number": "675"
+  }
+]

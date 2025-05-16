@@ -1,0 +1,89 @@
+
+[
+  {
+    "title": "Poésie dramatique",
+    "chapter_number": "VII",
+    "page_number": "125",
+    "children": [
+      {
+        "title": "Les effets de Paris. Corneille",
+        "chapter_number": "101",
+        "page_number": "125",
+        "children": []
+      },
+      {
+        "title": "Le festin de l'avare. Molière",
+        "chapter_number": "102",
+        "page_number": "127",
+        "children": []
+      },
+      {
+        "title": "Songe d'Athalie. Racine",
+        "chapter_number": "103",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Le gendre de monsieur Poirier. Augier et Sandeau",
+        "chapter_number": "104",
+        "page_number": "133",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Commentaire",
+    "chapter_number": "",
+    "page_number": "138",
+    "children": []
+  },
+  {
+    "title": "Vocabulaire",
+    "chapter_number": "",
+    "page_number": "160",
+    "children": []
+  },
+  {
+    "title": "Gravures et cartes",
+    "chapter_number": "",
+    "page_number": "52",
+    "children": [
+      {
+        "title": "Plan de Paris",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Le Panthéon",
+        "chapter_number": "",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Arc de Triomphe de l'Etoile",
+        "chapter_number": "",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Église de la Madeleine",
+        "chapter_number": "",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Église Notre-Dame",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "La France",
+        "chapter_number": "",
+        "page_number": "159",
+        "children": []
+      }
+    ]
+  }
+]

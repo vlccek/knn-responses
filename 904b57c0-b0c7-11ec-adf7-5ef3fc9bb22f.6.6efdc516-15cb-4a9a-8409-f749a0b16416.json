@@ -1,0 +1,259 @@
+
+[
+  {
+    "title": "Způsob a rozsah šetření",
+    "chapter_number": "Oddíl první",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Přehled výsledků",
+    "chapter_number": "Oddíl druhý",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "Úvod",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Pozorované městské aglomerace ve srovnání s ostatními obcemi státu",
+        "chapter_number": "I",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Hlavní druhy městských obydlí",
+        "chapter_number": "II",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Poloha, velikost a zařízení bytů",
+        "chapter_number": "III",
+        "page_number": "20",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Poměry vlastnické a držební; ochrana nájemníků; neobydlené byty",
+    "chapter_number": "IV",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Obyvatelé bytů",
+    "chapter_number": "V",
+    "page_number": "36",
+    "children": []
+  },
+  {
+    "title": "Povolání a sociální příslušnost majitele bytu, byty užívané též k výkonu povolání (živnosti)",
+    "chapter_number": "VI",
+    "page_number": "40",
+    "children": []
+  },
+  {
+    "title": "Nájemné z pronajatých bytů",
+    "chapter_number": "VII",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Obytné ústavy",
+    "chapter_number": "VIII",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Nouzová a pohyblivá obydlí",
+    "chapter_number": "IX",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Přehled bytových poměrů v roce 1921 a 1930",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Přehled bytových poměrů v roce 1921 a 1930 (v číslech absolutních, podle obcí a osad)",
+        "chapter_number": "Tab. 1",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Přehled bytových poměrů v roce 1921 a 1930 (v číslech poměrných, podle obcí a osad)",
+        "chapter_number": "Tab. 2",
+        "page_number": "15",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Soukromé byty",
+    "chapter_number": "II",
+    "page_number": "15",
+    "children": [
+      {
+        "title": "Byty v obytných domech a v ústavech",
+        "chapter_number": "A",
+        "page_number": "22",
+        "children": [
+          {
+            "title": "Poloha obydlených i neobydlených bytů v domě (v číslech absolutních, podie aglomerací)",
+            "chapter_number": "Tab. 3",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Velikost obydlených i neobydlených bytů určená počtem hlavních místností (v číslech absolutních, podle obcí)",
+            "chapter_number": "Tab. 4",
+            "page_number": "30",
+            "children": []
+          },
+          {
+            "title": "Velikost obydlených i neobydlených bytů určená počtem pokojů (v číslech absolutních, podle aglomerací)",
+            "chapter_number": "Tab. 5",
+            "page_number": "42",
+            "children": []
+          },
+          {
+            "title": "Poloha a velikost obydlených i neobydlených bytů (v číslech poměrných, podle aglomerací)",
+            "chapter_number": "Tab. 6",
+            "page_number": "50",
+            "children": []
+          },
+          {
+            "title": "Druh majitele domu u bytů obydlených i neobydlených se zřetelem k jejich poloze a velikosti. (Data podle zemí)",
+            "chapter_number": "Tab. 7",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Neobydlené byty podle druhu, poměrů držebních, ochrany nájemníků a velikosti. (Data podle aglomerací)",
+            "chapter_number": "Tab. 8",
+            "page_number": "59",
+            "children": []
+          },
+          {
+            "title": "Obydlené byty podle poměrů držebních a ochrany nájemníků se zřetelem ke způsobu jejich užití. (Data podle obcí)",
+            "chapter_number": "Tab. 9",
+            "page_number": "62",
+            "children": []
+          },
+          {
+            "title": "Doba, od které majitel byt obývá. (Data podle aglomerací)",
+            "chapter_number": "Tab. 10",
+            "page_number": "67",
+            "children": []
+          },
+          {
+            "title": "Poměry držební a ochrana nájemníků u bytů obydlených v kombinaci s jejich polohou v domě a způsobem užití. (Data podle zemí)",
+            "chapter_number": "Tab. 11",
+            "page_number": "69",
+            "children": []
+          },
+          {
+            "title": "Druh a počet místností v obydlených bytech. (Data podle obcí a osad)",
+            "chapter_number": "Tab. 12",
+            "page_number": "70",
+            "children": []
+          },
+          {
+            "title": "Domácí zařízení v obydlených bytech. (Data podle obci a osad)",
+            "chapter_number": "Tab. 13",
+            "page_number": "82",
+            "children": []
+          },
+          {
+            "title": "Obydlené byty podle počtu domácností a obyvatelů v kombinaci s velikostí (v číslech absolutních, podle aglomerací)",
+            "chapter_number": "Tab. 14",
+            "page_number": "89",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Obydlené byty podle počtu domácností a obyvatelů (v číslech poměrných, podle aglomerací)",
+    "chapter_number": "Tab. 15",
+    "page_number": "108",
+    "children": []
+  },
+  {
+    "title": "Zalidněnost obydlených bytů v kombinaci s jejich velikostí. (Data podle aglomerací)",
+    "chapter_number": "Tab. 16",
+    "page_number": "111",
+    "children": []
+  },
+  {
+    "title": "Obydlené byty podle poměrů držebních v kombinaci s užitím bytu a počtem osob a domácností v bytě bydlících. (Data podle zemí)",
+    "chapter_number": "Tab. 17",
+    "page_number": "130",
+    "children": []
+  },
+  {
+    "title": "Povolání majitelů obydlených bytů v kombinaci s jejich postavením v povolání. (Data podle aglomerací)",
+    "chapter_number": "Tab. 18",
+    "page_number": "133",
+    "children": []
+  },
+  {
+    "title": "Obydlené byty podle skupin povolání svých majitelů v kombinaci s jejich postavením v povolání. (Data podle zemí)",
+    "chapter_number": "Tab. 19",
+    "page_number": "146",
+    "children": []
+  },
+  {
+    "title": "Živnostenské byty obydlené podle povolání v bytě vykonávaného v kombinaci s velikostí bytu. (Data podle zemí)",
+    "chapter_number": "Tab. 20",
+    "page_number": "148",
+    "children": []
+  },
+  {
+    "title": "Obydlené byty podle poměrů držebních, ochrany nájemníků a způsobu užití v kombinaci s velikostí bytů a s postavením majitele bytu v povolání. (Data podle zemí)",
+    "chapter_number": "Tab. 21",
+    "page_number": "150",
+    "children": []
+  },
+  {
+    "title": "Poloha obydlených bytů v domě v kombinaci s velikostí a způsobem užití. (Data podle zemí)",
+    "chapter_number": "Tab. 22",
+    "page_number": "151",
+    "children": []
+  },
+  {
+    "title": "Obydlené byty podle vybavení hlavními a vedlejšími místnostmi v kombinaci s postavením majitele bytu v povolání a velikostí bytu. (Data podle zemí)",
+    "chapter_number": "Tab. 23",
+    "page_number": "152",
+    "children": []
+  },
+  {
+    "title": "Domácí zařízení v obydlených bytech v kombinaci s postavením majitele bytu v povolání a s velikostí bytu. (Data podle zemí)",
+    "chapter_number": "Tab. 24",
+    "page_number": "157",
+    "children": []
+  },
+  {
+    "title": "Třída povolání majitelů obydlených bytů v kombinaci s jejich postavením v povolání a velikostí bytu. (Data podle zemí)",
+    "chapter_number": "Tab. 25",
+    "page_number": "162",
+    "children": []
+  },
+  {
+    "title": "Obydlené byty v domech stavebních a bytových družstev podle užití bytu, postavení majitele bytu v povolání, jeho členství v družstvu, poměrů držebních, ochrany nájemníků a velikosti. (Data podle aglomerací)",
+    "chapter_number": "Tab. 26",
+    "page_number": "164",
+    "children": []
+  },
+  {
+    "title": "Obydlené byty v domech stavebních a bytových družstev podle užití, poměrů držebních, ochrany nájemníků, podle počtu domácností a obyvatelů v kombinaci s postavením majitele bytu v povolání a s velikostí bytu. (Data podle zemí)",
+    "chapter_number": "Tab. 27",
+    "page_number": "167",
+    "children": []
+  }
+]

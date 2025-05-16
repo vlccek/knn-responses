@@ -1,0 +1,40 @@
+
+[
+  {
+    "title": "Vorgeschichte",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Die Reformation in Trautenau",
+    "chapter_number": "II",
+    "page_number": "6",
+    "children": [
+      {
+        "title": "Die Kirche",
+        "chapter_number": "1",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Die Schule",
+        "chapter_number": "2",
+        "page_number": "23",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Gegenreformation in Trautenau",
+    "chapter_number": "III",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Die Gründung der evangelischen Gemeinde in Trautenau",
+    "chapter_number": "IV",
+    "page_number": "33",
+    "children": []
+  }
+]

@@ -1,0 +1,107 @@
+
+[
+  {
+    "title": "Při vyučování dbej názornosti!",
+    "chapter_number": "§ 23",
+    "page_number": "42",
+    "children": []
+  },
+  {
+    "title": "Při vyučování dbej pravdivosti!",
+    "chapter_number": "§ 24",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Vyučuj zajímavě!",
+    "chapter_number": "§ 25",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Přihlížej k samočinnosti žákyň!",
+    "chapter_number": "§ 26",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Při vyučování dbej trvalosti!",
+    "chapter_number": "§ 27",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Při vyučování dbej praktické stránky!",
+    "chapter_number": "§ 28",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Vyučování na škole hospodyňské",
+    "chapter_number": "§ 29",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "O školní kázni",
+    "chapter_number": "§ 30",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "O učitelstvu školy hospodyňské",
+    "chapter_number": "",
+    "page_number": "55",
+    "children": [
+      {
+        "title": "Učitelský sbor hospodyňské školy",
+        "chapter_number": "§ 31",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Vlastnosti a povinnosti učitelky hospodyňské školy",
+        "chapter_number": "§ 32",
+        "page_number": "55",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Doplněk",
+    "chapter_number": "",
+    "page_number": "59",
+    "children": [
+      {
+        "title": "Pro vyučování jazyku mateřskému",
+        "chapter_number": "§ 33",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Pro vyučování počtům, měřictví a domácímu účetnictví",
+        "chapter_number": "§ 34",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Pro vyučování zeměpisu a dějepisu",
+        "chapter_number": "§ 35",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Pro vyučování vědám přírodním, hospodářským a hospodyňským",
+        "chapter_number": "§ 36",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Pro vyučování praktickým naukám a dovednostem",
+        "chapter_number": "§ 37",
+        "page_number": "69",
+        "children": []
+      }
+    ]
+  }
+]

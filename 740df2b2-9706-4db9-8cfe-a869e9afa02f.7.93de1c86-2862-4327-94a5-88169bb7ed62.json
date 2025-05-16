@@ -1,0 +1,78 @@
+
+[
+  {
+    "title": "Inhalt",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Widmung",
+        "chapter_number": "",
+        "page_number": "V",
+        "children": []
+      },
+      {
+        "title": "Vorwort",
+        "chapter_number": "",
+        "page_number": "IX",
+        "children": []
+      },
+      {
+        "title": "Biographie des Regiments-Inhabers",
+        "chapter_number": "",
+        "page_number": "XI",
+        "children": []
+      },
+      {
+        "title": "Erster Theil",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Erster Abschnitt: Regiments-Inhaber: Georg Marchese de Clerici",
+            "chapter_number": "",
+            "page_number": "1",
+            "children": []
+          },
+          {
+            "title": "Bweiter Abschnitt: Regiments-Inhaber: Karl Graf Gaisruck",
+            "chapter_number": "",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Dritter Abschnitt: Regiments-Inhaber: Ludwig Graf Belgiojoso",
+            "chapter_number": "",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Vierter Abschnitt: Regiments-Inhaber: Friedrich Graf Bellegarde",
+            "chapter_number": "",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Fünfter Abschnitt: Regiments-Inhaber: Seine kaiserliche und königliche Hoheit der Herr Erzherzog Albrecht, seit dem Jahre 1830",
+            "chapter_number": "",
+            "page_number": "24",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zweiter Theil",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Sechster Abschnitt: Das Regiment erhält einen ungarischen Ergänzungs-Bezirk",
+            "chapter_number": "",
+            "page_number": "35",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

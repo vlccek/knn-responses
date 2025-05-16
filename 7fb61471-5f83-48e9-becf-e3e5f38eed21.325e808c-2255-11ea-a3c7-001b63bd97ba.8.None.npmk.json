@@ -1,0 +1,189 @@
+
+[
+  {
+    "title": "Díl prvý.",
+    "chapter_number": "I.",
+    "page_number": "1-4",
+    "children": [
+      {
+        "title": "Úvod",
+        "chapter_number": "",
+        "page_number": "1-4",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Díl druhý.",
+    "chapter_number": "II.",
+    "page_number": "4-7",
+    "children": [
+      {
+        "title": "Věk pátý: 0 rozebrání říše západořímské",
+        "chapter_number": "",
+        "page_number": "4-7",
+        "children": []
+      },
+      {
+        "title": "Věk šestý:",
+        "chapter_number": "",
+        "page_number": "7-9",
+        "children": [
+          {
+            "title": "Doba Theodorichova a Chlodvikova",
+            "chapter_number": "a)",
+            "page_number": "7-9",
+            "children": []
+          },
+          {
+            "title": "Doba Justinianova.",
+            "chapter_number": "b)",
+            "page_number": "9-10",
+            "children": []
+          },
+          {
+            "title": "Doba papeže Řehoře Velikého",
+            "chapter_number": "c)",
+            "page_number": "11",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Věk sedmý a polovice věku osmého:",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": [
+          {
+            "title": "Doba novoperská",
+            "chapter_number": "a)",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Doba Mohamedova a jeho nástupců",
+            "chapter_number": "b)",
+            "page_number": "12-13",
+            "children": []
+          },
+          {
+            "title": "Srážka světa mohamedanského se světem křesťanským",
+            "chapter_number": "c)",
+            "page_number": "14",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Věku osmého druhá polovice: Doba Karla Velikého a Haruna al Rašida",
+        "chapter_number": "",
+        "page_number": "15-17",
+        "children": []
+      },
+      {
+        "title": "Věk devátý: Rozklad říše Karla Velikého a vymření jeho rodu",
+        "chapter_number": "",
+        "page_number": "17-19",
+        "children": []
+      },
+      {
+        "title": "Věk desátý: Panování rodu saského",
+        "chapter_number": "",
+        "page_number": "19-20",
+        "children": []
+      },
+      {
+        "title": "Věk jedenáctý: Panování rodu franckého",
+        "chapter_number": "",
+        "page_number": "20-21",
+        "children": []
+      },
+      {
+        "title": "Věk dvanáctý a polovice věku třináctého: Panování rodu hohenstaufského a války křižácké",
+        "chapter_number": "",
+        "page_number": "21-24",
+        "children": []
+      },
+      {
+        "title": "Následky válek křižáckých",
+        "chapter_number": "",
+        "page_number": "24-28",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Díl třetí.",
+    "chapter_number": "III.",
+    "page_number": "28-51",
+    "children": [
+      {
+        "title": "Dějiny zemí rakousko-uherských.",
+        "chapter_number": "",
+        "page_number": "28-51",
+        "children": []
+      },
+      {
+        "title": "Dějiny Přemyslovců v Čechách, Babenberkovců v Rakousích a Arpadovců v Uhrách",
+        "chapter_number": "",
+        "page_number": "28-51",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Díl čtvrtý.",
+    "chapter_number": "IV.",
+    "page_number": "51-54",
+    "children": [
+      {
+        "title": "Doba Jana lucemburského a jeho vrstevníků Frídricha Slíčného, Albrechta Moudrého a Karla Roberta",
+        "chapter_number": "",
+        "page_number": "51-54",
+        "children": []
+      },
+      {
+        "title": "Doba Karla IV. a jeho vrstevníků Rudolfa IV. a Ludvíka Velikého",
+        "chapter_number": "",
+        "page_number": "54-58",
+        "children": []
+      },
+      {
+        "title": "Doba Václava IV. a válek husitských.",
+        "chapter_number": "",
+        "page_number": "58-63",
+        "children": []
+      },
+      {
+        "title": "Doba Albrechta V. a Ladislava Pohrobka",
+        "chapter_number": "",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Doba Jiřího Poděbradského a jeho vrstevníků Matyáše Korvína a Frídricha III.",
+        "chapter_number": "",
+        "page_number": "63--66",
+        "children": []
+      },
+      {
+        "title": "Doba Jagelovců v Čechách a Uhrách a jejich vrstevníků Max-miliana I. a Ferdinanda I..",
+        "chapter_number": "",
+        "page_number": "66-68",
+        "children": []
+      },
+      {
+        "title": "Utvoření mocnářství rakousko-uherského",
+        "chapter_number": "",
+        "page_number": "68-69",
+        "children": []
+      },
+      {
+        "title": "Přechodní události z věku středního do věku nového až do r. 1492",
+        "chapter_number": "",
+        "page_number": "69-70",
+        "children": []
+      }
+    ]
+  }
+]

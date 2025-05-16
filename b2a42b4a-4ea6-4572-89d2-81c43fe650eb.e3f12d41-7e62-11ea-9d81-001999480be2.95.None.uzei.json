@@ -1,0 +1,89 @@
+
+[
+  {
+    "title": "Plavení dříví nesvázaného",
+    "chapter_number": "a",
+    "page_number": "57",
+    "children": []
+  },
+  {
+    "title": "Plavení dříví ve vorech",
+    "chapter_number": "b",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "Těžba vedlejších plodin",
+    "chapter_number": "II",
+    "page_number": "62",
+    "children": [
+      {
+        "title": "Těžení (hrabání) steliva",
+        "chapter_number": "A",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Těžení a zužitkování píce lesní",
+        "chapter_number": "B",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "O počasném pěstování plodin polních v lese",
+        "chapter_number": "C",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Těžení pryskyřice",
+        "chapter_number": "D",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Těžení a upotřebení kůry",
+        "chapter_number": "E",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Zužitkování plodů a plemen lesních",
+        "chapter_number": "F",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Těžení rašeliny",
+        "chapter_number": "G",
+        "page_number": "71",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Lesní průmysl",
+    "chapter_number": "III",
+    "page_number": "72",
+    "children": [
+      {
+        "title": "Pilařství",
+        "chapter_number": "A",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Uhlířství",
+        "chapter_number": "B",
+        "page_number": "80",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Lesní hospodářství, jeho zřízení a správa",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  }
+]

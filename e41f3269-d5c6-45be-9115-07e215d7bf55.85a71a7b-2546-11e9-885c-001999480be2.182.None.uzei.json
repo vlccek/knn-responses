@@ -1,0 +1,212 @@
+
+[
+  {
+    "title": "Vody a cesty",
+    "chapter_number": "XI",
+    "page_number": "128",
+    "children": [
+      {
+        "title": "Vody",
+        "chapter_number": "§ 62",
+        "page_number": "128",
+        "children": []
+      },
+      {
+        "title": "Vodní družstvo",
+        "chapter_number": "§ 63",
+        "page_number": "129",
+        "children": []
+      },
+      {
+        "title": "Meliorace",
+        "chapter_number": "64",
+        "page_number": "131",
+        "children": []
+      },
+      {
+        "title": "Hrazení bystřin",
+        "chapter_number": "§ 65",
+        "page_number": "133",
+        "children": []
+      },
+      {
+        "title": "Úprava řek",
+        "chapter_number": "§ 66",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Silnice a cesty",
+        "chapter_number": "67",
+        "page_number": "135",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zřízenci hospodářští",
+    "chapter_number": "XII",
+    "page_number": "137",
+    "children": [
+      {
+        "title": "Smlouva námezdní",
+        "chapter_number": "§ 68",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Čeleď",
+        "chapter_number": "§ 69",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Pojišťování nemocenské",
+        "chapter_number": "§ 70",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Pojišťování úrazové",
+        "chapter_number": "§ 71",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Prostředkování práce",
+        "chapter_number": "§ 72",
+        "page_number": "143",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Úvěr",
+    "chapter_number": "XIII",
+    "page_number": "145",
+    "children": [
+      {
+        "title": "Zápůjčka",
+        "chapter_number": "§ 73",
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "Zástavní právo",
+        "chapter_number": "§ 74",
+        "page_number": "146",
+        "children": []
+      },
+      {
+        "title": "Směnka",
+        "chapter_number": "§ 75",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Rukojemství, postup a poukaz",
+        "chapter_number": "§ 76",
+        "page_number": "150",
+        "children": []
+      },
+      {
+        "title": "Okresní hospodářské záložny",
+        "chapter_number": "§ 77",
+        "page_number": "151",
+        "children": []
+      },
+      {
+        "title": "Kontribučenské fondy peněžní",
+        "chapter_number": "§ 78",
+        "page_number": "152",
+        "children": []
+      },
+      {
+        "title": "Společenstva svépomocná",
+        "chapter_number": "§´79",
+        "page_number": "152",
+        "children": []
+      },
+      {
+        "title": "Spořitelny",
+        "chapter_number": "§ 80",
+        "page_number": "154",
+        "children": []
+      },
+      {
+        "title": "Hypoteční banka království českého",
+        "chapter_number": "§ 81",
+        "page_number": "155",
+        "children": []
+      },
+      {
+        "title": "Zemská banka království českého",
+        "chapter_number": "§ 82",
+        "page_number": "157",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zastoupení zájmů zemědělských",
+    "chapter_number": "XIV",
+    "page_number": "159",
+    "children": [
+      {
+        "title": "Zemědělská rada pro království české",
+        "chapter_number": "§ 83",
+        "page_number": "159",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Veřejné dávky",
+    "chapter_number": "XV",
+    "page_number": "161",
+    "children": [
+      {
+        "title": "Druhy veřejných dávek",
+        "chapter_number": "§ 84",
+        "page_number": "161",
+        "children": []
+      },
+      {
+        "title": "Daň pozemková",
+        "chapter_number": "§ 85",
+        "page_number": "162",
+        "children": []
+      },
+      {
+        "title": "Daň domovní",
+        "chapter_number": "§ 86",
+        "page_number": "165",
+        "children": []
+      },
+      {
+        "title": "Daně osobní přímé",
+        "chapter_number": "§ 87",
+        "page_number": "167",
+        "children": []
+      },
+      {
+        "title": "Poplatky",
+        "chapter_number": "§ 88",
+        "page_number": "170",
+        "children": []
+      },
+      {
+        "title": "Poplatky z převodu majetku",
+        "chapter_number": "§ 89",
+        "page_number": "170",
+        "children": []
+      },
+      {
+        "title": "Dodatek k § 30",
+        "chapter_number": null,
+        "page_number": "173",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,83 @@
+
+[
+  {
+    "title": "Vlastní účet peněz",
+    "chapter_number": "Oddíl V",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Evidence hospodářská",
+    "chapter_number": "Oddíl VI",
+    "page_number": "53",
+    "children": [
+      {
+        "title": "Hospodářská kniha",
+        "chapter_number": "K tomu vzorec XXXVI",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Příruční kniha těžby",
+        "chapter_number": "XXXVII",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Kniha přehledů těžby decenální",
+        "chapter_number": "XXXVIII",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Srovnávací tabulka těžby",
+        "chapter_number": "XXXIX",
+        "page_number": "56",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zalesňování a různé jiné hospodářské podniky",
+    "chapter_number": "Oddíl VII",
+    "page_number": "57",
+    "children": [
+      {
+        "title": "Návrh na zalesňování",
+        "chapter_number": "K tomu vzorec XXXX",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Lístek na chrůst",
+        "chapter_number": "XXXXI",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Podmínky těžby a ceník lomů kamenických",
+        "chapter_number": "XXXXII. a), b)",
+        "page_number": "60 61",
+        "children": []
+      },
+      {
+        "title": "Výkaz přijmuté kamenické hmoty",
+        "chapter_number": "XXXXIII",
+        "page_number": "62",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Revise",
+    "chapter_number": "Oddíl VIII",
+    "page_number": "64",
+    "children": []
+  },
+  {
+    "title": "Udržování paměti",
+    "chapter_number": "Oddíl IX",
+    "page_number": "64",
+    "children": []
+  }
+]

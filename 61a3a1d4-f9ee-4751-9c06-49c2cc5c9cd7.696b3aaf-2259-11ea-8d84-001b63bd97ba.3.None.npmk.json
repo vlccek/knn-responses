@@ -1,0 +1,650 @@
+
+[
+  {
+    "title": "Cást všeobecná",
+    "chapter_number": "A",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Strany světové",
+        "chapter_number": "1",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Obzor",
+        "chapter_number": "2",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Tvar země",
+        "chapter_number": "3",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Čáry na zeměkouli",
+        "chapter_number": "4",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Mapa",
+        "chapter_number": "5",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Kterak se určuje poloha míst na zeměkouli",
+        "chapter_number": "6",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Denní pohyb země",
+        "chapter_number": "7",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Roční pohyb země",
+        "chapter_number": "8",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Čtvero ročních počasí",
+        "chapter_number": "9",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Zemské pásy",
+        "chapter_number": "10",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Země jako hvězda",
+        "chapter_number": "11",
+        "page_number": "13",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přehled povrchu zemského",
+    "chapter_number": "B",
+    "page_number": "14",
+    "children": [
+      {
+        "title": "Díly světa a světového moře",
+        "chapter_number": null,
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Evropa",
+        "chapter_number": "I",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Poloha",
+            "chapter_number": "1",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Vodorovná členitost",
+            "chapter_number": "2",
+            "page_number": "15",
+            "children": [
+              {
+                "title": "Poučení",
+                "chapter_number": null,
+                "page_number": null,
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Kolmá členitost",
+            "chapter_number": "3",
+            "page_number": "16",
+            "children": [
+              {
+                "title": "Poučení. a) Prostá výška",
+                "chapter_number": null,
+                "page_number": "17",
+                "children": []
+              },
+              {
+                "title": "b) Poměrná výška",
+                "chapter_number": null,
+                "page_number": "17",
+                "children": []
+              },
+              {
+                "title": "c) Tvary povrchu zemského",
+                "chapter_number": null,
+                "page_number": null,
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Řeky a jezera",
+            "chapter_number": "4",
+            "page_number": "19",
+            "children": [
+              {
+                "title": "Poučení. a) Pramen",
+                "chapter_number": null,
+                "page_number": "20",
+                "children": []
+              },
+              {
+                "title": "b) Tekoucí vody",
+                "chapter_number": null,
+                "page_number": "21",
+                "children": []
+              },
+              {
+                "title": "c) Jezera a rybníky",
+                "chapter_number": null,
+                "page_number": "22",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Podnebí",
+            "chapter_number": "5",
+            "page_number": "23",
+            "children": []
+          },
+          {
+            "title": "Politické rozdělení",
+            "chapter_number": "6",
+            "page_number": "23",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Asie",
+        "chapter_number": "II",
+        "page_number": "24",
+        "children": [
+          {
+            "title": "Poloha",
+            "chapter_number": "1",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Vodorovná členitost",
+            "chapter_number": "2",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Kolmá členitost",
+            "chapter_number": "3",
+            "page_number": "25",
+            "children": []
+          },
+          {
+            "title": "Řeky a jezera",
+            "chapter_number": "4",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Podnebí",
+            "chapter_number": "5",
+            "page_number": "26",
+            "children": []
+          },
+          {
+            "title": "Politické rozdělení",
+            "chapter_number": "6",
+            "page_number": "27",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Afrika",
+        "chapter_number": "III",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Poloha",
+            "chapter_number": "1",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Vodorovná členitost",
+            "chapter_number": "2",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Kolmá členitost, řeky, jezera",
+            "chapter_number": "3",
+            "page_number": "28",
+            "children": []
+          },
+          {
+            "title": "Podnebí",
+            "chapter_number": "4",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Politické rozdělení",
+            "chapter_number": "5",
+            "page_number": "29",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Amerika",
+        "chapter_number": "IV",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Poloha",
+            "chapter_number": "1",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Vodorovná členitost",
+            "chapter_number": "2",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Kolmá členitost, řeky, jezera",
+            "chapter_number": "3",
+            "page_number": "30",
+            "children": [
+              {
+                "title": "a) Severní Amerika",
+                "chapter_number": null,
+                "page_number": null,
+                "children": []
+              },
+              {
+                "title": "b) Jižní Amerika",
+                "chapter_number": null,
+                "page_number": "31",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Podnebí",
+            "chapter_number": "4",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "Politické rozdělení",
+            "chapter_number": "5",
+            "page_number": null,
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Australie",
+        "chapter_number": "V",
+        "page_number": "33",
+        "children": [
+          {
+            "title": "Pevnina australská",
+            "chapter_number": "1",
+            "page_number": null,
+            "children": [
+              {
+                "title": "a) Poloha a vodorovná členitost",
+                "chapter_number": null,
+                "page_number": null,
+                "children": []
+              },
+              {
+                "title": "b) Kolmá členitost, řeky, jezera, podnebí",
+                "chapter_number": null,
+                "page_number": null,
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Australské ostrovy",
+    "chapter_number": "2",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Politické rozdělení",
+    "chapter_number": "3",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Přehled povrchu zemského",
+    "chapter_number": null,
+    "page_number": null,
+    "children": []
+  },
+  {
+    "title": "Republika česko - slovenská",
+    "chapter_number": "C",
+    "page_number": "35",
+    "children": [
+      {
+        "title": "Poloha v Evropě a hranice",
+        "chapter_number": "1",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Kolmá členitost",
+        "chapter_number": "2",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Řeky",
+        "chapter_number": "3",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Části říše, velikost, počet obyvatelstva a lidnatost",
+        "chapter_number": "4",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Státní zřízení",
+        "chapter_number": "5",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Jméno a říšský znak",
+        "chapter_number": "6",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Dějepisný vývoj",
+        "chapter_number": "7",
+        "page_number": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Čechy",
+    "chapter_number": "1",
+    "page_number": "38",
+    "children": [
+      {
+        "title": "Tvar, hranice",
+        "chapter_number": "I",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Kolmá členitost",
+        "chapter_number": "II",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Řeky",
+        "chapter_number": "III",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Podnebí",
+        "chapter_number": "IV",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Přírodní bohatství",
+        "chapter_number": "V",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Průmysl",
+        "chapter_number": "VI",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "VII",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Dráhy",
+        "chapter_number": "VIII",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Místopis",
+        "chapter_number": "IX",
+        "page_number": "55",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Morava",
+    "chapter_number": "2",
+    "page_number": "61",
+    "children": [
+      {
+        "title": "Tvar, hranice",
+        "chapter_number": "I",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Kolmá členitost",
+        "chapter_number": "II",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Řeky",
+        "chapter_number": "III",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Podnebí",
+        "chapter_number": "IV",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Přírodní bohatství",
+        "chapter_number": "V",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Průmysl",
+        "chapter_number": "VI",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "VII",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Dráhy",
+        "chapter_number": "VIII",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Místopis",
+        "chapter_number": "IX",
+        "page_number": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Slezsko",
+    "chapter_number": "3",
+    "page_number": "72",
+    "children": [
+      {
+        "title": "Hranice, části, kolmá členitost",
+        "chapter_number": "I",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Řeky",
+        "chapter_number": "II",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Podnebí",
+        "chapter_number": "III",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Přírodní bohatstvi",
+        "chapter_number": "IV",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Průmysl",
+        "chapter_number": "V",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "VI",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Místopis",
+        "chapter_number": "VII",
+        "page_number": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Slovensko a Podk. Rus",
+    "chapter_number": "4",
+    "page_number": "75",
+    "children": [
+      {
+        "title": "Tvar, hranice, části",
+        "chapter_number": "I",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Kolmá členitost",
+        "chapter_number": "II",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Reky",
+        "chapter_number": "III",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Podnebí",
+        "chapter_number": "IV",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Přírodní bohatství",
+        "chapter_number": "V",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Průmysl",
+        "chapter_number": "VI",
+        "page_number": "84",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo",
+        "chapter_number": "VII",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Dráhy",
+        "chapter_number": "VIII",
+        "page_number": "91",
+        "children": []
+      },
+      {
+        "title": "Místopis",
+        "chapter_number": "IX",
+        "page_number": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Republika československá celkem",
+    "chapter_number": null,
+    "page_number": "93",
+    "children": []
+  },
+  {
+    "title": "Kterak rozuměti jízdním řádům",
+    "chapter_number": "D",
+    "page_number": "94",
+    "children": []
+  },
+  {
+    "title": "Jízdní řády",
+    "chapter_number": null,
+    "page_number": "96",
+    "children": []
+  }
+]

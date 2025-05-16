@@ -1,0 +1,40 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Erklärung der Bezeichnung der Aussprache",
+    "chapter_number": "",
+    "page_number": "V",
+    "children": []
+  },
+  {
+    "title": "Erster oder theoretischer Theil",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Zweiter oder praktischer Theil",
+    "chapter_number": "",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Anhang A. Aussprache - Wörterbuch",
+    "chapter_number": "",
+    "page_number": "91",
+    "children": [
+      {
+        "title": "B. Literatur",
+        "chapter_number": "",
+        "page_number": "119",
+        "children": []
+      }
+    ]
+  }
+]

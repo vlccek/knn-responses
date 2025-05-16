@@ -1,0 +1,52 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "II",
+    "children": []
+  },
+  {
+    "title": "Seznam časopisů excerpovaných v č. 5-6/1990",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Deskriptorový rejstřík",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Autorský rejstřík",
+    "chapter_number": "",
+    "page_number": "254",
+    "children": []
+  },
+  {
+    "title": "Zprávy z cest do zahraničí",
+    "chapter_number": "",
+    "page_number": "361",
+    "children": [
+      {
+        "title": "říjen 1989",
+        "chapter_number": "",
+        "page_number": "362",
+        "children": []
+      },
+      {
+        "title": "listopad 1989",
+        "chapter_number": "",
+        "page_number": "371",
+        "children": []
+      },
+      {
+        "title": "prosinec 1989",
+        "chapter_number": "",
+        "page_number": "400",
+        "children": []
+      }
+    ]
+  }
+]

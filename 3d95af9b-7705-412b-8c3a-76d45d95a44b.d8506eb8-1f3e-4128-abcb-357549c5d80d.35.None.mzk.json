@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "Vorrede",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Einleitung",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Regelung des Molkengebrauches",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Gute Qualität der Molke",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Formen des Molkengebrauches",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Arten der Molke",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Menge der zu gebrauchenden Molke",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Zeit des Molkengebrauches",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Beim Molkentrinken zu beobachtende Umstände",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Regelung der Lebensweise",
+    "chapter_number": "II",
+    "page_number": "12",
+    "children": [
+      {
+        "title": "Die Nahrung",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Die zu athmende Luft",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Der Temperature influß",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Die Sinnesreize",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Die Muskelthätigkeit",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Die Hirnthätigkeit",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,329 @@
+
+[
+  {
+    "title": "Tvary měřické v ploše.",
+    "chapter_number": "Čásť první.",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Body",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Čáry",
+        "chapter_number": "",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Měření čar a vzdáleností",
+        "chapter_number": "",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Úhly",
+        "chapter_number": "",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Kruh",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Míra úhlů",
+        "chapter_number": "",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Obrazce",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Trojúhelníky",
+        "chapter_number": "",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Čtyrúhelníky",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Mnohoúhelníky",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Rovnost, podobnost a shodnost obrazců",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Měření obvodu",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Obvod kruhu",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Délka kruhového oblouku",
+        "chapter_number": "",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Velikost středového úhlu",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Obsah ploch",
+        "chapter_number": "",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Stanovení ploch dle míry sáhově",
+        "chapter_number": "",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Obsah kosodélníka a kosočtverce",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Obsah trojúhelníka",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Obsah lichoběžníka",
+        "chapter_number": "",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Obsah různoběžníka",
+        "chapter_number": "",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Obsah pravidelného mnohoúhelníka",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Obsah nepravidelného mnohoúhelníka",
+        "chapter_number": "",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Pythagorova věta",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Obsah kruhu",
+        "chapter_number": "",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Obsah kruhového věnce",
+        "chapter_number": "",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Obsah kruhové výseče",
+        "chapter_number": "",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Obsah věncové výseče",
+        "chapter_number": "",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Obsah kruhovéhe úseče",
+        "chapter_number": "",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Ohsah plochy eliptické",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rýsování tvarů měřických v ploše pomocí kružidla a pravítka.",
+    "chapter_number": "Čásť druhá.",
+    "page_number": "60",
+    "children": [
+      {
+        "title": "Strojení kolmých čar",
+        "chapter_number": "",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Rýsování úhlů dle daných stupňů pomocí úhloměru",
+        "chapter_number": "",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Dělení úhlů",
+        "chapter_number": "",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Rýsování úhlů dle daných stupňů bez úhloměru",
+        "chapter_number": "",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Čáry rovnoběžné",
+        "chapter_number": "",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Dělení čar",
+        "chapter_number": "",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Rýsování trojúhelníků",
+        "chapter_number": "",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Sestrojení čtverců",
+        "chapter_number": "",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Sestrojení obdélníků",
+        "chapter_number": "",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Sestrojení kosočtverce a kosodélníka",
+        "chapter_number": "",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Sestrojení lichoběžníků a různoběžníků",
+        "chapter_number": "",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Rýsování pravidených obrazců do kruhu",
+        "chapter_number": "",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Rýsování pravidelných obrazců, dána-li jich strana",
+        "chapter_number": "",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Rýsování pravidelných mnohoúhelníků kolem kruhu",
+        "chapter_number": "",
+        "page_number": "91",
+        "children": []
+      },
+      {
+        "title": "Rýsování kruhu do obrazců a kolem obrazců",
+        "chapter_number": "",
+        "page_number": "92",
+        "children": []
+      },
+      {
+        "title": "Elipsa",
+        "chapter_number": "",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Rýsování oblouků eliptických",
+        "chapter_number": "",
+        "page_number": "97",
+        "children": []
+      },
+      {
+        "title": "Sestrojení šikmých klenbových oblouků či kobylí hlavy",
+        "chapter_number": "",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Rýsování oválů",
+        "chapter_number": "",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Parabola",
+        "chapter_number": "",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Hyperbola",
+        "chapter_number": "",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Spirálka",
+        "chapter_number": "",
+        "page_number": "104",
+        "children": []
+      }
+    ]
+  }
+]

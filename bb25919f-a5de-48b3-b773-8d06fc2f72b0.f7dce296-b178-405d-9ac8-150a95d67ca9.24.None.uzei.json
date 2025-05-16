@@ -1,0 +1,33 @@
+
+[
+  {
+    "title": "Pokusy s ozim. žity",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Pokusy s ozim. pšenicemi",
+    "chapter_number": "II",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Pokusy s ovsy",
+    "chapter_number": "III",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Pokusy s brambory",
+    "chapter_number": "IV",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "Pokusy s krmnými řepami",
+    "chapter_number": "V",
+    "page_number": "19",
+    "children": []
+  }
+]

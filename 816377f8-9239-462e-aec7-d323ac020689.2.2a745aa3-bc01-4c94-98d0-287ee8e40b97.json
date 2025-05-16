@@ -1,0 +1,158 @@
+
+[
+  {
+    "title": "Připomenutí",
+    "chapter_number": "",
+    "page_number": "I",
+    "children": []
+  },
+  {
+    "title": "Život a činnost Aug. Smetany",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Spisy Smetanovy",
+    "chapter_number": "",
+    "page_number": "XIX",
+    "children": []
+  },
+  {
+    "title": "Smetanova filosofie",
+    "chapter_number": "",
+    "page_number": "XX",
+    "children": []
+  },
+  {
+    "title": "Literatura o Aug. Smetanovi",
+    "chapter_number": "",
+    "page_number": "XLV",
+    "children": []
+  },
+  {
+    "title": "Předmluva k německému vydání z r. 1865",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Obsah německého originálu",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Kniha první. Příroda neorganická.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "I. Jeviště života přírody aneb proces astronomický",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "II. Konkretní látky světa a abstraktní síly",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "III. Jeviště země neb geologický proces",
+        "chapter_number": "",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "IV. Konkretní síly země a její abstraktní život",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "V. Dějiště života neb proces chemický",
+        "chapter_number": "",
+        "page_number": "67",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kniha druhá. Organický život.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "První kapitola: Rostlina.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Oddíl první: Vznik rostliny",
+            "chapter_number": "",
+            "page_number": "79",
+            "children": []
+          },
+          {
+            "title": "Oddíl druhý: Život a umírání rostlin",
+            "chapter_number": "",
+            "page_number": "89",
+            "children": []
+          },
+          {
+            "title": "Oddíl třetí: Nesmrtelnost rostliny",
+            "chapter_number": "",
+            "page_number": "97",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Druhá kapitola: Zvíře.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Oddíl první a druhý: Vznik a život zvířete",
+            "chapter_number": "",
+            "page_number": "110",
+            "children": []
+          },
+          {
+            "title": "Oddíl třetí: Přechod od zvířete k člověku, čili smrt zvířete a jeho nesmrtelnost.",
+            "chapter_number": "",
+            "page_number": "183",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Třetí kapitola: Člověk.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Oddíl první: Vznik člověka",
+            "chapter_number": "",
+            "page_number": "194",
+            "children": []
+          },
+          {
+            "title": "Oddíl druhý: Bytost lidská",
+            "chapter_number": "",
+            "page_number": "206",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

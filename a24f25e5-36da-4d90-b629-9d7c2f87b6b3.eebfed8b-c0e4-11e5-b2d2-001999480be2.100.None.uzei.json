@@ -1,0 +1,214 @@
+
+[
+  {
+    "title": "Úvod.",
+    "chapter_number": "I.",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Nedostatečnost dobytka hovězího u nás",
+        "chapter_number": "1.",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Důležitost dobytka hovězího",
+        "chapter_number": "2.",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "Prostředky, jimiž chov dobytka hovězího zvelebiti lze.",
+        "chapter_number": "3.",
+        "page_number": "9",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Plemenitba.",
+    "chapter_number": "II.",
+    "page_number": "11",
+    "children": [
+      {
+        "title": "Směr plemenitby",
+        "chapter_number": "4.",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Volba býka plemenného",
+        "chapter_number": "5.",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Volba plemenice a známky dobré dojnice",
+        "chapter_number": "6.",
+        "page_number": "20",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Odchov mladého dobytka.",
+    "chapter_number": "III.",
+    "page_number": "25",
+    "children": [
+      {
+        "title": "Zacházení s kravou v době její březivosti",
+        "chapter_number": "7.",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Porod a čistění krávy",
+        "chapter_number": "8.",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Krmení a odstavení telat",
+        "chapter_number": "9.",
+        "page_number": "30",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Krmení dobytka hovězího.",
+    "chapter_number": "IV.",
+    "page_number": "36",
+    "children": [
+      {
+        "title": "Pastva",
+        "chapter_number": "10.",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Nadutí čili bubnačka",
+        "chapter_number": "11.",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Letní krmení ve chlévě",
+        "chapter_number": "12.",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Zimní krmení",
+        "chapter_number": "13.",
+        "page_number": "48",
+        "children": [
+          {
+            "title": "Druhy píce",
+            "chapter_number": "a)",
+            "page_number": "48",
+            "children": []
+          },
+          {
+            "title": "Náhrada za seno luční",
+            "chapter_number": "b)",
+            "page_number": "52",
+            "children": []
+          },
+          {
+            "title": "Okopniny",
+            "chapter_number": "c)",
+            "page_number": "57",
+            "children": []
+          },
+          {
+            "title": "Odpadky ze závodů hospodářsko-průmyslových",
+            "chapter_number": "d)",
+            "page_number": "59",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zdravost píce",
+        "chapter_number": "14.",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Příprava píce",
+        "chapter_number": "15.",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Pořádek v krmení",
+        "chapter_number": "16.",
+        "page_number": "69",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ošetřování dobytka hovězího.",
+    "chapter_number": "V.",
+    "page_number": "80",
+    "children": []
+  },
+  {
+    "title": "Závěrek.",
+    "chapter_number": "VI.",
+    "page_number": "80",
+    "children": [
+      {
+        "title": "Poměr a vypočtení obživin v krmivu",
+        "chapter_number": "17.",
+        "page_number": "80",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Tabulky.",
+    "chapter_number": "",
+    "page_number": "88",
+    "children": [
+      {
+        "title": "Pravidlo pro telata",
+        "chapter_number": "A.",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Pravidlo pro jalovice",
+        "chapter_number": "B.",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "Pravidlo pro dojnice",
+        "chapter_number": "C.",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Pravidlo pro tažné voly",
+        "chapter_number": "D.",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "Pravidlo pro krmné voly a krávy",
+        "chapter_number": "E.",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Množství látky suché a obživin, jež v různých látkách pícních obsaženo jest",
+        "chapter_number": "F.",
+        "page_number": "91",
+        "children": []
+      }
+    ]
+  }
+]

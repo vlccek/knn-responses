@@ -1,0 +1,260 @@
+
+[
+  {
+    "title": "Část první: Obvod a plocha rovinných útvarů.",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Míry ploch",
+        "chapter_number": "1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Obvod a plocha obdélníku a čtverce",
+        "chapter_number": "2",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Obvod a plocha kosoúhlých rovnoběžníků",
+        "chapter_number": "3",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Obvod a plocha trojúhelníku",
+        "chapter_number": "4",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Obvod a plocha lichoběžníku",
+        "chapter_number": "5",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Obvod a plocha nepravidelných úhelníků",
+        "chapter_number": "6",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Obvod kruhu",
+        "chapter_number": "7",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Délka kruhového oblouku",
+        "chapter_number": "8",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Plocha kruhu",
+        "chapter_number": "9",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Plocha mezikruží",
+        "chapter_number": "10",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Plocha kruhové výseče a úseče",
+        "chapter_number": "11",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Obvod a plocha elipsy.",
+        "chapter_number": "12",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Věta Pythagorova",
+        "chapter_number": "13",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Úlohy na základě věty Pythagorovy",
+        "chapter_number": "14",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Přehled výpočtů obvodů a ploch rovinných útvarů",
+        "chapter_number": "15",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Proměna rovinných útvarů",
+        "chapter_number": "16",
+        "page_number": "25",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část druhá: Podobnost rovinných útvarů.",
+    "chapter_number": "",
+    "page_number": "28",
+    "children": [
+      {
+        "title": "Poměr úseček",
+        "chapter_number": "17",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Uměra úseček",
+        "chapter_number": "18",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Věty o poměru úseček",
+        "chapter_number": "19",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Podobnost trojúhelníků",
+        "chapter_number": "20",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Věty o podobnosti trojúhelníků",
+        "chapter_number": "21",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Výšky a plochy podobných trojúhelníků",
+        "chapter_number": "22",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Podobnost mnohoúhelníků",
+        "chapter_number": "23",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Měřítko",
+        "chapter_number": "24",
+        "page_number": "40",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část třetí: Kuželosečky.",
+    "chapter_number": "",
+    "page_number": "41",
+    "children": [
+      {
+        "title": "Elipsa",
+        "chapter_number": "25",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Sestrojení elipsy",
+        "chapter_number": "26",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Parabola",
+        "chapter_number": "27",
+        "page_number": "44",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část čtvrtá: Vyměřování pozemků.",
+    "chapter_number": "",
+    "page_number": "46",
+    "children": [
+      {
+        "title": "Situační plán",
+        "chapter_number": "28",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Měření úseček",
+        "chapter_number": "29",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Přístroje k stanovení polohy svislé a vodorovné",
+        "chapter_number": "30",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Měření úseček na půdě vodorovné",
+        "chapter_number": "31",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Měření úseček na půdě nakloněné",
+        "chapter_number": "32",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Vytyčování úhlů a kolmic",
+        "chapter_number": "33",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Nepřímé měření úseček",
+        "chapter_number": "34",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Rýsování situačních plánů",
+        "chapter_number": "35",
+        "page_number": "54",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část pátá: 0 rakouském katastru.",
+    "chapter_number": "",
+    "page_number": "57",
+    "children": [
+      {
+        "title": "Co jest katastr daně pozemkové",
+        "chapter_number": "36",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Jak vznikl rakouský katastr",
+        "chapter_number": "37",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

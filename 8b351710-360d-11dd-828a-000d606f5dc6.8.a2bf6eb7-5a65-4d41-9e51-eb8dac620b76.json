@@ -1,0 +1,64 @@
+
+[
+  {
+    "title": "Úvod do astrognosie",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "O zvířetníku",
+    "chapter_number": "II",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "O mléčné dráze",
+    "chapter_number": "III",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Kolik je hvězd",
+    "chapter_number": "IV",
+    "page_number": "41",
+    "children": []
+  },
+  {
+    "title": "O původu a rozvoji všehomíra",
+    "chapter_number": "V",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Vulkanismus na měsíci",
+    "chapter_number": "VI",
+    "page_number": "61",
+    "children": []
+  },
+  {
+    "title": "Až na konec světa. (Upomínka na Karlovy Vary)",
+    "chapter_number": "VII",
+    "page_number": "66",
+    "children": []
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O psích dnech",
+        "chapter_number": "VIII",
+        "page_number": "101",
+        "children": []
+      },
+      {
+        "title": "Několik slov o mimořádné povětrnosti naší",
+        "chapter_number": "IX",
+        "page_number": "104",
+        "children": []
+      }
+    ]
+  }
+]

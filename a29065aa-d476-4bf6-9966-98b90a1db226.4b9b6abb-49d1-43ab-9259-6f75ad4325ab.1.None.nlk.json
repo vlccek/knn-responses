@@ -1,0 +1,153 @@
+
+[
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "ČSSR",
+    "chapter_number": "I",
+    "page_number": "" ,
+    "children": [
+      {
+        "title": "Právní sbírky",
+        "chapter_number": "",
+        "page_number": "445"
+      },
+      {
+        "title": "Časopisy",
+        "chapter_number": "",
+        "page_number": "491"
+      },
+      {
+        "title": "Knihy",
+        "chapter_number": "",
+        "page_number": "529"
+      },
+      {
+        "title": "Různé",
+        "chapter_number": "",
+        "page_number": "534"
+      }
+    ]
+  },
+  {
+    "title": "Zahraničí",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Austrálie",
+        "chapter_number": "",
+        "page_number": "536"
+      },
+      {
+        "title": "Belgie",
+        "chapter_number": "",
+        "page_number": "539"
+      },
+      {
+        "title": "Finsko",
+        "chapter_number": "",
+        "page_number": "542"
+      },
+      {
+        "title": "Francie",
+        "chapter_number": "",
+        "page_number": "545"
+      },
+      {
+        "title": "Island",
+        "chapter_number": "",
+        "page_number": "551"
+      },
+      {
+        "title": "Itálie",
+        "chapter_number": "",
+        "page_number": "552"
+      },
+      {
+        "title": "Kanada",
+        "chapter_number": "",
+        "page_number": "562"
+      },
+      {
+        "title": "Madarsko",
+        "chapter_number": "",
+        "page_number": "564"
+      },
+      {
+        "title": "NDR",
+        "chapter_number": "",
+        "page_number": "569"
+      },
+      {
+        "title": "Polsko",
+        "chapter_number": "",
+        "page_number": "587"
+      },
+      {
+        "title": "Rumunsko",
+        "chapter_number": "",
+        "page_number": "592"
+      },
+      {
+        "title": "SSSR",
+        "chapter_number": "",
+        "page_number": "593"
+      }
+    ]
+  },
+  {
+    "title": "Mezinárodní organizace",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Evropské hospodářské společenství",
+        "chapter_number": "",
+        "page_number": "600"
+      },
+      {
+        "title": "Světová zdravotnická organizace",
+        "chapter_number": "",
+        "page_number": "603"
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": "" ,
+        "children": [
+          {
+        "title": "států",
+        "chapter_number": "",
+        "page_number": "604"
+          },
+                    {
+        "title": "jmenný",
+        "chapter_number": "",
+        "page_number": "605"
+          },
+                              {
+        "title": "věcný",
+        "chapter_number": "",
+        "page_number": "610"
+          }
+        ]
+  },
+  {
+    "title": "Informační služby",
+    "chapter_number": "",
+    "page_number": "",
+        "children":[
+            {
+                "title": "Ústavu vědeckých lékařských informací",
+                "chapter_number": "",
+                "page_number": ""
+            }
+        ]
+  }
+]

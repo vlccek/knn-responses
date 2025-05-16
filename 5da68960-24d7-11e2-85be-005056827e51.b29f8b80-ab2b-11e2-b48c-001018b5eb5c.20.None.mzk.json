@@ -1,0 +1,77 @@
+
+[
+  {
+    "title": "Kružnice de La Hireovy. Bobillierovy konstrukce",
+    "chapter_number": "2",
+    "page_number": "373",
+    "children": [
+      {
+        "title": "Vztahy středů křivosti trajektorií cyklických.",
+        "chapter_number": "200",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Kružnice de La Hireovy: vratu a obratu. O polech vratu a obratu.",
+        "chapter_number": "201",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Použití kružnice obratu k sestrojení bodů obratu cyklických křivek protáhlých.",
+        "chapter_number": "202",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Sestrojení středů křivosti obecných kotálnic. Bobillierovy konstrukce středů křivosti trajektorií a křivek obalových vůbec.",
+        "chapter_number": "203",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Kvadratická příbuznost bodů útvaru pohyblivého a příslušných středů křivosti v útvaru základním.",
+        "chapter_number": "204",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Strojení středů křivosti při pohybu klouzavém.",
+        "chapter_number": "205",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Středy křivosti úpatnic a konchoid.",
+        "chapter_number": "206",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Použití kružnice obratu při pohybu elliptickém. Sestrojení středu křivosti asteroidy šikmé. Rektifikace asteroidy pravidelné.",
+        "chapter_number": "207",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pohyb proměnného útvaru rovinného",
+    "chapter_number": "3",
+    "page_number": "388",
+    "children": [
+      {
+        "title": "Nekonečně malé pošinutí proměnného útvaru rovinného. Změna délky úsečky proměnného útvaru. Pohyb cissoidálný. Cissoida obecná a Dioclova.",
+        "chapter_number": "208",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Sestrojení středu křivosti křivek cissoidálných.",
+        "chapter_number": "209",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,76 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Historické prostředí Humovy filosofie",
+    "chapter_number": "II",
+    "page_number": "4",
+    "children": [
+      {
+        "title": "Empirismus",
+        "chapter_number": "a",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Positivismus",
+        "chapter_number": "b",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Iracionalismus",
+        "chapter_number": "c",
+        "page_number": "10",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Humovy hlavní spisy filosofické",
+    "chapter_number": "III",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "Slovní označování pojmu skutečnosti",
+    "chapter_number": "IV",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "Základní východisko Humovo při problému skutečnosti",
+    "chapter_number": "V",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Problém existence vůbec",
+    "chapter_number": "VI",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Problém existence vnějších předmětů",
+    "chapter_number": "VII",
+    "page_number": "37",
+    "children": []
+  },
+  {
+    "title": "Reflex problému skutečnosti na metafysické problémy",
+    "chapter_number": "VIII",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Doslov",
+    "chapter_number": "IX",
+    "page_number": "85",
+    "children": []
+  }
+]

@@ -1,0 +1,200 @@
+
+[
+  {
+    "title": "Sv. Basilius Veliký",
+    "chapter_number": "§ 47",
+    "page_number": "117",
+    "children": []
+  },
+  {
+    "title": "Sv. Řehoř Nazianský",
+    "chapter_number": "§ 48",
+    "page_number": "122",
+    "children": []
+  },
+  {
+    "title": "Sv. Řehoř Nyssenský",
+    "chapter_number": "§ 49",
+    "page_number": "126",
+    "children": []
+  },
+  {
+    "title": "Sv. Cyrill Jerusalemský",
+    "chapter_number": "§ 50",
+    "page_number": "130",
+    "children": []
+  },
+  {
+    "title": "Sv. Epifanius ze Salaminy",
+    "chapter_number": "§ 51",
+    "page_number": "133",
+    "children": []
+  },
+  {
+    "title": "Sv. Jan Zlatoústý",
+    "chapter_number": "§ 52",
+    "page_number": "136",
+    "children": []
+  },
+  {
+    "title": "Sv. Cyrill Alexandrijský",
+    "chapter_number": "§ 53",
+    "page_number": "144",
+    "children": []
+  },
+  {
+    "title": "Theodoret, biskup cyrský",
+    "chapter_number": "§ 54",
+    "page_number": "149",
+    "children": []
+  },
+  {
+    "title": "Ostatní spisovatelé řečtí této doby.",
+    "chapter_number": "Hlava II.",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Spisovatelé řečtí náležející hlavně škole alexandrijské",
+        "chapter_number": "§ 55",
+        "page_number": "152",
+        "children": []
+      },
+      {
+        "title": "Spisovatelé náležející hlavně škole antiochenské",
+        "chapter_number": "§ 56",
+        "page_number": "156",
+        "children": []
+      },
+      {
+        "title": "Dějepiscové a polemikové této periody",
+        "chapter_number": "§ 57",
+        "page_number": "161",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Církevně právní spisy pseudoapoštolské.",
+    "chapter_number": "Hlava III.",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Apoštolský církevní řád, Diadaskalia a Konstituce apoštolské",
+        "chapter_number": "§ 58",
+        "page_number": "163",
+        "children": []
+      },
+      {
+        "title": "Testament našeho Pána a příbuzné spisy",
+        "chapter_number": "§ 59",
+        "page_number": "166",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Spisovatelé syrští a armenští.",
+    "chapter_number": "Hlava IV.",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Spisovatelé syrští",
+        "chapter_number": "§ 60",
+        "page_number": "167",
+        "children": []
+      },
+      {
+        "title": "Spisovatelé armenští",
+        "chapter_number": "§ 61",
+        "page_number": "172",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Velcí theologové církve západní.",
+    "chapter_number": "Hlava V.",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Sv. Hilarius z Poitiersu",
+        "chapter_number": "§ 62",
+        "page_number": "174",
+        "children": []
+      },
+      {
+        "title": "Sv. Ambrož Milánský",
+        "chapter_number": "§ 63",
+        "page_number": "178",
+        "children": []
+      },
+      {
+        "title": "Sv. Jeronym",
+        "chapter_number": "§ 64",
+        "page_number": "184",
+        "children": []
+      },
+      {
+        "title": "Sv. Augustin",
+        "chapter_number": "§ 65",
+        "page_number": "192",
+        "children": []
+      },
+      {
+        "title": "Nauka sv. Augustina",
+        "chapter_number": "§ 66",
+        "page_number": "200",
+        "children": []
+      },
+      {
+        "title": "Papež Lev Veliký",
+        "chapter_number": "§ 67",
+        "page_number": "208",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ostatní spisovatelé latinští.",
+    "chapter_number": "Hlava VI.",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Římští papežové Julius I., Damasus I. a Siricius.",
+        "chapter_number": "§ 68",
+        "page_number": "212",
+        "children": []
+      },
+      {
+        "title": "Dějepisci církevní",
+        "chapter_number": "§ 69",
+        "page_number": "214",
+        "children": []
+      },
+      {
+        "title": "Latinští apologeti",
+        "chapter_number": "§ 70",
+        "page_number": "217",
+        "children": []
+      },
+      {
+        "title": "Latinští básníci",
+        "chapter_number": "§ 71",
+        "page_number": "220",
+        "children": []
+      },
+      {
+        "title": "Semipelagiani a jejich odpůrci",
+        "chapter_number": "§ 72",
+        "page_number": "224",
+        "children": []
+      },
+      {
+        "title": "Ostatní spisovatelé latinští",
+        "chapter_number": "§ 73",
+        "page_number": "229",
+        "children": []
+      }
+    ]
+  }
+]

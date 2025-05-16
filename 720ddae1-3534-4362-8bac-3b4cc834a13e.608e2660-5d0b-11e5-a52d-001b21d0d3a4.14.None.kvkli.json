@@ -1,0 +1,141 @@
+
+[
+  {
+    "title": "Vorrede",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "Geschichte",
+    "chapter_number": "I",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Von der ältesten Zeit bis zum Siege der Bürger über die Geschlechter (c. 1200-1487)",
+        "chapter_number": "Erstes Buch",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Die erste Blüthe und der erste Fall",
+            "chapter_number": "1",
+            "page_number": "3"
+          },
+          {
+            "title": "Innerer Ausschwung unter den letzten Koldiz",
+            "chapter_number": "2",
+            "page_number": "28"
+          }
+        ]
+      },
+      {
+        "title": "Der Kampf der Bürger um die Selbständigkeit. (1487-1547)",
+        "chapter_number": "Zweites Buch",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Verschiedene Besizer",
+            "chapter_number": "1",
+            "page_number": "61"
+          },
+          {
+            "title": "Fortlaufender Wechsel",
+            "chapter_number": "2",
+            "page_number": "88"
+          }
+        ]
+      },
+      {
+        "title": "Die Zeit der Selbständigkeit (1547-1616)",
+        "chapter_number": "Drittes Buch",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Die Schußherrschaft",
+            "chapter_number": "1",
+            "page_number": "113"
+          },
+          {
+            "title": "Die „kaiserliche freie Bergstadt\"",
+            "chapter_number": "2",
+            "page_number": "132"
+          }
+        ]
+      },
+      {
+        "title": "Der Proceß „Graupen contra Sternberg\" (1616-1710)",
+        "chapter_number": "Viertes Buch",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Die Zeit des dreißigjährigen Krieges",
+            "chapter_number": "1",
+            "page_number": "155"
+          },
+          {
+            "title": "Die letzten Sternberg",
+            "chapter_number": "2",
+            "page_number": "192"
+          }
+        ]
+      },
+      {
+        "title": "Die neue Zeit (1710-1868)",
+        "chapter_number": "Fünftes Buch",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Graupen und die Clary-Aldringen",
+            "chapter_number": "1",
+            "page_number": "229"
+          },
+          {
+            "title": "Die autonome Gemeinde",
+            "chapter_number": "2",
+            "page_number": "268"
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Beilagen",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Das Zinnerzvorkommen zu Graupen und Obergraupen und Art und Weise des Bergbaues daselbst in alter und neuer Zeit",
+        "chapter_number": "I",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Urkunden (1-29)",
+        "chapter_number": "II",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Die Bürgermeister von Graupen (1488-1868)",
+        "chapter_number": "III. a)",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Die Stadtschreiber (Syndici) von Graupen (1468-1850)",
+        "chapter_number": "b)",
+        "page_number": "96",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ausführliches Namen- und Sachregister",
+    "chapter_number": "",
+    "page_number": "97"
+  },
+  {
+    "title": "Druckfehler-Verzeichniß",
+    "chapter_number": "",
+    "page_number": "108"
+  }
+]

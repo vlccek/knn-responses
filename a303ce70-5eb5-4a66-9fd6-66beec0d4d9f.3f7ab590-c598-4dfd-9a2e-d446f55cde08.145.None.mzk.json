@@ -1,0 +1,64 @@
+
+[
+  {
+    "title": "Fastenpredigt.",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Fastenpredigt.",
+    "chapter_number": "II",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "Fastenpredigt.",
+    "chapter_number": "III",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Fastenpredigt.",
+    "chapter_number": "IV",
+    "page_number": "40",
+    "children": []
+  },
+  {
+    "title": "Fastenpredigt.",
+    "chapter_number": "V",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Fastenpredigt.",
+    "chapter_number": "VI",
+    "page_number": "77",
+    "children": []
+  },
+  {
+    "title": "Fastenpredigt.",
+    "chapter_number": "VII",
+    "page_number": "87",
+    "children": []
+  },
+  {
+    "title": "Gelegenheits-Predigten.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bei einer Kreuzweihe.",
+        "chapter_number": "1",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Bei einer Orgelweihe.",
+        "chapter_number": "2",
+        "page_number": "119",
+        "children": []
+      }
+    ]
+  }
+]

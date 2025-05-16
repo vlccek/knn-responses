@@ -1,0 +1,47 @@
+
+[
+  {
+    "title": "Vysvětlivky ke článkům",
+    "chapter_number": "II",
+    "page_number": "305",
+    "children": [
+      {
+        "title": "Oddíl první",
+        "chapter_number": "",
+        "page_number": "305",
+        "children": []
+      },
+      {
+        "title": "Oddíl druhý",
+        "chapter_number": "",
+        "page_number": "311",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Stručné údaje životopisné",
+    "chapter_number": "III",
+    "page_number": "318",
+    "children": [
+      {
+        "title": "Spisovatelé cizí",
+        "chapter_number": "A",
+        "page_number": "318",
+        "children": []
+      },
+      {
+        "title": "Spisovatelé domácí",
+        "chapter_number": "B",
+        "page_number": "324",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Slovníček cizích slov",
+    "chapter_number": "IV",
+    "page_number": "333",
+    "children": []
+  }
+]

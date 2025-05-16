@@ -1,0 +1,225 @@
+
+[
+  {
+    "title": "Vysvětlivky",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ČSSR",
+        "chapter_number": "I.",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Právní sbírky",
+            "chapter_number": "",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Časopisy",
+            "chapter_number": "",
+            "page_number": "54",
+            "children": []
+          },
+          {
+            "title": "Knihy",
+            "chapter_number": "",
+            "page_number": "75",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zahraničí",
+        "chapter_number": "II.",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Bangladéš",
+            "chapter_number": "",
+            "page_number": "78",
+            "children": []
+          },
+          {
+            "title": "Brazílie",
+            "chapter_number": "",
+            "page_number": "79",
+            "children": []
+          },
+          {
+            "title": "Bulharsko",
+            "chapter_number": "",
+            "page_number": "82",
+            "children": []
+          },
+          {
+            "title": "Ekvádor",
+            "chapter_number": "",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Francie",
+            "chapter_number": "",
+            "page_number": "89",
+            "children": []
+          },
+          {
+            "title": "Chile",
+            "chapter_number": "",
+            "page_number": "103",
+            "children": []
+          },
+          {
+            "title": "Itálie",
+            "chapter_number": "",
+            "page_number": "106",
+            "children": []
+          },
+          {
+            "title": "Japonsko",
+            "chapter_number": "",
+            "page_number": "110",
+            "children": []
+          },
+          {
+            "title": "Jihoafrická republika",
+            "chapter_number": "",
+            "page_number": "111",
+            "children": []
+          },
+          {
+            "title": "Kamerun",
+            "chapter_number": "",
+            "page_number": "117",
+            "children": []
+          },
+          {
+            "title": "Kanada",
+            "chapter_number": "",
+            "page_number": "119",
+            "children": []
+          },
+          {
+            "title": "Malta",
+            "chapter_number": "",
+            "page_number": "138",
+            "children": []
+          },
+          {
+            "title": "Maroko",
+            "chapter_number": "",
+            "page_number": "140",
+            "children": []
+          },
+          {
+            "title": "NDR",
+            "chapter_number": "",
+            "page_number": "145",
+            "children": []
+          },
+          {
+            "title": "NSR",
+            "chapter_number": "",
+            "page_number": "149",
+            "children": []
+          },
+          {
+            "title": "Portugalsko",
+            "chapter_number": "",
+            "page_number": "161",
+            "children": []
+          },
+          {
+            "title": "Rakousko",
+            "chapter_number": "",
+            "page_number": "163",
+            "children": []
+          },
+          {
+            "title": "Singapúr",
+            "chapter_number": "",
+            "page_number": "165",
+            "children": []
+          },
+          {
+            "title": "SSSR",
+            "chapter_number": "",
+            "page_number": "167",
+            "children": []
+          },
+          {
+            "title": "USA",
+            "chapter_number": "",
+            "page_number": "173",
+            "children": []
+          },
+          {
+            "title": "Velká Británie",
+            "chapter_number": "",
+            "page_number": "178",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Mezinárodní organizace",
+        "chapter_number": "III.",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Světová zdravotnická organizace",
+            "chapter_number": "",
+            "page_number": "180",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "států",
+        "chapter_number": "",
+        "page_number": "192",
+        "children": []
+      },
+      {
+        "title": "jmenný",
+        "chapter_number": "",
+        "page_number": "194",
+        "children": []
+      },
+      {
+        "title": "věcný",
+        "chapter_number": "",
+        "page_number": "197",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Informační služby",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Státního ústavu pro zdravotnickou dokumentační a knihovnickou službu",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

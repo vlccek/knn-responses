@@ -1,0 +1,183 @@
+
+[
+  {
+    "title": "Předmluva k I. vydání",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Předmluva k II. vydání",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Význam rybího masa jako potravy lidské",
+    "chapter_number": "",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "I. Důležitost rybnikářství",
+    "chapter_number": "I",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "II. O rybnících povšechně",
+    "chapter_number": "II",
+    "page_number": "10",
+    "children": [
+      {
+        "title": "Rybníky říční",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Rybníky pramenité",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Rybníky nebeské",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "O vodě pro rybníky",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "III. Rybníky dle účelu, jakému slouží",
+    "chapter_number": "III",
+    "page_number": "13",
+    "children": [
+      {
+        "title": "Rybníky třecí",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": [
+          {
+            "title": "třecí pro ostatní rybu",
+            "chapter_number": "",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "výtažné čili výtažníky",
+            "chapter_number": "",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "hlavní čili kaprové",
+            "chapter_number": "",
+            "page_number": "25",
+            "children": []
+          },
+          {
+            "title": "komorové čili komory",
+            "chapter_number": "",
+            "page_number": "27",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Sádky",
+        "chapter_number": "",
+        "page_number": "30",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "IV. Zakládání a stavba rybníků",
+    "chapter_number": "IV",
+    "page_number": "32",
+    "children": [
+      {
+        "title": "Zákonité předpisy o stavbě rybníků.",
+        "chapter_number": "",
+        "page_number": "33",
+        "children": [
+          {
+            "title": "O zakládání nových a změně dosavadních rybníků",
+            "chapter_number": "a",
+            "page_number": "33",
+            "children": []
+          },
+          {
+            "title": "O udržování a užívání rybníků",
+            "chapter_number": "b",
+            "page_number": "38",
+            "children": []
+          },
+          {
+            "title": "O zrušení dosavadních rybníků",
+            "chapter_number": "c",
+            "page_number": "39",
+            "children": []
+          },
+          {
+            "title": "O úředním dohledu k rybníkům",
+            "chapter_number": "d",
+            "page_number": "40",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Půda pro rybníky a stavba jich.",
+    "chapter_number": "",
+    "page_number": "53",
+    "children": [
+      {
+        "title": "Rybniční spoušťadla",
+        "chapter_number": "",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Jak si počínati máme při zakládání, opravě a obnovování rybníků",
+        "chapter_number": "",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Hospodaření na rybnících",
+        "chapter_number": "",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "O význačnějších škůdcích a nemocech kapra",
+        "chapter_number": "",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "Hospodaření na rybnících obecních",
+        "chapter_number": "",
+        "page_number": "99",
+        "children": []
+      }
+    ]
+  }
+]

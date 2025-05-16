@@ -1,0 +1,434 @@
+
+[
+  {
+    "title": "Uvod",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Tělověda či somatologie",
+    "chapter_number": "",
+    "page_number": "2",
+    "children": []
+  },
+  {
+    "title": "I. Kostra a svalstvo",
+    "chapter_number": "",
+    "page_number": "2, 10",
+    "children": []
+  },
+  {
+    "title": "II. Nervová (čivní) soustava",
+    "chapter_number": "",
+    "page_number": "14",
+    "children": []
+  },
+  {
+    "title": "III. Čidla",
+    "chapter_number": "",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "IV. Zažívací ústrojí",
+    "chapter_number": "",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "V. Dýchací ústrojí",
+    "chapter_number": "",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "VI. Soustava cevní",
+    "chapter_number": "",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "VII. Vyměšovací ústrojí",
+    "chapter_number": "",
+    "page_number": "36",
+    "children": []
+  },
+  {
+    "title": "VIII. Zažívání či trávení",
+    "chapter_number": "",
+    "page_number": "38",
+    "children": []
+  },
+  {
+    "title": "IX. Kůže",
+    "chapter_number": "",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "X. První pomoc před příchodem lékaře",
+    "chapter_number": "",
+    "page_number": "42",
+    "children": []
+  },
+  {
+    "title": "Nauka o člověku či anthropologie",
+    "chapter_number": "",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Živočichopis či zoologie",
+    "chapter_number": "",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Soustava, theorie a zeměpisné rozšíření",
+    "chapter_number": "",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Kmen obratlovců (Vertebrata)",
+    "chapter_number": "",
+    "page_number": "47",
+    "children": [
+      {
+        "title": "I. třída: Ssavci (Mamalia)",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "II. třída: Ptáci (Aves)",
+        "chapter_number": "",
+        "page_number": "84",
+        "children": []
+      },
+      {
+        "title": "III. třída: Plazi (Reptilia)",
+        "chapter_number": "",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "IV. třída: Obojživelníci (Batrachia)",
+        "chapter_number": "",
+        "page_number": "118",
+        "children": []
+      },
+      {
+        "title": "V. třída: Ryby (Ichthyes)",
+        "chapter_number": "",
+        "page_number": "126",
+        "children": [
+          {
+            "title": "1. podtřída: Dvojdyšné ryby (Di-pneusta)",
+            "chapter_number": "",
+            "page_number": "131",
+            "children": []
+          },
+          {
+            "title": "2 podtřída: Jednodyšné ryby (Pisces)",
+            "chapter_number": "",
+            "page_number": "132",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "VI. třída: Kruhoústé ryby (Cyclostomata)",
+        "chapter_number": "",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "VII. třída: Bezlebečné ryby (Acrania)",
+        "chapter_number": "",
+        "page_number": "144",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přehled obratlovců",
+    "chapter_number": "",
+    "page_number": "145",
+    "children": []
+  },
+  {
+    "title": "Kmen pláštěnců (Tunicata)",
+    "chapter_number": "",
+    "page_number": "145",
+    "children": [
+      {
+        "title": "I. třída: Sumky (Ascidiacea)",
+        "chapter_number": "",
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "II. třída: Salpy (Thaliacea)",
+        "chapter_number": "",
+        "page_number": "147",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kmen měkkýšů (Mollusca)",
+    "chapter_number": "",
+    "page_number": "148",
+    "children": [
+      {
+        "title": "I. třída: Hlavonožci (Cephalopoda)",
+        "chapter_number": "",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "II. třída: Ploutvonožci (Pteropoda)",
+        "chapter_number": "",
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "III. třída: Břichonožci (Gasteropoda)",
+        "chapter_number": "",
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "IV. třída: Mřížonervoví (Amphineura)",
+        "chapter_number": "",
+        "page_number": "160",
+        "children": []
+      },
+      {
+        "title": "V. třída: Přídonožci (Scaphopoda)",
+        "chapter_number": "",
+        "page_number": "161",
+        "children": []
+      },
+      {
+        "title": "VI. třída: Mlži (Lamellibranchiata)",
+        "chapter_number": "",
+        "page_number": "161",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kmen červoměkkýšů (Molluscoidea)",
+    "chapter_number": "",
+    "page_number": "166",
+    "children": [
+      {
+        "title": "I. třída: Mechovky (Bryozoa)",
+        "chapter_number": "",
+        "page_number": "166",
+        "children": []
+      },
+      {
+        "title": "II. třída: Ramenonožci (Brachiopoda)",
+        "chapter_number": "",
+        "page_number": "167",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kmen členovců (Arthropoda)",
+    "chapter_number": "",
+    "page_number": "168",
+    "children": [
+      {
+        "title": "I. třída: Hmyz (Insecta)",
+        "chapter_number": "",
+        "page_number": "168",
+        "children": []
+      },
+      {
+        "title": "II. třída: Stonožky (Myriapoda)",
+        "chapter_number": "",
+        "page_number": "211",
+        "children": []
+      },
+      {
+        "title": "III. třída: Drápkonoši (Onychophora)",
+        "chapter_number": "",
+        "page_number": "212",
+        "children": []
+      },
+      {
+        "title": "IV. třída: Pavoukovití (Arachnida)",
+        "chapter_number": "",
+        "page_number": "213",
+        "children": []
+      },
+      {
+        "title": "V. třída: Korýši (Crustacea)",
+        "chapter_number": "",
+        "page_number": "217",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kmen červů (Vermes)",
+    "chapter_number": "",
+    "page_number": "227",
+    "children": [
+      {
+        "title": "I. třída: Červi kroužkovaní (Annelides)",
+        "chapter_number": "",
+        "page_number": "227",
+        "children": [
+          {
+            "title": "1. podtřída: Červi štětinonozí (Chaetopoda)",
+            "chapter_number": "",
+            "page_number": "230",
+            "children": []
+          },
+          {
+            "title": "2. podtřída: Pijavky (Hirudinea)",
+            "chapter_number": "",
+            "page_number": "230",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "II. třída: Vířníci (Rotatoria)",
+        "chapter_number": "",
+        "page_number": "231",
+        "children": []
+      },
+      {
+        "title": "III. třída: Hlístové oblí (Nemathelminthes)",
+        "chapter_number": "",
+        "page_number": "232",
+        "children": []
+      },
+      {
+        "title": "IV. třída: Hlístové ploší (Platyhelminthes)",
+        "chapter_number": "",
+        "page_number": "234",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kmen ostnokožců (Echinodermata)",
+    "chapter_number": "",
+    "page_number": "236",
+    "children": [
+      {
+        "title": "I třída: Ježovky (Echinoidea)",
+        "chapter_number": "",
+        "page_number": "236",
+        "children": []
+      },
+      {
+        "title": "II třída: Hvězdice (Asteroidea)",
+        "chapter_number": "",
+        "page_number": "238",
+        "children": []
+      },
+      {
+        "title": "III. třída: Sumýši (Holothurioidea)",
+        "chapter_number": "",
+        "page_number": "239",
+        "children": []
+      },
+      {
+        "title": "IV. třída: Lilijice (Crinoidea)",
+        "chapter_number": "",
+        "page_number": "240",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kmen láčkovců (Coelenterata)",
+    "chapter_number": "",
+    "page_number": "241",
+    "children": [
+      {
+        "title": "I. třída: Slimýši (Hydrozoa)",
+        "chapter_number": "",
+        "page_number": "241",
+        "children": []
+      },
+      {
+        "title": "II. třída: Pohárkovití slimýši (Scyphozoa)",
+        "chapter_number": "",
+        "page_number": "244",
+        "children": []
+      },
+      {
+        "title": "III. třída: Žebernatky (Ctenophora)",
+        "chapter_number": "",
+        "page_number": "245",
+        "children": []
+      },
+      {
+        "title": "IV třída: Polypi (Anthozoa)",
+        "chapter_number": "",
+        "page_number": "245",
+        "children": []
+      },
+      {
+        "title": "V. třída: Houby (Porifera)",
+        "chapter_number": "",
+        "page_number": "248",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Metazoa",
+    "chapter_number": "",
+    "page_number": "251",
+    "children": []
+  },
+  {
+    "title": "Kmen prvoků (Protozoa)",
+    "chapter_number": "",
+    "page_number": "251",
+    "children": [
+      {
+        "title": "I. třída: Kořenonožci (Rhizopoda)",
+        "chapter_number": "",
+        "page_number": "251",
+        "children": []
+      },
+      {
+        "title": "II. třída: Nálevníci (Ciliata)",
+        "chapter_number": "",
+        "page_number": "253",
+        "children": []
+      },
+      {
+        "title": "III. třída: Bičíkovci (Flagellata)",
+        "chapter_number": "",
+        "page_number": "254",
+        "children": []
+      },
+      {
+        "title": "IV. třída: Hromadinky (Sporozoa)",
+        "chapter_number": "",
+        "page_number": "254",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Bezobratlí (Evertebrata)",
+    "chapter_number": "",
+    "page_number": "255",
+    "children": []
+  }
+]

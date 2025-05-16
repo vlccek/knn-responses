@@ -1,0 +1,291 @@
+
+[
+  {
+    "title": "Bezirkshauptmannschaft Göding",
+    "chapter_number": "24",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Bezirkshauptmannschaft Ung.-Hradisch (Umgebung)",
+    "chapter_number": "25",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Bezirkshauptmannschaft Ung.-Brod",
+    "chapter_number": "26",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "Bezirkshauptmannschaft Holle-schau",
+    "chapter_number": "27",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Bezirkshauptmannschaft Wallachisch-Meseritsch",
+    "chapter_number": "28",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Bezirkshauptmannschaft Weißkirchen",
+    "chapter_number": "29",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Im Flussgebiete der Oder",
+    "chapter_number": "VI",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bezirkshauptmannschaft Neu-titschein",
+        "chapter_number": "30",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Bezirkshauptmannschaft Mistek",
+        "chapter_number": "31",
+        "page_number": "58",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Das Herzogthum Schlesien",
+    "chapter_number": "B",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Lage des Landes",
+        "chapter_number": "§. 1",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Größe des Landes",
+        "chapter_number": "§. 2",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Landeswappen",
+        "chapter_number": "§. 3",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Gebirge:",
+        "chapter_number": "§. 4",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Die mährisch-schlesischen Sudeten",
+            "chapter_number": "a",
+            "page_number": "60",
+            "children": []
+          },
+          {
+            "title": "Die Karpaten",
+            "chapter_number": "b",
+            "page_number": "61",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Flüsse",
+        "chapter_number": "§. 5",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Mineralwässer",
+        "chapter_number": "§. 6",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Klima",
+        "chapter_number": "§. 7",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Naturproducte",
+        "chapter_number": "§. 8",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Industrie",
+        "chapter_number": "§. 9",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Handel und Verkehr",
+        "chapter_number": "§. 10",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Einwohner",
+        "chapter_number": "§. 11",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Unterrichtswesen",
+        "chapter_number": "§. 12",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Politische und Gerichtsverwaltung",
+        "chapter_number": "§. 13",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Finanzwesen",
+        "chapter_number": "§. 14",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Die Landesverfassung",
+        "chapter_number": "§. 15",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Kirchliche Verwaltung",
+        "chapter_number": "§. 16",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Übersicht der Geschichte Schlesiens",
+        "chapter_number": "§. 17",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "Bedeutendere Orte in Österr.-Schlesien",
+        "chapter_number": "§. 18",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Im westlichen Theile von Schlesien (Flussgebiet der Oder)",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Bezirkshauptmannschaft Troppau (Umgebung)",
+            "chapter_number": "1",
+            "page_number": "66",
+            "children": []
+          },
+          {
+            "title": "Bezirkshauptmannschaft Freudenthal",
+            "chapter_number": "2",
+            "page_number": "67",
+            "children": []
+          },
+          {
+            "title": "Bezirkshauptmannschaft Jägerndorf",
+            "chapter_number": "3",
+            "page_number": "67",
+            "children": []
+          },
+          {
+            "title": "Bezirkshauptmannschaft Freiwaldau",
+            "chapter_number": "4",
+            "page_number": "68",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Im östlichen Theile von Schlesien (Flussgebiet der Oder u. Weichsel",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Bezirkshauptmannschaft Teschen",
+            "chapter_number": "5",
+            "page_number": "69",
+            "children": []
+          },
+          {
+            "title": "Bezirkshauptmannschaft Freistadt",
+            "chapter_number": "6",
+            "page_number": "69",
+            "children": []
+          },
+          {
+            "title": "Bezirkshauptmannschaft Bielitz (Umgebung)",
+            "chapter_number": "7",
+            "page_number": "70",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Anhang",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Die politischen Bezirke Mährens nach d. Flächenmaße, der absol. u. relat. Bevölkerung",
+        "chapter_number": "",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Die politischen Bezirke Schlesiens nach d. Flächenmaße, der absol. u. relat. Bevölkerung",
+        "chapter_number": "",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Die politischen Bezirke Mährens in nationaler Beziehung",
+        "chapter_number": "",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "Die politischen Bezirke Schlesiens in nationaler Beziehung",
+        "chapter_number": "",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Die politischen Bezirke Mährens in confessioneller Beziehung",
+        "chapter_number": "",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Die politischen Bezirke Schlesiens in confessioneller Beziehung",
+        "chapter_number": "",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Register",
+        "chapter_number": "",
+        "page_number": "75",
+        "children": []
+      }
+    ]
+  }
+]

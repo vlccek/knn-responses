@@ -1,0 +1,47 @@
+
+[
+  {
+    "title": "Zemské pojišťování domácího zvířectva na Moravě. Statistika hospodářského zvířectva na Moravě",
+    "chapter_number": "III",
+    "page_number": "102",
+    "children": []
+  },
+  {
+    "title": "Pojišťování životní a důchodové",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Účel pojišťování životního a důchodového. Z dějin tohoto pojišťovaní",
+        "chapter_number": "I",
+        "page_number": "125",
+        "children": []
+      },
+      {
+        "title": "Zemské pojišťování žtvotní na Moravě",
+        "chapter_number": "II",
+        "page_number": "131",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pojišťování proti úrazům a nemocem",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Vývoj pojišťování dělnictva proti úrazům a nemocem",
+        "chapter_number": "I",
+        "page_number": "143",
+        "children": []
+      },
+      {
+        "title": "Zemské pojišťování proti úrazům v Dolních Rakousích",
+        "chapter_number": "II",
+        "page_number": "155",
+        "children": []
+      }
+    ]
+  }
+]

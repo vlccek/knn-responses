@@ -1,0 +1,158 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Úvod: Řád v přírodě jest dokonalý",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Trojí květ života",
+    "chapter_number": "I",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bílý květ ctnosti",
+        "chapter_number": "1. kap.",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Modrý květ štěstí",
+        "chapter_number": "2. kap.",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Rudý květ lásky",
+        "chapter_number": "3. kap.",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Filosofie",
+    "chapter_number": "II.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Co jest pravda?",
+        "chapter_number": "4. kap.",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Všechno je stejnorodé",
+        "chapter_number": "5. kap.",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Základní zjevy na hmotě a jednotky hmoty",
+        "chapter_number": "6. kap.",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Základní zjevy na životě a jednotky života",
+        "chapter_number": "7. kap.",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Vztahy a stavy jednotek",
+        "chapter_number": "8. kap.",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Absolutno a přehled nauky",
+        "chapter_number": "9. kap.",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Tabulka odpovídajících si pojmů",
+        "chapter_number": "",
+        "page_number": "76",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Biologie",
+    "chapter_number": "III.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Vznik života",
+        "chapter_number": "10. kap.",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Vznik a osudy organismů",
+        "chapter_number": "11. kap.",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Život jest nepomíjející (reinkarnace)",
+        "chapter_number": "12. kap.",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Jak si organismus buduje svět, jak se v něm orientuje a vyvíjí",
+        "chapter_number": "13. kap.",
+        "page_number": "105",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ethika",
+    "chapter_number": "IV.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O svobodné vůli",
+        "chapter_number": "14. kap.",
+        "page_number": "119",
+        "children": []
+      },
+      {
+        "title": "Osvobození od zla",
+        "chapter_number": "15. kap.",
+        "page_number": "137",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Theologie",
+    "chapter_number": "V.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Jaký by Bůh musel býti, kdyby existoval",
+        "chapter_number": "16. kap.",
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "O pravděpodobnosti existence boží lze se přesvědčiti rozumem",
+        "chapter_number": "17. kap.",
+        "page_number": "153",
+        "children": []
+      }
+    ]
+  }
+]

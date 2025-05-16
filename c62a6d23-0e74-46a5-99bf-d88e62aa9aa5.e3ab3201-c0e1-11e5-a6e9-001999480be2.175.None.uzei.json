@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "O podnebí",
+    "chapter_number": "VI.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O podnebí vůbec",
+        "chapter_number": "1.",
+        "page_number": "122",
+        "children": []
+      },
+      {
+        "title": "Proudy mořské",
+        "chapter_number": "2.",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "Průměrné teploty a jich kolísání",
+        "chapter_number": "3.",
+        "page_number": "128",
+        "children": []
+      },
+      {
+        "title": "Isothermy",
+        "chapter_number": "4.",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "Thermické isanomaly (odchylnice)",
+        "chapter_number": "5.",
+        "page_number": "136",
+        "children": []
+      },
+      {
+        "title": "Podnebí fysické a jeho činitelé",
+        "chapter_number": "6.",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Roztřídění podnebí",
+        "chapter_number": "7.",
+        "page_number": "139",
+        "children": []
+      },
+      {
+        "title": "Učinky lesů na podnebí krajiny",
+        "chapter_number": "8.",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "Teplo a rostlinstvo. Učinky horka a zimy na rostliny",
+        "chapter_number": "9.",
+        "page_number": "146",
+        "children": []
+      },
+      {
+        "title": "Účinky rostlinstva na podnebí",
+        "chapter_number": "10.",
+        "page_number": "150",
+        "children": []
+      },
+      {
+        "title": "Průměrné teploty některých míst",
+        "chapter_number": "",
+        "page_number": "151",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Praktická meteorologie",
+    "chapter_number": "VII.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Výjevy předvěstné, pozorované pouhým okem",
+        "chapter_number": "1.",
+        "page_number": "155",
+        "children": []
+      },
+      {
+        "title": "Změny ovzduší, pozorované umělými nástroji",
+        "chapter_number": "2.",
+        "page_number": "159",
+        "children": []
+      },
+      {
+        "title": "Telegraf elektrický, hlasatel povětrnosti",
+        "chapter_number": "3.",
+        "page_number": "163",
+        "children": []
+      }
+    ]
+  }
+]

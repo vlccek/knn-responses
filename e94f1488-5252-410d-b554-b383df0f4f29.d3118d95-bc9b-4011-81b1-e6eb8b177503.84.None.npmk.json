@@ -1,0 +1,257 @@
+
+[
+  {
+    "title": "část",
+    "chapter_number": "I.",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Úvod do zeměvědy",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Zeměpis přírodnický",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Lithosféra",
+        "chapter_number": "A)",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Vznik země as ním souvislé úkazy",
+            "chapter_number": "1.",
+            "page_number": "4",
+            "children": []
+          },
+          {
+            "title": "Složení zemské kůry a její poruchy",
+            "chapter_number": "2.",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Zemský povrch a jeho roz- členění",
+            "chapter_number": "3.",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Vodorovná (horizontální) členitost souše č. členopis",
+                "chapter_number": "a)",
+                "page_number": "17",
+                "children": []
+              },
+              {
+                "title": "Tvářnost souše. (Morfologie zemského povrchů)",
+                "chapter_number": "b)",
+                "page_number": "22",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Hydrosféra",
+        "chapter_number": "B)",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Tekuté vody",
+            "chapter_number": "1.",
+            "page_number": "26",
+            "children": []
+          },
+          {
+            "title": "Vodstvo stojaté",
+            "chapter_number": "2.",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Jezera",
+                "chapter_number": "",
+                "page_number": "30",
+                "children": []
+              },
+              {
+                "title": "Moře",
+                "chapter_number": "",
+                "page_number": "35",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Aĕrosféra",
+        "chapter_number": "C)",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Teplota vzduchu",
+            "chapter_number": "1.",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "Vítr",
+            "chapter_number": "2.",
+            "page_number": "42",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Srážky",
+    "chapter_number": "3.",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Ledovce",
+    "chapter_number": "4.",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Zeměpis ústrojný",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "část",
+    "chapter_number": "II.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Zemězpyt hvězdářský",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Země",
+            "chapter_number": "",
+            "page_number": "54",
+            "children": []
+          },
+          {
+            "title": "Tvar a velikost",
+            "chapter_number": "",
+            "page_number": "54",
+            "children": []
+          },
+          {
+            "title": "Určování polohy",
+            "chapter_number": "",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Vztah míry obloukové k časové",
+            "chapter_number": "",
+            "page_number": "57",
+            "children": []
+          },
+          {
+            "title": "Slunce",
+            "chapter_number": "",
+            "page_number": "58",
+            "children": []
+          },
+          {
+            "title": "Skutečný oběh těles nebeských",
+            "chapter_number": "",
+            "page_number": "59",
+            "children": []
+          },
+          {
+            "title": "Určení délky dne a noci",
+            "chapter_number": "",
+            "page_number": "61",
+            "children": []
+          },
+          {
+            "title": "Měsíc",
+            "chapter_number": "",
+            "page_number": "64",
+            "children": []
+          },
+          {
+            "title": "Zatmění měsíce",
+            "chapter_number": "",
+            "page_number": "66",
+            "children": []
+          },
+          {
+            "title": "Zatmění slunce",
+            "chapter_number": "",
+            "page_number": "67",
+            "children": []
+          },
+          {
+            "title": "Zdánlivý oběh těles nebeských",
+            "chapter_number": "",
+            "page_number": "70",
+            "children": []
+          },
+          {
+            "title": "Stálice",
+            "chapter_number": "",
+            "page_number": "70",
+            "children": []
+          },
+          {
+            "title": "Hodiny sluneční a čas pravý",
+            "chapter_number": "",
+            "page_number": "71",
+            "children": []
+          },
+          {
+            "title": "Postup slunce souhvězdími",
+            "chapter_number": "",
+            "page_number": "72",
+            "children": []
+          },
+          {
+            "title": "Ekliptika",
+            "chapter_number": "",
+            "page_number": "73",
+            "children": []
+          },
+          {
+            "title": "Výška slunce v poledne",
+            "chapter_number": "",
+            "page_number": "74",
+            "children": []
+          },
+          {
+            "title": "Měsíc ve zvířetníku",
+            "chapter_number": "",
+            "page_number": "75",
+            "children": []
+          },
+          {
+            "title": "Oběžnice",
+            "chapter_number": "",
+            "page_number": "76",
+            "children": []
+          },
+          {
+            "title": "Vlasatice, létavice",
+            "chapter_number": "",
+            "page_number": "78",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

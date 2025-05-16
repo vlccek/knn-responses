@@ -1,0 +1,119 @@
+
+[
+  {
+    "title": "Uvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Pozemky",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": [
+      {
+        "title": "Scelování pozemků",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Zlepšování půdy",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Orba a způsoby její",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Osevní pořádek",
+        "chapter_number": "",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "O semenu a setí",
+        "chapter_number": "",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Obdělávání rostlin",
+        "chapter_number": "",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Sklízeň",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Louky a pastviny",
+    "chapter_number": "II",
+    "page_number": "14",
+    "children": []
+  },
+  {
+    "title": "Zahrady a ovocné stromoví",
+    "chapter_number": "III",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "Lesy",
+    "chapter_number": "IV",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Dobytkářství",
+    "chapter_number": "V",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Hnojařství",
+    "chapter_number": "VI",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Některé národo-hospodářské poměry hospodářské",
+    "chapter_number": "VII",
+    "page_number": "25",
+    "children": [
+      {
+        "title": "Dělnictvo",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Stroje",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Opatření levné provozovací jistiny",
+    "chapter_number": "",
+    "page_number": "28",
+    "children": []
+  },
+  {
+    "title": "Doslov",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": []
+  }
+]

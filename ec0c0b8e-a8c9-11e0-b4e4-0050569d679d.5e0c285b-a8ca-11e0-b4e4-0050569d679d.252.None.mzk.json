@@ -1,0 +1,119 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "III",
+    "children": []
+  },
+  {
+    "title": "Brünn und seine Vorstädte im Allgemeinen",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Lage",
+    "chapter_number": "I",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Beschaffenheit des Bodens",
+    "chapter_number": "II",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Gewässer",
+    "chapter_number": "III",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Klima",
+    "chapter_number": "IV",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "Große und Bevölkerung",
+    "chapter_number": "V",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Anlagen. - Ver schönerungen",
+    "chapter_number": "VI",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Sprache und Charakter des Brünners",
+    "chapter_number": "VII",
+    "page_number": "37",
+    "children": []
+  },
+  {
+    "title": "Industrie und Handel",
+    "chapter_number": "VIII",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Stellen und Nemter",
+    "chapter_number": "IX",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Unstalten",
+    "chapter_number": "X",
+    "page_number": "60",
+    "children": [
+      {
+        "title": "Unterrichts = Anstalten",
+        "chapter_number": "1",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Theologische Studien",
+            "chapter_number": "a",
+            "page_number": "61",
+            "children": []
+          },
+          {
+            "title": "Philosophische Studien",
+            "chapter_number": "b",
+            "page_number": "61",
+            "children": []
+          },
+          {
+            "title": "Gymnasium",
+            "chapter_number": "c",
+            "page_number": "62",
+            "children": []
+          },
+          {
+            "title": "Normal - Haupt = nebst Trivial-Schulen",
+            "chapter_number": "d",
+            "page_number": "63",
+            "children": []
+          },
+          {
+            "title": "Mädchenschule",
+            "chapter_number": "e",
+            "page_number": "64",
+            "children": []
+          },
+          {
+            "title": "Evangelische Schulanstalt",
+            "chapter_number": "f",
+            "page_number": "65",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

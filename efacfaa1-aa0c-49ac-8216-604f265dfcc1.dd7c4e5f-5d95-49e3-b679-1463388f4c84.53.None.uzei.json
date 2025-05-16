@@ -1,0 +1,157 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Co jest obec?",
+    "chapter_number": "",
+    "page_number": "4",
+    "children": []
+  },
+  {
+    "title": "Obecní zřízení",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "I. O místní obci",
+    "chapter_number": "I.",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "II. Složky obce",
+    "chapter_number": "II.",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "1. Území obecní",
+        "chapter_number": "1.",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "2. Obyvatelstvo obce",
+        "chapter_number": "2.",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "3. Moc obecní",
+        "chapter_number": "3.",
+        "page_number": "14",
+        "children": [
+          {
+            "title": "a) Působnost samostatná",
+            "chapter_number": "a)",
+            "page_number": "16",
+            "children": []
+          },
+          {
+            "title": "b) Působnost přenesená",
+            "chapter_number": "b)",
+            "page_number": "21",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "III. Orgány obecní",
+    "chapter_number": "III.",
+    "page_number": "23",
+    "children": [
+      {
+        "title": "1. Zastupitelstvo obecní",
+        "chapter_number": "1.",
+        "page_number": "23",
+        "children": [
+          {
+            "title": "Složení",
+            "chapter_number": "",
+            "page_number": "24",
+            "children": []
+          },
+          {
+            "title": "Volba",
+            "chapter_number": "",
+            "page_number": "24",
+            "children": []
+          },
+          {
+            "title": "Schůze",
+            "chapter_number": "",
+            "page_number": "29",
+            "children": []
+          },
+          {
+            "title": "Působnost",
+            "chapter_number": "",
+            "page_number": "33",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "2. Obecní rada",
+        "chapter_number": "2.",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "3. Starosta obecní",
+        "chapter_number": "3.",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "4. Komise obecní",
+        "chapter_number": "4.",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "5. Trestní senát obecní",
+        "chapter_number": "5.",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "6. Obecní úředníci a zřízenci",
+        "chapter_number": "6.",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "7. Orgány mimořádné",
+        "chapter_number": "7.",
+        "page_number": "48",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "IV. O dozoru k obci",
+    "chapter_number": "IV.",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Závěr",
+    "chapter_number": "",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Literatura",
+    "chapter_number": "",
+    "page_number": "52",
+    "children": []
+  }
+]

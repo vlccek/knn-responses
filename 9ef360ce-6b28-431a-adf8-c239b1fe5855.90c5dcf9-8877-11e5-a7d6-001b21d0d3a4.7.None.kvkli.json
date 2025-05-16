@@ -1,0 +1,446 @@
+
+[
+  {
+    "title": "Chemikalische Produkte",
+    "chapter_number": "IV",
+    "page_number": "175",
+    "children": [
+      {
+        "title": "Chemikalien",
+        "chapter_number": "1",
+        "page_number": "175",
+        "children": []
+      },
+      {
+        "title": "Fettwaaren, Leucht- und Zündstoffe",
+        "chapter_number": "2",
+        "page_number": "175",
+        "children": []
+      },
+      {
+        "title": "Farbwaaren",
+        "chapter_number": "3",
+        "page_number": "176",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Nahrungsmittel und sonstige Verzehrungsgegenstände",
+    "chapter_number": "V",
+    "page_number": "177",
+    "children": [
+      {
+        "title": "Animalische Nahrungsstoffe",
+        "chapter_number": "1",
+        "page_number": "177",
+        "children": []
+      },
+      {
+        "title": "Vegetabilische Nahrungsstoffe",
+        "chapter_number": "2",
+        "page_number": "177",
+        "children": []
+      },
+      {
+        "title": "Die Mühlen",
+        "chapter_number": null,
+        "page_number": "178",
+        "children": []
+      },
+      {
+        "title": "Stärke und Stärkefabrikate",
+        "chapter_number": null,
+        "page_number": "181",
+        "children": []
+      },
+      {
+        "title": "Brod- und Luxusgebäck",
+        "chapter_number": null,
+        "page_number": "181",
+        "children": []
+      },
+      {
+        "title": "Rübenzuckerfabrikation",
+        "chapter_number": null,
+        "page_number": "181",
+        "children": []
+      },
+      {
+        "title": "Kaffeesurrogat-Erzeugung",
+        "chapter_number": null,
+        "page_number": "184",
+        "children": []
+      },
+      {
+        "title": "Getränke",
+        "chapter_number": "3",
+        "page_number": "186",
+        "children": [
+          {
+            "title": "Die Bierbrauereien",
+            "chapter_number": null,
+            "page_number": "186",
+            "children": []
+          },
+          {
+            "title": "Die Branntweinbrennereien",
+            "chapter_number": null,
+            "page_number": "196",
+            "children": []
+          },
+          {
+            "title": "Die Weinproduktion",
+            "chapter_number": null,
+            "page_number": "203",
+            "children": []
+          },
+          {
+            "title": "Moussirende Weine",
+            "chapter_number": null,
+            "page_number": "203",
+            "children": []
+          },
+          {
+            "title": "Essigerzeugung",
+            "chapter_number": null,
+            "page_number": "203",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Garne, gewebte, gewirkte und dergl. Stoffe, dann Arbeiten aus denselben",
+    "chapter_number": "VI",
+    "page_number": "204",
+    "children": [
+      {
+        "title": "Garne nnd Gewebe aus Schafwolle",
+        "chapter_number": "1",
+        "page_number": "204",
+        "children": [
+          {
+            "title": "Streichgarnspinnerei",
+            "chapter_number": "a",
+            "page_number": "205",
+            "children": []
+          },
+          {
+            "title": "Tuch und tuchartige Stoffe",
+            "chapter_number": "b",
+            "page_number": "207",
+            "children": []
+          },
+          {
+            "title": "Kammgarnspinnerei",
+            "chapter_number": "c",
+            "page_number": "210",
+            "children": []
+          },
+          {
+            "title": "Ungewalkte Gewebe",
+            "chapter_number": "d",
+            "page_number": "212",
+            "children": []
+          },
+          {
+            "title": "Teppichfabrikation",
+            "chapter_number": "e",
+            "page_number": "215",
+            "children": []
+          },
+          {
+            "title": "Wirkwaarenerzeugung",
+            "chapter_number": "f",
+            "page_number": "215",
+            "children": []
+          },
+          {
+            "title": "Schafwollstoffdruckerei",
+            "chapter_number": "g",
+            "page_number": "217",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Garne und Gewebe aus Flachs und Hanf",
+        "chapter_number": "2",
+        "page_number": "218",
+        "children": [
+          {
+            "title": "Handspinnerei",
+            "chapter_number": "a",
+            "page_number": "219",
+            "children": []
+          },
+          {
+            "title": "Leinenmaschinenspinnerei",
+            "chapter_number": "b",
+            "page_number": "219",
+            "children": []
+          },
+          {
+            "title": "Die Leinenweberei",
+            "chapter_number": "c",
+            "page_number": "223",
+            "children": []
+          },
+          {
+            "title": "Die Leinenzwirnerzeugung",
+            "chapter_number": "d",
+            "page_number": "229",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Maschinenzwirnerzeugung",
+        "chapter_number": "1",
+        "page_number": "230",
+        "children": []
+      },
+      {
+        "title": "Handzwirnerzeugung",
+        "chapter_number": "2",
+        "page_number": "230",
+        "children": []
+      },
+      {
+        "title": "Garne und Gewebe aus Baumwolle",
+        "chapter_number": "3",
+        "page_number": "231",
+        "children": [
+          {
+            "title": "Baumwollspinnerei",
+            "chapter_number": "a",
+            "page_number": "231",
+            "children": []
+          },
+          {
+            "title": "Generalübersicht d. Baumwollspinnereien",
+            "chapter_number": null,
+            "page_number": "233",
+            "children": []
+          },
+          {
+            "title": "Uebersicht der Baumwolldurchschnittspreise",
+            "chapter_number": null,
+            "page_number": "243",
+            "children": []
+          },
+          {
+            "title": "Durchschnittspreise der Baumwollgarne",
+            "chapter_number": null,
+            "page_number": "253",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Durchschnittspreise der Baumwollzwirne",
+    "chapter_number": null,
+    "page_number": "254",
+    "children": [
+      {
+        "title": "Baumwollweberei",
+        "chapter_number": "b",
+        "page_number": "255",
+        "children": []
+      },
+      {
+        "title": "Baumwollstoffdruckerei",
+        "chapter_number": "c",
+        "page_number": "260",
+        "children": []
+      },
+      {
+        "title": "Rothgarnfärberei",
+        "chapter_number": "d",
+        "page_number": "263",
+        "children": []
+      },
+      {
+        "title": "Bleichen",
+        "chapter_number": "e",
+        "page_number": "263",
+        "children": []
+      },
+      {
+        "title": "Bandwaarenerzeugung",
+        "chapter_number": "f",
+        "page_number": "266",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Gewebe aus Seide",
+    "chapter_number": "4",
+    "page_number": "266",
+    "children": []
+  },
+  {
+    "title": "Gewirkte, genetzte, geklöppelte, gestickte und auf sonstige Weise erzeugte Stoffe",
+    "chapter_number": "5",
+    "page_number": "266",
+    "children": []
+  },
+  {
+    "title": "Strumpfwirkerwaarenerzeugung",
+    "chapter_number": null,
+    "page_number": "266",
+    "children": []
+  },
+  {
+    "title": "Seiden-Petinet-Fabriken",
+    "chapter_number": null,
+    "page_number": "266",
+    "children": []
+  },
+  {
+    "title": "Posamentirwaaren und Seiden-knopferzeugung",
+    "chapter_number": null,
+    "page_number": "266",
+    "children": []
+  },
+  {
+    "title": "Spitzen",
+    "chapter_number": null,
+    "page_number": "267",
+    "children": []
+  },
+  {
+    "title": "Regen- und Sonnenschirme",
+    "chapter_number": null,
+    "page_number": "267",
+    "children": []
+  },
+  {
+    "title": "Anfertigung von Kleidungsstücken",
+    "chapter_number": null,
+    "page_number": "267",
+    "children": []
+  },
+  {
+    "title": "Künstliche Blumen",
+    "chapter_number": null,
+    "page_number": "267",
+    "children": []
+  },
+  {
+    "title": "Arbeiten aus sonstigen organischen Stoffen",
+    "chapter_number": "VII",
+    "page_number": "268",
+    "children": [
+      {
+        "title": "Leder und Lederwaaren",
+        "chapter_number": "1",
+        "page_number": "268",
+        "children": []
+      },
+      {
+        "title": "Arbeiten aus Pelzwerk und sonstigen animalischen Stoffen",
+        "chapter_number": "2",
+        "page_number": "270",
+        "children": []
+      },
+      {
+        "title": "Papier und Arbeiten aus Papier",
+        "chapter_number": "3",
+        "page_number": "270",
+        "children": []
+      },
+      {
+        "title": "Arbeiten aus Stroh, Holz und andern Stoffen",
+        "chapter_number": "4",
+        "page_number": "272",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Erzeugnisse der Bau- und Kunstgewerbe",
+    "chapter_number": "VIII",
+    "page_number": "274",
+    "children": [
+      {
+        "title": "Erzeugnisse der Baugewerbe",
+        "chapter_number": "1",
+        "page_number": "274",
+        "children": []
+      },
+      {
+        "title": "Erzeugnisse der Kunstgewerbe",
+        "chapter_number": "2",
+        "page_number": "275",
+        "children": []
+      },
+      {
+        "title": "Verzeichn. der Auszeichnungen",
+        "chapter_number": null,
+        "page_number": "276",
+        "children": []
+      },
+      {
+        "title": "Das Kleingewerbe",
+        "chapter_number": null,
+        "page_number": "279",
+        "children": []
+      },
+      {
+        "title": "Zusammenstellung der von der Fabriksindustrie geschaffenen Werthe",
+        "chapter_number": null,
+        "page_number": "282",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Der Handel",
+    "chapter_number": null,
+    "page_number": null,
+    "children": [
+      {
+        "title": "Im Bunzlauer Kreise",
+        "chapter_number": "a",
+        "page_number": "284",
+        "children": []
+      },
+      {
+        "title": "im Gitschiner Kreise",
+        "chapter_number": "b",
+        "page_number": "288",
+        "children": []
+      },
+      {
+        "title": "im Königgrätzer Kreise",
+        "chapter_number": "c",
+        "page_number": "291",
+        "children": []
+      },
+      {
+        "title": "im Leitmeritzer Kreise",
+        "chapter_number": "d",
+        "page_number": "294",
+        "children": []
+      },
+      {
+        "title": "Marktpreistabelle",
+        "chapter_number": null,
+        "page_number": "299",
+        "children": []
+      },
+      {
+        "title": "Summarium über Waaren-Ein- und Ausfuhr bei den Zollämtern des Kammerbezirks",
+        "chapter_number": null,
+        "page_number": "308",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,100 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "I",
+    "page_number": "1-8",
+    "children": []
+  },
+  {
+    "title": "Za revoluce",
+    "chapter_number": "III",
+    "page_number": "9-37",
+    "children": []
+  },
+  {
+    "title": "Májové spiknutí",
+    "chapter_number": "III",
+    "page_number": "38-58",
+    "children": []
+  },
+  {
+    "title": "Před vojenským soudem, v Olomouci a opět v Praze",
+    "chapter_number": "IV",
+    "page_number": "59-75",
+    "children": []
+  },
+  {
+    "title": "Sociální radikalism mladého Sladkovského",
+    "chapter_number": "V",
+    "page_number": "76-91",
+    "children": []
+  },
+  {
+    "title": "Přílohy",
+    "chapter_number": "VI",
+    "page_number": "93-146",
+    "children": [
+      {
+        "title": "K agitaci E. Arnolda",
+        "chapter_number": "1",
+        "page_number": "95-101",
+        "children": []
+      },
+      {
+        "title": "Odvolání K. Sladkovského proti usnesení komise, vyšetřující bouře svatodušní, aby byl vyslýchán ve vazbě",
+        "chapter_number": "2",
+        "page_number": "102-103",
+        "children": []
+      },
+      {
+        "title": "Dopis neznámého přítele Sladkovského",
+        "chapter_number": "3",
+        "page_number": "105-106",
+        "children": []
+      },
+      {
+        "title": "Pamětní spis Karla Sladkovsjkého hraběti Lvu Thunoví o sociálni otázce z r. 1850",
+        "chapter_number": "4",
+        "page_number": "107-135",
+        "children": []
+      },
+      {
+        "title": "Žádost Karla Sladkovského o vydání pasu do knížectví moldavsko-valašského, 29. září 1859",
+        "chapter_number": "5",
+        "page_number": "136-137",
+        "children": []
+      },
+      {
+        "title": "Provolání Sladkovského k voličům z r. 1861",
+        "chapter_number": "6",
+        "page_number": "138-141",
+        "children": []
+      },
+      {
+        "title": "Policejní dobrozdání o Sladkovském z r. 1861",
+        "chapter_number": "7",
+        "page_number": "142-144",
+        "children": []
+      },
+      {
+        "title": "Poznámky",
+        "chapter_number": "8",
+        "page_number": "145-166",
+        "children": []
+      },
+      {
+        "title": "Résumé",
+        "chapter_number": "9",
+        "page_number": "167-172",
+        "children": []
+      },
+      {
+        "title": "Rejstřík osob",
+        "chapter_number": "10",
+        "page_number": "173-180",
+        "children": []
+      }
+    ]
+  }
+]

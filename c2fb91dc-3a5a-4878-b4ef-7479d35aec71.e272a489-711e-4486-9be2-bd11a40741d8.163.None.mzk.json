@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "Einleitung.",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Erstes Kapitel. Vom Nummerieren.",
+    "chapter_number": "Erstes Kapitel",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Zweytes Kapitel. Vom Addieren gleich benannter Zahlen.",
+    "chapter_number": "Zweytes Kapitel",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Drittes Kapitel. Vom Subtrahieren gleich benannter Zahlen.",
+    "chapter_number": "Drittes Kapitel",
+    "page_number": "17",
+    "children": []
+  },
+  {
+    "title": "Viertes Kapitel. Vom Multiplicieren gleich benannter Zahlen.",
+    "chapter_number": "Viertes Kapitel",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Fünftes Kapitel. Vom Resolvieren,",
+    "chapter_number": "Fünftes Kapitel",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Sechstes Kapitel. Vom Dividieren gleich benannter Zahlen.",
+    "chapter_number": "Sechstes Kapitel",
+    "page_number": "42",
+    "children": [
+      {
+        "title": "Vorbegriffe von den Brüchen.",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Siebentes Kapitel. Vom Reducieren.",
+    "chapter_number": "Siebentes Kapitel",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "Achtes Kapitel. Von den vier Rechnungsarten in ungleich benannten Zahlen.",
+    "chapter_number": "Achtes Kapitel",
+    "page_number": "64",
+    "children": []
+  },
+  {
+    "title": "Neuntes Kapitel. Von den Brüchen.",
+    "chapter_number": "Neuntes Kapitel",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "Zehntes Kapitel. Von den Verhältnissen, von der Proportion, von der einfachen, geraden und umgekehrten Regel de Tri in ganzen Zahlen und Brüchen.",
+    "chapter_number": "Zehntes Kapitel",
+    "page_number": "99",
+    "children": []
+  },
+  {
+    "title": "Eilftes Kapitel. Von den Rechnungsvortheilen.",
+    "chapter_number": "Eilftes Kapitel",
+    "page_number": "121",
+    "children": [
+      {
+        "title": "I. Vortheile bey den vier Rechnungsarten in gleich und ungleich benannten Zahlen.",
+        "chapter_number": "I",
+        "page_number": "122",
+        "children": []
+      },
+      {
+        "title": "II. Vortheile bey den Brüchen",
+        "chapter_number": "II",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "III. Vortheile bey der Regel de Tri",
+        "chapter_number": "III",
+        "page_number": "150",
+        "children": []
+      }
+    ]
+  }
+]

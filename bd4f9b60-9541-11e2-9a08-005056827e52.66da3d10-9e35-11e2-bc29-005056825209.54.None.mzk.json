@@ -1,0 +1,137 @@
+
+[
+  {
+    "title": "Dreizehn Stundenpläne für ein, zwei- und dreiclassige Volksschulen",
+    "chapter_number": "B",
+    "page_number": "53",
+    "children": [
+      {
+        "title": "Stundenplan für ungetheilte einclassige Volksschulen mit ganztägigem Unterricht (im Pfarrorte)",
+        "chapter_number": "1",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Stundenplan für ungetheilte einclassige Volksschulen mit ganztägigem Unterricht (außerhalb des Pfarrortes)",
+        "chapter_number": "2",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Stundenplan für getheilte einclassige Volksschulen mit halbtägigem Unterricht",
+        "chapter_number": "3",
+        "page_number": "53",
+        "children": [
+          {
+            "title": "für Mähren",
+            "chapter_number": "a",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "für Niederösterreich",
+        "chapter_number": "b",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Stundenplan für getheilte einclassige Volksschulen mit halbtägigem Unterricht (außerhalb des Pfarrortes)",
+        "chapter_number": "5",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Stundenplan für die 1. Classe einer zweiclassigen Volksschule",
+        "chapter_number": "6",
+        "page_number": "53",
+        "children": [
+          {
+            "title": "für Mähren",
+            "chapter_number": "a",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "für die 1. Classe einer zweiclassigen Volksschule",
+        "chapter_number": "7",
+        "page_number": "53",
+        "children": [
+          {
+            "title": "für Niederösterreich",
+            "chapter_number": "b",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "für die 2. Classe einer zweiclassigen Volksschule",
+        "chapter_number": "8",
+        "page_number": "53",
+        "children": [
+          {
+            "title": "für Mähren",
+            "chapter_number": "a",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "für die 2. Classe einer zweiclassigen Volksschule",
+        "chapter_number": "9",
+        "page_number": "53",
+        "children": [
+          {
+            "title": "für Niederösterreich",
+            "chapter_number": "b",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "für die 1. Classe einer dreiclassigen Volksschule",
+        "chapter_number": "10",
+        "page_number": "53",
+        "children": [
+          {
+            "title": "für Mähren",
+            "chapter_number": "a",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "für die 1. Classe einer dreiclassigen Volksschule",
+        "chapter_number": "11",
+        "page_number": "53",
+        "children": [
+          {
+            "title": "für Niederösterreich",
+            "chapter_number": "b",
+            "page_number": "53",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "für die 2. Classe einer dreiclassigen Volksschule",
+        "chapter_number": "12",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "für die 3. Classe einer dreiclassigen Volksschule",
+        "chapter_number": "13",
+        "page_number": "53",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,189 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Uebersichtliche Darstellung des Areals.",
+    "chapter_number": "I",
+    "page_number": "4",
+    "children": [
+      {
+        "title": "Die Sudeten im Allgemeinen, das Altvater - Gebirge, dessen Lage, Grenzen und Flächenausdehnung",
+        "chapter_number": "1",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Bergform, Erhebung der Gebirgsmassen, Flächenverhältniß der einzelnen Abfälle",
+        "chapter_number": "2",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Thalbildung, Gewässer, Versumpfungen",
+        "chapter_number": "3",
+        "page_number": "16",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Klima.",
+    "chapter_number": "II",
+    "page_number": "19",
+    "children": [
+      {
+        "title": "Allgemeines",
+        "chapter_number": "1",
+        "page_number": "19",
+        "children": []
+      },
+      {
+        "title": "Wärme der Luft",
+        "chapter_number": "2",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Winde",
+        "chapter_number": "3",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Thau und Reif",
+        "chapter_number": "4",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Nebel und Dust",
+        "chapter_number": "5",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Regen und Schneefall",
+        "chapter_number": "9",
+        "page_number": "25",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Boden.",
+    "chapter_number": "III",
+    "page_number": "28",
+    "children": [
+      {
+        "title": "Untergrund",
+        "chapter_number": "1",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Der Verwitterungsboden und die Dammerdeschicht",
+        "chapter_number": "2",
+        "page_number": "32",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pflanzenwuchs.",
+    "chapter_number": "IV",
+    "page_number": "36",
+    "children": [
+      {
+        "title": "Wachsthums - Regionen",
+        "chapter_number": "1",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Die Pflanzendecke des Waldbodens, Forst-Unkräuter",
+        "chapter_number": "2",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Die Holzarten des Altvater-Gebirges",
+        "chapter_number": "3",
+        "page_number": "49",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Beziehungen des Standortes zum Wachsthum der Holzgewächse.",
+    "chapter_number": "V",
+    "page_number": "93",
+    "children": [
+      {
+        "title": "Allgemeines",
+        "chapter_number": "1",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Einfluß der Wärme anf den Baumwuchs",
+        "chapter_number": "2",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Einfluß der Winde",
+        "chapter_number": "3",
+        "page_number": "97",
+        "children": []
+      },
+      {
+        "title": "Einfluß der atmosphärischen Niederschläge",
+        "chapter_number": "4",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Einfluß des Bodens",
+        "chapter_number": "5",
+        "page_number": "101",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Folgerungen für den Wirthschaftsbetrieb der Altvaterforste.",
+    "chapter_number": "VI",
+    "page_number": "103",
+    "children": [
+      {
+        "title": "Wahl der Holzarten, Bestandesformen und Umtriebszeiten",
+        "chapter_number": "1",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Natürliche und künstliche Verjüngung",
+        "chapter_number": "2",
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Die Hiebführung",
+        "chapter_number": "3",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Die Bewirthschaftung des obersten Waldſaumes",
+        "chapter_number": "4",
+        "page_number": "114",
+        "children": []
+      }
+    ]
+  }
+]

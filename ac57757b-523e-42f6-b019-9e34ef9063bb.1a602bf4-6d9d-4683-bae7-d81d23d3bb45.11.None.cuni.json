@@ -1,0 +1,199 @@
+
+[
+  {
+    "title": "ČÁST TŘETÍ. Procesní subjekty.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Oddíl první. Soudy.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "I. Trestní pravomoc soudní a správa justiční",
+            "chapter_number": "I",
+            "page_number": "32",
+            "children": []
+          },
+          {
+            "title": "II. Příslušnost soudů trestních",
+            "chapter_number": "II",
+            "page_number": "34",
+            "children": [
+              {
+                "title": "A. Věcná a funkční příslušnost soudů trestních",
+                "chapter_number": "A",
+                "page_number": "34",
+                "children": [
+                  {
+                    "title": "1. Okresní soudy",
+                    "chapter_number": "1",
+                    "page_number": "35",
+                    "children": []
+                  },
+                  {
+                    "title": "2. Krajské soudy",
+                    "chapter_number": "2",
+                    "page_number": "36",
+                    "children": []
+                  },
+                  {
+                    "title": "3. Porotní soudy",
+                    "chapter_number": "3",
+                    "page_number": "37",
+                    "children": []
+                  },
+                  {
+                    "title": "4. Vrchní soudy",
+                    "chapter_number": "4",
+                    "page_number": "42",
+                    "children": []
+                  },
+                  {
+                    "title": "5. Nejvyšší soud",
+                    "chapter_number": "5",
+                    "page_number": "42",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "B. Místní příslušnost soudů trestních",
+                "chapter_number": "B",
+                "page_number": "43",
+                "children": [
+                  {
+                    "title": "1. Místní příslušnost, pokud jde o trestné činy spáchané v tuzemsku",
+                    "chapter_number": "1",
+                    "page_number": "44",
+                    "children": [
+                      {
+                        "title": "a) Soud spáchaného činu",
+                        "chapter_number": "a",
+                        "page_number": "44",
+                        "children": []
+                      },
+                      {
+                        "title": "b) Soud bydliště, pobytu a postižení",
+                        "chapter_number": "b",
+                        "page_number": "45",
+                        "children": []
+                      },
+                      {
+                        "title": "c) Soud nabyté vědomosti",
+                        "chapter_number": "c",
+                        "page_number": "45",
+                        "children": []
+                      },
+                      {
+                        "title": "d) Soud věcí spojitých (forum connexitatis)",
+                        "chapter_number": "d",
+                        "page_number": "45",
+                        "children": []
+                      },
+                      {
+                        "title": "e) Soud delegovaný",
+                        "chapter_number": "e",
+                        "page_number": "47",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "title": "2. Místní příslušnost, pokud jde o trestné činy spáchané v cizině",
+                    "chapter_number": "2",
+                    "page_number": "48",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "C. Význam pravidel o příslušnosti",
+                "chapter_number": "C",
+                "page_number": "48",
+                "children": []
+              },
+              {
+                "title": "D. Spory o příslušnost",
+                "chapter_number": "D",
+                "page_number": "50",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "III. Složení soudů trestních",
+            "chapter_number": "III",
+            "page_number": "51",
+            "children": [
+              {
+                "title": "A. Samosoudy a soudy sborové",
+                "chapter_number": "A",
+                "page_number": "51",
+                "children": []
+              },
+              {
+                "title": "B. Soudy porotní",
+                "chapter_number": "B",
+                "page_number": "54",
+                "children": []
+              },
+              {
+                "title": "C. Vedlejší osoby soudní",
+                "chapter_number": "C",
+                "page_number": "58",
+                "children": []
+              },
+              {
+                "title": "D. Vyloučení a zamítání soudních osob",
+                "chapter_number": "D",
+                "page_number": "61",
+                "children": [
+                  {
+                    "title": "1. Vyloučení",
+                    "chapter_number": "1",
+                    "page_number": "61",
+                    "children": []
+                  },
+                  {
+                    "title": "2. Zamítání",
+                    "chapter_number": "2",
+                    "page_number": "64",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "IV. Poměr trestních soudů mezi sebou a k jiným úřadům (právní pomoc)",
+            "chapter_number": "IV",
+            "page_number": "65",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Oddíl druhý. Strany.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "I. Státní zastupitelství",
+            "chapter_number": "I",
+            "page_number": "67",
+            "children": [
+              {
+                "title": "1. Organisace státního zastupitelství",
+                "chapter_number": "1",
+                "page_number": "67",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

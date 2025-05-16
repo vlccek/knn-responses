@@ -1,0 +1,47 @@
+
+[
+  {
+    "title": "Koldínova Práva městská",
+    "chapter_number": "XII",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Extrakt práv magdeburských a Srovnání práv pražských s magdeburskými",
+    "chapter_number": "XIII",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Městská kniha novobydžovská",
+    "chapter_number": "XIV",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Právo horní.",
+    "chapter_number": "C",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Ius regale montanorum",
+        "chapter_number": "I",
+        "page_number": "50",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zákony o židech.",
+    "chapter_number": "D",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Ze zákonů židovských krále Přemysla II.",
+        "chapter_number": "I",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  }
+]

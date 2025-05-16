@@ -1,0 +1,77 @@
+
+[
+  {
+    "title": "O spojených třech druzích důchodu.",
+    "chapter_number": "§. 31",
+    "page_number": "120",
+    "children": []
+  },
+  {
+    "title": "Jak statky spotřebujeme.",
+    "chapter_number": "IV. Oddíl",
+    "page_number": null,
+    "children": [
+      {
+        "title": "O spotřebě vůbec.",
+        "chapter_number": "§. 32",
+        "page_number": "142",
+        "children": []
+      },
+      {
+        "title": "O spotřebě soukromé.",
+        "chapter_number": "§. 33",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "O spotřebě veřejné",
+        "chapter_number": "§. 34",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "O berni a dani.",
+        "chapter_number": "§. 35",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "O dluzích veřejných.",
+        "chapter_number": "§. 36",
+        "page_number": "151",
+        "children": []
+      },
+      {
+        "title": "O bankerotu pospolitém.",
+        "chapter_number": "§. 37",
+        "page_number": "164",
+        "children": []
+      },
+      {
+        "title": "O hospodářství, veřejném či pospolitém.",
+        "chapter_number": "§. 38",
+        "page_number": "173",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek.",
+    "chapter_number": null,
+    "page_number": "175",
+    "children": [
+      {
+        "title": "O množení obyvatelstva. (Statistika)",
+        "chapter_number": null,
+        "page_number": "182",
+        "children": []
+      },
+      {
+        "title": "Slovo o národnohospodářských spisech vůbec a českých zvláště",
+        "chapter_number": null,
+        "page_number": "184",
+        "children": []
+      }
+    ]
+  }
+]

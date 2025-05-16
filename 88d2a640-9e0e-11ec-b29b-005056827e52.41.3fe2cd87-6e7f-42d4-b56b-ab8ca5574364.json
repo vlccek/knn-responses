@@ -1,0 +1,114 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "I",
+    "children": []
+  },
+  {
+    "title": "Část textuální (spracoval Dr. Vilibald Mildschuh): Stěhování obyvatelstva království Českého, jak se zračí v údajích o rodišti obyvatelstva dle sčítání lidu z 31. prosince 1900.",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Úvod. (Stěhování vnější a stěhování vnitřní. Zachycení jevů stěhovacích statistikou. Tabulky. Disposice.)",
+        "chapter_number": "I",
+        "page_number": "III",
+        "children": []
+      },
+      {
+        "title": "Výměna obyvatelstva Čech s ostatními zeměmi na říšské radě zastoupenými a s cizinou. (Výměna obyvatelstva Čech s ostatnimi zeměmi na říšské radě zastoupenými a s cizinou celkem. Výměna obyvatelstva s Vídni a Dolními Rakousy. Výměna obyvatelstva s Moravou. Výměna obyvatelstva s ostatními zeměmi zastoupenými na říšské radě. Jednotlivé části Čech.)",
+        "chapter_number": "II",
+        "page_number": "VIII",
+        "children": []
+      },
+      {
+        "title": "Vnitřní stěhování obyvatelstva Čech. (Intensita vnitřního stěhování. Jednotlivé části Čech dle síly vystěhování a přistěhování. Směr proudu stěhovacího. Bilance stěhovací jednotlivých skupin.)",
+        "chapter_number": "III",
+        "page_number": "XII",
+        "children": []
+      },
+      {
+        "title": "Celkový přehled. (Stěhování na blízko a na dálku. Posuny způsobené stěhováním obyvatelstva.)",
+        "chapter_number": "IV",
+        "page_number": "XVII",
+        "children": []
+      },
+      {
+        "title": "Srovnání s rokem 1890. (Differenční methoda. Míra usedlosti obyvatelstva v r. 1890 a 1900. Směr a síla proudů stěhovacích v letech 1891-1900. Vystěhování do ciziny. Přehled.)",
+        "chapter_number": "V",
+        "page_number": "XXII",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Tabulky:",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Obyvatelstvo, v době sčítání z 31. prosince 1900 v jednotlivých politických okresech Čech přítomné, dle rodné své země",
+        "chapter_number": "I",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo, zrozené v jednotlivých politických okresech Čech, dle země pobytu v době sčítání z 31. prosince 1900",
+        "chapter_number": "II",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo, v Čechách zrozené i přítomné, dle politického okresu svého rodiště a pobytu",
+        "chapter_number": "III",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Obyvatelstvo, v Čechách přítomné a zrozené, dle skupin okresů",
+        "chapter_number": "IV",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Čísla, jež jsou podkladem kartogrammů I.—-IV.",
+        "chapter_number": "V",
+        "page_number": "22",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kartogrammy:",
+    "chapter_number": "",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Bilance vnitřního stěhování dle údajů o rodišti obyvatelstva z 31./12. 1900.",
+        "chapter_number": "I",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Poměrný počet obyvatelstva zemědělského v jednotlivých okresech.",
+        "chapter_number": "II",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Míra přítažlivosti Prahy a okolí na obyvatelstvo jednotlivých okresů.",
+        "chapter_number": "III",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Míra přítažlivosti okresů severočeské pánve hnědouhelné na obyvatelstvo ostatnich okresů.",
+        "chapter_number": "IV",
+        "page_number": null,
+        "children": []
+      }
+    ]
+  }
+]

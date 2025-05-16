@@ -1,0 +1,197 @@
+
+[
+  {
+    "title": "Zeitrau m",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Geschichte der Stadt",
+        "chapter_number": "I. Theil",
+        "page_number": "355",
+        "children": [
+          {
+            "title": "Nestaurationsversuche",
+            "chapter_number": "1",
+            "page_number": "355",
+            "children": []
+          },
+          {
+            "title": "Ein unglitcklicher Prozeß",
+            "chapter_number": "2",
+            "page_number": "362",
+            "children": []
+          },
+          {
+            "title": "Eine Zeit der Gährung",
+            "chapter_number": "3",
+            "page_number": "377",
+            "children": []
+          },
+          {
+            "title": "Die Zeit der Gegenreformation",
+            "chapter_number": "4",
+            "page_number": "381",
+            "children": []
+          },
+          {
+            "title": "Die Kriegsereignisse",
+            "chapter_number": "5",
+            "page_number": "417",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Geschichte der Cultur",
+        "chapter_number": "II. Theil",
+        "page_number": "437",
+        "children": [
+          {
+            "title": "Das Recht",
+            "chapter_number": "1",
+            "page_number": "437",
+            "children": []
+          },
+          {
+            "title": "Kirche und Schule",
+            "chapter_number": "2",
+            "page_number": "452",
+            "children": []
+          },
+          {
+            "title": "Die Stadt und ihre Umgebung, die Bürger u. ihr Leben",
+            "chapter_number": "3",
+            "page_number": "466",
+            "children": []
+          },
+          {
+            "title": "Die Nachbarschaft",
+            "chapter_number": "4",
+            "page_number": "512",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Zeitrau m",
+    "chapter_number": "IV",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Die Schickfale der Stadt",
+        "chapter_number": "I. Theil",
+        "page_number": "533",
+        "children": [
+          {
+            "title": "Der Verfall derselben",
+            "chapter_number": "1",
+            "page_number": "533",
+            "children": []
+          },
+          {
+            "title": "Das Interdict",
+            "chapter_number": "2",
+            "page_number": "540",
+            "children": []
+          },
+          {
+            "title": "Die Bauern nnd die Pest",
+            "chapter_number": "3",
+            "page_number": "547",
+            "children": []
+          },
+          {
+            "title": "Pfalz von Ostriz",
+            "chapter_number": "4",
+            "page_number": "550",
+            "children": []
+          },
+          {
+            "title": "Die Kriegszeiten",
+            "chapter_number": "5",
+            "page_number": "554",
+            "children": []
+          },
+          {
+            "title": "Das Ende der Autonomie",
+            "chapter_number": "6",
+            "page_number": "562",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Geschichte der Cultur",
+        "chapter_number": "II. Theil",
+        "page_number": "571",
+        "children": [
+          {
+            "title": "Das Recht",
+            "chapter_number": "1",
+            "page_number": "571",
+            "children": []
+          },
+          {
+            "title": "Kirche und Schule",
+            "chapter_number": "2",
+            "page_number": "586",
+            "children": []
+          },
+          {
+            "title": "Stadt und Bürger",
+            "chapter_number": "3",
+            "page_number": "606",
+            "children": []
+          },
+          {
+            "title": "Nachbarschaft",
+            "chapter_number": "4",
+            "page_number": "621",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Zeitrau m",
+    "chapter_number": "V",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Der Absolutismus und die neueste Zeit",
+        "chapter_number": "",
+        "page_number": "631",
+        "children": [
+          {
+            "title": "Schicksale der Stadt",
+            "chapter_number": "1",
+            "page_number": "631",
+            "children": []
+          },
+          {
+            "title": "Kirche Schule und Wolthätigkeitsanstalten",
+            "chapter_number": "2",
+            "page_number": "637",
+            "children": []
+          },
+          {
+            "title": "Stadt und Bürger",
+            "chapter_number": "3",
+            "page_number": "639",
+            "children": []
+          },
+          {
+            "title": "Nachbarn",
+            "chapter_number": "4",
+            "page_number": "643",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

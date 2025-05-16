@@ -1,0 +1,90 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "PRÁCE",
+    "chapter_number": "I",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "Článek o práci",
+        "chapter_number": "1",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Přísloví",
+        "chapter_number": "2",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Citáty",
+        "chapter_number": "3",
+        "page_number": "12",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "SPOŘIVOST",
+    "chapter_number": "II",
+    "page_number": "27",
+    "children": [
+      {
+        "title": "Článek o spořivosti",
+        "chapter_number": "1",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Přísloví",
+        "chapter_number": "2",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Citáty",
+        "chapter_number": "3",
+        "page_number": "32",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "PRÁCE - SPOŘIVOST",
+    "chapter_number": "III",
+    "page_number": "49",
+    "children": [
+      {
+        "title": "Přísloví",
+        "chapter_number": "1",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Citáty",
+        "chapter_number": "2",
+        "page_number": "49",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "DESATERO STŘÁDALŮ",
+    "chapter_number": "IV",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "SEZNAM AUTORŮ",
+    "chapter_number": "V",
+    "page_number": "57",
+    "children": []
+  }
+]

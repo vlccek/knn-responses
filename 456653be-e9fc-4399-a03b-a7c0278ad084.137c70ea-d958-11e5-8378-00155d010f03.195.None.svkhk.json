@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "Čtení o Karlu Havlíčkovi",
+    "chapter_number": "I",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Čtení o Václavu Beneši Třebízském",
+    "chapter_number": "II",
+    "page_number": "55",
+    "children": [
+      {
+        "title": "Doma v Třebízi",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Na studiích (1861-1866. 1866-1870)",
+        "chapter_number": "",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "V rouše kněžském",
+        "chapter_number": "",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Na Klecanech",
+        "chapter_number": "",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Mezi lidem",
+        "chapter_number": "",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Mezi dětmi",
+        "chapter_number": "",
+        "page_number": "122",
+        "children": []
+      },
+      {
+        "title": "Při práci spisovatelské",
+        "chapter_number": "",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "Hrob",
+        "chapter_number": "",
+        "page_number": "148",
+        "children": []
+      },
+      {
+        "title": "Závěr",
+        "chapter_number": "",
+        "page_number": "160",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,58 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Úvodní slovo",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Hlava",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Význam pohlaví",
+        "chapter_number": "I",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Fysiologie",
+        "chapter_number": "II",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Problém mladého muže",
+        "chapter_number": "III",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Čistý život",
+        "chapter_number": "IV",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Omyly v pohlavní otázce",
+        "chapter_number": "V",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Rozumný zápas o charakter",
+        "chapter_number": "VI",
+        "page_number": "50",
+        "children": []
+      }
+    ]
+  }
+]

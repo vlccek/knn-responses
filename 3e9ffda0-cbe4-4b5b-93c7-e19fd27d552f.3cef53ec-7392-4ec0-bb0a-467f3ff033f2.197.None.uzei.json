@@ -1,0 +1,202 @@
+
+[
+  {
+    "title": "Náhrada práce: potahem strojem",
+    "chapter_number": "61",
+    "page_number": "108",
+    "children": [
+      {
+        "title": "Kapitál",
+        "chapter_number": "c",
+        "page_number": "110",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kapitál v zemědělství",
+    "chapter_number": "62",
+    "page_number": "114",
+    "children": []
+  },
+  {
+    "title": "Kapitál vlastníka",
+    "chapter_number": "63",
+    "page_number": "115",
+    "children": []
+  },
+  {
+    "title": "Kapitál nájemce",
+    "chapter_number": "64",
+    "page_number": "119",
+    "children": []
+  },
+  {
+    "title": "Vzájemný poměr kapitálů",
+    "chapter_number": "65",
+    "page_number": "125",
+    "children": []
+  },
+  {
+    "title": "Výrobní poměry podniku",
+    "chapter_number": "II",
+    "page_number": "125",
+    "children": []
+  },
+  {
+    "title": "Poměry podniku",
+    "chapter_number": "66",
+    "page_number": "125",
+    "children": []
+  },
+  {
+    "title": "Poměry vnější",
+    "chapter_number": "67",
+    "page_number": "126",
+    "children": []
+  },
+  {
+    "title": "Vedení podniku.",
+    "chapter_number": "Část II",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Zemědělský podnikatel",
+        "chapter_number": "68",
+        "page_number": "127",
+        "children": []
+      },
+      {
+        "title": "Družstvo jako podnikatel",
+        "chapter_number": "69",
+        "page_number": "130",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Účel zemědělské výroby.",
+    "chapter_number": "Část III",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Čistý výnos zemědělského podniku",
+        "chapter_number": "70",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Složky čistého výnosu",
+        "chapter_number": "71",
+        "page_number": "133",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Uspořádání zemědělské výroby.",
+    "chapter_number": "Část IV",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Soustavy hospodářské",
+        "chapter_number": "72",
+        "page_number": "135",
+        "children": []
+      },
+      {
+        "title": "Výroba rostlinná",
+        "chapter_number": "73",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Výroba zvířecí",
+        "chapter_number": "74",
+        "page_number": "139",
+        "children": []
+      },
+      {
+        "title": "Osevní postupy",
+        "chapter_number": "75",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Statika půdy",
+        "chapter_number": "76",
+        "page_number": "152",
+        "children": []
+      },
+      {
+        "title": "Zemědělský průmysl.",
+        "chapter_number": "77",
+        "page_number": "155",
+        "children": []
+      },
+      {
+        "title": "Nárys uspořádání malého zemědělského podniku",
+        "chapter_number": "78",
+        "page_number": "155",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Soukromohospodářská nauka zemědělského podniku.",
+    "chapter_number": "Dil IV",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Zemědělská správa.",
+        "chapter_number": "Část I",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Podnikatel.",
+            "chapter_number": "79",
+            "page_number": "160",
+            "children": []
+          },
+          {
+            "title": "Nabývání podniku",
+            "chapter_number": "80",
+            "page_number": "162",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O odhadu.",
+        "chapter_number": "Část II",
+        "page_number": null,
+        "children": [
+          {
+            "title": "Všeobecné zásady oceňování",
+            "chapter_number": "81",
+            "page_number": "169",
+            "children": []
+          },
+          {
+            "title": "Náklady",
+            "chapter_number": "82",
+            "page_number": "170",
+            "children": []
+          },
+          {
+            "title": "Odhad zemědělských kapitálů.",
+            "chapter_number": "83",
+            "page_number": "171",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Účetnictví",
+        "chapter_number": "Část 111",
+        "page_number": "180",
+        "children": []
+      }
+    ]
+  }
+]

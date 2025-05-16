@@ -1,0 +1,311 @@
+
+[
+  {
+    "title": "O magnetičnosti.",
+    "chapter_number": "",
+    "page_number": "36",
+    "children": [
+      {
+        "title": "Kterak se jeví magnetičnost",
+        "chapter_number": "35",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "O polech magnetických",
+        "chapter_number": "36",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Jak se budí magnetičnost",
+        "chapter_number": "37",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Kterak se síla magnetu tuží a zvětšuje",
+        "chapter_number": "38",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "Deklinace magnetická. Kompas",
+        "chapter_number": "39",
+        "page_number": "41",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O električnosti.",
+    "chapter_number": "",
+    "page_number": "42",
+    "children": [
+      {
+        "title": "Kterak se jeví električnost.",
+        "chapter_number": "40",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "Kterými tělesy rozvádí se elektřina",
+        "chapter_number": "41",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Jak působí tělesa elektrická na sebe navzájem",
+        "chapter_number": "42",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Jak působí těleso elektrické na těleso neelektrické",
+        "chapter_number": "43",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Jak se určuje elektřina elektroskopem",
+        "chapter_number": "44",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Proč uchází elektřina z těles elektrických.",
+        "chapter_number": "45",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Jak se budí větší množství elektřiny",
+        "chapter_number": "46",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Kterých účinků jest elektřina schopna",
+        "chapter_number": "47",
+        "page_number": "49",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Proud galvanický.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Jak povstane proud galvanický",
+        "chapter_number": "48",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Které jsou nejdůležitější články galvanické",
+        "chapter_number": "49",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Kterak lze docíliti proudu silného",
+        "chapter_number": "50",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Jak se budí elektrické teplo a světlo",
+        "chapter_number": "51",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rovnováha těles.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Jak se vyhledává těžiště podpíráním",
+        "chapter_number": "52",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Jak se vyšetřuje těžiště zavěšováním",
+        "chapter_number": "53",
+        "page_number": "59",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Tlak kapalin.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Kterak lze těleso udržeti v rovnováze.",
+        "chapter_number": "54",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Jak lze stálost polohy zvětšiti",
+        "chapter_number": "55",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Kterak se užívá kladky nehybné",
+        "chapter_number": "56",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Jaké mají býti váhy obecné",
+        "chapter_number": "57",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Jaký tvar má povrch ustálené kapaliny.",
+        "chapter_number": "58",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Jak působí kapalina tíží na dno nádoby a na stěny její",
+        "chapter_number": "59",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Jak působí kapalina zdola na plochu vnořenou",
+        "chapter_number": "60",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Jak veliký je tlak kapaliny na dno.",
+        "chapter_number": "61",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Jak se zachovávají kapaliny v nádobách spojitých",
+        "chapter_number": "62",
+        "page_number": "69",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Tlak vzduchu.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Ovzduší",
+        "chapter_number": "63",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Jak působí vzduch tíží na tělesa, s nimiž se stýká",
+        "chapter_number": "64",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Jak se měří tlak vzduchu",
+        "chapter_number": "65",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "K čemu lze užiti tlakoměru",
+        "chapter_number": "66",
+        "page_number": "73",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O zvuku.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Jak povstává zvuk...",
+        "chapter_number": "67",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Čím se nese zvuk do dálky",
+        "chapter_number": "68",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Jak rychle postupuje zvuk",
+        "chapter_number": "69",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Čím sesiluje se zvuk",
+        "chapter_number": "70",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Kterak postupuje zvuk do dálky",
+        "chapter_number": "71",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O světle.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Jak působí světlo v tělesa",
+        "chapter_number": "72",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Kterak se šíří světlo",
+        "chapter_number": "73",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Jak povstává stín",
+        "chapter_number": "74",
+        "page_number": "80",
+        "children": []
+      },
+      {
+        "title": "Cím se spravuje světlost plochy ozářené",
+        "chapter_number": "75",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Jak se měří svítivost",
+        "chapter_number": "76",
+        "page_number": "82",
+        "children": []
+      }
+    ]
+  }
+]

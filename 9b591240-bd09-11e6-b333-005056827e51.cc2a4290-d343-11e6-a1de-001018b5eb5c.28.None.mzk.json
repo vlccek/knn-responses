@@ -1,0 +1,58 @@
+
+[
+  {
+    "title": "Text",
+    "chapter_number": "",
+    "page_number": "2",
+    "children": []
+  },
+  {
+    "title": "Přílohy",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Jazykový zákon",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Z ústavní listiny",
+        "chapter_number": "",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Česká mírová smlouva o ochraně menšin",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Rakouská mírová smlouva",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Maďarská mírová smlouva",
+        "chapter_number": "",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Bulharská mírová smlouva",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Brněnská smlouva",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,150 @@
+
+[
+  {
+    "title": "Feld-Spitäler",
+    "chapter_number": "b",
+    "page_number": "192",
+    "children": []
+  },
+  {
+    "title": "Reserve-Spitäler auf dem Kriegsschauplatze",
+    "chapter_number": "c",
+    "page_number": "195",
+    "children": []
+  },
+  {
+    "title": "Feld-Marodehäuser",
+    "chapter_number": "d",
+    "page_number": "196",
+    "children": []
+  },
+  {
+    "title": "Kranken-Haltstationen",
+    "chapter_number": "e",
+    "page_number": "196",
+    "children": []
+  },
+  {
+    "title": "Krankenabschub und Krankenzerstreuung",
+    "chapter_number": "3",
+    "page_number": "198",
+    "children": [
+      {
+        "title": "Krankenabschub",
+        "chapter_number": "a",
+        "page_number": "198",
+        "children": [
+          {
+            "title": "Transportmittel für den Krankenabschub",
+            "chapter_number": "",
+            "page_number": "199",
+            "children": [
+              {
+                "title": "Blessirtenwägen und Fuhrwerke",
+                "chapter_number": "α",
+                "page_number": "199",
+                "children": []
+              },
+              {
+                "title": "Eisenbahnsanitätszüge",
+                "chapter_number": "β",
+                "page_number": "199",
+                "children": []
+              },
+              {
+                "title": "Krankenzüge",
+                "chapter_number": "Y",
+                "page_number": "199",
+                "children": []
+              },
+              {
+                "title": "Gewöhnliche Verkehrszüge",
+                "chapter_number": "δ",
+                "page_number": "200",
+                "children": []
+              },
+              {
+                "title": "Schiffsambulanzen",
+                "chapter_number": "ε",
+                "page_number": "200",
+                "children": []
+              },
+              {
+                "title": "Sonstige Wasserfahrzeuge",
+                "chapter_number": "ζ",
+                "page_number": "200",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Krankenzerstreuung",
+        "chapter_number": "b",
+        "page_number": "201",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Genfer-Convention.",
+    "chapter_number": "C",
+    "page_number": "203",
+    "children": []
+  },
+  {
+    "title": "Zweck und Bestimmung der Genfer-Convention",
+    "chapter_number": "",
+    "page_number": "203",
+    "children": []
+  },
+  {
+    "title": "Sanitätsanstalten, die in Österreich als Ambulanzen gelten",
+    "chapter_number": "",
+    "page_number": "203",
+    "children": []
+  },
+  {
+    "title": "Zeichen der Genfer-Convention",
+    "chapter_number": "",
+    "page_number": "203",
+    "children": []
+  },
+  {
+    "title": "Die freiwillige Sanitätspflege im Kriege.",
+    "chapter_number": "D",
+    "page_number": "204",
+    "children": []
+  },
+  {
+    "title": "Thätigkeit der freiwilligen Sanitätspflege",
+    "chapter_number": "",
+    "page_number": "204",
+    "children": []
+  },
+  {
+    "title": "Deutscher Ritterorden",
+    "chapter_number": "a",
+    "page_number": "204",
+    "children": []
+  },
+  {
+    "title": "Malteser-Ritterorden",
+    "chapter_number": "b",
+    "page_number": "205",
+    "children": []
+  },
+  {
+    "title": "Die österr. und ung. Gesellschaft vom rothen Kreuze",
+    "chapter_number": "c",
+    "page_number": "206",
+    "children": []
+  },
+  {
+    "title": "Die freiwilligen Leistungen von sonstigen Vereinen, Corpo-rationen und Einzelpersonen",
+    "chapter_number": "d",
+    "page_number": "208",
+    "children": []
+  }
+]

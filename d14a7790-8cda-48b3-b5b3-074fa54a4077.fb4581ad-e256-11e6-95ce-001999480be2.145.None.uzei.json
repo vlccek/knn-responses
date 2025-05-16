@@ -1,0 +1,172 @@
+
+[
+  {
+    "title": "Vzájemný poměr výroby zvířecí, zemědělsko-průmyslové a rostlinné",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Poměr výroby zvířecí, zemědělsko-průmyslové k výrobě rostlinné",
+        "chapter_number": "",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Poměr výroby zemědělsko-průmyslové k výrobě zvířecí",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Grafické znázornění vzájemného poměru výroby rostlinné, zvířecí a zeměděisko-průmyslové",
+        "chapter_number": "",
+        "page_number": "6",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vliv výroby zvířecí a zemědělsko-průmyslové na výrobu rostlinnou",
+    "chapter_number": "II",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Vliv výroby zvířecí na výrobu rostlinnou",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Vliv výroby zemědělsko-průmyslové na výrobu rostlinnou",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vliv výroby zemědělsko-průmyslové na výrobu zvířecí",
+    "chapter_number": "III",
+    "page_number": "28",
+    "children": []
+  },
+  {
+    "title": "Organisace výroby zvířecí",
+    "chapter_number": "IV",
+    "page_number": "38",
+    "children": [
+      {
+        "title": "Organisace dobytka tažného",
+        "chapter_number": "A",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Organisace dobytka užitkového",
+        "chapter_number": "B",
+        "page_number": "56",
+        "children": [
+          {
+            "title": "Organisace hovězího dobytka",
+            "chapter_number": "1",
+            "page_number": "63",
+            "children": [
+              {
+                "title": "Volba způsobu užitku hovězího dobytka",
+                "chapter_number": "a",
+                "page_number": "63",
+                "children": []
+              },
+              {
+                "title": "Volba kmene hovězího dobytka",
+                "chapter_number": "b",
+                "page_number": "73",
+                "children": []
+              },
+              {
+                "title": "Stanovení množství hovězího dobytka",
+                "chapter_number": "c",
+                "page_number": "80",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Organisace ostatního dobytka užitkového",
+            "chapter_number": "2",
+            "page_number": "111",
+            "children": [
+              {
+                "title": "Dobytek vepřový",
+                "chapter_number": "a",
+                "page_number": "112",
+                "children": []
+              },
+              {
+                "title": "Dobytek skopový",
+                "chapter_number": "b",
+                "page_number": "118",
+                "children": []
+              },
+              {
+                "title": "Plemenné koně",
+                "chapter_number": "c",
+                "page_number": "121",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Organisace výroby zemědělsko-průmyslové",
+    "chapter_number": "V",
+    "page_number": "122",
+    "children": [
+      {
+        "title": "Poměry průmyslu cukrovarnického",
+        "chapter_number": "a",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Poměry průmyslu lihovarnického",
+        "chapter_number": "b",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Poměry průmyslu škrobárnického",
+        "chapter_number": "c",
+        "page_number": "135",
+        "children": []
+      },
+      {
+        "title": "Poměry průmyslu sladovnického a pivovarnického",
+        "chapter_number": "d",
+        "page_number": "136",
+        "children": []
+      },
+      {
+        "title": "Poměry průmyslu mlynářského",
+        "chapter_number": "e",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Poměry výroby olejů rostlinných",
+        "chapter_number": "f",
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Poměry výroby náhražků kávových",
+        "chapter_number": "g",
+        "page_number": "138",
+        "children": []
+      }
+    ]
+  }
+]

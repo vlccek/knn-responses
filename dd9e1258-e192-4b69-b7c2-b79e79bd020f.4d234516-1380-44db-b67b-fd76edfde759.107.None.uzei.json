@@ -1,0 +1,495 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Úvodní slovo",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Děvče bez hosp. školy",
+    "chapter_number": "",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Krmení drůbeže ovsem",
+    "chapter_number": "",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Potrava drůbeže v zimě",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Krmení slepic v zimě",
+    "chapter_number": "",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "Kopřiva a bodlák",
+    "chapter_number": "",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "Rezanka z jetele",
+    "chapter_number": "",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Na místo kopřiv",
+    "chapter_number": "",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "Topinambury",
+    "chapter_number": "",
+    "page_number": "15",
+    "children": []
+  },
+  {
+    "title": "Rostliny zlevňující chov",
+    "chapter_number": "",
+    "page_number": "16",
+    "children": []
+  },
+  {
+    "title": "Husy a kostival",
+    "chapter_number": "",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Chytání hmyzu",
+    "chapter_number": "",
+    "page_number": "18",
+    "children": []
+  },
+  {
+    "title": "Levná výživa drůbeže",
+    "chapter_number": "",
+    "page_number": "19",
+    "children": []
+  },
+  {
+    "title": "Pozor na krmení",
+    "chapter_number": "",
+    "page_number": "20",
+    "children": []
+  },
+  {
+    "title": "Výborné krmivo",
+    "chapter_number": "",
+    "page_number": "20",
+    "children": []
+  },
+  {
+    "title": "Opatření drůbeže proti zimě",
+    "chapter_number": "",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Omrzlé hřebeny",
+    "chapter_number": "",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Léčení nachlazené drůbeže",
+    "chapter_number": "",
+    "page_number": "23",
+    "children": []
+  },
+  {
+    "title": "Cholera drůbeže",
+    "chapter_number": "",
+    "page_number": "23-25",
+    "children": []
+  },
+  {
+    "title": "Slepičí mor",
+    "chapter_number": "",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Opatření úřadů",
+    "chapter_number": "",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Prostředky proti choleře",
+    "chapter_number": "",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Nová nákaza drůbeže",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Mor drůbeže",
+    "chapter_number": "",
+    "page_number": "32",
+    "children": []
+  },
+  {
+    "title": "Skrkavky",
+    "chapter_number": "",
+    "page_number": "33",
+    "children": []
+  },
+  {
+    "title": "Pelichání drůbeže",
+    "chapter_number": "",
+    "page_number": "34-35",
+    "children": []
+  },
+  {
+    "title": "Zkrácení doby beznosnosti",
+    "chapter_number": "",
+    "page_number": "36",
+    "children": []
+  },
+  {
+    "title": "Aby slepice nesly",
+    "chapter_number": "",
+    "page_number": "37",
+    "children": []
+  },
+  {
+    "title": "Opatření drůbeže",
+    "chapter_number": "",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "Sbírané mléko a vejce",
+    "chapter_number": "",
+    "page_number": "40",
+    "children": []
+  },
+  {
+    "title": "Rozdělování nasazování",
+    "chapter_number": "",
+    "page_number": "41",
+    "children": []
+  },
+  {
+    "title": "Srpnová kuřata",
+    "chapter_number": "",
+    "page_number": "42",
+    "children": []
+  },
+  {
+    "title": "Mladé slepičky",
+    "chapter_number": "",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Těžba vajec",
+    "chapter_number": "",
+    "page_number": "44",
+    "children": []
+  },
+  {
+    "title": "Kontrola nosnosti",
+    "chapter_number": "",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Aby slepice nezanášely",
+    "chapter_number": "",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Kdy navyká drůbež",
+    "chapter_number": "",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Nasazování hus",
+    "chapter_number": "",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Husy dvakrát nesoucí",
+    "chapter_number": "",
+    "page_number": "49",
+    "children": []
+  },
+  {
+    "title": "Prohlížení vajec",
+    "chapter_number": "",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "Zkoušení vajec",
+    "chapter_number": "",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Stáří vajec",
+    "chapter_number": "",
+    "page_number": "51",
+    "children": []
+  },
+  {
+    "title": "Oplodněná vejce",
+    "chapter_number": "",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Kvočny se zvápen. nohami",
+    "chapter_number": "",
+    "page_number": "53",
+    "children": []
+  },
+  {
+    "title": "Topky na vejcích",
+    "chapter_number": "",
+    "page_number": "54",
+    "children": []
+  },
+  {
+    "title": "Zkrácení kvokavosti",
+    "chapter_number": "",
+    "page_number": "55",
+    "children": []
+  },
+  {
+    "title": "Slepice požírají vejce",
+    "chapter_number": "",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "Konservování vajec",
+    "chapter_number": "",
+    "page_number": "57",
+    "children": []
+  },
+  {
+    "title": "Prosvěcování vajec",
+    "chapter_number": "",
+    "page_number": "59",
+    "children": []
+  },
+  {
+    "title": "Konservování vápnem",
+    "chapter_number": "",
+    "page_number": "60",
+    "children": []
+  },
+  {
+    "title": "vodním sklem",
+    "chapter_number": "",
+    "page_number": "62",
+    "children": []
+  },
+  {
+    "title": "balením",
+    "chapter_number": "",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Vlastnosti peří",
+    "chapter_number": "",
+    "page_number": "64",
+    "children": []
+  },
+  {
+    "title": "Husí prach a peřinky",
+    "chapter_number": "",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Kolik dá drůbež peří",
+    "chapter_number": "",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Bakterie při srážení se mléka",
+    "chapter_number": "",
+    "page_number": "67",
+    "children": []
+  },
+  {
+    "title": "Jak se vychlazuje mléko",
+    "chapter_number": "",
+    "page_number": "70",
+    "children": []
+  },
+  {
+    "title": "Konservování mléka",
+    "chapter_number": "",
+    "page_number": "72",
+    "children": []
+  },
+  {
+    "title": "másla",
+    "chapter_number": "",
+    "page_number": "73",
+    "children": []
+  },
+  {
+    "title": "Význam mléka sbíraného",
+    "chapter_number": "",
+    "page_number": "74",
+    "children": []
+  },
+  {
+    "title": "Způsoby odsmetaňovací",
+    "chapter_number": "",
+    "page_number": "76",
+    "children": []
+  },
+  {
+    "title": "Nestloukavost smetany",
+    "chapter_number": "",
+    "page_number": "77",
+    "children": []
+  },
+  {
+    "title": "Kozí mléko, máslo a sýr",
+    "chapter_number": "",
+    "page_number": "79",
+    "children": []
+  },
+  {
+    "title": "Příprava sýra z tvarohu",
+    "chapter_number": "",
+    "page_number": "81",
+    "children": []
+  },
+  {
+    "title": "Výroba máslových syrečků",
+    "chapter_number": "",
+    "page_number": "83",
+    "children": []
+  },
+  {
+    "title": "moravských syrečků",
+    "chapter_number": "",
+    "page_number": "84",
+    "children": []
+  },
+  {
+    "title": "Oblíbený sýr",
+    "chapter_number": "",
+    "page_number": "86",
+    "children": []
+  },
+  {
+    "title": "Cheddar",
+    "chapter_number": "",
+    "page_number": "87",
+    "children": []
+  },
+  {
+    "title": "Vývozní dánský sýr",
+    "chapter_number": "",
+    "page_number": "88",
+    "children": []
+  },
+  {
+    "title": "Pochoutkové sýry",
+    "chapter_number": "",
+    "page_number": "89",
+    "children": []
+  },
+  {
+    "title": "Význam mléka kozího",
+    "chapter_number": "",
+    "page_number": "90",
+    "children": []
+  },
+  {
+    "title": "Kde je více koz",
+    "chapter_number": "",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "„Culling campaigus“",
+    "chapter_number": "",
+    "page_number": "92",
+    "children": []
+  },
+  {
+    "title": "Kontrolní hnízdo",
+    "chapter_number": "",
+    "page_number": "93",
+    "children": []
+  },
+  {
+    "title": "Zjišťování slepic dobrých a špatných",
+    "chapter_number": "",
+    "page_number": "94",
+    "children": []
+  },
+  {
+    "title": "Získávání nosivosti neb jalovosti slepic",
+    "chapter_number": "",
+    "page_number": "95",
+    "children": []
+  },
+  {
+    "title": "Co zjištěno na barvě těla slepic",
+    "chapter_number": "",
+    "page_number": "95",
+    "children": []
+  },
+  {
+    "title": "Spolehlivé znaky dobrých nosnic dle hmatu",
+    "chapter_number": "",
+    "page_number": "97",
+    "children": []
+  },
+  {
+    "title": "Hřeben a tvar hlavy jako známky dělnosti slepic",
+    "chapter_number": "",
+    "page_number": "98",
+    "children": []
+  },
+  {
+    "title": "Krmení drůbeže za světla umělého",
+    "chapter_number": "",
+    "page_number": "99",
+    "children": []
+  },
+  {
+    "title": "Vliv šrotu z čerstvých kostí",
+    "chapter_number": "",
+    "page_number": "102",
+    "children": []
+  }
+]

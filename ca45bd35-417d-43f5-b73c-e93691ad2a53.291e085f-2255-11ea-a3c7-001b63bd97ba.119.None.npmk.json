@@ -1,0 +1,136 @@
+
+[
+  {
+    "title": "Přehled poměrů politických.",
+    "chapter_number": "II",
+    "page_number": "96",
+    "children": [
+      {
+        "title": "Která politická území jsou v Americe",
+        "chapter_number": "§. 72",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "O americkém obyvatelstvu",
+        "chapter_number": "§. 73",
+        "page_number": "98",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Australii.",
+    "chapter_number": "E.O",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Popis fysikální.",
+        "chapter_number": "I",
+        "page_number": "",
+        "children": [
+          {
+            "title": "O poloze, plochém tvaru a velikosti souše.",
+            "chapter_number": "§. 74",
+            "page_number": "99",
+            "children": [
+              {
+                "title": "O mezích Australie",
+                "chapter_number": "1",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "O pevnině",
+                "chapter_number": "2",
+                "page_number": "",
+                "children": []
+              },
+              {
+                "title": "O ostrovech",
+                "chapter_number": "3",
+                "page_number": "100",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "O moři",
+            "chapter_number": "§. 75",
+            "page_number": "100",
+            "children": []
+          },
+          {
+            "title": "O kolmých tvarech povrchu australského",
+            "chapter_number": "§. 76",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Na ostrovech",
+                "chapter_number": "1",
+                "page_number": "101",
+                "children": []
+              },
+              {
+                "title": "Na pevnině",
+                "chapter_number": "2",
+                "page_number": "101",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "O řekách a jezerech",
+            "chapter_number": "§. 77",
+            "page_number": "101",
+            "children": []
+          },
+          {
+            "title": "O podnebí a bohatstvu půdy",
+            "chapter_number": "§. 78",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Přehled poměrův politických.",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Která politická území jsou v Australii",
+        "chapter_number": "§. 79",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "O australském obyvatelstvu",
+        "chapter_number": "§. 80",
+        "page_number": "102",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rozhled po všech zemědílech.",
+    "chapter_number": "F",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O poměrech fysikálních a jich důležitosti pro lidstvo",
+        "chapter_number": "§. 81",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Jak se mění povrch zemský",
+        "chapter_number": "§. 82",
+        "page_number": "104",
+        "children": []
+      }
+    ]
+  }
+]

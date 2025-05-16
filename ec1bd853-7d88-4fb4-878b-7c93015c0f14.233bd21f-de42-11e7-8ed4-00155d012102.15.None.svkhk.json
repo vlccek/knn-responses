@@ -1,0 +1,53 @@
+
+[
+  {
+    "title": "O citech úsobních.",
+    "chapter_number": "Částka II.",
+    "page_number": "148-154",
+    "children": []
+  },
+  {
+    "title": "O citech obsažních.",
+    "chapter_number": "Částka III.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O citech osobnostních.",
+        "chapter_number": "a)",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "O citech ideových.",
+        "chapter_number": "b)",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O stavích činných.",
+    "chapter_number": "Hlava druhá.",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O snaze vůbec.",
+        "chapter_number": "Částka I.",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "O žádosti.",
+        "chapter_number": "Částka II.",
+        "page_number": "170-174",
+        "children": []
+      },
+      {
+        "title": "O vůli.",
+        "chapter_number": "Částka III.",
+        "page_number": "174-181",
+        "children": []
+      }
+    ]
+  }
+]

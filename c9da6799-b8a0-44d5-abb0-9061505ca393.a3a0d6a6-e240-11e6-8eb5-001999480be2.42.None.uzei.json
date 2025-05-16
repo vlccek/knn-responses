@@ -1,0 +1,88 @@
+
+[
+  {
+    "title": "Dedikace",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "O zkušebných hospodářských stanicích vůbec",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Některé zajímavé příklady ze života zkušebných stanic",
+    "chapter_number": "II",
+    "page_number": "14",
+    "children": []
+  },
+  {
+    "title": "Krátký návod o vybírání vzorků pro zkušebnou stanici",
+    "chapter_number": "III",
+    "page_number": "25",
+    "children": [
+      {
+        "title": "Půda, nerosty, hnojiva a voda",
+        "chapter_number": "1",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Semena, moření semen, ničení škůdců a chorob",
+        "chapter_number": "2",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Jakosť pěstovaných plodin",
+        "chapter_number": "3",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Výrobky mléčné",
+        "chapter_number": "4",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Píce a odpadky tovární",
+        "chapter_number": "5",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Ovoce, některé technologické a různé látky",
+        "chapter_number": "6",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Některá praktická připomenutí",
+    "chapter_number": "IV",
+    "page_number": "31",
+    "children": []
+  },
+  {
+    "title": "Pravidla pro užívání lučebního ústavu výzkumného, zřízeného pro zastupitelský okres plzeňský",
+    "chapter_number": "V",
+    "page_number": "35",
+    "children": []
+  },
+  {
+    "title": "Sazba poplatků za užívání lučebního ústavu výzkumného, zřízeného zastupitelským okresem plzeňským",
+    "chapter_number": "VI",
+    "page_number": "37",
+    "children": []
+  }
+]

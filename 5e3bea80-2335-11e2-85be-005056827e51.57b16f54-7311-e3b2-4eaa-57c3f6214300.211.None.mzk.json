@@ -1,0 +1,146 @@
+
+[
+  {
+    "title": "In Nativitate et Resurrectione Domini",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "In Nativitate Domini",
+        "chapter_number": "I",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Oratio dicenda ante divinum Officium etc.",
+            "chapter_number": "",
+            "page_number": "5",
+            "children": []
+          },
+          {
+            "title": "Invitatorium etc.",
+            "chapter_number": "",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "In I. Nocturno",
+            "chapter_number": "",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "In II. Nocturno",
+            "chapter_number": "",
+            "page_number": "18",
+            "children": []
+          },
+          {
+            "title": "In III. Nocturno",
+            "chapter_number": "",
+            "page_number": "27",
+            "children": []
+          },
+          {
+            "title": "Te Deum laudamus",
+            "chapter_number": "",
+            "page_number": "33",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "In Resurrectione Domini",
+        "chapter_number": "II",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Oratio dicenda ante divinum Officium etc.",
+            "chapter_number": "",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "Invitatorium etc.",
+            "chapter_number": "",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "In Nocturno",
+            "chapter_number": "",
+            "page_number": "43",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Appendix",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Benedictiones Nonnullae",
+            "chapter_number": "",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Benedictio Aquae",
+                "chapter_number": "",
+                "page_number": "53",
+                "children": []
+              },
+              {
+                "title": "Benedictio Domorum",
+                "chapter_number": "",
+                "page_number": "57",
+                "children": []
+              },
+              {
+                "title": "Benedictio Domus novae",
+                "chapter_number": "",
+                "page_number": "59",
+                "children": []
+              },
+              {
+                "title": "Benedictio Loci cujuscunque",
+                "chapter_number": "",
+                "page_number": "60",
+                "children": []
+              },
+              {
+                "title": "Benedictio super fruges et vineas",
+                "chapter_number": "",
+                "page_number": "61",
+                "children": []
+              },
+              {
+                "title": "Benedictio Infirmorum",
+                "chapter_number": "",
+                "page_number": "62",
+                "children": []
+              },
+              {
+                "title": "Preces tempore Jubilaei Sacerdotis quinquagenarii",
+                "chapter_number": "",
+                "page_number": "66",
+                "children": []
+              },
+              {
+                "title": "Benedictio Sponsorum jubilatorum",
+                "chapter_number": "",
+                "page_number": "74",
+                "children": []
+              },
+              {
+                "title": "Benedictio Viae Crucis",
+                "chapter_number": "",
+                "page_number": "88",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

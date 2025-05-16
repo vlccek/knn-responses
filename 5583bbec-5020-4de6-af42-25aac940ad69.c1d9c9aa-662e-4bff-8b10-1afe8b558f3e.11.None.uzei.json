@@ -1,0 +1,109 @@
+
+[
+  {
+    "title": "KLIMATOLOGIE",
+    "chapter_number": "III",
+    "page_number": "265",
+    "children": [
+      {
+        "title": "Úvod",
+        "chapter_number": "",
+        "page_number": "265",
+        "children": []
+      },
+      {
+        "title": "Rozdělení podnebí",
+        "chapter_number": "1",
+        "page_number": "265",
+        "children": [
+          {
+            "title": "Dle osvětlení",
+            "chapter_number": "a",
+            "page_number": "",
+            "children": [
+              {
+                "title": "Teoretické rozdělení teploty",
+                "chapter_number": "",
+                "page_number": "266",
+                "children": []
+              },
+              {
+                "title": "Skutečné rozdělení teploty",
+                "chapter_number": "",
+                "page_number": "266",
+                "children": []
+              },
+              {
+                "title": "Tropické podnebí",
+                "chapter_number": "",
+                "page_number": "266",
+                "children": []
+              },
+              {
+                "title": "Podnebí mírného pásu",
+                "chapter_number": "",
+                "page_number": "267",
+                "children": []
+              },
+              {
+                "title": "Polární podnebí",
+                "chapter_number": "",
+                "page_number": "267",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Vliv našeho podnebí na vegetační poměry",
+        "chapter_number": "2",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Poměry tepelné",
+            "chapter_number": "",
+            "page_number": "274",
+            "children": []
+          },
+          {
+            "title": "Vliv extrémních teplot",
+            "chapter_number": "",
+            "page_number": "274",
+            "children": []
+          },
+          {
+            "title": "Vliv vlhkostni",
+            "chapter_number": "",
+            "page_number": "275",
+            "children": []
+          },
+          {
+            "title": "Poměry srážkové",
+            "chapter_number": "",
+            "page_number": "275",
+            "children": []
+          },
+          {
+            "title": "Vliv srážek",
+            "chapter_number": "",
+            "page_number": "276",
+            "children": []
+          },
+          {
+            "title": "Vliv větrů",
+            "chapter_number": "",
+            "page_number": "277",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+    {
+    "title": "POČETNÍ PŘÍKLADY",
+    "chapter_number": "",
+    "page_number": "278",
+    "children": []
+  }
+]

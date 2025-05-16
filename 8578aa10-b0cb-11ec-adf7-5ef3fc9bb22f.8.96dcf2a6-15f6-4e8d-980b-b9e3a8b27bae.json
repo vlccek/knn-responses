@@ -1,0 +1,230 @@
+
+[
+  {
+    "title": "Oddíl A. Osoba hospodáře.",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Zemědělské závody podle právní formy podnikání",
+        "chapter_number": "Tab. 1",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody fysických osob podle povolání hospodáře",
+        "chapter_number": "Tab. 2",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody podle vedlejšího povolání fysických osob provozujících zemědělství jako povolání hlavní",
+        "chapter_number": "Tab. 3",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody podle hlavního povolání fysických osob provozujících zemědělství jako povolání vedlejší",
+        "chapter_number": "Tab. 4",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody osob fysických podle bydliště hospodáře, a závody v celku pronajaté podle bydliště vlastníka",
+        "chapter_number": "Tab. 5",
+        "page_number": "47",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl B. Půda závodů.",
+    "chapter_number": "",
+    "page_number": "52",
+    "children": [
+      {
+        "title": "Zemědělské závody podle právního důvodu používání pozemků:",
+        "chapter_number": "Tab. 6",
+        "page_number": "52",
+        "children": [
+          {
+            "title": "podle vlastní a cizí půdy",
+            "chapter_number": "a)",
+            "page_number": "52",
+            "children": []
+          },
+          {
+            "title": "podle druhů cizí půdy",
+            "chapter_number": "b)",
+            "page_number": "57",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Výměra zemědělských závodů podle právního důvodu používání pozemků",
+        "chapter_number": "Tab. 7",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody podle kultur:",
+        "chapter_number": "Tab. 8",
+        "page_number": "74",
+        "children": [
+          {
+            "title": "orná půda, trvalé louky, zahrady užitkové a obchodní",
+            "chapter_number": "Část 1",
+            "page_number": "74",
+            "children": []
+          },
+          {
+            "title": "vinice, pastviny, lesy, rybníky k chovu ryb a pícniny úhrnem",
+            "chapter_number": "Část 2",
+            "page_number": "106",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zemědělské závody podle pěstovaných plodin:",
+        "chapter_number": "Tab. 9",
+        "page_number": "138",
+        "children": [
+          {
+            "title": "podle hlavních skupin plodin",
+            "chapter_number": "a)",
+            "page_number": "138",
+            "children": []
+          },
+          {
+            "title": "podle pěstování zvláštních plodin",
+            "chapter_number": "b)",
+            "page_number": "147",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Oddíl C. Hospodářské zvířectvo.",
+    "chapter_number": "",
+    "page_number": "154",
+    "children": [
+      {
+        "title": "Zemědělské závody podle chovaného hospodářského zvířectva",
+        "chapter_number": "Tab. 10",
+        "page_number": "154",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody podle krav, chovného a žírného skotu",
+        "chapter_number": "Tab. 11",
+        "page_number": "172",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl D. Technické zařízení závodů.",
+    "chapter_number": "",
+    "page_number": "182",
+    "children": [
+      {
+        "title": "Zemědělské závody podle hnacích strojů a podle motorových pracovních strojů",
+        "chapter_number": "Tab. 12",
+        "page_number": "182",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody podle vlastních pracovních strojů nemotorických a podle používaných cizích strojů",
+        "chapter_number": "Tab. 13",
+        "page_number": "200",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody podle některých technických zařízení závodů",
+        "chapter_number": "Tab. 14",
+        "page_number": "218",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Oddíl E. Osoby činné v závodech.",
+    "chapter_number": "",
+    "page_number": "225",
+    "children": [
+      {
+        "title": "Zemědělské závody podle jednotlivých kategorií zaměstnanců",
+        "chapter_number": "Tab. 15",
+        "page_number": "225",
+        "children": []
+      },
+      {
+        "title": "Osoby zaměstnané v zemědělských závodech:",
+        "chapter_number": "Tab. 16",
+        "page_number": "242",
+        "children": [
+          {
+            "title": "(celkový počet osob podle pohlaví, věku a kategorií)",
+            "chapter_number": "Část 1",
+            "page_number": "242",
+            "children": []
+          },
+          {
+            "title": "(osoby mladší 16 let)",
+            "chapter_number": "Část 2",
+            "page_number": "276",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Oddíl F. Zvláštní údaje o zemědělských závodech.",
+    "chapter_number": "",
+    "page_number": "284",
+    "children": [
+      {
+        "title": "Zemědělské závody spojené se závodem zemědělského nebo lesního průmyslu",
+        "chapter_number": "Tab. 17",
+        "page_number": "284",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody s výměnkem",
+        "chapter_number": "Tab. 18",
+        "page_number": "288",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody podle druhu pojištění",
+        "chapter_number": "Tab. 19",
+        "page_number": "296",
+        "children": []
+      },
+      {
+        "title": "Zemědělské závody podle bytových poměrů hospodáře:",
+        "chapter_number": "Tab. 20",
+        "page_number": "301",
+        "children": [
+          {
+            "title": "podle počtu obytných místností a bydlících osob",
+            "chapter_number": "a)",
+            "page_number": "301",
+            "children": []
+          },
+          {
+            "title": "podle počtu osob bydlících v jedné místnosti",
+            "chapter_number": "b)",
+            "page_number": "310",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

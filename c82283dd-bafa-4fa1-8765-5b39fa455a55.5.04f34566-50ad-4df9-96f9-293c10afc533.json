@@ -1,0 +1,162 @@
+
+[
+  {
+    "title": "Piasten.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Breslau",
+        "chapter_number": "I",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Glogau",
+        "chapter_number": "II",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Oels",
+        "chapter_number": "III",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Schweidnitz und Münsterberg",
+        "chapter_number": "IV",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Oppeln und Ratibor",
+        "chapter_number": "V",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Oppeln II.",
+        "chapter_number": "VI",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Teschen und Auschwitz",
+        "chapter_number": "VII",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Teschen II.",
+        "chapter_number": "VIII",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Liegnitz und Brieg",
+        "chapter_number": "IX",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Liegnitz, Brieg, Wohlau",
+        "chapter_number": "X",
+        "page_number": "18",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Andere Häuser.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Premisliden in Troppau und Leobschütz",
+        "chapter_number": "XI",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Premisliden in Jägerndorf und Ratibor",
+        "chapter_number": "XII",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Die älteren Podiebrads in Münsterberg und Oels",
+        "chapter_number": "XIII",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Die jüngeren Podiebrads in Oels",
+        "chapter_number": "XIV",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Würtemberg-Oels",
+        "chapter_number": "XV",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Schlesische Fürsten aus verschiedenen Häusern",
+        "chapter_number": "XVI",
+        "page_number": "25",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hülfstafeln.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Polnische Piasten",
+        "chapter_number": "XVII",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Mazowische Piasten.",
+        "chapter_number": "XVIII",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Polnische Könige aus den Häusern Jagiello und Wasa",
+        "chapter_number": "XIX",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Böhmische Könige bis 1526",
+        "chapter_number": "XX",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Böhmische Könige aus dem Hause Habsburg",
+        "chapter_number": "XXI",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Bischöfe von Breslau",
+        "chapter_number": "",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Register",
+        "chapter_number": "",
+        "page_number": "63 bis 72",
+        "children": []
+      }
+    ]
+  }
+]

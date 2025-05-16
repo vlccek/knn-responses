@@ -1,0 +1,193 @@
+
+[
+  {
+    "title": "ÚVOD",
+    "chapter_number": "A",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Pojem logiky",
+        "chapter_number": "I",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Logika vědou nebo uměním?",
+        "chapter_number": "II",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "Užitek logiky",
+        "chapter_number": "III",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Poměr logiky k filosofii a vědám",
+        "chapter_number": "IV",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Dějiny logiky",
+        "chapter_number": "V",
+        "page_number": "14",
+        "children": [
+          {
+            "title": "Starověk",
+            "chapter_number": "a",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Středověk",
+            "chapter_number": "b",
+            "page_number": "19",
+            "children": []
+          },
+          {
+            "title": "Novověk do Kanta",
+            "chapter_number": "c",
+            "page_number": "21",
+            "children": []
+          },
+          {
+            "title": "Novověk po Kantovi",
+            "chapter_number": "d",
+            "page_number": "26",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Literatura",
+        "chapter_number": null,
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Místo logického myšlení v celkovém poznání",
+        "chapter_number": "VI",
+        "page_number": "46",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "LOGIKA ELEMENTÁRNÍ (formální v užším slova smyslu)",
+    "chapter_number": "B",
+    "page_number": "51",
+    "children": [
+      {
+        "title": "Řeč a myšlení. Význam symbolů",
+        "chapter_number": "I",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Vztah a jeho logický význam",
+        "chapter_number": "II",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Pojem předmětu",
+        "chapter_number": "III",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Soud a věta",
+        "chapter_number": "IV",
+        "page_number": "64",
+        "children": []
+      },
+      {
+        "title": "O pojmu",
+        "chapter_number": "V",
+        "page_number": "84",
+        "children": []
+      },
+      {
+        "title": "Logické zásady",
+        "chapter_number": "VI",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Úsudek",
+        "chapter_number": "VII",
+        "page_number": "107",
+        "children": []
+      },
+      {
+        "title": "Logické omyly, klamy a paradoxa",
+        "chapter_number": "VIII",
+        "page_number": "123",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "VĚDOSLOVÍ",
+    "chapter_number": "C",
+    "page_number": "131",
+    "children": [
+      {
+        "title": "Charakter vědy a vědecký systém",
+        "chapter_number": "I",
+        "page_number": "131",
+        "children": []
+      },
+      {
+        "title": "Metodologie",
+        "chapter_number": "II",
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Důkaz a vysvětlení",
+        "chapter_number": "III",
+        "page_number": "199",
+        "children": []
+      },
+      {
+        "title": "Logika hodnot",
+        "chapter_number": "IV",
+        "page_number": "210",
+        "children": []
+      },
+      {
+        "title": "Třídění věd",
+        "chapter_number": "V",
+        "page_number": "218",
+        "children": []
+      },
+      {
+        "title": "Logika a život",
+        "chapter_number": "VI",
+        "page_number": "251",
+        "children": []
+      },
+      {
+        "title": "Logická literatura",
+        "chapter_number": null,
+        "page_number": "259",
+        "children": []
+      },
+      {
+        "title": "Rejstřík věcný",
+        "chapter_number": null,
+        "page_number": "263",
+        "children": []
+      },
+      {
+        "title": "Rejstřík osobní",
+        "chapter_number": null,
+        "page_number": "270",
+        "children": []
+      }
+    ]
+  }
+]

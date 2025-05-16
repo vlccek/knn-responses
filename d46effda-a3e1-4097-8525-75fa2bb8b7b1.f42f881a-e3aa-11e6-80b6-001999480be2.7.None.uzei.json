@@ -1,0 +1,130 @@
+
+[
+  {
+    "title": "Úvod literárně historický",
+    "chapter_number": "I",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Nové základy",
+    "chapter_number": "II",
+    "page_number": "28",
+    "children": []
+  },
+  {
+    "title": "Soustava květenství",
+    "chapter_number": "III",
+    "page_number": "40",
+    "children": [
+      {
+        "title": "Květenství homotypní",
+        "chapter_number": "A",
+        "page_number": "41",
+        "children": [
+          {
+            "title": "Typ latovitý neboli thyrsoidní",
+            "chapter_number": "I",
+            "page_number": "41",
+            "children": [
+              {
+                "title": "Laty hroznovité",
+                "chapter_number": "AA",
+                "page_number": "41",
+                "children": []
+              },
+              {
+                "title": "Laty vrcholíkovité",
+                "chapter_number": "BB",
+                "page_number": "43",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Typ hroznovitý neboli botrytický",
+            "chapter_number": "II",
+            "page_number": "51",
+            "children": [
+              {
+                "title": "Botrye jednoduché",
+                "chapter_number": "AA",
+                "page_number": "51",
+                "children": []
+              },
+              {
+                "title": "Botrye složené",
+                "chapter_number": "BB",
+                "page_number": "53",
+                "children": [
+                  {
+                    "title": "Stejnotvárně složené",
+                    "chapter_number": "a",
+                    "page_number": "53",
+                    "children": []
+                  },
+                  {
+                    "title": "Různotvárně složené",
+                    "chapter_number": "b",
+                    "page_number": "54",
+                    "children": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "title": "Typ vidlanovitý neboli brachiální",
+            "chapter_number": "III",
+            "page_number": "55",
+            "children": [
+              {
+                "title": "Vidlany jednoduché",
+                "chapter_number": "AA",
+                "page_number": "55",
+                "children": []
+              },
+              {
+                "title": "Vidlany složené",
+                "chapter_number": "BB",
+                "page_number": "61",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Květenství heterotypní",
+        "chapter_number": "B",
+        "page_number": "63",
+        "children": [
+          {
+            "title": "Thyrsoidy",
+            "chapter_number": "AA",
+            "page_number": "64",
+            "children": []
+          },
+          {
+            "title": "Sarmentidy",
+            "chapter_number": "BB",
+            "page_number": "66",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Výklad obrazců",
+    "chapter_number": "",
+    "page_number": "69",
+    "children": []
+  },
+  {
+    "title": "Résumé",
+    "chapter_number": "",
+    "page_number": "72",
+    "children": []
+  }
+]

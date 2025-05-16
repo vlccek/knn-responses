@@ -1,0 +1,195 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Plodiny olejné",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Řepka",
+        "chapter_number": "I",
+        "page_number": "9",
+        "children": [
+          {
+            "title": "Pěstování řepky ozimé",
+            "chapter_number": "",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "Řepka jarní",
+            "chapter_number": "",
+            "page_number": "16",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Řepice čili řepák",
+        "chapter_number": "II",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Slunečnice",
+        "chapter_number": "III",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Mák",
+        "chapter_number": "IV",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Lnice",
+        "chapter_number": "V",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Madie olejná",
+        "chapter_number": "VI",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Bílá hořčice",
+        "chapter_number": "VII",
+        "page_number": "27",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rostliny barvířské",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": [
+      {
+        "title": "Slez černý",
+        "chapter_number": "I",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Světlice čili divoký šafrán",
+        "chapter_number": "II",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Ryt barvířský",
+        "chapter_number": "III",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Boryt čili domácí indigo",
+        "chapter_number": "IV",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Morena barvířská",
+        "chapter_number": "V",
+        "page_number": "33",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rostliny vláknaté čili přadelné",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": [
+      {
+        "title": "Len",
+        "chapter_number": "I",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Konopí",
+        "chapter_number": "II",
+        "page_number": "44",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rostliny listnaté",
+    "chapter_number": "",
+    "page_number": "47",
+    "children": [
+      {
+        "title": "Zelí hlávkové",
+        "chapter_number": "I",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Tabák",
+        "chapter_number": "II",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Štětka soukenická",
+        "chapter_number": "III",
+        "page_number": "56",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rostliny kořenné čili aromatické",
+    "chapter_number": "",
+    "page_number": "57",
+    "children": [
+      {
+        "title": "Chmel",
+        "chapter_number": "I",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Kmín",
+        "chapter_number": "II",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Fenykl",
+        "chapter_number": "III",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Anýz",
+        "chapter_number": "IV",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Křen",
+        "chapter_number": "V",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "Černá hořčice",
+        "chapter_number": "VI",
+        "page_number": "78",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,315 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Dějiny vinopalnictvi",
+    "chapter_number": "I",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Z dějin líhu",
+        "chapter_number": "A",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Z dějin řemeslné výroby líhu",
+        "chapter_number": "B",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Statistický náčrtek lihovarnictví",
+        "chapter_number": "C",
+        "page_number": "31",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O přípravě a kvašení zápar",
+    "chapter_number": "II",
+    "page_number": "38",
+    "children": [
+      {
+        "title": "O přípravě zápar",
+        "chapter_number": "A",
+        "page_number": "39",
+        "children": [
+          {
+            "title": "O zápaře melassové",
+            "chapter_number": "",
+            "page_number": "39",
+            "children": []
+          },
+          {
+            "title": "O zápaře burákové",
+            "chapter_number": "",
+            "page_number": "40",
+            "children": []
+          },
+          {
+            "title": "O zápaře obilné",
+            "chapter_number": "",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "O zápaře bramborové",
+            "chapter_number": "",
+            "page_number": "44",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O výrobě holovice",
+        "chapter_number": "B",
+        "page_number": "46",
+        "children": [
+          {
+            "title": "O přípravě zápary holovičné",
+            "chapter_number": "",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "O kvašení zápary holovičné",
+            "chapter_number": "",
+            "page_number": "52",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O kvašení zápar",
+        "chapter_number": "C",
+        "page_number": "56",
+        "children": [
+          {
+            "title": "O nasazování zápar",
+            "chapter_number": "",
+            "page_number": "57",
+            "children": []
+          },
+          {
+            "title": "O kvašení zápar bramborových",
+            "chapter_number": "",
+            "page_number": "59",
+            "children": []
+          },
+          {
+            "title": "O kvašení zápar obilných",
+            "chapter_number": "",
+            "page_number": "65",
+            "children": []
+          },
+          {
+            "title": "O kvašení zápar melassových",
+            "chapter_number": "",
+            "page_number": null,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "O droždí vinopalnickém",
+    "chapter_number": "III",
+    "page_number": "68",
+    "children": [
+      {
+        "title": "O povšechných vlastnostech bunic kvasničných",
+        "chapter_number": "A",
+        "page_number": "69",
+        "children": [
+          {
+            "title": "O tvaru bunic",
+            "chapter_number": "",
+            "page_number": "70",
+            "children": []
+          },
+          {
+            "title": "O velikosti bunic",
+            "chapter_number": "",
+            "page_number": "71",
+            "children": []
+          },
+          {
+            "title": "O protoplasmě bunic",
+            "chapter_number": "",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "O membráně bunic",
+            "chapter_number": "",
+            "page_number": "74",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O vzniku a životě kvasnic vinopalnických",
+        "chapter_number": "B",
+        "page_number": null,
+        "children": [
+          {
+            "title": "O vzniku a vzrůstu pupenův kvasničných",
+            "chapter_number": "",
+            "page_number": null,
+            "children": []
+          },
+          {
+            "title": "O vzniku a vzrůstu spór kvasničných",
+            "chapter_number": "",
+            "page_number": "76",
+            "children": []
+          },
+          {
+            "title": "O metamorfosách bunic kvasničných",
+            "chapter_number": "",
+            "page_number": "79",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "O bunici kvasničné v různých dobách kvašení",
+    "chapter_number": "C",
+    "page_number": "83",
+    "children": [
+      {
+        "title": "Výsledky zkoumání zápary holovičné a holovice",
+        "chapter_number": "",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Výsledky drobnohledného zkoumání zápary bramborové v jednotlivých dobách kvašení",
+        "chapter_number": "",
+        "page_number": "84",
+        "children": []
+      },
+      {
+        "title": "Výsledky drobnohledného zkoumání kvasící zápary melassové",
+        "chapter_number": "",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Výsledky drobnohledného zkoumání zápary obilné",
+        "chapter_number": "",
+        "page_number": "86",
+        "children": []
+      },
+      {
+        "title": "Výsledky drobnohledného zkoumání výpalkův",
+        "chapter_number": "",
+        "page_number": "87",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O metamorfosách škrobu",
+    "chapter_number": "D",
+    "page_number": null,
+    "children": [
+      {
+        "title": "O škrobu bramborovém",
+        "chapter_number": "",
+        "page_number": "88",
+        "children": []
+      },
+      {
+        "title": "O škrobu ječném atd.",
+        "chapter_number": "",
+        "page_number": "89",
+        "children": []
+      },
+      {
+        "title": "O škrobu rýžovém",
+        "chapter_number": "",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "O škrobu kukuřičném",
+        "chapter_number": "",
+        "page_number": "90",
+        "children": []
+      },
+      {
+        "title": "O škrobu ovesném",
+        "chapter_number": "",
+        "page_number": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O některých cizích organismech",
+    "chapter_number": "E",
+    "page_number": null,
+    "children": [
+      {
+        "title": "Bakterie",
+        "chapter_number": "",
+        "page_number": "91",
+        "children": []
+      },
+      {
+        "title": "Mycoderma cerevisiae (M. vini)",
+        "chapter_number": "",
+        "page_number": "93",
+        "children": []
+      },
+      {
+        "title": "Oidium lactis",
+        "chapter_number": "",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Mucor racemosus",
+        "chapter_number": "",
+        "page_number": "97",
+        "children": []
+      },
+      {
+        "title": "Penicillium glaucum",
+        "chapter_number": "",
+        "page_number": "98",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přehled české literatury vinopalnické",
+    "chapter_number": "IV",
+    "page_number": "99",
+    "children": [
+      {
+        "title": "Samostatné spisy věnované cele aneb částečně nauce o líhu",
+        "chapter_number": "A",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Články a pojednání o líhu, uveřejněné v časopisech českých",
+        "chapter_number": "B",
+        "page_number": "121",
+        "children": []
+      }
+    ]
+  }
+]

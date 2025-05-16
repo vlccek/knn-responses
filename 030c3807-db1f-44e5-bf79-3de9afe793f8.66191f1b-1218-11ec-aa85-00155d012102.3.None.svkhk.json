@@ -1,0 +1,151 @@
+
+[
+  {
+    "title": "Sčítání a odnímání",
+    "chapter_number": "1",
+    "page_number": "37",
+    "children": []
+  },
+  {
+    "title": "Násobení",
+    "chapter_number": "2",
+    "page_number": "38",
+    "children": []
+  },
+  {
+    "title": "Dělení",
+    "chapter_number": "3",
+    "page_number": "39",
+    "children": []
+  },
+  {
+    "title": "Počítání s algebraickými výrazy pořádanými",
+    "chapter_number": "4",
+    "page_number": "42",
+    "children": []
+  },
+  {
+    "title": "Zmocňování hledíc k rozličným kořenům",
+    "chapter_number": "III",
+    "page_number": "45",
+    "children": []
+  },
+  {
+    "title": "Zvyšování na čtverec a dobývání čtvercového kořene čísel zvláštních",
+    "chapter_number": "IV",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Povyšování na třetí mocnost a dobývání třetího kořene zvláštních čísel",
+    "chapter_number": "V",
+    "page_number": "57",
+    "children": []
+  },
+  {
+    "title": "Část čtvrtá. O sestavách",
+    "chapter_number": "",
+    "page_number": "66",
+    "children": [
+      {
+        "title": "Přestavy",
+        "chapter_number": "I",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Sestavy",
+        "chapter_number": "II",
+        "page_number": "71",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část pátá. Počítání v poměrech složených",
+    "chapter_number": "",
+    "page_number": "77",
+    "children": [
+      {
+        "title": "O složených poměrech a srovnalostech",
+        "chapter_number": "I",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Složený počet trojčlenný",
+        "chapter_number": "II",
+        "page_number": "85",
+        "children": []
+      },
+      {
+        "title": "Jednotný počet úroků",
+        "chapter_number": "",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Počítání na lhůty",
+        "chapter_number": "",
+        "page_number": "98",
+        "children": []
+      },
+      {
+        "title": "Počet společný",
+        "chapter_number": "III",
+        "page_number": "103",
+        "children": []
+      },
+      {
+        "title": "Počet o smíšení",
+        "chapter_number": "IV",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Počet řetězový",
+        "chapter_number": "V",
+        "page_number": "117",
+        "children": []
+      },
+      {
+        "title": "Úroční počty z úroků",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část šestá. Rovnice prvního stupně o jediné neznámé",
+    "chapter_number": "",
+    "page_number": "126",
+    "children": [
+      {
+        "title": "Rozlušťování rovnic prvního stupně o jedné neznámé",
+        "chapter_number": "I",
+        "page_number": "127",
+        "children": []
+      },
+      {
+        "title": "Užívání rovnic k rozlušťování úkolů",
+        "chapter_number": "II",
+        "page_number": "131",
+        "children": [
+          {
+            "title": "Úkoly s připojeným postavením",
+            "chapter_number": "1",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Úkoly k samocviku v postavování rovnic",
+            "chapter_number": "2",
+            "page_number": "138",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

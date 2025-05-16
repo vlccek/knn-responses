@@ -1,0 +1,317 @@
+
+[
+  {
+    "title": "Das Anschirren der Zugrinder",
+    "chapter_number": "IX",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Der Wagen",
+    "chapter_number": "X",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Das Einspannen der Zugtiere",
+    "chapter_number": "XI",
+    "page_number": "44",
+    "children": []
+  },
+  {
+    "title": "Das Lenken und Fahren",
+    "chapter_number": "XII",
+    "page_number": "48",
+    "children": [
+      {
+        "title": "Im leichten Zuge",
+        "chapter_number": "a",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Das Fahren im schweren Zuge",
+        "chapter_number": "b",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Der Huf- und Klauenbeschlag",
+    "chapter_number": "6",
+    "page_number": "52",
+    "children": [
+      {
+        "title": "Der Beschlag der Pferde",
+        "chapter_number": "a",
+        "page_number": "52",
+        "children": [
+          {
+            "title": "Der normale Huf und sein Beschlag",
+            "chapter_number": "1",
+            "page_number": "53",
+            "children": []
+          },
+          {
+            "title": "Der Zwanghuf",
+            "chapter_number": "2",
+            "page_number": "53",
+            "children": []
+          },
+          {
+            "title": "Der Bockhuf",
+            "chapter_number": "3",
+            "page_number": "53",
+            "children": []
+          },
+          {
+            "title": "Der schiefe Huf",
+            "chapter_number": "4",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Der Flachhuf",
+            "chapter_number": "5",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Der Vollhuf",
+            "chapter_number": "6",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Der Rehhuf",
+            "chapter_number": "7",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Das Einhauen",
+            "chapter_number": "8",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Das Streifen",
+            "chapter_number": "9",
+            "page_number": "57",
+            "children": []
+          },
+          {
+            "title": "Die Vernagelung",
+            "chapter_number": "10",
+            "page_number": "57",
+            "children": []
+          },
+          {
+            "title": "Der Nageltritt",
+            "chapter_number": "11",
+            "page_number": "58",
+            "children": []
+          },
+          {
+            "title": "Die Steingallen",
+            "chapter_number": "12",
+            "page_number": "58",
+            "children": []
+          },
+          {
+            "title": "Die Kronentritte",
+            "chapter_number": "13",
+            "page_number": "58",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Der Beschlag der Rinder",
+        "chapter_number": "b",
+        "page_number": "59",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Milch- und Zuchtviehhaltung:",
+    "chapter_number": "B",
+    "page_number": "59",
+    "children": [
+      {
+        "title": "Die Stallordnung",
+        "chapter_number": "I",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Die Fütterung des Milch- und Zuchtviehes",
+        "chapter_number": "II",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Das Melken",
+        "chapter_number": "III",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Das Probemelken",
+        "chapter_number": "IV",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Die Behandlung der Zuchtstiere",
+        "chapter_number": "V",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Die Behandlung der Milchkühe",
+        "chapter_number": "VI",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Stallinspektionen im Milch- und Zuchtviehstall",
+        "chapter_number": "VII",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Die Stallordnung im Jungviehstall",
+        "chapter_number": "VIII",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Jungviehaufzucht und Fütterung",
+        "chapter_number": "IX",
+        "page_number": "72",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Mästung der Rinder:",
+    "chapter_number": "C",
+    "page_number": "75",
+    "children": [
+      {
+        "title": "Die Stallordnung",
+        "chapter_number": "I",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Die Fütterung der Masttiere",
+        "chapter_number": "II",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Die Stallinspektion",
+        "chapter_number": "III",
+        "page_number": "77",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Schweinehaltung:",
+    "chapter_number": "D",
+    "page_number": "77",
+    "children": [
+      {
+        "title": "Die Stallordnung",
+        "chapter_number": "I",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Die Fütterung",
+        "chapter_number": "II",
+        "page_number": "78",
+        "children": []
+      },
+      {
+        "title": "Die Behandlung der Zuchtschweine und die Aufzucht der Ferkel",
+        "chapter_number": "III",
+        "page_number": "79",
+        "children": []
+      },
+      {
+        "title": "Die Stallinspektion",
+        "chapter_number": "IV",
+        "page_number": "81",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Erste Hilfe bei Krankheiten und Unglücksfällen des Viehes und die anzeige-\npflichtigen Seuchen.",
+    "chapter_number": null,
+    "page_number": "82",
+    "children": [
+      {
+        "title": "Die Kennzeichen des gesunden Tieres",
+        "chapter_number": "A",
+        "page_number": "82",
+        "children": []
+      },
+      {
+        "title": "Kennzeichen des kranken Tieres",
+        "chapter_number": "B",
+        "page_number": "83",
+        "children": []
+      },
+      {
+        "title": "Die rasch verlaufenden Krankheiten",
+        "chapter_number": "C",
+        "page_number": "84",
+        "children": [
+          {
+            "title": "Kolik",
+            "chapter_number": "I",
+            "page_number": "84",
+            "children": []
+          },
+          {
+            "title": "Trommelsucht",
+            "chapter_number": "II",
+            "page_number": "85",
+            "children": []
+          },
+          {
+            "title": "Das Steckenbleiben von Futterbestandteilen im Schlunde",
+            "chapter_number": "III",
+            "page_number": "87",
+            "children": []
+          },
+          {
+            "title": "Äußere schwere Verletzungen",
+            "chapter_number": "IV",
+            "page_number": "88",
+            "children": []
+          },
+          {
+            "title": "Die Seuchen",
+            "chapter_number": "V",
+            "page_number": "89",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kauf und Verkauf des Viehes",
+    "chapter_number": null,
+    "page_number": "91",
+    "children": []
+  }
+]

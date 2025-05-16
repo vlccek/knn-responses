@@ -1,0 +1,45 @@
+
+[
+  {
+    "title": "Einleitung",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Zahlenbericht",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Besondere Fälle",
+    "chapter_number": "II",
+    "page_number": "8",
+    "children": []
+  },
+  {
+    "title": "Operationen",
+    "chapter_number": "III",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Wochenbettverhältnisse",
+    "chapter_number": "IV",
+    "page_number": "63",
+    "children": []
+  },
+  {
+    "title": "Kinder",
+    "chapter_number": "V",
+    "page_number": "71",
+    "children": []
+  },
+  {
+    "title": "Gynäkologische Abtheilung",
+    "chapter_number": "VI",
+    "page_number": "73",
+    "children": []
+  }
+]

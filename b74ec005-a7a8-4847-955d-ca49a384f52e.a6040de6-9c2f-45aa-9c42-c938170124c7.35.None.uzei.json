@@ -1,0 +1,188 @@
+
+[
+  {
+    "title": "Uvod",
+    "chapter_number": "",
+    "page_number": "2",
+    "children": []
+  },
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Podmínky přírodní",
+    "chapter_number": "I",
+    "page_number": "4",
+    "children": [
+      {
+        "title": "Světlo",
+        "chapter_number": "1",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Teplo",
+        "chapter_number": "2",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Vláha",
+        "chapter_number": "3",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Povětrnost",
+        "chapter_number": "4",
+        "page_number": "6",
+        "children": []
+      },
+      {
+        "title": "Půda",
+        "chapter_number": "5",
+        "page_number": "7",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Podmínky hospodářské",
+    "chapter_number": "II",
+    "page_number": "8",
+    "children": [
+      {
+        "title": "Vzdělání půdy",
+        "chapter_number": "1",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Osivo a setba",
+        "chapter_number": "2",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Výběr odrůdy",
+        "chapter_number": "3",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Oşevní postup a hnojení",
+        "chapter_number": "4",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Ochrana rostlin",
+        "chapter_number": "5",
+        "page_number": "14",
+        "children": [
+          {
+            "title": "Moření osiva proti snětivosti",
+            "chapter_number": "",
+            "page_number": "14",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Výživa rostlin a hnojení",
+        "chapter_number": "6",
+        "page_number": "16",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Hnojiva",
+    "chapter_number": "",
+    "page_number": "18",
+    "children": [
+      {
+        "title": "Zacházení s hnojem chlévským",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": []
+      },
+      {
+        "title": "Hnojiva strojená či umělá",
+        "chapter_number": "",
+        "page_number": "21",
+        "children": [
+          {
+            "title": "Hnojiva dusíkatá",
+            "chapter_number": "I",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Hnojiva fosforečná",
+            "chapter_number": "II",
+            "page_number": "25",
+            "children": []
+          },
+          {
+            "title": "Hnojiva draselná",
+            "chapter_number": "III",
+            "page_number": "25",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O dávkách strojených hnojiv neboli sile hnojeni",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "O zacházení se strojenými hnojivy",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Uschování strojených hnojiv",
+        "chapter_number": "",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Mísení strojených hnojiv",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Zadělávání hnojiv do půdy",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vápnění",
+    "chapter_number": "",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Závěr",
+    "chapter_number": "",
+    "page_number": "30",
+    "children": []
+  },
+  {
+    "title": "Poznámky k diagramům",
+    "chapter_number": "",
+    "page_number": "31",
+    "children": []
+  }
+]

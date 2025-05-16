@@ -1,0 +1,226 @@
+
+[
+  {
+    "title": "Im Frühling",
+    "chapter_number": "Čl. 108",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Mein Vaterland",
+    "chapter_number": "109-110",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Napodobení",
+    "chapter_number": "Část II",
+    "page_number": "28",
+    "children": []
+  },
+  {
+    "title": "Rozbor",
+    "chapter_number": "Část III",
+    "page_number": "58",
+    "children": [
+      {
+        "title": "Podmět; Sloveso",
+        "chapter_number": "Čl. 1-3",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Onikání",
+        "chapter_number": "9",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Člen neurčitý a určitý",
+        "chapter_number": "11",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Slovesa složená",
+        "chapter_number": "12",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Slovesa spřežená",
+        "chapter_number": "18",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Koncovky členu",
+        "chapter_number": "26",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Slovesa zvratná",
+        "chapter_number": "32, 33",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Dativ",
+        "chapter_number": "36-39",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Předložky",
+        "chapter_number": "43. (30, 39.)",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Zájmena s koncovkami určitého členu",
+        "chapter_number": "44",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Jména hmot",
+        "chapter_number": "46",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "dazu, daran atd.",
+        "chapter_number": "47",
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Slovosled A",
+        "chapter_number": null,
+        "page_number": "62",
+        "children": []
+      },
+      {
+        "title": "Jména přídavná",
+        "chapter_number": "48-62",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "Budoucí čas",
+        "chapter_number": "63",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Slovesa nepravidelná",
+        "chapter_number": "64",
+        "page_number": "65",
+        "children": []
+      },
+      {
+        "title": "Podstatná jména slabá",
+        "chapter_number": "66",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Množné číslo jmen podstatných",
+        "chapter_number": "67-80",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Přehláska",
+        "chapter_number": "73",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Slovesa pomocná",
+        "chapter_number": "81",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Stupňování a číslice řadové",
+        "chapter_number": "84-87",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Zájmeno vztažné",
+        "chapter_number": "88",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Infinitiv s zu a bez zu",
+        "chapter_number": "89",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Slovosled B.",
+        "chapter_number": null,
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Třetí osoba přítomného času",
+        "chapter_number": "91-92",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Genetiv",
+        "chapter_number": "93-96",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "Druhá osoba",
+        "chapter_number": "97-99",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Imperfektum",
+        "chapter_number": "101",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "Perfektum",
+        "chapter_number": "102-103",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Přechodník",
+        "chapter_number": "104",
+        "page_number": "74",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Pravidla o písmě a výslovnosti",
+    "chapter_number": "Část IV",
+    "page_number": "77",
+    "children": []
+  },
+  {
+    "title": "Slovíčka k jednotlivým článkům (1-110)",
+    "chapter_number": "Část V",
+    "page_number": "81",
+    "children": []
+  },
+  {
+    "title": "Seznam slov",
+    "chapter_number": "Část VI",
+    "page_number": "105",
+    "children": []
+  }
+]

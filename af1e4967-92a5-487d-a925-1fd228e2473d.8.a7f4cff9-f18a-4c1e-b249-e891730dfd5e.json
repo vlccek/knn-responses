@@ -1,0 +1,290 @@
+
+[
+  {
+    "title": "Einleitung",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Kapitel I. Die Kräfte, deren Zusammensetzung, Zerlegung und Gleichgewicht.",
+    "chapter_number": "Kapitel I",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "§ 1. Bestimmungsgrössen einer Kraft",
+        "chapter_number": "§ 1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "§ 2. Darstellung der Kräfte.",
+        "chapter_number": "§ 2",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "§ 3. Erklärung der Zusammensetzung, Zerlegung und des Gleichgewichtes der Kräfte",
+        "chapter_number": "§ 3",
+        "page_number": "2",
+        "children": []
+      },
+      {
+        "title": "Kräfte in einer Ebene.",
+        "chapter_number": "",
+        "page_number": null,
+        "children": [
+          {
+            "title": "§ 4. Kräfte die in einer Geraden wirken, graphische und analytische Behandlung",
+            "chapter_number": "§ 4",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "§ 5. Graphische Zusammensetzung zweier beliebiger Kräfte",
+            "chapter_number": "§ 5",
+            "page_number": "4",
+            "children": []
+          },
+          {
+            "title": "§ 6. Graphische Zerlegung einer Kraft in zwei Componenten",
+            "chapter_number": "§ 6",
+            "page_number": "4",
+            "children": []
+          },
+          {
+            "title": "§ 7. Berechnung der Resultante zweier Kräfte.",
+            "chapter_number": "§ 7",
+            "page_number": "5",
+            "children": []
+          },
+          {
+            "title": "§ 8. Berechnung der Componenten aus der Resultante",
+            "chapter_number": "§ 8",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "§ 9. Gleichgewicht von drei Kräften",
+            "chapter_number": "§ 9",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "§ 10. Zusammensetzung von Kräften, welche an einem Punkt angreifen (Kräftepolygon)",
+            "chapter_number": "§ 10",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "§ 11. Zusammensetzung beliebiger Kräfte (Seilpolygon)",
+            "chapter_number": "§ 11",
+            "page_number": "8",
+            "children": []
+          },
+          {
+            "title": "§ 12. Zerlegung einer Kraft in mehrere Componenten",
+            "chapter_number": "§ 12",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "§ 13. Allgemeine graphische Gleichgewichtsbedingungen",
+            "chapter_number": "§ 13",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "§ 14. Das Kräftepaar",
+            "chapter_number": "§ 14",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "§ 15. Statisches Moment",
+            "chapter_number": "§ 15",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "§ 16. Analytische Gleichgewichtsbediegungen",
+            "chapter_number": "§ 16",
+            "page_number": "13",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Anwendung der Gleichgewichtsbedingungen.",
+        "chapter_number": "",
+        "page_number": null,
+        "children": [
+          {
+            "title": "§ 17. Zusammensetzung zweier paralleler Kräfte",
+            "chapter_number": "§ 17",
+            "page_number": "13",
+            "children": []
+          },
+          {
+            "title": "§ 18. Zerlegung einer Kraft in zwei parallele Componenten",
+            "chapter_number": "§ 18",
+            "page_number": "16",
+            "children": []
+          },
+          {
+            "title": "§ 19. Zusammensetzung und Zerlegung mehrerer paralleler Kräfte",
+            "chapter_number": "§ 19",
+            "page_number": "18",
+            "children": []
+          },
+          {
+            "title": "§ 20. Berechnung beliebig gerichteter Componenten einer Kraft",
+            "chapter_number": "§ 20",
+            "page_number": "19",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Anhang zu Kapitel I. Schwerpunktbestimmungen.",
+        "chapter_number": "",
+        "page_number": null,
+        "children": [
+          {
+            "title": "A. Von Linien",
+            "chapter_number": "A",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "B. Von ebenen Flächen",
+            "chapter_number": "B",
+            "page_number": "21",
+            "children": []
+          },
+          {
+            "title": "C. Von Körpern",
+            "chapter_number": "C",
+            "page_number": "22",
+            "children": []
+          },
+          {
+            "title": "Tafel I A und I B.",
+            "chapter_number": "",
+            "page_number": null,
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kapitel II. Festigkeitslehre.",
+    "chapter_number": "Kapitel II",
+    "page_number": "23",
+    "children": [
+      {
+        "title": "§ 1. Einfluss der äusseren Kräfte auf einen Körper. Elastizität. Festigkeit. Inanspruchnahme",
+        "chapter_number": "§ 1",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "§ 2. Das Elastizitätsgesetz",
+        "chapter_number": "§ 2",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "§ 3. Widerstand und Reibung.",
+        "chapter_number": "§ 3",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "§ 4. Zahlenwerte über Elastizität, Festigkeit, zulässige Inanspruchnahme der wichtigsten Materialien",
+        "chapter_number": "§ 4",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "§ 5. Eigengewichte und Belastung der Konstruktionen",
+        "chapter_number": "§ 5",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "§ 6. Biegung der Körper",
+        "chapter_number": "§ 6",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "§ 7. Trägheitsmoment und Widerstandsmoment",
+        "chapter_number": "§ 7",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Tabellen deutscher Normalprofile",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "§ 8. Zweckmässige Trägerprofile",
+        "chapter_number": "§ 8",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "§ 9. Die Unterstützung und Belastung von Träger.",
+        "chapter_number": "§ 9",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "§ 10. Analytische Bestimmung des Angriffsmomentes",
+        "chapter_number": "§ 10",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "§ 11. Graphische Bestimmung des Angriffsmomentes",
+        "chapter_number": "§ 11",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "§ 12. Träger, welche auf mehr als zwei Stützen ruhen",
+        "chapter_number": "§ 12",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "§ 13. Zerknickungsfestigkeit",
+        "chapter_number": "§ 13",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "§ 14. Torsionsfestigkeit",
+        "chapter_number": "§ 14",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "§ 15. Zusammengesetzte Festigkeit",
+        "chapter_number": "§ 15",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Anhang: Tabelle für Berechnung von Auflagerdrücken und Biegungsmomenten",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      }
+    ]
+  }
+]

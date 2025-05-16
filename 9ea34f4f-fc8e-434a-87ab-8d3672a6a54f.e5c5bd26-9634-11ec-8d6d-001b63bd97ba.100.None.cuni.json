@@ -1,0 +1,150 @@
+
+[
+  {
+    "title": "Základní pojmy a prameny",
+    "chapter_number": "§ 1",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Zařízení knihy pozemkové",
+    "chapter_number": "§ 2",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Knihovní vložka",
+    "chapter_number": "§ 3",
+    "page_number": "13",
+    "children": []
+  },
+  {
+    "title": "Druhy knihovních zápisů",
+    "chapter_number": "§ 4",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Knihovní auktor",
+    "chapter_number": "§ 5",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Listiny",
+    "chapter_number": "§ 6",
+    "page_number": "28",
+    "children": [
+      {
+        "title": "Listiny, jež stačí pro zápis vůbec",
+        "chapter_number": "I",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Soukromé vkladné",
+        "chapter_number": null,
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Veřejné listiny vkladné",
+        "chapter_number": "II",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Soukromé, jež stačí pro záznam",
+        "chapter_number": "III",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Veřejné, jež stačí pro záznam",
+        "chapter_number": "IV",
+        "page_number": "39",
+        "children": []
+      },
+      {
+        "title": "Spravení záznamu",
+        "chapter_number": "V",
+        "page_number": "41",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zásady knihovního práva",
+    "chapter_number": "§ 7",
+    "page_number": "45",
+    "children": [
+      {
+        "title": "Vkládání",
+        "chapter_number": "I",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Speciality",
+        "chapter_number": "II",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Volnosti",
+        "chapter_number": "III",
+        "page_number": "46",
+        "children": []
+      },
+      {
+        "title": "Legality",
+        "chapter_number": "IV",
+        "page_number": "48",
+        "children": []
+      },
+      {
+        "title": "Publicity",
+        "chapter_number": "V",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Priority",
+        "chapter_number": "VI",
+        "page_number": "58",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zvláštní knihy veřejné",
+    "chapter_number": "§ 8",
+    "page_number": "75",
+    "children": [
+      {
+        "title": "Knihy železniční",
+        "chapter_number": "I",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Knihy horní",
+        "chapter_number": "II",
+        "page_number": "84",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Zakládání a doplnění knihy pozemkové",
+    "chapter_number": "§ 9",
+    "page_number": "86",
+    "children": []
+  },
+  {
+    "title": "Rejstřík",
+    "chapter_number": null,
+    "page_number": "91",
+    "children": []
+  }
+]

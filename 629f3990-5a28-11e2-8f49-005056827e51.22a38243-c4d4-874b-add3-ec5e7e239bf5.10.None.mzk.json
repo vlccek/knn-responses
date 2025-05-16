@@ -1,0 +1,82 @@
+
+[
+  {
+    "title": "Geschichte und Literatur",
+    "chapter_number": "I",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Allgemeine Verhältnisse und Lage des Vulkangebietes",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Spezielle Beschreibung der Basaltvorkommnisse",
+    "chapter_number": "III",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Der Vulkan Raudenberg in Mähren",
+        "chapter_number": "1",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Die Basalt-Tuffe von Raase und Karlsberg",
+        "chapter_number": "2",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Der Venusberg von Messendorf in Schlesien",
+        "chapter_number": "3",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Der Köhlerberg von Freudenthal in Schlesien",
+        "chapter_number": "4",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Der Basalt von Friedland nächst Römerstadt in Mähren",
+        "chapter_number": "5",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Der Basalt der goldenen Linde in Mähren",
+        "chapter_number": "6",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Der Basalt des Capellenberges von Stremplowitz in Schlesien",
+        "chapter_number": "7",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Der Basalt von Ottendorf nächst Troppau",
+        "chapter_number": "8",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Der Basaltbruch von Budischowitz in Schlesien",
+        "chapter_number": "9",
+        "page_number": "",
+        "children": []
+      },
+      {
+        "title": "Der Basalt im Kohlenbecken von Mähr. Ostrau",
+        "chapter_number": "10",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,124 @@
+
+[
+  {
+    "title": "Ovocná vina",
+    "chapter_number": "X",
+    "page_number": "235",
+    "children": []
+  },
+  {
+    "title": "Kořalky",
+    "chapter_number": "XXIII",
+    "page_number": "254",
+    "children": []
+  },
+  {
+    "title": "Ovocný ocet",
+    "chapter_number": "XXIV",
+    "page_number": "256",
+    "children": []
+  },
+  {
+    "title": "Cenění stromův ovocných",
+    "chapter_number": "",
+    "page_number": "258",
+    "children": [
+      {
+        "title": "Na čem závisí cena stromů",
+        "chapter_number": "I",
+        "page_number": "258",
+        "children": []
+      },
+      {
+        "title": "Dosavadní způsoby cenění (taxace)",
+        "chapter_number": "II",
+        "page_number": "259",
+        "children": []
+      },
+      {
+        "title": "Cenění dle Dr. Christa a E. Junga",
+        "chapter_number": "",
+        "page_number": "261",
+        "children": []
+      },
+      {
+        "title": "Ocenění mladých, ještě neplodících stromů",
+        "chapter_number": "A",
+        "page_number": "261",
+        "children": []
+      },
+      {
+        "title": "Ocenění plodících stromů vysok ch: a) Technická část: Odhad.",
+        "chapter_number": "B",
+        "page_number": "263",
+        "children": []
+      },
+      {
+        "title": "Početní část.",
+        "chapter_number": "b",
+        "page_number": "263",
+        "children": []
+      },
+      {
+        "title": "Cenění polokmenů, nízkých kmenů a tvárných stromů",
+        "chapter_number": "C",
+        "page_number": "267",
+        "children": []
+      },
+      {
+        "title": "Cenění bobulin",
+        "chapter_number": "D",
+        "page_number": "269",
+        "children": []
+      },
+      {
+        "title": "Cenění poškozených, nemocných jak ži přeroubovaných stromů",
+        "chapter_number": "E",
+        "page_number": "270",
+        "children": []
+      },
+      {
+        "title": "Cenění nemocných stromů",
+        "chapter_number": "F",
+        "page_number": "270",
+        "children": []
+      },
+      {
+        "title": "Cenění právě přeroubovaných stromů",
+        "chapter_number": "G",
+        "page_number": "271",
+        "children": []
+      },
+      {
+        "title": "Cenění školek",
+        "chapter_number": "H",
+        "page_number": "271",
+        "children": []
+      },
+      {
+        "title": "Ocenění sadů při prodeji a stanovení pachtovného",
+        "chapter_number": "Ch",
+        "page_number": "272",
+        "children": []
+      },
+      {
+        "title": "Příklady. (Tabulky na str. 274-277.)",
+        "chapter_number": "",
+        "page_number": "272",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kalendářík",
+    "chapter_number": "",
+    "page_number": "272",
+    "children": []
+  },
+  {
+    "title": "Doslov",
+    "chapter_number": "",
+    "page_number": "279",
+    "children": []
+  }
+]

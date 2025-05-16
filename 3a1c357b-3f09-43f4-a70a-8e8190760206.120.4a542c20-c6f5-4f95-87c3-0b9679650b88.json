@@ -1,0 +1,228 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Část I.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Přirozené podmínky života a zdraví",
+        "chapter_number": "1",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Oděv a lůžko",
+        "chapter_number": "2",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Jak působí lihoviny na tělo",
+        "chapter_number": "3",
+        "page_number": "18",
+        "children": []
+      },
+      {
+        "title": "Životospráva",
+        "chapter_number": "4",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Byt",
+        "chapter_number": "5",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Hospodářský význam zdraví",
+        "chapter_number": "6",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Zdravověda",
+        "chapter_number": "7",
+        "page_number": "29",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část II.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Nervy, mícha, mozek",
+        "chapter_number": "8",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Co duše činí?",
+        "chapter_number": "9",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Jak působí alkohol na duši",
+        "chapter_number": "10",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Smysl našeho života",
+        "chapter_number": "11",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Pravda",
+        "chapter_number": "12",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Sebekritika",
+        "chapter_number": "13",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Láska k bližnímu",
+        "chapter_number": "14",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Jak se odstraňuje zlo?",
+        "chapter_number": "15",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Životní program",
+        "chapter_number": "16",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Krása",
+        "chapter_number": "17",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Pudy",
+        "chapter_number": "18",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Láska k druhému pohlaví",
+        "chapter_number": "19",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Zvyk",
+        "chapter_number": "20",
+        "page_number": "71",
+        "children": []
+      },
+      {
+        "title": "Letora čili temperament",
+        "chapter_number": "21",
+        "page_number": "74",
+        "children": []
+      },
+      {
+        "title": "Charakter",
+        "chapter_number": "22",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "Svoboda",
+        "chapter_number": "23",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "Duševěda, mravověda, krasověda",
+        "chapter_number": "24",
+        "page_number": "80",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Část III.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Otázka sociální",
+        "chapter_number": "25",
+        "page_number": "81",
+        "children": []
+      },
+      {
+        "title": "Rodina",
+        "chapter_number": "26",
+        "page_number": "82",
+        "children": []
+      },
+      {
+        "title": "Ženská otázka",
+        "chapter_number": "27",
+        "page_number": "91",
+        "children": []
+      },
+      {
+        "title": "Společnost a spolky",
+        "chapter_number": "28",
+        "page_number": "100",
+        "children": []
+      },
+      {
+        "title": "Vliv alkoholu na život společenský",
+        "chapter_number": "29",
+        "page_number": "102",
+        "children": []
+      },
+      {
+        "title": "Tělesná práce",
+        "chapter_number": "30",
+        "page_number": "106",
+        "children": []
+      },
+      {
+        "title": "Socialismus",
+        "chapter_number": "31",
+        "page_number": "111",
+        "children": []
+      },
+      {
+        "title": "Sociologie",
+        "chapter_number": "32",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Vychovatelství čili paedagogika",
+        "chapter_number": "33",
+        "page_number": "114",
+        "children": []
+      }
+    ]
+  }
+]

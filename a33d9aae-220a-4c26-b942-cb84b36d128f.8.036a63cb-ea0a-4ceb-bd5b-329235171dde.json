@@ -1,0 +1,131 @@
+
+[
+  {
+    "title": "1678, 18. dubna dopis správce J. V. Jilemnického z Horažďovic.",
+    "chapter_number": "I",
+    "page_number": "11",
+    "children": []
+  },
+  {
+    "title": "1678, 3.listopadu, účet za mladé stromky do štěpnice Zadnoovenecké",
+    "chapter_number": "II",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "1680, leden březen, stavební účty za prvé čtvrtletí",
+    "chapter_number": "III",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "1680, duben červen, stavební účty za druhé čtvrtletí",
+    "chapter_number": "IV",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "1680, červenec září, stavební účty za třetí čtvrtletí",
+    "chapter_number": "V",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "1680, říjen-prosinec, stavební účty za čtvrté čtvrtletí",
+    "chapter_number": "VI",
+    "page_number": "56",
+    "children": []
+  },
+  {
+    "title": "1685, účet sklenářky L. Votterové",
+    "chapter_number": "VII",
+    "page_number": "64",
+    "children": []
+  },
+  {
+    "title": "1689, 7.-12. září týdenní účet stavební",
+    "chapter_number": "VIII",
+    "page_number": "65",
+    "children": []
+  },
+  {
+    "title": "Dodatky",
+    "chapter_number": "",
+    "page_number": "67",
+    "children": [
+      {
+        "title": "1672, specifikace pozůstalosti po hr. L. B. ze Šternberka",
+        "chapter_number": "1",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "1679, výkaz dříví zaslaného na stavbu z Bechyně.",
+        "chapter_number": "2",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "1680, červen-červenec, souhrnný účet německý.",
+        "chapter_number": "3",
+        "page_number": "69",
+        "children": []
+      },
+      {
+        "title": "1689, výňatek z hlavního účtu",
+        "chapter_number": "4",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "1690, výňatek z účtu",
+        "chapter_number": "5",
+        "page_number": "71",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Rejstříky",
+    "chapter_number": "",
+    "page_number": "73",
+    "children": [
+      {
+        "title": "zedníci",
+        "chapter_number": "1",
+        "page_number": "73",
+        "children": []
+      },
+      {
+        "title": "kameníci",
+        "chapter_number": "2",
+        "page_number": "75",
+        "children": []
+      },
+      {
+        "title": "tesaři",
+        "chapter_number": "3",
+        "page_number": "76",
+        "children": []
+      },
+      {
+        "title": "nádeníci",
+        "chapter_number": "4",
+        "page_number": "77",
+        "children": []
+      },
+      {
+        "title": "rozličné osoby",
+        "chapter_number": "5",
+        "page_number": "84",
+        "children": []
+      },
+      {
+        "title": "místní",
+        "chapter_number": "6",
+        "page_number": "85",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "I. Část historická",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": [
+      {
+        "title": "Rozdělení dějin obce Svob. Dvorů",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Doba první (?-900.)",
+        "chapter_number": "",
+        "page_number": "9",
+        "children": []
+      },
+      {
+        "title": "Doba druhá (900-1851.)",
+        "chapter_number": "",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Doba třetí (1851-1894.)",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Doba čtvrtá (1894– )",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Dějiny školství",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Dějiny přifaření",
+        "chapter_number": "",
+        "page_number": "38",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "II. Část národopisná",
+    "chapter_number": "",
+    "page_number": "39",
+    "children": [
+      {
+        "title": "Půda, rolnictví, obyvatelstvo, průmysl",
+        "chapter_number": "",
+        "page_number": "41",
+        "children": []
+      },
+      {
+        "title": "Život společenský",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "Stavby",
+        "chapter_number": "",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Zvyky a obyčeje",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": []
+      },
+      {
+        "title": "Statistika rodů ve Svob. Dvorech žijících",
+        "chapter_number": "",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Statistika správy obce",
+        "chapter_number": "",
+        "page_number": "56",
+        "children": []
+      }
+    ]
+  }
+]

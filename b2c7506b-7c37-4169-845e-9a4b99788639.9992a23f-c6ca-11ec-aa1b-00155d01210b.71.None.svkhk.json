@@ -1,0 +1,70 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Úvod: Pud lékařem",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "O zažehnávání nemocí",
+    "chapter_number": "",
+    "page_number": "12",
+    "children": []
+  },
+  {
+    "title": "Choroby lidu: Namožení",
+    "chapter_number": "",
+    "page_number": "19",
+    "children": [
+      {
+        "title": "Regma",
+        "chapter_number": "",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Stříl",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Ujma",
+        "chapter_number": "",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Čemer",
+        "chapter_number": "",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Snědek",
+        "chapter_number": "",
+        "page_number": "59",
+        "children": []
+      },
+      {
+        "title": "Žíla",
+        "chapter_number": "",
+        "page_number": "56",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Jak má lid chorobám rozuměti dle příznaků.",
+    "chapter_number": "",
+    "page_number": "62",
+    "children": []
+  }
+]

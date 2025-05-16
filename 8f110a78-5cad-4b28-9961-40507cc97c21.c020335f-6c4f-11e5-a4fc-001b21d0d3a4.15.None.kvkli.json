@@ -1,0 +1,65 @@
+
+[
+  {
+    "title": "Inhalt",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Die Bekleidung",
+        "chapter_number": "c",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Die Nachcur",
+        "chapter_number": "d",
+        "page_number": "138",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Anhang",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Wohnungs-Miethordnung",
+        "chapter_number": "1",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Curorts- und Musiktax-Ordnung",
+        "chapter_number": "2",
+        "page_number": "143",
+        "children": []
+      },
+      {
+        "title": "Lohnfuhrwerks- und Fahrtaxen-Ordnung",
+        "chapter_number": "3",
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "Führer- und Transporttaxen-Ordnung",
+        "chapter_number": "4",
+        "page_number": "149",
+        "children": []
+      },
+      {
+        "title": "Cursaalhaus-Ordnung",
+        "chapter_number": "5",
+        "page_number": "150",
+        "children": []
+      },
+      {
+        "title": "Polizei-Ordnung für den Curort Johannisbad",
+        "chapter_number": "6",
+        "page_number": "152",
+        "children": []
+      }
+    ]
+  }
+]

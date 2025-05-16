@@ -1,0 +1,349 @@
+
+[
+  {
+    "title": "Úvodem",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Vegetační oblasti květeny brdské",
+    "chapter_number": "I",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Rostlinné útvary květeny brdské",
+    "chapter_number": "II",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "Lesní útvary brdské",
+        "chapter_number": "A",
+        "page_number": "9",
+        "children": [
+          {
+            "title": "Formace borovice (Pinus silvestris)",
+            "chapter_number": "1",
+            "page_number": "10",
+            "children": [
+              {
+                "title": "Dolní pásmo borových lesů",
+                "chapter_number": "a",
+                "page_number": "11",
+                "children": []
+              },
+              {
+                "title": "Horní pásmo borových lesů",
+                "chapter_number": "b",
+                "page_number": "12",
+                "children": []
+              },
+              {
+                "title": "Přechodní formace borových lesů",
+                "chapter_number": "",
+                "page_number": "13",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Formace smrku (Picea excelsa)",
+            "chapter_number": "2",
+            "page_number": "13",
+            "children": [
+              {
+                "title": "Horní lesy smrkové",
+                "chapter_number": "a",
+                "page_number": "14",
+                "children": []
+              },
+              {
+                "title": "Přechodní formace lesů jehličnatých",
+                "chapter_number": "",
+                "page_number": "15",
+                "children": []
+              },
+              {
+                "title": "Subalpinské lesy smrkové",
+                "chapter_number": "b",
+                "page_number": "19",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Poznámky k rozšíření některých zajímavých druhů květeny lesů jehličnatých",
+            "chapter_number": "",
+            "page_number": "21",
+            "children": []
+          },
+          {
+            "title": "Rostlinný život v některých částech jehličnatých lesů brdských",
+            "chapter_number": "",
+            "page_number": "23",
+            "children": []
+          },
+          {
+            "title": "Formace buku (Fagus silvatica)",
+            "chapter_number": "3",
+            "page_number": "31",
+            "children": []
+          },
+          {
+            "title": "Formace lesů smíšených",
+            "chapter_number": "4",
+            "page_number": "33",
+            "children": []
+          },
+          {
+            "title": "Olšiny a vrbiny",
+            "chapter_number": "",
+            "page_number": "33",
+            "children": []
+          },
+          {
+            "title": "Formace břízy (Betula verrucosa)",
+            "chapter_number": "5",
+            "page_number": "34",
+            "children": []
+          },
+          {
+            "title": "Skály v lesním pásmu brdském.",
+            "chapter_number": "6",
+            "page_number": "35",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Přechodní pásmo pontické květeny zároveň s xerofytními útvary květeny středoevropské, pokud k němu se vztahují",
+        "chapter_number": "B",
+        "page_number": "36",
+        "children": [
+          {
+            "title": "Rostlinná charakteristika krajinná",
+            "chapter_number": "a",
+            "page_number": "37",
+            "children": [
+              {
+                "title": "Ze Zbirožska k Litavce.",
+                "chapter_number": "a",
+                "page_number": "37",
+                "children": []
+              },
+              {
+                "title": "Údolí Litavky",
+                "chapter_number": "β",
+                "page_number": "40",
+                "children": []
+              },
+              {
+                "title": "Údolí Kocáby",
+                "chapter_number": "y",
+                "page_number": "43",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Vlastní formace",
+            "chapter_number": "b",
+            "page_number": "46",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Formace rostlin skal nejteplejších.",
+    "chapter_number": "1",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Formace rostlin nejteplejších svahů (strání)",
+    "chapter_number": "2",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Formace rostlin teplých skal přechodní flory",
+    "chapter_number": "3",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Formace rostlin teplých svahů přechodní flory",
+    "chapter_number": "4",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Formace teplých svahů flory brdské.",
+    "chapter_number": "5",
+    "page_number": "47",
+    "children": []
+  },
+  {
+    "title": "Keřnaté stráně přechodní teplé flory",
+    "chapter_number": "6",
+    "page_number": "48",
+    "children": []
+  },
+  {
+    "title": "Formace písčin a písčitých úhorů",
+    "chapter_number": "7",
+    "page_number": "50",
+    "children": []
+  },
+  {
+    "title": "Ostatní volné formace brdské",
+    "chapter_number": "C",
+    "page_number": "50",
+    "children": [
+      {
+        "title": "Formace luční.",
+        "chapter_number": "",
+        "page_number": "50",
+        "children": [
+          {
+            "title": "Luka v údolích",
+            "chapter_number": "1",
+            "page_number": "51",
+            "children": []
+          },
+          {
+            "title": "Krátkostéblá luka horní",
+            "chapter_number": "2",
+            "page_number": "52",
+            "children": []
+          },
+          {
+            "title": "Dlouhostéblé horní pastviny",
+            "chapter_number": "3",
+            "page_number": "54",
+            "children": []
+          },
+          {
+            "title": "Formace smilky (Nardus stricta)",
+            "chapter_number": "4",
+            "page_number": "55",
+            "children": []
+          },
+          {
+            "title": "Formace vřesu (Calluna vulgaris)",
+            "chapter_number": "5",
+            "page_number": "56",
+            "children": []
+          },
+          {
+            "title": "Luční rašeliny (Bažinné louky)",
+            "chapter_number": "6",
+            "page_number": "57",
+            "children": []
+          },
+          {
+            "title": "Rašeliny horské",
+            "chapter_number": "7",
+            "page_number": "58",
+            "children": [
+              {
+                "title": "Horní rybník padrťský",
+                "chapter_number": "a",
+                "page_number": "59",
+                "children": []
+              },
+              {
+                "title": "Rašelinné černavy u Strašic",
+                "chapter_number": "b",
+                "page_number": "60",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Formace bažin rákosových",
+            "chapter_number": "8",
+            "page_number": "63",
+            "children": []
+          },
+          {
+            "title": "Formace rostlin bažinných",
+            "chapter_number": "9",
+            "page_number": "64",
+            "children": []
+          },
+          {
+            "title": "Obnažená místa rybničná",
+            "chapter_number": "10",
+            "page_number": "65",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kulturní část Brd",
+    "chapter_number": "D",
+    "page_number": "66",
+    "children": [
+      {
+        "title": "Pěstované rostliny",
+        "chapter_number": "1",
+        "page_number": "66",
+        "children": []
+      },
+      {
+        "title": "Ovocnictví",
+        "chapter_number": "",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Květena ruderální",
+        "chapter_number": "2",
+        "page_number": "68",
+        "children": []
+      },
+      {
+        "title": "Rostliny zavlečené",
+        "chapter_number": "3",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Ozdobné dřeviny.",
+        "chapter_number": "",
+        "page_number": "70",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Poměr půdy vzdělané a nevzdělané, dějinný vývoj roucha rostlinného a po- stup botanického výzkumu",
+    "chapter_number": "III",
+    "page_number": "71",
+    "children": []
+  },
+  {
+    "title": "Vliv podlohy na rozdělení rostlinstva",
+    "chapter_number": "IV",
+    "page_number": "76",
+    "children": []
+  },
+  {
+    "title": "Podnebí Brd (s děšťopisnou mapkou)",
+    "chapter_number": "V",
+    "page_number": "82",
+    "children": []
+  },
+  {
+    "title": "Příloha: Fytogeografická mapa Brd",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  }
+]

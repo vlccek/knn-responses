@@ -1,0 +1,151 @@
+
+[
+  {
+    "title": "Svazek první",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Část prvá. Doby mládí (1861-1887)",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Předmluva, 8. prosince 1914",
+            "chapter_number": "",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "14. března 1918",
+            "chapter_number": "",
+            "page_number": "10",
+            "children": []
+          },
+          {
+            "title": "14. března 1927",
+            "chapter_number": "",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "I. Heřmanův Městec",
+            "chapter_number": "I",
+            "page_number": "13",
+            "children": []
+          },
+          {
+            "title": "II. Kostelec nad Orlicí",
+            "chapter_number": "II",
+            "page_number": "37",
+            "children": []
+          },
+          {
+            "title": "III. Rychnov nad Kněžnou. U Světelských",
+            "chapter_number": "III",
+            "page_number": "61",
+            "children": []
+          },
+          {
+            "title": "IV. U Mrázů",
+            "chapter_number": "IV",
+            "page_number": "93",
+            "children": []
+          },
+          {
+            "title": "V. Kolem maturity",
+            "chapter_number": "V",
+            "page_number": "134",
+            "children": []
+          },
+          {
+            "title": "VI. Na universitě",
+            "chapter_number": "VI",
+            "page_number": "178",
+            "children": []
+          },
+          {
+            "title": "VII. Na dvoře knížecím",
+            "chapter_number": "VII",
+            "page_number": "217",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Svazek druhý",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Část druhá. Doby štěstí (1887-1918 [1928])",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Předmluva, v září 1928",
+            "chapter_number": "",
+            "page_number": "255",
+            "children": []
+          },
+          {
+            "title": "I. V Praze. — Rok zkušební a suplentura",
+            "chapter_number": "I",
+            "page_number": "257",
+            "children": []
+          },
+          {
+            "title": "II. Klatovy",
+            "chapter_number": "II",
+            "page_number": "298",
+            "children": []
+          },
+          {
+            "title": "III. V Praze, po třetí a naposled",
+            "chapter_number": "III",
+            "page_number": "336",
+            "children": []
+          },
+          {
+            "title": "IV. Rodina a konec středoškolské práce",
+            "chapter_number": "IV",
+            "page_number": "359",
+            "children": []
+          },
+          {
+            "title": "V. Z pamětí kompetentových",
+            "chapter_number": "V",
+            "page_number": "449",
+            "children": []
+          },
+          {
+            "title": "VI. Z pamětí literárních",
+            "chapter_number": "VI",
+            "page_number": "469",
+            "children": []
+          },
+          {
+            "title": "VII. Konec štěstí",
+            "chapter_number": "VII",
+            "page_number": "513",
+            "children": []
+          },
+          {
+            "title": "Doslov",
+            "chapter_number": "",
+            "page_number": "522",
+            "children": []
+          },
+          {
+            "title": "Rejstřík",
+            "chapter_number": "",
+            "page_number": "523-536",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

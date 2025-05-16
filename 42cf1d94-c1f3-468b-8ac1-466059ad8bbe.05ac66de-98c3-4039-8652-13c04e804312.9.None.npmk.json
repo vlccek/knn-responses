@@ -1,0 +1,77 @@
+
+[
+  {
+    "title": "Kniha třetí.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Algebra.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Úměry. Směrné a nesměrné veličiny. Průměry daných veličin.",
+            "chapter_number": "§. 1.",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Funkce proměnných. Úměrnost. Nepřetržitost funkce, poměr differencialní. Funkce algebraická, transscendentní; stejnorodá, souměrná, alternující.",
+            "chapter_number": "§. 2.",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Methoda analytická. Výpočty, sestrojení.",
+            "chapter_number": "§. 3.",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Rovnice. Stejnina. Rovnice neidentická, její kořeny. Odvozené rovnice téhož dosahu. Rovnice urovnaná, stupeň její. Rovnice algebraické, transscendentní.",
+            "chapter_number": "§. 4.",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Soustavy rovnic o více neznámých, zvláště rovnic linearních. Rovnice neurčitá určitá soustava rovnic. Rozřešení soustavy rovnic linearních počtu určitého nebo neurčitého.",
+            "chapter_number": "§. 5.",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Rovnice druhého stupně. Maximum a minimum kvadratické funkce. Převádění tvaru kvadratického. Soustavy rovnic nelinearních.",
+            "chapter_number": "§. 6.",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Rovnice třetího a čtvrtého stupně. Rovnice zvratné.",
+            "chapter_number": "§. 7.",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Rovnice transscendentní a řešení rovnic číselných. Rovnice exponencialní, logarithmické a goniometrické. Newtonovo vypočítávání realních kořenů rovnic algebraických.",
+            "chapter_number": "§. 8.",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Zvláštní rozřešení rovnic neurčitých. Řešení rovnic linearních celými čísly. Rovnice Pythagorova. Jiné příklady.",
+            "chapter_number": "§. 9.",
+            "page_number": "",
+            "children": []
+          },
+          {
+            "title": "Poučky o funkcích algebraických. Dělitelé celistvé funkce. Rovnice ntého stupně nemá víc než n kořenů. Vlastnost součinitelů. Vyjádření funkce lomené zlomky částečnými. Dělitelé celistvé funkce s celistvými součiniteli. Differencialní poměr funkce celistvé. Množní dělitelé celistvé funkce. Meze realních kořenů rovnice. Pravidlo Descartesovo. Poučka Sturmova. Poučka Cauchyova. Poučka Gaussova. Nerealní kořeny rovnice. Spřežité hodnoty funkce algebraické norma funkce irracionalni. Výslednice dvou funkcí celistvých",
+            "chapter_number": "§. 10.",
+            "page_number": "",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

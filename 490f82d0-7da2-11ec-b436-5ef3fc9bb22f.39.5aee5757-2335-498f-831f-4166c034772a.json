@@ -1,0 +1,75 @@
+
+[
+  {
+    "title": "Alphabetische Folge der Zeitschriften. - Abecední pořadí časopisů",
+    "chapter_number": "A",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Zeitschriften nach Fachgruppen. - Časopisy podle odborů",
+    "chapter_number": "B",
+    "page_number": "197",
+    "children": []
+  },
+  {
+    "title": "Allgemeine Bibliographie, Buch- und Bibliothekswesen, Akademischriften. Zeitschriften allgemeinen Inhalts. Všeobecná bibliografie, kniha, knihovnictví, spisy učených společností, časopisy všeobecného obsahu",
+    "chapter_number": "I",
+    "page_number": "197",
+    "children": []
+  },
+  {
+    "title": "Allgemein naturwissenschaftliche Zeitschriften. Všeobecně přírodovědecké časopisy",
+    "chapter_number": "II",
+    "page_number": "200",
+    "children": []
+  },
+  {
+    "title": "Allgemeine Technik. Geschichte der Technik. Technische Hochschulen. Technische Erziehung. Akademien und Anstalten. Museen. Obecná technika. Dějiny techniky. Technické vysoké školy. Technické školení. Akademie a společnosti. Musea",
+    "chapter_number": "III",
+    "page_number": "202",
+    "children": []
+  },
+  {
+    "title": "Mathematik. Geodäsie. Vermessungswesen. Matematika. Geodesie. Zeměměřičské inženýrství",
+    "chapter_number": "IV",
+    "page_number": "206",
+    "children": []
+  },
+  {
+    "title": "Physik. Astronomie. Astrophysik. Meteorologie und Klimatologie. Fysika. Astronomie. Astrofysika. Meteorologie a klimatologie",
+    "chapter_number": "V",
+    "page_number": "209",
+    "children": []
+  },
+  {
+    "title": "Chemie. Chemische Technologie. Warenkunde. Pharmazie. Chemie. Chemická technologie. Zbožíznalství. Farmacie",
+    "chapter_number": "VI",
+    "page_number": "212",
+    "children": []
+  },
+  {
+    "title": "Chemische Technologie der landwirtschaftlichen Industrien (Zuckerindustrie, Brauerei, Spiritusindustrie usw.). Chemická technologie zemědělského průmyslu (cukrovarství, pivovarství, lihovarství atd.)",
+    "chapter_number": "VII",
+    "page_number": "217",
+    "children": []
+  },
+  {
+    "title": "Fotografie und Kinotechnik. Film. Fotografie a kinotechnika. Film",
+    "chapter_number": "VIII",
+    "page_number": "218",
+    "children": []
+  },
+  {
+    "title": "Erdkunde. Geologie. Palaentologie. Mineralogie. Zeměpis. Geologie. Paleontologie. Mineralogie",
+    "chapter_number": "IX",
+    "page_number": "218",
+    "children": []
+  },
+  {
+    "title": "Berg- und Hüttenwesen. - Hornictví a hutnictví",
+    "chapter_number": "X",
+    "page_number": "220",
+    "children": []
+  }
+]

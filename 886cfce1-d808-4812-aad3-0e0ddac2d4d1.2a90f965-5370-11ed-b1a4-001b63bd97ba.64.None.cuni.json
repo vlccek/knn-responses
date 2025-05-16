@@ -1,0 +1,217 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Kapitola I.",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Všeobecná ustanovení o obchodech",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": []
+      },
+      {
+        "title": "Předpisy o výkladu vůle stran",
+        "chapter_number": "1",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Zvláštní normy o některých obligačně - právních poměrech",
+        "chapter_number": "2",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "O cenných papírech zvláště",
+        "chapter_number": "3",
+        "page_number": "8",
+        "children": [
+          {
+            "title": "Rektapapíry",
+            "chapter_number": "A",
+            "page_number": "11",
+            "children": []
+          },
+          {
+            "title": "Ordrepapíry",
+            "chapter_number": "B",
+            "page_number": "13",
+            "children": [
+                {
+                  "title": "O skladních listech zvláště",
+                  "chapter_number": "",
+                  "page_number": "14",
+                  "children": []
+                }
+              ]
+          },
+          {
+            "title": "Auporeturpapíry",
+            "chapter_number": "C",
+            "page_number": "16",
+            "children": [
+                {
+                  "title": "O šeku zvláště",
+                  "chapter_number": "",
+                  "page_number": "18",
+                  "children": []
+                }
+              ]
+          }
+        ]
+      },
+      {
+        "title": "Zvláštní normy o vzniku a obsahu některých věcně-právních poměrů",
+        "chapter_number": "4",
+        "page_number": "25",
+        "children": [
+          {
+            "title": "Nabytí a pozbytí vlastnictví a práva zástavního",
+            "chapter_number": "A",
+            "page_number": "25",
+            "children": []
+          },
+          {
+            "title": "Kupecké právo zástavní",
+            "chapter_number": "B",
+            "page_number": "27",
+            "children": []
+          },
+          {
+            "title": "Kupecké právo zadržovací čili retenční",
+            "chapter_number": "C",
+            "page_number": "29",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Kapitola II.",
+    "chapter_number": "",
+    "page_number": "30",
+    "children": [
+      {
+        "title": "O uzavření obchodů",
+        "chapter_number": "5",
+        "page_number": "30",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Kapitola III.",
+    "chapter_number": "",
+    "page_number": "33",
+    "children": [
+      {
+        "title": "O plnění obchodů",
+        "chapter_number": "6",
+        "page_number": "33",
+        "children": [
+            {
+              "title": "O trhové smlouvě obchodní",
+              "chapter_number": "",
+              "page_number": "36",
+              "children": []
+            }
+          ]
+      },
+      {
+        "title": "Pojem a uzavření trhové smlouvy obchodní",
+        "chapter_number": "7",
+        "page_number": "36",
+        "children": [
+          {
+            "title": "Koupě na zkoušku",
+            "chapter_number": "",
+            "page_number": "36",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O povinnostech prodatele ze smlouvy trhové",
+        "chapter_number": "8",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "O povinnostech kupitele ze smlouvy trhové",
+        "chapter_number": "9",
+        "page_number": "40",
+        "children": []
+      },
+      {
+        "title": "O správě při obchodní smlouvě trhové",
+        "chapter_number": "10",
+        "page_number": "42",
+        "children": []
+      },
+      {
+        "title": "O prodlení kontrahentů při obchodní smlouvě trhové",
+        "chapter_number": "11",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "O vlivu konkursu na obchodní smlouvu trhovou",
+        "chapter_number": "12",
+        "page_number": "48",
+        "children": [
+          {
+            "title": "Dodatek o obchodech bursovních",
+            "chapter_number": "",
+            "page_number": "49",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O kupecké kommissi a spedici",
+        "chapter_number": "",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Pojem a předmět kupecké komisse",
+        "chapter_number": "13",
+        "page_number": "51",
+        "children": []
+      },
+      {
+        "title": "Povinnosti kommissionáře ze smlouvy kommissní",
+        "chapter_number": "14",
+        "page_number": "52",
+        "children": []
+      },
+      {
+        "title": "Povinnosti kommittentovy ze smlouvy kom",
+        "chapter_number": "15",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Kommissionář jako samokontrahent",
+        "chapter_number": "16",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "O spedici zvláště",
+        "chapter_number": "17",
+        "page_number": "57",
+        "children": []
+      }
+    ]
+  }
+]

@@ -1,0 +1,41 @@
+
+[
+  {
+    "title": "Reforma veřejné správy",
+    "chapter_number": "5",
+    "page_number": "37",
+    "children": []
+  },
+  {
+    "title": "Moc soudcovská",
+    "chapter_number": "C",
+    "page_number": "42",
+    "children": [
+      {
+        "title": "Nezávislost soudců. Organisace soudů.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "OBČANSKÁ PRÁVA.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Základní práva, svobody a povinnosti občanské",
+        "chapter_number": "I",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Ochrana menšin národních, náboženských a rasových",
+        "chapter_number": "II",
+        "page_number": "51",
+        "children": []
+      }
+    ]
+  }
+]

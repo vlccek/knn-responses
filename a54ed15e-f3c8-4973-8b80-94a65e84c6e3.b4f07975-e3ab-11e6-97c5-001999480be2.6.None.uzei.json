@@ -1,0 +1,128 @@
+
+[
+  {
+    "title": "Obsah.",
+    "chapter_number": "",
+    "page_number": ""
+  },
+  {
+    "title": "První oddíl.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Všeobecná pravidla o opatrování, ošetřování a pohybu hřebců.",
+        "chapter_number": "",
+        "page_number": ""
+      }
+    ]
+  },
+  {
+    "title": "Druhý oddíl.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Zvláštní pravidla týkající se pochodu ze stanoviště a počínání si v přípustných stanicich.",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "Přípravy k pochodu a službě v přípustných stanicích",
+        "chapter_number": "I.",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Pochod a příchod do přípustných stanic",
+        "chapter_number": "II.",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Pravidla o zvláštní službě v přípustných stanicích",
+        "chapter_number": "III.",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Pokyny jak si jest počínati na místě připouštěcím",
+        "chapter_number": "IV.",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Pochod zpáteční a návrat do stanice ústřední.",
+        "chapter_number": "V.",
+        "page_number": "53",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Třetí oddíl,",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Hippologické poznámky.",
+        "chapter_number": "",
+        "page_number": ""
+      },
+      {
+        "title": "Všeobecné známky zdraví koně",
+        "chapter_number": "I.",
+        "page_number": "55",
+        "children": []
+      },
+      {
+        "title": "Všeobecné známky onemocnění koně",
+        "chapter_number": "II.",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Poučení o nakažlivých nemocech koňských",
+        "chapter_number": "III.",
+        "page_number": "56",
+        "children": []
+      },
+      {
+        "title": "Poučení o některých zevních nemocech u koní častěji se vyskytujících",
+        "chapter_number": "IV.",
+        "page_number": "63",
+        "children": []
+      },
+      {
+        "title": "O vnitřních nemocech koní",
+        "chapter_number": "V.",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Poučení o páření",
+        "chapter_number": "VI.",
+        "page_number": "70",
+        "children": []
+      },
+      {
+        "title": "Poučení o dědičnosti a dědičných chybách",
+        "chapter_number": "VII.",
+        "page_number": "72",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Vzorce (Formuláře) I. až XXXI.",
+        "chapter_number": "",
+        "page_number": ""
+      }
+    ]
+  }
+]

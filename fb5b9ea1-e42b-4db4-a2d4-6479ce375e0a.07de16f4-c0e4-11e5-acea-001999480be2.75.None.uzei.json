@@ -1,0 +1,66 @@
+
+[
+  {
+    "title": "Analyse moštu",
+    "chapter_number": "IV",
+    "page_number": "59",
+    "children": [
+      {
+        "title": "Zkoumání moštu na cukrovitost",
+        "chapter_number": "a",
+        "page_number": "61",
+        "children": []
+      },
+      {
+        "title": "Zkoumání moštu na kyselinu",
+        "chapter_number": "b",
+        "page_number": "63",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Sbírky",
+    "chapter_number": "V",
+    "page_number": "64",
+    "children": [
+      {
+        "title": "Přípravy k sbírkám",
+        "chapter_number": "1",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Sbírky",
+        "chapter_number": "2",
+        "page_number": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Práce po sbírkách",
+    "chapter_number": "VI",
+    "page_number": "67",
+    "children": [
+      {
+        "title": "Ustřihování tažní a starého dříví vůbec",
+        "chapter_number": "1",
+        "page_number": null,
+        "children": []
+      },
+      {
+        "title": "Překládání a potápění",
+        "chapter_number": "2",
+        "page_number": null,
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Doslov",
+    "chapter_number": null,
+    "page_number": "69",
+    "children": []
+  }
+]

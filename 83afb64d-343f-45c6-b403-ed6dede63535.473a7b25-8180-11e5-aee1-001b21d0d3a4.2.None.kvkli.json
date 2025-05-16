@@ -1,0 +1,189 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "VII",
+    "children": []
+  },
+  {
+    "title": "Erstes Buch",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Wallensteins Anfänge",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Jugend und erste Dienste",
+            "chapter_number": "1",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "Zum Obersten von Prag",
+            "chapter_number": "2",
+            "page_number": "41",
+            "children": []
+          },
+          {
+            "title": "Zum Generalwachtmeister",
+            "chapter_number": "3",
+            "page_number": "61",
+            "children": []
+          },
+          {
+            "title": "Zum Herzog von Friedland",
+            "chapter_number": "4",
+            "page_number": "86",
+            "children": []
+          },
+          {
+            "title": "Dispositionen",
+            "chapter_number": "5",
+            "page_number": "127",
+            "children": []
+          },
+          {
+            "title": "Ferdinand II. und Maximilian von Bayern",
+            "chapter_number": "6",
+            "page_number": "144",
+            "children": []
+          },
+          {
+            "title": "Erste Verhandlungen mit Wallenstein",
+            "chapter_number": "7",
+            "page_number": "175",
+            "children": []
+          },
+          {
+            "title": "Abschluß der Verhandlungen",
+            "chapter_number": "8",
+            "page_number": "218",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Zweites Buch",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Das erste Jahr des ersten Generalates",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Von Eger nach Halberstadt",
+            "chapter_number": "1",
+            "page_number": "253",
+            "children": []
+          },
+          {
+            "title": "Von Halberstadt nach Dessau",
+            "chapter_number": "2",
+            "page_number": "295",
+            "children": []
+          },
+          {
+            "title": "Folgen der Schlacht bei Dessau",
+            "chapter_number": "3",
+            "page_number": "355",
+            "children": []
+          },
+          {
+            "title": "Die „banrische Servitut\"",
+            "chapter_number": "4",
+            "page_number": "376",
+            "children": []
+          },
+          {
+            "title": "Friedensbestrebungen",
+            "chapter_number": "5",
+            "page_number": "417",
+            "children": []
+          },
+          {
+            "title": "Interne Schwierigkeiten",
+            "chapter_number": "6",
+            "page_number": "441",
+            "children": []
+          },
+          {
+            "title": "Die Wendung",
+            "chapter_number": "7",
+            "page_number": "466",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Drittes Buch",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Der Krieg nach zwei Seiten",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Aufbruch nach Schlesien",
+            "chapter_number": "1",
+            "page_number": "497",
+            "children": []
+          },
+          {
+            "title": "Durch Schlesien und Mähren nach Ungarn",
+            "chapter_number": "2",
+            "page_number": "515",
+            "children": []
+          },
+          {
+            "title": "Die Schlacht bei Lutter",
+            "chapter_number": "3",
+            "page_number": "536",
+            "children": []
+          },
+          {
+            "title": "Der ungarische Feldzug",
+            "chapter_number": "4",
+            "page_number": "555",
+            "children": []
+          },
+          {
+            "title": "Das Nachspiel",
+            "chapter_number": "5",
+            "page_number": "579",
+            "children": []
+          },
+          {
+            "title": "Nochmals der Krieg im Westen",
+            "chapter_number": "6",
+            "page_number": "612",
+            "children": []
+          },
+          {
+            "title": "Die Brucker Konferenz",
+            "chapter_number": "7",
+            "page_number": "651",
+            "children": []
+          },
+          {
+            "title": "Auch eine Friedenshandlung",
+            "chapter_number": "8",
+            "page_number": "679",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

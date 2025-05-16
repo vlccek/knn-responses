@@ -1,0 +1,58 @@
+
+[
+  {
+    "title": "Školství v Čechách za dob Marie Terezie. Ferdinand Kindermann",
+    "chapter_number": "§. 34",
+    "page_number": "145",
+    "children": []
+  },
+  {
+    "title": "Pokračování o vývoji školství v Rakousku. Jan Ignac z Felbigeru",
+    "chapter_number": "§. 35",
+    "page_number": "148",
+    "children": []
+  },
+  {
+    "title": "Další vývoj školství v Čechách",
+    "chapter_number": "§. 36",
+    "page_number": "152",
+    "children": []
+  },
+  {
+    "title": "Proměny ve školství rakouském za panování císařů z rodu Habsbursko Lotrinského",
+    "chapter_number": "§. 37",
+    "page_number": "154",
+    "children": []
+  },
+  {
+    "title": "Účel školy obecné v nynější době",
+    "chapter_number": "§. 38",
+    "page_number": "163",
+    "children": []
+  },
+  {
+    "title": "Škola měšťanská. Školy soukromé",
+    "chapter_number": "§. 39",
+    "page_number": "166",
+    "children": []
+  },
+  {
+    "title": "Humanní ústavy nového věku. Jesličky, Opatrovny. Školy mateřské",
+    "chapter_number": "§. 40",
+    "page_number": "168",
+    "children": [
+      {
+        "title": "Opatrovny. Svoboda Jan",
+        "chapter_number": "A",
+        "page_number": "170",
+        "children": []
+      },
+      {
+        "title": "Škola mateřská č. zahrádka dětská. Bedřich Fröbel",
+        "chapter_number": "B",
+        "page_number": "175",
+        "children": []
+      }
+    ]
+  }
+]

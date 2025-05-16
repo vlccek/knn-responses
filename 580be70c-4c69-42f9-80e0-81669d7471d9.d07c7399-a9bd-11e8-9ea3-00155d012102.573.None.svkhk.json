@@ -1,0 +1,113 @@
+
+[
+  {
+    "title": "Vorrede",
+    "chapter_number": "",
+    "page_number": "V",
+    "children": []
+  },
+  {
+    "title": "Einleitung",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Geschichte",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Eintheilung",
+        "chapter_number": "",
+        "page_number": "18",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Allgemeine pathologische Anatomie",
+    "chapter_number": "",
+    "page_number": "21",
+    "children": [
+      {
+        "title": "I. Hauptstück.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Anomalien in Bezug auf die Zahl der Theile",
+            "chapter_number": "",
+            "page_number": "51",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "II. Hauptstück.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Anomalien der Grösse",
+            "chapter_number": "",
+            "page_number": "64",
+            "children": [
+              {
+                "title": "1. Regelwidrige Grösse Hypertrophie",
+                "chapter_number": "",
+                "page_number": "65",
+                "children": [
+                  {
+                    "title": "a) Die ächte Hypertrophie",
+                    "chapter_number": "",
+                    "page_number": "67",
+                    "children": []
+                  },
+                  {
+                    "title": "b) Die unächte Hypertrophie",
+                    "chapter_number": "",
+                    "page_number": "72",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "2. Regelwidrige Kleinheit Atrophie",
+                "chapter_number": "",
+                "page_number": "78",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "III. Hauptstück.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Anomalien der Gestalt",
+            "chapter_number": "",
+            "page_number": "87",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "IV. Hauptstück.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Anomalien der Lage",
+            "chapter_number": "",
+            "page_number": "92",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

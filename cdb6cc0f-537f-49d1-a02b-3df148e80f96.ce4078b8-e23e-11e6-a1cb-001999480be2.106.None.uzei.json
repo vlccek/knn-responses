@@ -1,0 +1,118 @@
+
+[
+  {
+    "title": "Çukrovarské",
+    "chapter_number": "d",
+    "page_number": "87",
+    "children": []
+  },
+  {
+    "title": "Skrobárenské",
+    "chapter_number": "e",
+    "page_number": "88",
+    "children": []
+  },
+  {
+    "title": "Matoliny",
+    "chapter_number": "f",
+    "page_number": "88",
+    "children": []
+  },
+  {
+    "title": "Olejárenské",
+    "chapter_number": "g",
+    "page_number": "88",
+    "children": []
+  },
+  {
+    "title": "Odpadky při výrobě etherických olejů",
+    "chapter_number": "h",
+    "page_number": "90",
+    "children": []
+  },
+  {
+    "title": "Odpadky zvířecího původu",
+    "chapter_number": "i",
+    "page_number": "90",
+    "children": []
+  },
+  {
+    "title": "Příkrmy a kořenivá krmiva (dráždidla)",
+    "chapter_number": "9",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "Množství píce",
+    "chapter_number": "1",
+    "page_number": "93",
+    "children": []
+  },
+  {
+    "title": "Objem píce",
+    "chapter_number": "2",
+    "page_number": "93",
+    "children": []
+  },
+  {
+    "title": "Příprava krmiv",
+    "chapter_number": "3",
+    "page_number": "94",
+    "children": [
+      {
+        "title": "Mechanická",
+        "chapter_number": "a",
+        "page_number": "94",
+        "children": []
+      },
+      {
+        "title": "Sladování",
+        "chapter_number": "b",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Pražeaí",
+        "chapter_number": "c",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Samospaření",
+        "chapter_number": "d",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Zákys",
+        "chapter_number": "e",
+        "page_number": "95",
+        "children": []
+      },
+      {
+        "title": "Záslad",
+        "chapter_number": "f",
+        "page_number": "96",
+        "children": []
+      },
+      {
+        "title": "Zápara",
+        "chapter_number": "g",
+        "page_number": "96",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Krmení ve skupinách",
+    "chapter_number": "4",
+    "page_number": "97",
+    "children": []
+  },
+  {
+    "title": "Pořádek v krmení",
+    "chapter_number": "5",
+    "page_number": "99",
+    "children": []
+  }
+]

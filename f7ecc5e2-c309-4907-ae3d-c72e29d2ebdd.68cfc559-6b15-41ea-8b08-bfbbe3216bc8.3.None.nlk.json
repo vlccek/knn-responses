@@ -1,0 +1,236 @@
+
+[
+  {
+    "title": "Vysvětlivky",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Bibliografie",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "ČSSR",
+        "chapter_number": "I",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Právní sbírky",
+            "chapter_number": "",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Časopisy",
+            "chapter_number": "",
+            "page_number": "58",
+            "children": []
+          },
+          {
+            "title": "Knihy",
+            "chapter_number": "",
+            "page_number": "102",
+            "children": []
+          },
+          {
+            "title": "Různé",
+            "chapter_number": "",
+            "page_number": "105",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zahraničí",
+        "chapter_number": "II",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Alžírsko",
+            "chapter_number": "",
+            "page_number": "106",
+            "children": []
+          },
+          {
+            "title": "Argentina",
+            "chapter_number": "",
+            "page_number": "107",
+            "children": []
+          },
+          {
+            "title": "Austrálie",
+            "chapter_number": "",
+            "page_number": "107",
+            "children": []
+          },
+          {
+            "title": "Belgie",
+            "chapter_number": "",
+            "page_number": "108",
+            "children": []
+          },
+          {
+            "title": "Benin",
+            "chapter_number": "",
+            "page_number": "109",
+            "children": []
+          },
+          {
+            "title": "Brazílie",
+            "chapter_number": "",
+            "page_number": "110",
+            "children": []
+          },
+          {
+            "title": "Bulharsko",
+            "chapter_number": "",
+            "page_number": "114",
+            "children": []
+          },
+          {
+            "title": "Dánsko",
+            "chapter_number": "",
+            "page_number": "115",
+            "children": []
+          },
+          {
+            "title": "Finsko",
+            "chapter_number": "",
+            "page_number": "120",
+            "children": []
+          },
+          {
+            "title": "Guayana",
+            "chapter_number": "",
+            "page_number": "120",
+            "children": []
+          },
+          {
+            "title": "Chile",
+            "chapter_number": "",
+            "page_number": "121",
+            "children": []
+          },
+          {
+            "title": "Island",
+            "chapter_number": "",
+            "page_number": "122",
+            "children": []
+          },
+          {
+            "title": "Madarsko",
+            "chapter_number": "",
+            "page_number": "123",
+            "children": []
+          },
+          {
+            "title": "NDR",
+            "chapter_number": "",
+            "page_number": "126",
+            "children": []
+          },
+          {
+            "title": "NSR",
+            "chapter_number": "",
+            "page_number": "136",
+            "children": []
+          },
+          {
+            "title": "Norsko",
+            "chapter_number": "",
+            "page_number": "147",
+            "children": []
+          },
+          {
+            "title": "Nový Zéland",
+            "chapter_number": "",
+            "page_number": "148",
+            "children": []
+          },
+          {
+            "title": "Řecko",
+            "chapter_number": "",
+            "page_number": "149",
+            "children": []
+          },
+          {
+            "title": "SSSR",
+            "chapter_number": "",
+            "page_number": "152",
+            "children": []
+          },
+          {
+            "title": "Turecko",
+            "chapter_number": "",
+            "page_number": "162",
+            "children": []
+          },
+          {
+            "title": "USA",
+            "chapter_number": "",
+            "page_number": "163",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Mezinárodní organizace",
+        "chapter_number": "III",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Evropská rada",
+            "chapter_number": "",
+            "page_number": "171",
+            "children": []
+          },
+          {
+            "title": "Evropské hospodářské společenství",
+            "chapter_number": "",
+            "page_number": "172",
+            "children": []
+          },
+          {
+            "title": "Organizace spojených národů",
+            "chapter_number": "",
+            "page_number": "175",
+            "children": []
+          },
+          {
+            "title": "Světová zdravotnická organizace",
+            "chapter_number": "",
+            "page_number": "176",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Abecední seznam",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "států",
+        "chapter_number": "",
+        "page_number": "187",
+        "children": []
+      },
+      {
+        "title": "jmenný",
+        "chapter_number": "",
+        "page_number": "189",
+        "children": []
+      },
+      {
+        "title": "věcný",
+        "chapter_number": "",
+        "page_number": "196",
+        "children": []
+      }
+    ]
+  }
+]

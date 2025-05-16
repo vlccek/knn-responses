@@ -1,0 +1,167 @@
+
+[
+  {
+    "title": "Erstes Buch.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Die älteste Geschichte Böhmens bis zur Zeit Kaiser Karls d. Gr.",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Die Bojen",
+            "chapter_number": "1",
+            "page_number": "1-4",
+            "children": []
+          },
+          {
+            "title": "Die Markomannen",
+            "chapter_number": "2",
+            "page_number": "4-9",
+            "children": []
+          },
+          {
+            "title": "Kulturverhältnisse der Markomannen",
+            "chapter_number": "3",
+            "page_number": "9-14",
+            "children": []
+          },
+          {
+            "title": "Die alten Tschechen",
+            "chapter_number": "4",
+            "page_number": "14-18",
+            "children": []
+          },
+          {
+            "title": "Kulturverhältnisse der alten Tschechen",
+            "chapter_number": "5",
+            "page_number": "18-21",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Zweites Buch.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Das Herzogthum Böhmen in strenger Abhängigkeit vom deutschen Reiche (768-1197).",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Böhmen unter den Karolingern und Konrad I.",
+            "chapter_number": "1",
+            "page_number": "22-29",
+            "children": []
+          },
+          {
+            "title": "Böhmen unter den Sachsenkaisern",
+            "chapter_number": "2",
+            "page_number": "29-43",
+            "children": []
+          },
+          {
+            "title": "Böhmen unter den fränkischen Kaisern und unter Lothar von Sachsen",
+            "chapter_number": "3",
+            "page_number": "43-60",
+            "children": []
+          },
+          {
+            "title": "Böhmen unter den ersten Staufern",
+            "chapter_number": "4",
+            "page_number": "60-68",
+            "children": []
+          },
+          {
+            "title": "Innere und Kulturverhältnisse",
+            "chapter_number": "5",
+            "page_number": "69-88",
+            "children": []
+          },
+          {
+            "title": "Die Deutschböhmen",
+            "chapter_number": "6",
+            "page_number": "88-97",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Drittes Buch.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Das Königreich Böhmen erlangt eine größere Unabhängigkeit vom deutschen Reiche. Ausbreitung der deutschen Nation im Lande (1197-1306).",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Böhmen unter den letzten Staufern.",
+            "chapter_number": "1",
+            "page_number": "98-111",
+            "children": []
+          },
+          {
+            "title": "Přemysl Ottokar II., das deutsche Interregnum und Rudolph von Habsburg",
+            "chapter_number": "2",
+            "page_number": "111-126",
+            "children": []
+          },
+          {
+            "title": "Wenzel II. und Wenzel III.",
+            "chapter_number": "3",
+            "page_number": "126-136",
+            "children": []
+          },
+          {
+            "title": "Innere und Kulturverhältnisse.",
+            "chapter_number": "4",
+            "page_number": "136-157",
+            "children": []
+          },
+          {
+            "title": "Die Deutschböhmen",
+            "chapter_number": "5",
+            "page_number": "157-179",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Viertes Buch.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Böhmen unter deutschen Fürsten während des XIV. Jahrhunderts (1306-1400).",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "Rudolph von Desterreich, Heinrich von Kärnthen und Johann von Luxemburg",
+            "chapter_number": "1",
+            "page_number": "180-208",
+            "children": []
+          },
+          {
+            "title": "Kaiser Karl IV.",
+            "chapter_number": "2",
+            "page_number": "208-220",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,177 @@
+
+[
+  {
+    "title": "Tržba",
+    "chapter_number": "III",
+    "page_number": "132",
+    "children": [
+      {
+        "title": "Pojem a hospodářská charakteristika",
+        "chapter_number": "1",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "Extensivné a intensivné tvary tržby",
+        "chapter_number": "2",
+        "page_number": "137",
+        "children": []
+      },
+      {
+        "title": "Typické rysy z vývoje tržby",
+        "chapter_number": "3",
+        "page_number": "138",
+        "children": []
+      },
+      {
+        "title": "Politika tržební. Politika obchodní",
+        "chapter_number": "4",
+        "page_number": "141",
+        "children": []
+      },
+      {
+        "title": "Mezinárodní politika obchodní",
+        "chapter_number": null,
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "Pojem. — Svobodný obchod a soustava ochranná",
+        "chapter_number": "5",
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "Vývoj soustavy ochranné v praxi i theorii",
+        "chapter_number": "6",
+        "page_number": "147",
+        "children": []
+      },
+      {
+        "title": "Svobodný obchod v nauce a v praxi",
+        "chapter_number": "7",
+        "page_number": "151",
+        "children": []
+      },
+      {
+        "title": "Ocenění obou soustav",
+        "chapter_number": "8",
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "Cla surovinová, zvláště obilní",
+        "chapter_number": "9",
+        "page_number": "158",
+        "children": []
+      },
+      {
+        "title": "Autonomní a smluvní politika",
+        "chapter_number": "10",
+        "page_number": "163",
+        "children": []
+      },
+      {
+        "title": "Epochy rakouské (a rakousko-uherské) obchodní politiky zahraničné",
+        "chapter_number": "11",
+        "page_number": "171",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Doprava",
+    "chapter_number": "IV",
+    "page_number": "175",
+    "children": [
+      {
+        "title": "Pojem a hospodářský význam prostředků dopravních",
+        "chapter_number": "1",
+        "page_number": "175",
+        "children": []
+      },
+      {
+        "title": "Poměr státu k ústavům dopravním a spojovacím",
+        "chapter_number": "2",
+        "page_number": "179",
+        "children": []
+      },
+      {
+        "title": "Finanční pravidla správní",
+        "chapter_number": "3",
+        "page_number": "184",
+        "children": []
+      },
+      {
+        "title": "Sazby dopravného povšechně",
+        "chapter_number": "4",
+        "page_number": "188",
+        "children": []
+      },
+      {
+        "title": "O drahách železných zvláště",
+        "chapter_number": null,
+        "page_number": "190",
+        "children": [
+          {
+            "title": "Technická povaha a národohospodářská charakteristika",
+            "chapter_number": "1",
+            "page_number": "190",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Zakládání drah železných",
+        "chapter_number": "I",
+        "page_number": "191",
+        "children": [
+          {
+            "title": "Subjekt zřizující",
+            "chapter_number": "2",
+            "page_number": "191",
+            "children": []
+          },
+          {
+            "title": "Plán zřizovací. Individualisování",
+            "chapter_number": "3",
+            "page_number": "196",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Správa drah železných",
+        "chapter_number": "II",
+        "page_number": "198",
+        "children": [
+          {
+            "title": "Tarify",
+            "chapter_number": "4",
+            "page_number": "198",
+            "children": []
+          },
+          {
+            "title": "Přehled dějin železniční politiky rakouské",
+            "chapter_number": "5",
+            "page_number": "203",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Dopravy vodní",
+        "chapter_number": "B",
+        "page_number": "206",
+        "children": [
+          {
+            "title": "Druhy a hospodářská povaha",
+            "chapter_number": "1",
+            "page_number": "206",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

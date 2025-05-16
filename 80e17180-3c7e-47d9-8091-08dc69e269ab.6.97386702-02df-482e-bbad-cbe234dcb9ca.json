@@ -1,0 +1,101 @@
+
+[
+  {
+    "title": "Allgemeine Bemerkungen.",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": [
+      {
+        "title": "Perspektivische Projekzionsarten. Die freie Schattenbestimmung",
+        "chapter_number": "§. 1",
+        "page_number": "1",
+        "children": []
+      },
+      {
+        "title": "Die Feststellung der Beleuchtung.",
+        "chapter_number": "§. 2",
+        "page_number": "3",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Aufgaben.",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": [
+      {
+        "title": "Bestimmung des Bildes und des Schattens eines Punktes",
+        "chapter_number": "§. 3",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Bestimmung des Schattens, den eine Piramide auf die Grund-Ebene wirft.",
+        "chapter_number": "§. 4",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Bestimmung des Schattens, den ein Würfel auf die Grund-Ebene wirft",
+        "chapter_number": "§. 5",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Bestimmung des Schattens, den ein Cylinder auf die Grund-Ebene wirft.",
+        "chapter_number": "§. 6",
+        "page_number": "8",
+        "children": []
+      },
+      {
+        "title": "Auf eine Gerade ein bestimmtes Maass aufzutragen oder die wahre Grösse einer Geraden zu bestimmen",
+        "chapter_number": "§. 7",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Bestimmung des Schattens, den eine Gerade auf eine andere wirft",
+        "chapter_number": "§. 8",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Piramide",
+        "chapter_number": "§. 9",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "ein Prisma.",
+        "chapter_number": "§. 10",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "ein Polyeder auf ein anderes wirft",
+        "chapter_number": "§. 11",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "eine Gerade auf eine schiefe Cylinderfläche wirft",
+        "chapter_number": "§. 12",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "Bestimmung des Schattens, den eine Gerade auf cine Kegel-fläche wirft.",
+        "chapter_number": "§. 13",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Bestimmung des Schattens, den ein Punkt auf eine Cylinder- oder Kegelfliiche wirft",
+        "chapter_number": "§. 14",
+        "page_number": "17",
+        "children": []
+      }
+    ]
+  }
+]

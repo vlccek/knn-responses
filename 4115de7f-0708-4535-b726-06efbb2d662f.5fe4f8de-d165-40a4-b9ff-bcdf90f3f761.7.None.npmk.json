@@ -1,0 +1,218 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Popis glóbu zemského",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "Koule zemská",
+        "chapter_number": "I",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "Podstavec",
+        "chapter_number": "II",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Výklady na základě glóbu",
+        "chapter_number": "III",
+        "page_number": "12",
+        "children": [
+          {
+            "title": "Rozdělení souše a moře na polokoulich",
+            "chapter_number": "A",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "Rozloha dilů světa a světových moři",
+            "chapter_number": "B",
+            "page_number": "12",
+            "children": []
+          },
+          {
+            "title": "Rozdělení země na pásma",
+            "chapter_number": "C",
+            "page_number": "13",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Rozřešení důležitých úkolů zeměpisných pomoci glóbu.",
+    "chapter_number": "",
+    "page_number": "13",
+    "children": [
+      {
+        "title": "Zeměpisnou šířku a délku jistého místa určiti",
+        "chapter_number": "1",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Určiti výšku pólovou jistého mista",
+        "chapter_number": "2",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "Glóbus pro jisté misto na zeměkouli správně postaviti",
+        "chapter_number": "3",
+        "page_number": "14",
+        "children": []
+      },
+      {
+        "title": "Vzdálenosť dvou mist na glóbu udati",
+        "chapter_number": "4",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Rozděliti zeměkouli na polokouli největší souše a na polokonli největšího vodstva",
+        "chapter_number": "5",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Je-li pravý čas nějakého mista dán, udati, kolik hodin jest současně v jiných místech na povrchu země",
+        "chapter_number": "6",
+        "page_number": "17",
+        "children": []
+      },
+      {
+        "title": "Pomoci glóbu nalézti, jak země v určitý den od slunce jest osvětlena, která mista maji téhož dne slunce v nadhlavníku (zenitu) a kterým slunce současně vychází a zapadá",
+        "chapter_number": "7",
+        "page_number": "20",
+        "children": []
+      },
+      {
+        "title": "Dle předešlého úkolu lze určiti, kdy jistého dne v nějakém místě slunce vychází a zapadá, jak dlouhý je tedy jeho den; dále můžeme také poznati, v kterých krajinách slunce ani nevychází, v kterých ani nezapadá",
+        "chapter_number": "8",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Délku jistého dne v nějakém místě a odlehlosť východní či ranni a západní či večerní určiti",
+        "chapter_number": "9",
+        "page_number": "27",
+        "children": []
+      },
+      {
+        "title": "Pomoci glóbu udati, jak dlouho trvá v určitý den na nějakém místě svitáni a soumrak.",
+        "chapter_number": "10",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Na glóbě určiti, kde (co do stran světových) a jak vysoko nad obzorem slunce stoji v kterýkoli den a hodinu",
+        "chapter_number": "11",
+        "page_number": "30",
+        "children": []
+      },
+      {
+        "title": "Nalézti na glóbě protidomce, vedledomce a protinožce (antipody) jistého místa",
+        "chapter_number": "12",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Jiný spůsob, udati délku jistého dne v nejrůznějších místech na povrchu zemském",
+        "chapter_number": "13",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Jak určiti zeměpisnou délku a šířku nějakého místa dle délky jistého dne v roce",
+        "chapter_number": "14",
+        "page_number": "33",
+        "children": []
+      },
+      {
+        "title": "Kterak poznáme pomoci glóbu, které země zatmění měsíčné viděti mohou",
+        "chapter_number": "15",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Jak Ize glóbu zemského užíti místo teluria k výkladům v matematickém zeměpisu?",
+        "chapter_number": "16",
+        "page_number": "34",
+        "children": [
+          {
+            "title": "Správnou polohu osy zemské k rovině stolu ukázati",
+            "chapter_number": "a",
+            "page_number": "35",
+            "children": []
+          },
+          {
+            "title": "Rovnoběžnosť osy zemské při oběhu kolem slunce znázorniti",
+            "chapter_number": "b",
+            "page_number": "35",
+            "children": []
+          },
+          {
+            "title": "Postavení země k 12. znamením zvěrokruhu znázorniti",
+            "chapter_number": "c",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Oběh měsice kolem země a proměny luny znázorniti a ukázati, jak země luně se jevi osvětlena",
+            "chapter_number": "d",
+            "page_number": "36",
+            "children": []
+          },
+          {
+            "title": "Zatmění slunce a měsice znázorniti",
+            "chapter_number": "e",
+            "page_number": "36",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Tabulky.",
+    "chapter_number": "",
+    "page_number": "22",
+    "children": [
+      {
+        "title": "Deklinace sluneční po celý rok",
+        "chapter_number": "I",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Klimata astronomická",
+        "chapter_number": "II",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Kolik asi dni slunce na severní polokouli nezapadá, na jižní nevycházi a naopak",
+        "chapter_number": "III",
+        "page_number": "26",
+        "children": []
+      },
+      {
+        "title": "Zeměpisná délka a šířka, pak délka nejdelšího dne v několika městech důležitých.",
+        "chapter_number": "IV",
+        "page_number": "26",
+        "children": []
+      }
+    ]
+  }
+]

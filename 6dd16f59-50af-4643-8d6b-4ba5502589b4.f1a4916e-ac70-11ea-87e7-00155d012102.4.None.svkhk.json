@@ -1,0 +1,157 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "VI-XXI",
+    "children": []
+  },
+  {
+    "title": "Text studií: Tři studie k české diplomatice.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Vývoj české listiny do začátku 13. stol.",
+        "chapter_number": "I",
+        "page_number": "1-39",
+        "children": [
+          {
+            "title": "Do doby Vladislava II.",
+            "chapter_number": "1",
+            "page_number": "1-39",
+            "children": []
+          },
+          {
+            "title": "Od doby krále Vladislava",
+            "chapter_number": "2",
+            "page_number": "39-73",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Nejstarší listiny české podezřelé a padělané.",
+        "chapter_number": "II",
+        "page_number": "73-79",
+        "children": [
+          {
+            "title": "Boleslav Stará (kapitula)",
+            "chapter_number": "1",
+            "page_number": "73-79",
+            "children": []
+          },
+          {
+            "title": "Břevnov (klášter) a Rajhrad (klášter)",
+            "chapter_number": "2",
+            "page_number": "79-80",
+            "children": []
+          },
+          {
+            "title": "Hradiště u Olomouce (klášter)",
+            "chapter_number": "3",
+            "page_number": "81-86",
+            "children": []
+          },
+          {
+            "title": "Kladruby (klášter)",
+            "chapter_number": "4",
+            "page_number": "86-105",
+            "children": []
+          },
+          {
+            "title": "Kapitula v Litoměřicích",
+            "chapter_number": "5",
+            "page_number": "105-108",
+            "children": []
+          },
+          {
+            "title": "Klášter v Litomyšli",
+            "chapter_number": "6",
+            "page_number": "108-118",
+            "children": []
+          },
+          {
+            "title": "Klášter v Louce",
+            "chapter_number": "7",
+            "page_number": "118-120",
+            "children": []
+          },
+          {
+            "title": "Jerusalemský špitál sv. Jana Kř. v Praze",
+            "chapter_number": "8",
+            "page_number": "121-127",
+            "children": []
+          },
+          {
+            "title": "Olomouc (kapitula)",
+            "chapter_number": "9",
+            "page_number": "127-131",
+            "children": []
+          },
+          {
+            "title": "Klášter v Opatovicích",
+            "chapter_number": "10",
+            "page_number": "131-138",
+            "children": []
+          },
+          {
+            "title": "Klášter sv. Jana na Ostrově",
+            "chapter_number": "11",
+            "page_number": "138-144",
+            "children": []
+          },
+          {
+            "title": "Klášter v Plasech",
+            "chapter_number": "12",
+            "page_number": "144-148",
+            "children": []
+          },
+          {
+            "title": "Klášter v Třebíči",
+            "chapter_number": "13",
+            "page_number": "149-151",
+            "children": []
+          },
+          {
+            "title": "Kapitula na Vyšehradě",
+            "chapter_number": "14",
+            "page_number": "151-165",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O pečetech knížat a králů z rodu Přemyslova",
+        "chapter_number": "III",
+        "page_number": "166-185",
+        "children": []
+      },
+      {
+        "title": "Poznámky k studiím (ve zvláštním sešitě):",
+        "chapter_number": "",
+        "page_number": "",
+        "children": [
+          {
+            "title": "",
+            "chapter_number": "I",
+            "page_number": "1-72",
+            "children": []
+          },
+          {
+            "title": "",
+            "chapter_number": "II",
+            "page_number": "72-108",
+            "children": []
+          },
+          {
+            "title": "",
+            "chapter_number": "III",
+            "page_number": "108-123",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

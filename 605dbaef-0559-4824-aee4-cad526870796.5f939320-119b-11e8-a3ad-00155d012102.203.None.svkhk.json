@@ -1,0 +1,126 @@
+
+[
+  {
+    "title": "Doba osvícenství a revoluce",
+    "chapter_number": "VI",
+    "page_number": "104-133",
+    "children": [
+      {
+        "title": "Vnější poměry v době Marie Terezie a Josefa II.",
+        "chapter_number": "1",
+        "page_number": "105",
+        "children": []
+      },
+      {
+        "title": "Poměry vnitřní v době Marie Terezie",
+        "chapter_number": "2",
+        "page_number": "108",
+        "children": []
+      },
+      {
+        "title": "Doba Josefova",
+        "chapter_number": "3",
+        "page_number": "114",
+        "children": []
+      },
+      {
+        "title": "Doba válek francouzských",
+        "chapter_number": "4",
+        "page_number": "117",
+        "children": []
+      },
+      {
+        "title": "Vnitřní poměry v 1. 1792-1848",
+        "chapter_number": "5",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Vývoj hnutí za svobodu národní i občanskou",
+        "chapter_number": "6",
+        "page_number": "124",
+        "children": []
+      },
+      {
+        "title": "Revoluce r. 1848",
+        "chapter_number": "7",
+        "page_number": "127",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Doba císaře Františka Josefa",
+    "chapter_number": "VII",
+    "page_number": "134-165",
+    "children": [
+      {
+        "title": "Doba absolutismu",
+        "chapter_number": "1",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Doba ústavy únorové",
+        "chapter_number": "2",
+        "page_number": "139",
+        "children": []
+      },
+      {
+        "title": "Válka s Pruskem a Italií r. 1866",
+        "chapter_number": "3",
+        "page_number": "144",
+        "children": []
+      },
+      {
+        "title": "Založení dualismu. Vyrovnání uherské a ústava prosincová",
+        "chapter_number": "4",
+        "page_number": "145",
+        "children": []
+      },
+      {
+        "title": "Pokusy o vyrovnání české",
+        "chapter_number": "5",
+        "page_number": "149",
+        "children": []
+      },
+      {
+        "title": "Poslední čtyři desítiletí před válkou",
+        "chapter_number": "6",
+        "page_number": "153",
+        "children": []
+      },
+      {
+        "title": "Poměry vnitřní",
+        "chapter_number": "7",
+        "page_number": "157",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vznik státu československého",
+    "chapter_number": "VIII",
+    "page_number": "166-198",
+    "children": [
+      {
+        "title": "Světová válka 1914-1918",
+        "chapter_number": "1",
+        "page_number": "166",
+        "children": []
+      },
+      {
+        "title": "Konec Rakousko-Uherska. Česká samostatnost",
+        "chapter_number": "2",
+        "page_number": "182",
+        "children": []
+      },
+      {
+        "title": "Prvá tři léta republiky československé",
+        "chapter_number": "3",
+        "page_number": "186",
+        "children": []
+      }
+    ]
+  }
+]

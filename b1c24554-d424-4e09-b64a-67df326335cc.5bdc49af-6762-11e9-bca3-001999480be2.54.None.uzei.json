@@ -1,0 +1,213 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Mléko",
+    "chapter_number": "I.",
+    "page_number": "5",
+    "children": [
+      {
+        "title": "O součástkách mléčných",
+        "chapter_number": "1.",
+        "page_number": "5",
+        "children": []
+      },
+      {
+        "title": "O dojivosti krav",
+        "chapter_number": "2.",
+        "page_number": "7",
+        "children": []
+      },
+      {
+        "title": "O prostředcích k zachování sladkého mléka",
+        "chapter_number": "3.",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "Zkoušení mléka",
+        "chapter_number": "4.",
+        "page_number": "14",
+        "children": [
+          {
+            "title": "Zjištění množství smetany smetanoměrem",
+            "chapter_number": "a)",
+            "page_number": "15",
+            "children": []
+          },
+          {
+            "title": "Určení tuku",
+            "chapter_number": "b)",
+            "page_number": "16",
+            "children": []
+          },
+          {
+            "title": "Určení hustoty mléka",
+            "chapter_number": "c)",
+            "page_number": "19",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Vady mléčné",
+        "chapter_number": "5.",
+        "page_number": "19",
+        "children": [
+          {
+            "title": "Tabulka k určení poměrné váhy mléka sebraného",
+            "chapter_number": "A)",
+            "page_number": "20",
+            "children": []
+          },
+          {
+            "title": "Tabulka k určení poměrné váhy mléka celého",
+            "chapter_number": "B)",
+            "page_number": "21",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Mléko pro děti",
+        "chapter_number": "6.",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Kefír",
+        "chapter_number": "7.",
+        "page_number": "23",
+        "children": []
+      },
+      {
+        "title": "Jogurt",
+        "chapter_number": "8.",
+        "page_number": "23",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Výroba másla",
+    "chapter_number": "II.",
+    "page_number": "24",
+    "children": [
+      {
+        "title": "Smetana",
+        "chapter_number": "1.",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Vystávání mléka",
+        "chapter_number": "2.",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Odstředění",
+        "chapter_number": "3.",
+        "page_number": "25",
+        "children": []
+      },
+      {
+        "title": "Máslo",
+        "chapter_number": "4.",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Máselnice",
+        "chapter_number": "5.",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Tlučení",
+        "chapter_number": "6.",
+        "page_number": "29",
+        "children": []
+      },
+      {
+        "title": "Vypracování másla",
+        "chapter_number": "7.",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Máslo strojené",
+        "chapter_number": "8.",
+        "page_number": "34",
+        "children": []
+      },
+      {
+        "title": "Vady másla",
+        "chapter_number": "9.",
+        "page_number": "34",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Výroba sýra",
+    "chapter_number": "III.",
+    "page_number": "36",
+    "children": [
+      {
+        "title": "Syření",
+        "chapter_number": "1.",
+        "page_number": "36",
+        "children": []
+      },
+      {
+        "title": "Sýrovina",
+        "chapter_number": "2.",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Lisování, solení sýra",
+        "chapter_number": "3.",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Vady sýrů",
+        "chapter_number": "4.",
+        "page_number": "38",
+        "children": []
+      },
+      {
+        "title": "Příprava různých sýrů",
+        "chapter_number": "5.",
+        "page_number": "39",
+        "children": [
+          {
+            "title": "Sýry domácí",
+            "chapter_number": "A)",
+            "page_number": "39",
+            "children": []
+          },
+          {
+            "title": "Sýry ze sladkého mléka",
+            "chapter_number": "B)",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Sýry polotvrdé",
+            "chapter_number": "C)",
+            "page_number": "49",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

@@ -1,0 +1,113 @@
+
+[
+  {
+    "title": "Die Landespferdezucht überhaupt",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Wahl der Zuchtthiere.",
+    "chapter_number": "I",
+    "page_number": "4",
+    "children": [
+      {
+        "title": "Hengste",
+        "chapter_number": "a",
+        "page_number": "4",
+        "children": []
+      },
+      {
+        "title": "Mutterstutten",
+        "chapter_number": "b",
+        "page_number": "4",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Vom Belegen",
+    "chapter_number": "II",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Behandlung der tragenden Stutten",
+    "chapter_number": "III",
+    "page_number": "9",
+    "children": []
+  },
+  {
+    "title": "Das Abfohlen",
+    "chapter_number": "IV",
+    "page_number": "10",
+    "children": []
+  },
+  {
+    "title": "Aufzucht des Fohlens",
+    "chapter_number": "V",
+    "page_number": "10",
+    "children": [
+      {
+        "title": "das Saugfohlen",
+        "chapter_number": "a",
+        "page_number": "10",
+        "children": []
+      },
+      {
+        "title": "das Absapfohlen bis zum vollendeten ersten Jahre",
+        "chapter_number": "b",
+        "page_number": "13",
+        "children": []
+      },
+      {
+        "title": "das zwei- und dreijährige Fohlen",
+        "chapter_number": "c",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "das Fohlen im vierten Jahre",
+        "chapter_number": "d",
+        "page_number": "19",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Drüsenkrankheit beim Fohlen",
+    "chapter_number": "VI",
+    "page_number": "21",
+    "children": []
+  },
+  {
+    "title": "Der Hufbeschlag",
+    "chapter_number": "VII",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Schluß",
+    "chapter_number": "VIII",
+    "page_number": "26",
+    "children": []
+  },
+  {
+    "title": "Anhang 1. Stallungen",
+    "chapter_number": "IX",
+    "page_number": "27",
+    "children": []
+  },
+  {
+    "title": "Anhang 2. Fohlengärten",
+    "chapter_number": "X",
+    "page_number": "29",
+    "children": []
+  },
+  {
+    "title": "Anhang 3. Abstellungs-Verpflichtung der Pferde",
+    "chapter_number": "XI",
+    "page_number": "30",
+    "children": []
+  }
+]

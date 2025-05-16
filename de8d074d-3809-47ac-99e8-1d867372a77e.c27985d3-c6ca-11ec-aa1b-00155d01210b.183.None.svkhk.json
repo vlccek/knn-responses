@@ -1,0 +1,198 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Úvod: Jaká má býti ošetřovatelka",
+    "chapter_number": "",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Pokoj nemocného a všeobecná pravidla:",
+    "chapter_number": "I",
+    "page_number": "11",
+    "children": [
+      {
+        "title": "Jak upraviti pokoj nemocného",
+        "chapter_number": "A",
+        "page_number": "11",
+        "children": []
+      },
+      {
+        "title": "O teploměru",
+        "chapter_number": "B",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Postel nemocného",
+        "chapter_number": "C",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Přenášení a převádění nemocných",
+        "chapter_number": "D",
+        "page_number": "16",
+        "children": []
+      },
+      {
+        "title": "O stravě pro nemocné",
+        "chapter_number": "E",
+        "page_number": "21",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Ošetřování při zvláštních nemocích a zvláštních příznacích:",
+    "chapter_number": "II",
+    "page_number": "22",
+    "children": [
+      {
+        "title": "Duševní nemoce (choromyslnost)",
+        "chapter_number": "",
+        "page_number": "22",
+        "children": []
+      },
+      {
+        "title": "Krvácení",
+        "chapter_number": "",
+        "page_number": "24",
+        "children": []
+      },
+      {
+        "title": "Křeče",
+        "chapter_number": "",
+        "page_number": "28",
+        "children": []
+      },
+      {
+        "title": "Kašel",
+        "chapter_number": "",
+        "page_number": "31",
+        "children": []
+      },
+      {
+        "title": "Mdloba",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Proleženina",
+        "chapter_number": "",
+        "page_number": "32",
+        "children": []
+      },
+      {
+        "title": "Opatření při nakažlivých nemocích",
+        "chapter_number": "",
+        "page_number": "35",
+        "children": []
+      },
+      {
+        "title": "Otravy",
+        "chapter_number": "",
+        "page_number": "37",
+        "children": []
+      },
+      {
+        "title": "Vrhnutí",
+        "chapter_number": "",
+        "page_number": "44",
+        "children": []
+      },
+      {
+        "title": "Zdánlivá smrt",
+        "chapter_number": "",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Umírání",
+        "chapter_number": "",
+        "page_number": "47",
+        "children": []
+      },
+      {
+        "title": "Léky",
+        "chapter_number": "",
+        "page_number": "49",
+        "children": []
+      },
+      {
+        "title": "Nápoje",
+        "chapter_number": "",
+        "page_number": "58",
+        "children": []
+      },
+      {
+        "title": "Lázně",
+        "chapter_number": "",
+        "page_number": "60",
+        "children": []
+      },
+      {
+        "title": "Domácí lékárna",
+        "chapter_number": "",
+        "page_number": "62",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Úrazy:",
+    "chapter_number": "III",
+    "page_number": "72",
+    "children": [
+      {
+        "title": "Rány podkožní",
+        "chapter_number": "I",
+        "page_number": "72",
+        "children": []
+      },
+      {
+        "title": "Rány otevřené",
+        "chapter_number": "II",
+        "page_number": "77",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Služba při operacích",
+    "chapter_number": "",
+    "page_number": "80",
+    "children": []
+  },
+  {
+    "title": "Jak se provádějí obvazy",
+    "chapter_number": "IV",
+    "page_number": "90",
+    "children": []
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "",
+    "page_number": "111",
+    "children": []
+  },
+  {
+    "title": "Stavba těla lidského a jeho úkony",
+    "chapter_number": "",
+    "page_number": "113",
+    "children": []
+  },
+  {
+    "title": "Rejstřik",
+    "chapter_number": "",
+    "page_number": "153",
+    "children": []
+  }
+]

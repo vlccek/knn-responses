@@ -1,0 +1,83 @@
+
+[
+  {
+    "title": "Sbírání tuku z mléka",
+    "chapter_number": "",
+    "page_number": "1",
+    "children": []
+  },
+  {
+    "title": "Prvá centrifuga mléčná",
+    "chapter_number": "",
+    "page_number": "6",
+    "children": []
+  },
+  {
+    "title": "Běžné soustavy centrifug mléčných",
+    "chapter_number": "",
+    "page_number": "9",
+    "children": [
+      {
+        "title": "Soustava Lefeldtova",
+        "chapter_number": "A",
+        "page_number": "12",
+        "children": []
+      },
+      {
+        "title": "Soustava de Lavalova",
+        "chapter_number": "B",
+        "page_number": "15",
+        "children": []
+      },
+      {
+        "title": "Soustava Burmeister-Wainova",
+        "chapter_number": "C",
+        "page_number": "18",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Jaká jest výkonnost mléčných centrifug a čím se řídí",
+    "chapter_number": "",
+    "page_number": "22",
+    "children": []
+  },
+  {
+    "title": "Centrifugy po stránce praktické",
+    "chapter_number": "",
+    "page_number": "34",
+    "children": []
+  },
+  {
+    "title": "Výrobky normalné práce a přístroje této prospěšné",
+    "chapter_number": "",
+    "page_number": "41",
+    "children": []
+  },
+  {
+    "title": "Kde a jak zaříditi odstřeďování mléka",
+    "chapter_number": "",
+    "page_number": "46",
+    "children": []
+  },
+  {
+    "title": "Centrifugy mléčné na práci ruční",
+    "chapter_number": "",
+    "page_number": "52",
+    "children": [
+      {
+        "title": "Ruční odsmetaňovač o kolmém bubnu",
+        "chapter_number": "a",
+        "page_number": "53",
+        "children": []
+      },
+      {
+        "title": "Ruční odsmetaňovač o vodorovném bubnu",
+        "chapter_number": "b",
+        "page_number": "55",
+        "children": []
+      }
+    ]
+  }
+]

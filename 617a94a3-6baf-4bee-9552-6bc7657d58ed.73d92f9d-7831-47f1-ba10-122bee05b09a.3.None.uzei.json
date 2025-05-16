@@ -1,0 +1,146 @@
+
+[
+  {
+    "title": "Obsah.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Druhy jadrné.",
+        "chapter_number": "",
+        "page_number": "3",
+        "children": [
+          {
+            "title": "Jabloň (Pyrus malus)",
+            "chapter_number": "",
+            "page_number": "3",
+            "children": []
+          },
+          {
+            "title": "Hrušeň (Pyrus communis)",
+            "chapter_number": "",
+            "page_number": "4",
+            "children": []
+          },
+          {
+            "title": "Kdoule (Cynodia)",
+            "chapter_number": "",
+            "page_number": "5",
+            "children": []
+          },
+          {
+            "title": "Mišpule nyšpule (Mespilus germanica)",
+            "chapter_number": "",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Mišpule vlašská (Crataegus azarolus)",
+            "chapter_number": "",
+            "page_number": "6",
+            "children": []
+          },
+          {
+            "title": "Hloh, břesk (Crataegus terminalis)",
+            "chapter_number": "",
+            "page_number": "6",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Druhy peckovité.",
+        "chapter_number": "",
+        "page_number": "7",
+        "children": [
+          {
+            "title": "Švestky a slívy (Prunus domestica)",
+            "chapter_number": "",
+            "page_number": "7",
+            "children": []
+          },
+          {
+            "title": "Třešně (Prunus cerassus)",
+            "chapter_number": "",
+            "page_number": "8",
+            "children": []
+          },
+          {
+            "title": "Višně",
+            "chapter_number": "",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "Broskev, nemřítka (Amygdalus persicae) a mandlovník obecný (Amygdalus communis)",
+            "chapter_number": "",
+            "page_number": "9",
+            "children": []
+          },
+          {
+            "title": "Meruňka (Prunus armenica)",
+            "chapter_number": "",
+            "page_number": "13",
+            "children": []
+          },
+          {
+            "title": "Mandlovník (Amygdalus)",
+            "chapter_number": "",
+            "page_number": "13",
+            "children": []
+          },
+          {
+            "title": "Svída obecná (Cornus mascula)",
+            "chapter_number": "",
+            "page_number": "13",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Druhy škořápkovité.",
+        "chapter_number": "",
+        "page_number": "14",
+        "children": [
+          {
+            "title": "Vlašský ořech (Inglans)",
+            "chapter_number": "",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Jedlé kaštany (Castanea sativa)",
+            "chapter_number": "",
+            "page_number": "14",
+            "children": []
+          },
+          {
+            "title": "Lískový ořech",
+            "chapter_number": "",
+            "page_number": "15",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Druhy jahodovité.",
+        "chapter_number": "",
+        "page_number": "16",
+        "children": [
+          {
+            "title": "Moruše (Morus)",
+            "chapter_number": "",
+            "page_number": "16",
+            "children": []
+          },
+          {
+            "title": "Růže šípková (Rosa canina)",
+            "chapter_number": "",
+            "page_number": "16",
+            "children": []
+          }
+        ]
+      }
+    ]
+  }
+]

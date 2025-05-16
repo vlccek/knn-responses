@@ -1,0 +1,130 @@
+
+[
+  {
+    "title": "Dynamic response of the Lagrange and Timoshenko beam on the moving load",
+    "chapter_number": "",
+    "page_number": "229",
+    "children": []
+  },
+  {
+    "title": "Modeling of the influence of middle ear prosthesis on hearing",
+    "chapter_number": "",
+    "page_number": "231",
+    "children": []
+  },
+  {
+    "title": "Thermomechanical processes in compliant damping elements",
+    "chapter_number": "",
+    "page_number": "233",
+    "children": []
+  },
+  {
+    "title": "Impacts computer simulation using LS-DYNA program",
+    "chapter_number": "",
+    "page_number": "261",
+    "children": []
+  },
+  {
+    "title": "Some specific features of the rotor dynamic behaviour",
+    "chapter_number": "",
+    "page_number": "275",
+    "children": []
+  },
+  {
+    "title": "About the dependence of the natural frequencies of a vibroisolation system on the load magnitude and position",
+    "chapter_number": "",
+    "page_number": "277",
+    "children": []
+  },
+  {
+    "title": "Statistical and sensitivity analysis of determination of SEA coupling loss factors using a dual modal formulation",
+    "chapter_number": "",
+    "page_number": "291",
+    "children": []
+  },
+  {
+    "title": "Investigation of influence of assymetry in the case of vibration of resiliently supported and coupled three rigid plates - application on the vehicle vibrations I",
+    "chapter_number": "",
+    "page_number": "325",
+    "children": []
+  },
+  {
+    "title": "Transversale impact of elastic rod on thin elastic orthotropic rectangular plate II (Flügge's and Timoshenko-Mindlin's models)",
+    "chapter_number": "",
+    "page_number": "327",
+    "children": []
+  },
+  {
+    "title": "Incorporation of a vapour cavitation in short lemon hydrodynamical bearings with deep a central groove into computational models of rotor systems - response on unbalance excitation",
+    "chapter_number": "",
+    "page_number": "335",
+    "children": []
+  },
+  {
+    "title": "Exploitation of laser levelling device for estimation of bridges deflection",
+    "chapter_number": "",
+    "page_number": "337",
+    "children": []
+  },
+  {
+    "title": "Methodology of the gear transmission optimization from the constant gear mesh point of view",
+    "chapter_number": "",
+    "page_number": "339",
+    "children": []
+  },
+  {
+    "title": "About stability an aeroelastic system",
+    "chapter_number": "",
+    "page_number": "341",
+    "children": []
+  },
+  {
+    "title": "FLUID MECHANICS",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Application of thermo-anemometer at physical modelling of pollutant diffusion in atmospheric boundary layer",
+        "chapter_number": "",
+        "page_number": "43",
+        "children": []
+      },
+      {
+        "title": "On the choice of an adequate phenomenological model for viscoplastic fluids",
+        "chapter_number": "",
+        "page_number": "67",
+        "children": []
+      },
+      {
+        "title": "Experimental and numerical modelling of flow around the obstacles placed on a channel bottom",
+        "chapter_number": "",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Preliminary results on the mean flow characteristics of the wet steam downstream the LP stage of a 210MW turbine",
+        "chapter_number": "",
+        "page_number": "135",
+        "children": []
+      },
+      {
+        "title": "Numerical modeling of turbulent flow through a turbine cascade",
+        "chapter_number": "",
+        "page_number": "151",
+        "children": []
+      },
+      {
+        "title": "Experimental evaluation of drag rotation coefficient of the spherical particle",
+        "chapter_number": "",
+        "page_number": "169",
+        "children": []
+      },
+      {
+        "title": "Shock wave in two-phase fluid",
+        "chapter_number": "",
+        "page_number": "181",
+        "children": []
+      }
+    ]
+  }
+]

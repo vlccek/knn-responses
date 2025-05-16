@@ -1,0 +1,39 @@
+
+[
+  {
+    "title": "Úvod",
+    "chapter_number": "",
+    "page_number": "I.-V.",
+    "children": []
+  },
+  {
+    "title": "Stať zvykoslovná",
+    "chapter_number": "I",
+    "page_number": "3-35",
+    "children": []
+  },
+  {
+    "title": "Pohádky, pověsti a národní písně",
+    "chapter_number": "II",
+    "page_number": "39-317",
+    "children": []
+  },
+  {
+    "title": "Rejstřík osad",
+    "chapter_number": "III",
+    "page_number": "318-319",
+    "children": []
+  },
+  {
+    "title": "Rejstřík pohádek a pověstí",
+    "chapter_number": "IV",
+    "page_number": "320-322",
+    "children": []
+  },
+  {
+    "title": "Rejstřík národních pisní a řikadel",
+    "chapter_number": "V",
+    "page_number": "323-326",
+    "children": []
+  }
+]

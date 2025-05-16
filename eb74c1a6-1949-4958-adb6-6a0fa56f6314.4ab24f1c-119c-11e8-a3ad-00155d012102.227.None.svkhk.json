@@ -1,0 +1,46 @@
+
+[
+  {
+    "title": "Předmluva",
+    "chapter_number": "",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Z historie životního magnetismu",
+    "chapter_number": "Část první:",
+    "page_number": "7",
+    "children": []
+  },
+  {
+    "title": "Tajemství životního magnetismu",
+    "chapter_number": "Část druhá:",
+    "page_number": "43",
+    "children": []
+  },
+  {
+    "title": "Somnambulismus",
+    "chapter_number": "Část třetí:",
+    "page_number": "76",
+    "children": []
+  },
+  {
+    "title": "Magnetické léčení",
+    "chapter_number": "Část čtvrtá:",
+    "page_number": "105",
+    "children": [
+      {
+        "title": "Hmaty kladné",
+        "chapter_number": "I. skupina:",
+        "page_number": "173",
+        "children": []
+      },
+      {
+        "title": "Hmaty negativní čili záporné",
+        "chapter_number": "II. skupina:",
+        "page_number": "177",
+        "children": []
+      }
+    ]
+  }
+]

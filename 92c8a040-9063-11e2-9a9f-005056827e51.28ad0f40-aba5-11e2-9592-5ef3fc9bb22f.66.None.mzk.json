@@ -1,0 +1,96 @@
+
+[
+  {
+    "title": "Vorwort",
+    "chapter_number": "",
+    "page_number": "3",
+    "children": []
+  },
+  {
+    "title": "Die psychologischen Geseze, nach denen das Kind die Sprache beherrschen lernt",
+    "chapter_number": "I",
+    "page_number": "5",
+    "children": []
+  },
+  {
+    "title": "Welche Partien der Grammatik sind für den Ausdruck von Wichtigkeit und wie sollen dieselben behandelt werden?",
+    "chapter_number": "II",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Die einzelnen Partien der Grammatik",
+        "chapter_number": "",
+        "page_number": "20",
+        "children": [
+          {
+            "title": "Orthographie",
+            "chapter_number": "a",
+            "page_number": "21",
+            "children": []
+          },
+          {
+            "title": "Wortlehre",
+            "chapter_number": "b",
+            "page_number": "29",
+            "children": []
+          },
+          {
+            "title": "Sakglieder",
+            "chapter_number": "c",
+            "page_number": "43",
+            "children": []
+          },
+          {
+            "title": "Saklehre",
+            "chapter_number": "d",
+            "page_number": "47",
+            "children": []
+          },
+          {
+            "title": "Saz-Analyse",
+            "chapter_number": "e",
+            "page_number": "49",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Die Stellung der Unterrichtssprache unter den übrigen Gegenständen der Volksschule",
+    "chapter_number": "III",
+    "page_number": "52",
+    "children": []
+  },
+  {
+    "title": "Das sprachliche Wissen des Lehrers",
+    "chapter_number": "IV",
+    "page_number": "54",
+    "children": [
+      {
+        "title": "In welchem Maße muss der Lehrer selbst die Grammatik und Literatur der Unterrichtssprache beherrschen, wenn er den Unterricht in der Sprache mit Erfolg ertheilen will?",
+        "chapter_number": "1",
+        "page_number": "54",
+        "children": []
+      },
+      {
+        "title": "Welche Wünsche hätte die Lehrerschaft an die Sprachausbildung durch die Lehrerbildungsanstalten zu stellen?",
+        "chapter_number": "2",
+        "page_number": "57",
+        "children": []
+      },
+      {
+        "title": "Die Fortbildung des Lehrers in der Unterrichtssprache",
+        "chapter_number": "3",
+        "page_number": "59",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die zweite Landessprache an den Volksschulen",
+    "chapter_number": "V",
+    "page_number": "62",
+    "children": []
+  }
+]

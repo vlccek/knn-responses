@@ -1,0 +1,375 @@
+
+[
+  {
+    "title": "O způsobech ve větách vedlejších",
+    "chapter_number": "II",
+    "page_number": "159-181",
+    "children": [
+      {
+        "title": "O vedlejších větách spojkových",
+        "chapter_number": "A",
+        "page_number": "161-173",
+        "children": [
+          {
+            "title": "Věty důvodové",
+            "chapter_number": "1",
+            "page_number": "161",
+            "children": []
+          },
+          {
+            "title": "Věty účelové, snahové, obavné",
+            "chapter_number": "2",
+            "page_number": "162-164",
+            "children": []
+          },
+          {
+            "title": "Věty účinkové",
+            "chapter_number": "3",
+            "page_number": "165",
+            "children": []
+          },
+          {
+            "title": "Věty podmínkové",
+            "chapter_number": "4",
+            "page_number": "166-170",
+            "children": []
+          },
+          {
+            "title": "Věty přípustkové",
+            "chapter_number": "5",
+            "page_number": "171",
+            "children": []
+          },
+          {
+            "title": "Věty časové",
+            "chapter_number": "6",
+            "page_number": "172-173",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O vedlejších větách vztažných",
+        "chapter_number": "B",
+        "page_number": "174-180",
+        "children": []
+      },
+      {
+        "title": "Zvláštnosti ve spojování vět vztažných",
+        "chapter_number": "",
+        "page_number": "180",
+        "children": []
+      },
+      {
+        "title": "Připodobování ve větách vedlejších",
+        "chapter_number": "",
+        "page_number": "181",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O zkracování vět infinitivem a participiem",
+    "chapter_number": "III",
+    "page_number": "182-220",
+    "children": [
+      {
+        "title": "O infinitivě",
+        "chapter_number": "",
+        "page_number": "182-195",
+        "children": [
+          {
+            "title": "O infinitivě vůbec",
+            "chapter_number": "A",
+            "page_number": "182-186",
+            "children": [
+              {
+                "title": "O tvarovém významu infinitivu",
+                "chapter_number": "I",
+                "page_number": "182",
+                "children": []
+              },
+              {
+                "title": "O větném významu infinitivu",
+                "chapter_number": "II",
+                "page_number": "183",
+                "children": []
+              },
+              {
+                "title": "O vazbách infinitivních",
+                "chapter_number": "III",
+                "page_number": "184-186",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "O infinitivě zvlášť",
+            "chapter_number": "B",
+            "page_number": "187-195",
+            "children": [
+              {
+                "title": "O infinitivě bez členu",
+                "chapter_number": "I",
+                "page_number": "187-194",
+                "children": [
+                  {
+                    "title": "žádacím",
+                    "chapter_number": "a",
+                    "page_number": "188-192",
+                    "children": []
+                  },
+                  {
+                    "title": "úsudkovém",
+                    "chapter_number": "b",
+                    "page_number": "193",
+                    "children": []
+                  }
+                ]
+              },
+              {
+                "title": "O infinitivě s ἄν",
+                "chapter_number": "",
+                "page_number": "194",
+                "children": []
+              },
+              {
+                "title": "O infinitivě se členem",
+                "chapter_number": "II",
+                "page_number": "195",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "O participiu",
+        "chapter_number": "",
+        "page_number": "196-219",
+        "children": [
+          {
+            "title": "O tvarovém významu participia",
+            "chapter_number": "I",
+            "page_number": "196",
+            "children": []
+          },
+          {
+            "title": "O větném významu participia",
+            "chapter_number": "II",
+            "page_number": "197-218",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Participium spojité",
+    "chapter_number": "A",
+    "page_number": "198-216",
+    "children": [
+      {
+        "title": "přívlastkové",
+        "chapter_number": "a",
+        "page_number": "199",
+        "children": []
+      },
+      {
+        "title": "doplňkové",
+        "chapter_number": "b",
+        "page_number": "200-209",
+        "children": [
+          {
+            "title": "podmětné",
+            "chapter_number": "α",
+            "page_number": "200-204",
+            "children": []
+          },
+          {
+            "title": "předmětné",
+            "chapter_number": "β",
+            "page_number": "205-209",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "příslovečné",
+        "chapter_number": "c",
+        "page_number": "210-216",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Participium nespojité",
+    "chapter_number": "B",
+    "page_number": "217-218",
+    "children": [
+      {
+        "title": "v genitivě",
+        "chapter_number": "a",
+        "page_number": "217",
+        "children": []
+      },
+      {
+        "title": "v akkusativě",
+        "chapter_number": "b",
+        "page_number": "218",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O participiu s ἄν",
+    "chapter_number": "III",
+    "page_number": "219",
+    "children": [
+      {
+        "title": "O přídavných jménech slovesných",
+        "chapter_number": "",
+        "page_number": "220",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O řeči nepřímé",
+    "chapter_number": "IV",
+    "page_number": "221-229",
+    "children": [
+      {
+        "title": "Věty hlavní v řeči nepřímé",
+        "chapter_number": "A",
+        "page_number": "222-228",
+        "children": [
+          {
+            "title": "Věty oznamovací",
+            "chapter_number": "1",
+            "page_number": "222-226",
+            "children": []
+          },
+          {
+            "title": "Věty tázací",
+            "chapter_number": "2",
+            "page_number": "227",
+            "children": []
+          },
+          {
+            "title": "Věty přací a rozkazovací",
+            "chapter_number": "3",
+            "page_number": "228",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Věty vedlejší v řeči nepřímé",
+        "chapter_number": "B",
+        "page_number": "229",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Dodatek k větám vedlejším (k řeči nepřímé)",
+    "chapter_number": "V",
+    "page_number": "230-231",
+    "children": [
+      {
+        "title": "Platnost způsobů ve větách vedlejších (v řeči nepřímé)",
+        "chapter_number": "1",
+        "page_number": "230",
+        "children": []
+      },
+      {
+        "title": "Předjímání",
+        "chapter_number": "2",
+        "page_number": "231",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O částicích",
+    "chapter_number": "VI",
+    "page_number": "232-239",
+    "children": [
+      {
+        "title": "O záporkách",
+        "chapter_number": "I",
+        "page_number": "233-236",
+        "children": [
+          {
+            "title": "Záporky ojedinělé",
+            "chapter_number": "A",
+            "page_number": "234",
+            "children": []
+          },
+          {
+            "title": "Sbíhání záporek",
+            "chapter_number": "B",
+            "page_number": "235-236",
+            "children": [
+              {
+                "title": "sourodých",
+                "chapter_number": "a",
+                "page_number": "235",
+                "children": []
+              },
+              {
+                "title": "různorodých",
+                "chapter_number": "b",
+                "page_number": "236",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "O způsobovém příslovci ἄν",
+        "chapter_number": "II",
+        "page_number": "237",
+        "children": []
+      },
+      {
+        "title": "O částicích ostatních",
+        "chapter_number": "III",
+        "page_number": "238-239",
+        "children": []
+      }
+    ]
+  },
+    {
+    "title": "Řecký kalendář",
+    "chapter_number": "1",
+    "page_number": "105-110",
+    "children": []
+  },
+  {
+    "title": "Řecké míry a peníze",
+    "chapter_number": "2",
+    "page_number": "111-112",
+    "children": []
+  },
+  {
+    "title": "Ukazatel český",
+    "chapter_number": "",
+    "page_number": "113-117",
+    "children": []
+  },
+  {
+    "title": "Ukazatel řecký",
+    "chapter_number": "",
+    "page_number": "117-126",
+    "children": []
+  },
+  {
+    "title": "Vysvětlení některých zkratkův",
+    "chapter_number": "",
+    "page_number": "126",
+    "children": []
+  }
+]

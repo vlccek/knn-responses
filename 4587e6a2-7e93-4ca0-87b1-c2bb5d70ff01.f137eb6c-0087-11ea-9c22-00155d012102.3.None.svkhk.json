@@ -1,0 +1,398 @@
+
+[
+  {
+    "title": "O stupňování příslovcí",
+    "chapter_number": "",
+    "page_number": "112-114",
+    "children": [
+      {
+        "title": "Příslovce předložková",
+        "chapter_number": "a",
+        "page_number": "112",
+        "children": []
+      },
+      {
+        "title": "Příslovce adjektivní",
+        "chapter_number": "b",
+        "page_number": "113-114",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "O zájmenech",
+    "chapter_number": "",
+    "page_number": "115-128",
+    "children": [
+      {
+        "title": "Zájmena osobná",
+        "chapter_number": "1",
+        "page_number": "115-117",
+        "children": []
+      },
+      {
+        "title": "Zájmena zvratná",
+        "chapter_number": "2",
+        "page_number": "118",
+        "children": []
+      },
+      {
+        "title": "Zájmena přivlastňovací",
+        "chapter_number": "3",
+        "page_number": "119",
+        "children": []
+      },
+      {
+        "title": "Zájmeno vespolné",
+        "chapter_number": "4",
+        "page_number": "120",
+        "children": []
+      },
+      {
+        "title": "Zájmenatázací a neurčitá",
+        "chapter_number": "5",
+        "page_number": "121-122",
+        "children": []
+      },
+      {
+        "title": "Zájmena ukazovací",
+        "chapter_number": "6",
+        "page_number": "123-125",
+        "children": []
+      },
+      {
+        "title": "Zájmena vztažná",
+        "chapter_number": "7",
+        "page_number": "126-127",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přehled zájmen a příslovcí souvztažných",
+    "chapter_number": "",
+    "page_number": "128",
+    "children": []
+  },
+  {
+    "title": "Dodatek",
+    "chapter_number": "",
+    "page_number": "129",
+    "children": []
+  },
+  {
+    "title": "O číslovkách",
+    "chapter_number": "",
+    "page_number": "130-135",
+    "children": [
+      {
+        "title": "Výčet číslovek",
+        "chapter_number": "",
+        "page_number": "130",
+        "children": []
+      },
+      {
+        "title": "Číslovky základní",
+        "chapter_number": "1",
+        "page_number": "131-132",
+        "children": []
+      },
+      {
+        "title": "Číslovky řadové",
+        "chapter_number": "2",
+        "page_number": "133",
+        "children": []
+      },
+      {
+        "title": "Příslovce číselná",
+        "chapter_number": "3",
+        "page_number": "134",
+        "children": []
+      },
+      {
+        "title": "Číslovky ostatní",
+        "chapter_number": "4",
+        "page_number": "135",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "II. Časování",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Průprava k časování",
+        "chapter_number": "",
+        "page_number": "136-146",
+        "children": [
+          {
+            "title": "O osobách, číslech, rodech, způsobech a časech",
+            "chapter_number": "I",
+            "page_number": "136-137",
+            "children": []
+          },
+          {
+            "title": "O přímnožku a zdvojce",
+            "chapter_number": "II",
+            "page_number": "138-140",
+            "children": []
+          },
+          {
+            "title": "Zvláštnosti v přímnožku a zdvojce",
+            "chapter_number": "III",
+            "page_number": "141-144",
+            "children": []
+          },
+          {
+            "title": "Rozdělení sloves",
+            "chapter_number": "IV",
+            "page_number": "145-146",
+            "children": []
+          },
+          {
+            "title": "Slovesa na -ω",
+            "chapter_number": "",
+            "page_number": "147-183",
+            "children": [
+              {
+                "title": "Časování sloves pravidelných na -ω",
+                "chapter_number": "A",
+                "page_number": "147-178",
+                "children": [
+                  {
+                    "title": "Slovesa samohlásková",
+                    "chapter_number": "I",
+                    "page_number": "",
+                    "children": [
+                      {
+                        "title": "Slovesa nestažená",
+                        "chapter_number": "1",
+                        "page_number": "147-152",
+                        "children": []
+                      },
+                      {
+                        "title": "Slovesa stažená",
+                        "chapter_number": "2",
+                        "page_number": "153-158",
+                        "children": []
+                      }
+                    ]
+                  },
+                  {
+                    "title": "Slovesa souhlásková",
+                    "chapter_number": "II",
+                    "page_number": "",
+                    "children": [
+                      {
+                        "title": "Slovesa němá",
+                        "chapter_number": "1",
+                        "page_number": "159-170",
+                        "children": []
+                      },
+                      {
+                        "title": "Slovesa plynná",
+                        "chapter_number": "2",
+                        "page_number": "171-178",
+                        "children": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Časování sloves nepravidelných na -ω",
+        "chapter_number": "B",
+        "page_number": "179-183",
+        "children": [
+          {
+            "title": "Slovesa ný-ová",
+            "chapter_number": "1",
+            "page_number": "180",
+            "children": []
+          },
+          {
+            "title": "Slovesa počínavá",
+            "chapter_number": "2",
+            "page_number": "181",
+            "children": []
+          },
+          {
+            "title": "Slovesa epsílonová",
+            "chapter_number": "3",
+            "page_number": "182",
+            "children": []
+          },
+          {
+            "title": "Slovesa vícekmenná",
+            "chapter_number": "4",
+            "page_number": "183",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Slovesa na -μι",
+        "chapter_number": "",
+        "page_number": "184-204",
+        "children": [
+          {
+            "title": "Slovesa prostokmenná",
+            "chapter_number": "I",
+            "page_number": "185-198",
+            "children": [
+              {
+                "title": "Slovesa s kmenem otevřeným",
+                "chapter_number": "1",
+                "page_number": "185--196",
+                "children": []
+              },
+              {
+                "title": "Slovesa s kmenem zavřeným",
+                "chapter_number": "2",
+                "page_number": "197-198",
+                "children": []
+              }
+            ]
+          },
+          {
+            "title": "Slovesa ný-ová",
+            "chapter_number": "II",
+            "page_number": "199-201",
+            "children": []
+          },
+          {
+            "title": "Aoristy a perfekta (plusquamperfekta) některých sloves na -ω",
+            "chapter_number": "III",
+            "page_number": "202-204",
+            "children": []
+          },
+          {
+            "title": "O přízvukování sloves",
+            "chapter_number": "",
+            "page_number": "205-206",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Přídavek I",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O mluvě Homerově",
+        "chapter_number": "A",
+        "page_number": "207-230",
+        "children": [
+          {
+            "title": "Zvláštnosti v hláskosloví",
+            "chapter_number": "I",
+            "page_number": "208-209",
+            "children": []
+          },
+          {
+            "title": "Zvláštnosti v skloňování",
+            "chapter_number": "II",
+            "page_number": "210-221",
+            "children": []
+          },
+          {
+            "title": "Zvláštnosti v časování",
+            "chapter_number": "III",
+            "page_number": "222-230",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "O verši Homerově",
+        "chapter_number": "B",
+        "page_number": "231-236",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přídavek II",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O mluvě Herodotově",
+        "chapter_number": "",
+        "page_number": "237-251",
+        "children": [
+          {
+            "title": "Zvláštnosti v hláskosloví",
+            "chapter_number": "I",
+            "page_number": "238-239",
+            "children": []
+          },
+          {
+            "title": "Zvláštnosti v skloňování",
+            "chapter_number": "II",
+            "page_number": "240-245",
+            "children": []
+          },
+          {
+            "title": "Zvláštnosti v časování",
+            "chapter_number": "III",
+            "page_number": "246-251",
+            "children": []
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "title": "Přídavek III",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "O mluvě tragiků",
+        "chapter_number": "A",
+        "page_number": "252-253",
+        "children": []
+      },
+      {
+        "title": "O trimetru iambickém",
+        "chapter_number": "B",
+        "page_number": "254",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Přídavek IV",
+    "chapter_number": "",
+    "page_number": "255",
+    "children": []
+  },
+  {
+    "title": "Seznam důležitějších sloves",
+    "chapter_number": "",
+    "page_number": "",
+    "children": []
+  },
+  {
+    "title": "Ukazatel český",
+    "chapter_number": "",
+    "page_number": "154-156",
+    "children": []
+  },
+  {
+    "title": "Ukazatel řecký",
+    "chapter_number": "",
+    "page_number": "156-163",
+    "children": []
+  }
+]

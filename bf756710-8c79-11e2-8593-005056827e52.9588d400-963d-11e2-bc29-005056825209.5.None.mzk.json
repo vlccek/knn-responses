@@ -1,0 +1,129 @@
+
+[
+  {
+    "title": "Krankenabschub und Krankenzerstreuung",
+    "chapter_number": "3",
+    "page_number": "42",
+    "children": [
+      {
+        "title": "Krankenabschub",
+        "chapter_number": "a",
+        "page_number": "42",
+        "children": [
+          {
+            "title": "Transportmittel für den Krankenabschub",
+            "chapter_number": "",
+            "page_number": "43",
+            "children": [
+              {
+                "title": "Blessirtenwägen und Fuhrwerke",
+                "chapter_number": "α",
+                "page_number": "43",
+                "children": []
+              },
+              {
+                "title": "Eisenbahnsanitätszüge",
+                "chapter_number": "β",
+                "page_number": "43",
+                "children": []
+              },
+              {
+                "title": "Krankenzüge",
+                "chapter_number": "γ",
+                "page_number": "44",
+                "children": []
+              },
+              {
+                "title": "Gewöhnliche Verkehrszüge",
+                "chapter_number": "δ",
+                "page_number": "44",
+                "children": []
+              },
+              {
+                "title": "Schiffsambulanzen",
+                "chapter_number": "ε",
+                "page_number": "44",
+                "children": []
+              },
+              {
+                "title": "Sonstige Wasserfahrzeuge",
+                "chapter_number": "ζ",
+                "page_number": "45",
+                "children": []
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "title": "Krankenzerstreuung",
+        "chapter_number": "b",
+        "page_number": "45",
+        "children": []
+      },
+      {
+        "title": "Genfer-Convention",
+        "chapter_number": "C",
+        "page_number": "47",
+        "children": [
+          {
+            "title": "Zweck und Bestimmung der Genfer-Convention",
+            "chapter_number": "",
+            "page_number": "47",
+            "children": []
+          },
+          {
+            "title": "Sanitätsanstalten, die in Österreich als Ambulanzen gelten",
+            "chapter_number": "",
+            "page_number": "47",
+            "children": []
+          },
+          {
+            "title": "Zeichen der Genfer-Convention",
+            "chapter_number": "",
+            "page_number": "47",
+            "children": []
+          }
+        ]
+      },
+      {
+        "title": "Die freiwillige Sanitätspflege im Kriege.",
+        "chapter_number": "D",
+        "page_number": "48",
+        "children": [
+          {
+            "title": "Thätigkeit der freiwilligen Sanitätspflege",
+            "chapter_number": "",
+            "page_number": "48",
+            "children": [
+              {
+                "title": "Deutscher Ritterorden",
+                "chapter_number": "a",
+                "page_number": "48",
+                "children": []
+              },
+              {
+                "title": "Malteser-Ritterorden",
+                "chapter_number": "b",
+                "page_number": "49",
+                "children": []
+              },
+              {
+                "title": "Die österr. und ung. Gesellschaft vom rothen Kreuze",
+                "chapter_number": "c",
+                "page_number": "50",
+                "children": []
+              },
+              {
+                "title": "Die freiwilligen Leistungen von sonstigen Vereinen, Corporationen und Einzelpersonen",
+                "chapter_number": "d",
+                "page_number": "52",
+                "children": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

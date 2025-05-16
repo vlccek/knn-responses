@@ -1,0 +1,255 @@
+
+[
+  {
+    "title": "Herzogthum Schlesien",
+    "chapter_number": "30",
+    "page_number": "91",
+    "children": []
+  },
+  {
+    "title": "Königreich Galizien und Lodomerien mit dem Groß-Herzogthum Krakau",
+    "chapter_number": "31",
+    "page_number": "93",
+    "children": []
+  },
+  {
+    "title": "Herzogthum Bukowina",
+    "chapter_number": "32",
+    "page_number": "100",
+    "children": []
+  },
+  {
+    "title": "B. Die Länder der ungarischen Krone:",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Ungarn",
+        "chapter_number": "33",
+        "page_number": "101",
+        "children": []
+      },
+      {
+        "title": "Großfürstenthum Siebenbürgen",
+        "chapter_number": "34",
+        "page_number": "110",
+        "children": []
+      },
+      {
+        "title": "Königreich Kroatien und Slavonien",
+        "chapter_number": "35",
+        "page_number": "113",
+        "children": []
+      },
+      {
+        "title": "Die Militärgrenze",
+        "chapter_number": "36",
+        "page_number": "115",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Deutschland.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bodengestalt",
+        "chapter_number": "37",
+        "page_number": "118",
+        "children": []
+      },
+      {
+        "title": "Das Königreich Preußen",
+        "chapter_number": "38",
+        "page_number": "121",
+        "children": []
+      },
+      {
+        "title": "Staaten des norddeutschen Bundes",
+        "chapter_number": "39",
+        "page_number": "132",
+        "children": []
+      },
+      {
+        "title": "Süddeutschland",
+        "chapter_number": "40",
+        "page_number": "135",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Die Bundesrepublik Schweiz",
+    "chapter_number": "41",
+    "page_number": "138",
+    "children": []
+  },
+  {
+    "title": "Die vereinigten Königreiche Schweden und Norwegen",
+    "chapter_number": "42",
+    "page_number": "142",
+    "children": []
+  },
+  {
+    "title": "Königreich Dänemark",
+    "chapter_number": "43",
+    "page_number": "143",
+    "children": []
+  },
+  {
+    "title": "Königreich Großbritannien und Irland",
+    "chapter_number": "44",
+    "page_number": "143",
+    "children": []
+  },
+  {
+    "title": "Königreich Niederlande",
+    "chapter_number": "45",
+    "page_number": "145",
+    "children": []
+  },
+  {
+    "title": "Königreich Belgien",
+    "chapter_number": "46",
+    "page_number": "146",
+    "children": []
+  },
+  {
+    "title": "Kaiserthum Frankreich",
+    "chapter_number": "47",
+    "page_number": "147",
+    "children": []
+  },
+  {
+    "title": "Pyrenäische Halbinsel",
+    "chapter_number": "48",
+    "page_number": "150",
+    "children": []
+  },
+  {
+    "title": "Königreich Italien",
+    "chapter_number": "49",
+    "page_number": "153",
+    "children": []
+  },
+  {
+    "title": "Europäische Türkei",
+    "chapter_number": "50",
+    "page_number": "157",
+    "children": []
+  },
+  {
+    "title": "Königreich Griechenland",
+    "chapter_number": "51",
+    "page_number": "160",
+    "children": []
+  },
+  {
+    "title": "Kaiserthum Rußland",
+    "chapter_number": "52",
+    "page_number": "160",
+    "children": []
+  },
+  {
+    "title": "Asien.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bodengestalt",
+        "chapter_number": "53",
+        "page_number": "164",
+        "children": []
+      },
+      {
+        "title": "Vorderasien",
+        "chapter_number": "54",
+        "page_number": "166",
+        "children": []
+      },
+      {
+        "title": "Südasien oder Ostindien",
+        "chapter_number": "55",
+        "page_number": "168",
+        "children": []
+      },
+      {
+        "title": "Ost- und Nordasien",
+        "chapter_number": "56",
+        "page_number": "171",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Afrika.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bodengestalt",
+        "chapter_number": "57",
+        "page_number": "173",
+        "children": []
+      },
+      {
+        "title": "Länder im Norden und Osten der Sahara",
+        "chapter_number": "58",
+        "page_number": "175",
+        "children": []
+      },
+      {
+        "title": "Länder im Süden der Sahara",
+        "chapter_number": "59",
+        "page_number": "176",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Amerika.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Bodengestalt",
+        "chapter_number": "60",
+        "page_number": "179",
+        "children": []
+      },
+      {
+        "title": "Nordamerika",
+        "chapter_number": "61",
+        "page_number": "182",
+        "children": []
+      },
+      {
+        "title": "Mittelamerika",
+        "chapter_number": "62",
+        "page_number": "184",
+        "children": []
+      },
+      {
+        "title": "Südamerika",
+        "chapter_number": "63",
+        "page_number": "185",
+        "children": []
+      }
+    ]
+  },
+  {
+    "title": "Australien.",
+    "chapter_number": "",
+    "page_number": "",
+    "children": [
+      {
+        "title": "Australien",
+        "chapter_number": "64",
+        "page_number": "188",
+        "children": []
+      }
+    ]
+  }
+]
